@@ -1,4 +1,4 @@
-﻿# Digital Monster Network: The Raiders
+# Digital Monster Network: The Raiders
 
 ## Preface
 
@@ -175,7 +175,7 @@ I pulled out the manual, connected the power, and inserted the authentication ca
 **Digimon:** Lilamon  
 **Affiliated Guild:** Sylvan Garden  
 
-#### Confirm Login?
+#### Confirm Login (Blue)
 
 [YES]  [NO]
 
@@ -537,7 +537,7 @@ As expected, nothing useful came out of his mouth.
 
 But they respected the Guild Master enough to comply. The crowd flowed out of the bar into the clearing in front of the building. With the wind from the forest rustling through the leaves, the duel began.
 
-#### Owl vs. Queen. BlackWarGreymon vs. TigerVespamon.
+#### Owl vs. Queen. BlackWarGreymon vs. TigerVespamon
 
 There was only one condition for victory: total defeat of the opponent, by any means necessary.
 
@@ -2026,9 +2026,9 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 **Participant Identity:** Red
 **Digimon:** Dukemon
 
-#### Affiliated Guild:** **Order of Holy Knights
+#### Affiliated Guild: Order of Holy Knights
 
-#### Confirm Login
+#### Confirm Login (Red)
 
 [ YES ] / [ NO ]
 
@@ -2138,9 +2138,9 @@ The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
 **Participant Identity:** Blue
 **Digimon:** UlforceV-dramon
 
-#### Affiliated Guild:** **Order of Holy Knights
+#### Affiliated Guild: Order of Holy Knights
 
-#### Confirm Login
+#### Confirm Login (Blue)
 
 [ YES ]
 
@@ -2895,11 +2895,11 @@ He gave a wry smile. "What's the hurry? Finish this cup of tea before you go."
 
 ---
 
-### Chapter 9: Into the Water World (第九�?深入水世�?
+### Chapter 9: Into the Water World
 
 Ferrying a "hacker" to the Deep Sea Temple inside Atlantis was the mission Owl accepted.
 
-To be precise, our charge wasn't a hacker by trade, but he wore the label like a second skin. According to himself, he had once been a mid-level researcher at Bandai Namco, later fired for "failing to properly manage internal data," and coincidentally logged into the network world just before the system was fully updated, transforming into a Pufferfishmon (刺豚�?.
+To be precise, our charge wasn't a hacker by trade, but he wore the label like a second skin. According to himself, he had once been a mid-level researcher at Bandai Namco, later fired for "failing to properly manage internal data," and coincidentally logged into the network world just before the system was fully updated, transforming into a Pufferfishmon (刺豚?.
 
 "I am a law-abiding citizen," he kept emphasizing as we navigated the Network Sea. "That 'hacker' label was just a slander from my competitors. They couldn't stand my genius, so they framed me."
 
@@ -3252,7 +3252,7 @@ As things stood, I wouldn't hide any cards anymore; use them if needed, never st
 
 I let out a roar and swallowed it, and my body underwent a very noticeable change.
 
-#### Imperialdramon: Dragon Mode, Mode Change —�?Imperialdramon: Fighter Mode.
+#### Imperialdramon: Dragon Mode, Mode Change —Imperialdramon: Fighter Mode
 
 Switching modes, my body became flexible, and not by just a little bit. Meeting the enemy in this state, even with a ten-minute time limit, the enemy would surely feel pressure and shock.
 
@@ -3277,12 +3277,11 @@ Five people, dragging their weary bodies, crawled into "Drink a Glass Bar" and w
 She rarely didn't greet me, didn't say a word, sat down at our table, hesitated repeatedly, and told us a piece of news she had just heard from someone else.
 
 In summary, after taking a "Giga Death" from me, Plutomon unexpectedly survived. He pathetically ran to the base of **Nether Club** to beg Guild Master Jack to save him and repair his missing data. Not clear what they communicated; possibly Guild Master Jack was dissatisfied with his actions, or possibly afraid his arrival would involve himself. So, he switched to the form of Voltobautamon and solved him neatly with a "Palace Waltz."
-
 "...Treat it as evil meeting its reward."
 
 Is the fact really so? Perhaps we will never know.
 
-### Chapter 14: Dragon and God (第十四章 龙与�?
+### Chapter 14: Dragon and God
 
 The heroic dragon warrior lowered the massive sword on his shoulder, pointing it at his old friend, and was the first to state his position: "Data Clearing Style, Owl—Reporting for duty!"
 
@@ -3364,7 +3363,7 @@ Thanks to you, those two swords are still as cold and sharp as ever today. Just 
 
 ---
 
-### Chapter 15: A Beautiful End (第十五章 华丽的归�?
+### Chapter 15: A Beautiful End
 
 The saga concluded with impeccable finality.
 
@@ -3524,4 +3523,3 @@ It was treated like some kind of token, passed down to me through the hands of t
 
 ---
 [End of Phase 5 Consolidated Export]
-
