@@ -129,9 +129,7 @@ These small units operate in teams of five, fulfilling specific roles: **Vanguar
 That is all I can share for now. Indeed, that is all they permit me to say.
 
 Oh, one last thing. Before they departed, they asked me to leave a message for everyone logging in for the first time:
-
-**"Welcome to the Digital World."**
-
+#### "Welcome to the Digital World."
 ---
 
 ### Chapter 1: The Ebon Hero
@@ -174,8 +172,7 @@ I pulled out the manual, connected the power, and inserted the authentication ca
 **User ID:** Sakura  
 **Digimon:** Lilamon  
 **Affiliated Guild:** Sylvan Garden  
-
-**Confirm Login?**  
+#### Confirm Login?
 [YES]  [NO]
 
 ---
@@ -201,9 +198,7 @@ The sensation was intolerable. I screamed—a raw, visceral sound. It felt as th
 "What... what is happening?"
 
 By the time I realized my body was warping, it was already too late. Every process, authorized or otherwise, was executing simultaneously. My stature shot upward; my limbs grew long and slender; my waist narrowed as my curves filled out. Two thick brambles erupted from my core, winding tightly around my torso and arms. The thorns dug in, constricting my chest until even breathing became a struggle.
-
-**Lilamon, Mega Digivolutions—to Rosemon!**
-
+#### Lilamon, Mega Digivolutions—to Rosemon!
 The sudden, inexplicable evolution left me reeling. I stood frozen in place, my mind struggling to process the transition.
 
 "Move, beautiful, or be trampled!"
@@ -297,9 +292,7 @@ Then, as if struck by a terrifying thought, his expression hardened into one of 
 The intent was clear: he was going to destroy me.
 
 He bared his teeth, his chest swelling with a renewed, manic fighting spirit. One hand remained clamped like a vise around my throat while the other reached toward the heavens. He roared the name of his finishing move:
-
-**"Giga Blaster: Deadly Ray!"**
-
+#### "Giga Blaster: Deadly Ray!"
 A surge of thick, black lightning cascaded from the heavens, engulfing my entire frame and pinning me in place. The pressure soon pierced my skin, shattering the **Trial Badge** mounted beneath my collarbone. My body began to digitize. In that moment, the pain vanished, replaced only by a strange, hollow sense of relief—the same peace I saw on my mother’s face during her final rites.
 
 Beside me, the pervert known as Yamao Oochiku wore a grotesque smile, a mix of sadistic joy and mock-regret. His dark sunglasses hid his eyes, but for a split second, I wondered if he would look different without them. Perhaps he wouldn't look so much like a monster—even if that’s exactly what he was.
@@ -355,11 +348,8 @@ Sleep claimed me for an eternity, dragging me through a delirious, feverish drea
 When I lost consciousness, I expected to be taken to a hospital or some similar medical facility. But when I woke, I found myself lying in a guest room, alone and unaccompanied.
 
 Sitting on the edge of the bed, vertigo clawed at my senses, my skull a heavy anchor of dizziness. Faintly, I could hear rows of cheering and boisterous laughter from downstairs, like a collective drinking contest. From this, I deduced I was in a bar. A mirror stood in the corner of the room; through it, I saw that I still maintained the tall, elegant form of **Rosemon**. I hadn't reverted to my human self. I suspected this was because I was still within the Digital World, even if the architecture here mirrored the human hubs of Midgard.
-
-**[System Notification: You have one voice message. Listen?]**
-
-**[YES]**
-
+#### [System Notification: You have one voice message. Listen?]
+#### [YES]
 A flickering dialogue box manifested in the air, a digital missive from my ebon savior. I presumed he feared I would wake in his absence and left this to explain the situation, preventing me from losing my bearings.
 
 "How thoughtful," I whispered.
@@ -535,9 +525,7 @@ The Boss finally spoke up, intervening before Falcon could retort with whatever 
 As expected, nothing useful came out of his mouth.
 
 But they respected the Guild Master enough to comply. The crowd flowed out of the bar into the clearing in front of the building. With the wind from the forest rustling through the leaves, the duel began.
-
-**Owl vs. Queen. BlackWarGreymon vs. TigerVespamon.**
-
+#### Owl vs. Queen. BlackWarGreymon vs. TigerVespamon.
 There was only one condition for victory: total defeat of the opponent, by any means necessary.
 
 "Begin!"
@@ -649,13 +637,11 @@ A cold-blooded government official handed me a glass of red wine and an EDEN sen
 "To prevent your login point from being compromised," he replied—a rare answer. "This mission is critical. It’s a diplomatic crisis, and we need a fallback. If the system deems you're in danger, we’ll trigger the extraction protocol, force-pull your data, and log you out."
 
 They made it sound so vital. I wondered where this protectiveness was during my previous missions. Regardless, a job is a job, especially when it comes from the top.
-
-**[Trial ID: NO.00007]**
-**[Holder: Aurélie Lefebvre]**
-**[Raider Identity: Jade]**
-**[Digimon: BanchoStingmon]**
-**[Guild: Drink a Glass Bar]**
-
+#### [Trial ID: NO.00007]
+#### [Holder: Aurélie Lefebvre]
+#### [Raider Identity: Jade]
+#### [Digimon: BanchoStingmon]
+#### [Guild: Drink a Glass Bar]
 I logged in. Let’s see what kind of "good news" was waiting for me.
 
 After the usual three-second lag, I materialized in the center of the **"Raider Conference."** Every eye in the room turned toward me, as if I were some curious specimen in a zoo.
@@ -1540,7 +1526,7 @@ Mr. Heath had already switched to his **Garudamon** form and flown into the sky 
 
 ---
 
-## Chapter 7: The Resurrected Demon King
+### Chapter 7: The Resurrected Demon King
 
 The transport operation continued, and everyone's nerves were taut, fearing a single slip-up in any part of the process.
 
@@ -1750,7 +1736,7 @@ The others likely didn't know what we were doing, but it didn't matter. Women's 
 
 ---
 
-## Chapter 8: Mother's Testament
+### Chapter 8: Mother's Testament
 
 The battle with the Demon Lord of "Sloth," Belphemon, continued.
 
@@ -1958,7 +1944,7 @@ I'd had enough of her excuses—it was beyond reason. At the same time, I found 
 
 ---
 
-## Gaiden 2: Abnormal Party Crusade
+### Gaiden 2: Abnormal Party Crusade
 
 ## (I)
 
@@ -2020,10 +2006,8 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 **Age:** 33
 **Participant Identity:** Red
 **Digimon:** Dukemon
-**Affiliated Guild:** **Order of Holy Knights**
-
-**Confirm Login**
-
+#### Affiliated Guild:** **Order of Holy Knights
+#### Confirm Login
 [ YES ] / [ NO ]
 
 I made sure the restroom door was locked from the inside and clicked on the left to successfully log in.
@@ -2131,10 +2115,8 @@ The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
 **Age:** 34
 **Participant Identity:** Blue
 **Digimon:** UlforceV-dramon
-**Affiliated Guild:** **Order of Holy Knights**
-
-**Confirm Login**
-
+#### Affiliated Guild:** **Order of Holy Knights
+#### Confirm Login
 [ YES ]
 
 I walked into the company's data server room, swiped my card to enter, turned around to close the door, and made sure it was locked from the inside. I took the equipment out of my backpack and plugged it in, then clicked the button on the left to login to the Atrium system.
@@ -2352,7 +2334,7 @@ No problem. Just felt a bit of a pity. We both felt that way. Between "Red and B
 
 ---
 
-## 1. Side Story III: Deep Danger Situation
+### Side Story III: Deep Danger Situation
 
 ### Part 1: The Raiders' Origins
 
@@ -2629,9 +2611,7 @@ The Secretary of Defense said with a dark face: "You're late, Judy."
 I had to admit, Zachary was always shrewd and considered problems comprehensively; he was a natural "Strategist." It wouldn't be easy to escape from under his nose, even if the current me wasn't the me of before—dealing with the three of them plus a group of Knightmon would be a hard battle.
 
 While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神�?, forming a brand-new spiritual armament attached to my back.
-
-**Jesmon, Evolve! —�?Jesmon GX!**
-
+#### Jesmon, Evolve! —�?Jesmon GX!
 Master's voice echoed in my ears, and I suddenly felt filled with power. Using this momentum, I immediately retaliated against these people who dared think they could take my life.
 
 I utilized my main weapon, the "Endless Gauntlet" (无尽手套), switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing "God Breath" (神之庇佑), using the magic shield "Avalon" to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing "Aussterben" (毁天灭地) and "Urgent Fear" (急迫恐惧) respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
@@ -2888,7 +2868,7 @@ He gave a wry smile. "What's the hurry? Finish this cup of tea before you go."
 
 ---
 
-## 2. Chapter 9: Into the Water World (第九�?深入水世�?
+### Chapter 9: Into the Water World (第九�?深入水世�?
 
 Ferrying a "hacker" to the Deep Sea Temple inside Atlantis was the mission Owl accepted.
 
@@ -2922,7 +2902,7 @@ The battle commenced with a catastrophic upheaval of water.
 
 ---
 
-## 3. Chapter 10: Raging Tides and Furious Roars (第十�?狂涛怒啸)
+### Chapter 10: Raging Tides and Furious Roars (第十�?狂涛怒啸)
 
 The maelstrom's gravity was absolute. Owl was the first to be knocked overboard, his BlackWarGreymon armor proving heavy in the turbulent water.
 
@@ -2958,7 +2938,7 @@ Adam polished a glass. "Muca is a legend, Sakura. He's the one who taught many o
 
 ---
 
-## 4. Chapter 11: Hephaestus Workshop (第十一�?利爪与尖�?
+### Chapter 11: Hephaestus Workshop (第十一�?利爪与尖�?
 
 The peace didn't last long. A new mission arrived, and this time, it involved a search for a missing person: Master Nagasumi (Vulcanusmon), the legendary blacksmith.
 
@@ -2978,7 +2958,7 @@ The journey to Sanhara was tense. Falcon and Dove were unusually quiet, sensing 
 
 ---
 
-## 5. Chapter 12: Battle of Sanhara (第十二章 圣原之战)
+### Chapter 12: Battle of Sanhara (第十二章 圣原之战)
 
 The conflict at the Sanhara Plateau erupted into a war of attrition the Free Birds had faced.
 
@@ -3000,7 +2980,7 @@ She used a Giglio missile to temporarily blind Mervamon, allowing the Free Birds
 
 ---
 
-## 6. Chapter 13: Final Judgment (第十三章 最终审�?
+### Chapter 13: Final Judgment (第十三章 最终审�?
 
 As the battle at Sanhara reached a stalemate, the true mastermind was finally revealed.
 
@@ -3020,7 +3000,7 @@ He forced Junomon to evolve into Junomon: Hysteric Mode, using her as a weapon a
 
 ---
 
-## 7. Side Story IV: Subjugation of Plutomon (外传四：普路托兽讨伐�?
+### Side Story IV: Subjugation of Plutomon (外传四：普路托兽讨伐�?
 
 ### Part 1: The Nordic Investigation
 
@@ -3173,17 +3153,14 @@ Driving into Zealand and passing through Slagelse, my mother called me, asking i
 With those words of hers, I was relieved; just don't find another father for me.
 
 Making a temporary detour, I rushed into the nursing home, inserted the ID medal, logged into the Atrium system, and hoped my appearance wouldn't be too late.
-
-**User ID: NO.05000**
-**Holder: Erich Freyr Hansen**
-**Gender: Male**
-**Age: 43**
-**User Persona: Freyr**
-**Digimon: Imperialdramon: Dragon Mode**
-**Guild: Imperial Dragon's Nest**
-
-**Confirm Login: YES**
-
+#### User ID: NO.05000
+#### Holder: Erich Freyr Hansen
+#### Gender: Male
+#### Age: 43
+#### User Persona: Freyr
+#### Digimon: Imperialdramon: Dragon Mode
+#### Guild: Imperial Dragon's Nest
+#### Confirm Login: YES
 "Go, son, and knock them flat!"
 
 "Actually, I'm going to save someone... Okay, no problem. Love you, Mom."
@@ -3193,9 +3170,7 @@ Touching the button on the left, I logged in successfully, then immediately swit
 I stepped forward to talk, asking what happened. He told me it was all the handiwork of the other four.
 
 I sensed trouble. Before he finished speaking, I took the lead and interrupted him, then flapped my huge wings on both sides and rushed forward. After flying a short while, from a distance I saw a fellow draped in a blood-red cape, jet-black all over, preparing to strike a Vikingmon. Behind him lay our team's **Defense Position** and **Support Position**, both dying, looking like they had just gone through a fierce battle. From this, I deduced that the Vikingmon must be our newcomer; last time I saw him, he was still a Zudomon.
-
-**"——Positron Laser!"**
-
+#### "——Positron Laser!"
 Until I offered him a greeting gift, did I see clearly that our enemy was Plutomon. His image had a slight discrepancy from what I remembered; specifically, the piece of black chaos behind him looked a bit unmatched and out of place with his overall look, a bit discordant.
 
 Facing my sudden attack, Plutomon unhurriedly pulled over his cape to defend. The energy cannon ports on my back continued to output; no matter how powerful that cape of his was, it wouldn't be able to withstand it. Soon, after I surged forward and used the blade slash "Splendor Blade" of my forelimbs, he vanished into the ruins below.
@@ -3238,9 +3213,7 @@ As things stood, I wouldn't hide any cards anymore; use them if needed, never st
 "Come on!"
 
 I let out a roar and swallowed it, and my body underwent a very noticeable change.
-
-**Imperialdramon: Dragon Mode, Mode Change —�?Imperialdramon: Fighter Mode.**
-
+#### Imperialdramon: Dragon Mode, Mode Change —�?Imperialdramon: Fighter Mode.
 Switching modes, my body became flexible, and not by just a little bit. Meeting the enemy in this state, even with a ten-minute time limit, the enemy would surely feel pressure and shock.
 
 Facts were just as I thought. After I finished the mode change and confronted the enemy again, a weakened trend in his momentum was clearly perceptible. The spotlight was all mine; I wonder how he feels now, presumably already prepared to pay the price. In that case, I didn't need to be polite with him either—old way, blast him to death.
@@ -3269,7 +3242,7 @@ In summary, after taking a "Giga Death" from me, Plutomon unexpectedly survived.
 
 Is the fact really so? Perhaps we will never know.
 
-## 8. Chapter 14: Dragon and God (第十四章 龙与�?
+### Chapter 14: Dragon and God (第十四章 龙与�?
 
 The heroic dragon warrior lowered the massive sword on his shoulder, pointing it at his old friend, and was the first to state his position: "Data Clearing Style, Owl—Reporting for duty!"
 
@@ -3351,7 +3324,7 @@ Thanks to you, those two swords are still as cold and sharp as ever today. Just 
 
 ---
 
-## 9. Chapter 15: A Beautiful End (第十五章 华丽的归�?
+### Chapter 15: A Beautiful End (第十五章 华丽的归�?
 
 The saga concluded with impeccable finality.
 
@@ -3511,5 +3484,6 @@ It was treated like some kind of token, passed down to me through the hands of t
 
 ---
 [End of Phase 5 Consolidated Export]
+
 
 
