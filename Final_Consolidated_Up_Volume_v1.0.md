@@ -46,7 +46,7 @@ Lastly, I wish you all a pleasant reading experience.
 
 - [Chapter 1: The Ebon Hero](#chapter-1-the-ebon-hero)
 
-- [Chapter 2: The Fallen Owl](#chapter-2-the-fallen-owl)
+- [Chapter 2: Falling Owl](#chapter-2-falling-owl)
 
 ### Phase 2: The Hidden Bar
 
@@ -54,7 +54,7 @@ Lastly, I wish you all a pleasant reading experience.
 
 ### Phase 3: The Gathering Storm
 
-- [Gaiden 1: The Raider Rescue Mission](#gaiden-1-the-raider-rescue-mission)
+- [Gaiden 1: Raider Rescue Operation](#gaiden-1-raider-rescue-operation)
 
 - [Chapter 4: The Dove and the Heron](#chapter-4-the-dove-and-the-heron)
 
@@ -633,7 +633,7 @@ This guild was hopeless.
 
 ### Gaiden I: Raider Rescue Operation
 
-## (Part I) - By Jade
+#### Part I: By Jade
 
 That day, I had just finished an overseas assignment and was flying back to Paris.
 
@@ -2026,7 +2026,7 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 **Participant Identity:** Red
 **Digimon:** Dukemon
 
-#### Affiliated Guild: Order of Holy Knights
+#### Affiliated Guild: Order of Holy Knights (Red)
 
 #### Confirm Login (Red)
 
@@ -2138,7 +2138,7 @@ The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
 **Participant Identity:** Blue
 **Digimon:** UlforceV-dramon
 
-#### Affiliated Guild: Order of Holy Knights
+#### Affiliated Guild: Order of Holy Knights (Blue)
 
 #### Confirm Login (Blue)
 
@@ -2353,9 +2353,6 @@ We both asked this question very loudly, making the noisy bar go silent for two 
 The boss leaned in with a look like he was concerned for idiots and told us grumpily, "Dr. Pepper. What, you have a problem?"
 
 No problem. Just felt a bit of a pity. We both felt that way. Between "Red and Blue," there was never a need for verbal communication; everything was understood without words.
-7. [Side Story IV: Subjugation of Plutomon](#side-story-iv-subjugation-of-plutomon)
-8. [Chapter 14: Dragon and God](#chapter-14-dragon-and-god)
-9. [Chapter 15: A Beautiful End](#chapter-15-a-beautiful-end)
 
 ---
 

@@ -28,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63211751f1c8454c",
+            "id": "1885b49065df3f9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,16 +203,18 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "8487f31e8921e1a7",
+  "active": "1885b49065df3f9d",
   "lastOpenFiles": [
+    "AIE_Project_Edit_Log_v1.0.md",
     "Final_Consolidated_Up_Volume_v1.0.md",
+    "Final_Export_Phase1_Consolidated_v1.0.md",
+    "gen_toc.py",
+    "中译英原文《数码兽网络：攻略组》（上）.md",
     "fix_lint_v2.py",
     "fix_lint.py",
     "原文拆分版本/目录.md",
-    "Final_Export_Phase1_Consolidated_v1.0.md",
     "Final_Export_Phase3_Consolidated_v1.0.md",
     "Final_Export_Phase2_Consolidated_v1.0.md",
-    "中译英原文《数码兽网络：攻略组》（上）.md",
     "Final_Consolidated_Up_Volume_v1.0.md.new",
     "preface_dump.txt",
     "《数码兽网络：攻略组》最终项目总结报告_v1.0.md",
@@ -234,11 +236,9 @@
     "English_Versions/Phase5/Ch13_v1.0.md",
     "English_Versions/Phase5/Ch12_v1.0.md",
     "English_Versions/Phase5/Ch11_v1.0.md",
-    "English_Versions/Phase5/Ch10_v1.0.md",
     "English_Versions/Phase5",
     "MTPE/Phase5",
     "English_Versions/Phase4",
-    "MTPE/Phase4",
-    "Database"
+    "MTPE/Phase4"
   ]
 }
