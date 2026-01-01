@@ -175,7 +175,7 @@ I pulled out the manual, connected the power, and inserted the authentication ca
 **Digimon:** Lilamon  
 **Affiliated Guild:** Sylvan Garden  
 
-#### Confirm Login (Blue)
+#### Confirm Login (Sakura)
 
 [YES]  [NO]
 
@@ -631,7 +631,7 @@ Whatever. I was already used to the nonsense coming out of their mouths. "Drink 
 
 This guild was hopeless.
 
-### Gaiden I: Raider Rescue Operation
+### Gaiden 1: Raider Rescue Operation
 
 #### Part I: By Jade
 
@@ -3004,7 +3004,7 @@ She used a Giglio missile to temporarily blind Mervamon, allowing the Free Birds
 
 ---
 
-### Chapter 13: Final Judgment (第十三章 最终审�?
+### Chapter 13: Final Judgment
 
 As the battle at Sanhara reached a stalemate, the true mastermind was finally revealed.
 
@@ -3024,7 +3024,7 @@ He forced Junomon to evolve into Junomon: Hysteric Mode, using her as a weapon a
 
 ---
 
-### Side Story IV: Subjugation of Plutomon (外传四：普路托兽讨伐�?
+### Side Story IV: Operation: Pluto Extermination
 
 ### Part 1: The Nordic Investigation
 
