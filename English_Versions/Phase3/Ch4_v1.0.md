@@ -1,0 +1,201 @@
+# Chapter 4: The Dove and the Heron
+
+During this time, I recounted the ordeal I had suffered to Owl, placing particular emphasis on my need to find the "Little Snake" in the **Nature Court**. After listening, he nodded in agreement, promising to accompany me there in a few days.
+
+"Why wait a few days?" I asked.
+
+"Because the **Nature Court** is currently undergoing internal space maintenance. Their guild domain is inaccessible. If we want to find the snake, we can only roam other parts of the Midgard and hope for a stroke of luck."
+
+That seemed like searching for a needle in a haystack. I never trusted my luck; it was as fickle as it was unfortunate.
+
+I turned back to Owl. "What are your plans for the next few days? You can't expect me to hide in this bar's backroom forever. It’s stuffy in here; I’m going stir-crazy."
+
+What I really meant was: *I want to go for a stroll.* But he countered with, "If you find it too stuffy, you could just open the door and let the outside air in. That should help."
+
+Ugh—I was losing my mind. I constantly felt like I was talking to a block of wood.
+
+He added, "If you're truly bored, I can introduce you to Dove and Heron. I expect a mission will come our way soon; consider it early team-building."
+
+He truly was a dedicated leader, constantly preoccupied with his "Raiding" business. Every word out of his mouth was about missions. What was I to him? A giant, wandering rose? It felt as if my personal matters were never even on his radar.
+
+Since I had no other options, I accepted.
+
+The following day, Owl brought Falcon and two new members to the bar to meet me. We gathered in the warehouse of the **Drink a Cup Bar**—a place where we wouldn't be disturbed or overheard. Over two pitchers of beer provided by the boss, we engaged in the usual small talk, trying to familiarize ourselves with one another.
+
+Dove was a boy who looked younger than me, while Heron was a girl who appeared older. The former possessed a gentle temperament; he greeted me warmly and was genuinely enthusiastic about my joining. He was shorter than I was, dressed like the boy next door. The latter, however, was as cold as ice. She merely offered a "Yo" upon meeting me. Slim and possessing a dark, stylish aura, she was like a "Flower on a High Ridge"—aloof and unapproachable.
+
+"Hello, Sakura," Dove said, stepping forward to take my hand. "We heard about what happened to you from Uncle Owl on the way here."
+
+"Is that so? And what did he say?"
+
+"He..."
+
+Dove shot a cautious glance toward Owl. Owl merely tilted his head, acting as if he didn't care, and shrugged, signaling Dove to choose his words carefully.
+
+"He... well, he said nothing but good things." Dove swallowed hard. "He said you were kind and beautiful... and he even praised your tolerance for alcohol, saying you never get drunk no matter how much you drink."
+
+Heh. Men and their lies. I didn't want to make things difficult for the boy, so I let it slide.
+
+The other one was far more aggressive than the gentle Dove. She approached me and, without asking, lifted a lock of my golden hair to her nose, inhaling deeply. "Not bad," she remarked. "Quite fragrant."
+
+It was a redundant statement. I was a Rosemon; of course I didn't smell like trash.
+
+Naturally, I couldn't say that to her face. Meeting someone for the first time, I wanted to leave a good impression. I maintained a humble posture and replied, "You flatter me... I just... I take good care of myself."
+
+Sensing the mounting tension, Owl stepped in to change the subject, officially introducing me to the three of them. "Starting today, Sakura officially joins the **Free Birds** as our **Support**. Everyone, communicate and learn from each other. We need to build rapport quickly for our next **Raid**."
+
+Heron spoke up coldly. "When?"
+
+"Soon," Owl replied. "The Host said once he’s finished with his current tasks, he’ll arrange the next mission immediately. The payment is generous—not just currency, but also a batch of **Temp-Patch Data**."
+
+**Temp-Patch Data** was a resource used to repair damage to a Digimon—essentially our version of a tourniquet. Generally, only members of a **Raiding Group** possessed such items, and even then, only in small quantities. Though they were sold on the black market, the prices were exorbitant, far beyond the reach of ordinary residents.
+
+Falcon raised his hand. "I have a question!"
+
+"Speak."
+
+"Sakura... well, I’ll just be blunt. Please don't take offense." Falcon turned to me, his gaze direct. "How much confidence do you have in your own strength? Can you actually assist us in a formal **Raid**?"
+
+As Falcon spoke, every eye in the room turned toward me, waiting for an answer.
+
+How convenient. I wanted to know the answer to that myself.
+
+Seeing my hesitation, Owl understood the situation and stepped in to bail me out. "Don't be too hard on her. She only recently took on this form and hasn't even learned how to use her skills. She'll need time to practice. Don't expect too much from her initially, and absolutely do not compare her to Sparrow. Especially you, Little Heron. She is Sakura, our new member, not a replacement for your sister. I won't have you speaking to her with that sharp tongue of yours."
+
+"You certainly like to meddle," Heron muttered under her breath.
+
+"What was that?"
+
+"Nothing." She turned to me, raising her voice. "Newcomer, the **Support** role is far from simple. Whether the **Vanguard** has the opening to strike, whether the **Tank**'s blind spots are covered, whether the **Vanguard** has proper cover, or whether the **Reserve** can swap in effectively—all of that falls on you. Don't let us down."
+
+Having said her piece, Heron picked up her refilled mug and walked out of the warehouse toward the bar for a refill. Only the four of us remained, and the tension finally began to dissipate.
+
+"Don't mind her, Sakura," Dove urged, stepping forward to comfort me. "Heron has been this way ever since her sister passed away. She hasn't smiled since. Just let her words go in one ear and out the other. It’s nothing personal."
+
+"Exactly," Falcon added. "She’s always putting pressure on people, especially me. If you see us arguing in the future, don't worry about it. It’s just our daily routine."
+
+Owl cuffed the back of Falcon's head. "Nonsense. You're always the one causing trouble."
+
+"It’s true though!" Falcon complained, rubbing his head. "She’s always the one starting it. I didn't do anything to her, yet she’s always moping around like a widow. They were born from the same mother, but Sparrow was so much gentler than her."
+
+"Enough. One more word and I’ll tell them about how you tried to hit on—"
+
+"No! My mistake! Brother, please don't!" Falcon immediately folded. "I still want to leave a good impression on Sakura. Please, stop right there."
+
+Their bond was admirable. I couldn't help but feel a twinge of envy.
+
+I was curious about this "Sparrow" person. She seemed like the true core of this team—at least based on their reactions. I turned to Dove for confirmation. "Sparrow... were you all very close to her?"
+
+"Of course," Dove said with pride. "She was like our angel, the soul of the **Free Birds**. It might sound strange, but every bit of comfort we found in this team came from Sparrow. Every wound in our hearts, every shadow—Sparrow was the one who healed us. We are all deeply grateful to her and loved her... but in the end, alas, the Captain swooped in and took her."
+
+"Wait... what?" I felt as if the ground had shifted. "What did Owl do to her?"
+
+"He didn't tell you?" Dove's surprise mirrored my own. "He beat us to the punch. He confessed his feelings to Sparrow, she agreed, and they became a couple."
+
+Good heavens. My world-view was crumbling.
+
+"Wait, let me get one thing straight... how old was Sparrow at the time?"
+
+"Age? Let me think... she wasn't that old. Maybe five years older than me. Twenty-three."
+
+I had thought Owl was a man of high character, but now it turned out he had dated someone young enough to be his daughter. The most critical part was that Owl had told me about his life in the real world—he was married and had a daughter, though he had left them for reasons that were hard to vocalize.
+
+I knew it. Men were all the same.
+
+"And... Owl, after Sparrow left... he never thought about finding someone else?"
+
+"No," Dove told me. "Sparrow is a hurdle his heart can't clear. He can't forget her. For a long time after she was gone, he’d still call out her name in his sleep."
+
+"So, you all know each other... in the real world?"
+
+"Not exactly. Uncle Owl told me himself," Dove admitted. "I met Sparrow once in reality. I was on a school trip to Okinawa and ran into her at a souvenir shop. She was a beautiful woman—more like a kind, elder sister type. As for Falcon, Owl told me he’s a taxi driver in the real world; he spends his breaks in here for a few days (minutes). But Owl and Heron... I’ve never met them outside of this space."
+
+Through Dove's narrative, I gained a preliminary understanding of these five. They were all ordinary people in the real world, none of them government agents. This meant their Raids had no safety net.
+
+I asked Dove, "By the way, what is your Digimon form?"
+
+"Ah, I forgot to tell you. I’m a massive **SaintGalgomon**. Your five-man team's indestructible shield, the **Tank**, and the mobile turret with the most concentrated firepower." He spoke with such confidence he didn't even notice my expression.
+
+"Sounds reliable."
+
+"It has to be!"
+
+I couldn't call him narcissistic; he was just very genuine. Compared to the others, he was much easier to get along with.
+
+"To tell you the truth," his voice dropped to a conspiratorial whisper, "the **Tank** in this team doesn't just hold off enemies; occasionally, I have to hold off our own people."
+
+"Our own?"
+
+"Yeah. They start fighting each other at the drop of a hat. I’m the one in charge of breaking it up. Usually, it’s just me and Uncle Owl, but if the day ever comes when *he's* the one getting violent, it’ll be up to you."
+
+He didn't need to tell me. That was the duty of a **Support**.
+
+Heron returned with a refilled mug and told us she had overheard something while waiting. Some people at the next table were talking about the **Raiders UN Big Five**—specifically something concerning the sister of Adam, the Guild Master.
+
+"I asked the Master, and he confirmed it. The rescued Korean and German representatives are in bad shape. The German rep even suffered damage to his DigiCore. No one knows how long it’ll take him to recover."
+
+Owl looked curious. "When did this happen?"
+
+"Just recently. Yesterday, to be precise."
+
+"Yesterday..."
+
+Owl rested his chin on his hand, falling into deep thought.
+
+"Is there a problem?" I asked.
+
+He shook his head. "No problem... it’s just strange."
+
+According to Owl, he had happened to visit the **Core Forge** yesterday. He was there to ask the smiths if there was any way to deal with my situation, though he came up empty-handed. As he was leaving, he had nearly run into the German representative, Siegfried. If Heron’s story was true, he should have been there for DigiCore repair, but the man didn't look injured at all. In fact, he was as lively as a monkey, nearly knocking Owl over.
+
+"That shouldn't be possible," Owl muttered, staring at his beer mug. "Generally, repairing a shattered DigiCore requires the participation of every smith in the **Core Forge**, working for at least six days (reality units) just to match and patch the missing data. Unless the German government has mastered some technology that can rapidly regenerate a DigiCore?"
+
+"No way," Falcon sighed. "If that's true, wouldn't he be immortal? That's just cheating!"
+
+"It’s just my own speculation. There’s no evidence, so we can't jump to conclusions."
+
+Dove mirrored Owl's thoughtful pose for a moment, then slapped his forehead. "I almost forgot... I know someone who’s quite close to Siegfried. I could go find him and have him pull some strings to ask about the situation. See if Uncle Owl’s theory holds water."
+
+The idea was met with unanimous approval.
+
+Heron was the first to react. She let out a cold snort, swirling her beer. "Who would have thought a student like you would have such broad connections?"
+
+"Don't underestimate students. Communication is much easier between peers."
+
+"Mature for your age," Heron said with a disdainful roll of her eyes. Her next words floored me: "I’ll leave it to you, then."
+
+I was finding it harder and harder to pin down her personality. Perhaps her true self was entirely different from the impression she gave. We were probably just biased.
+
+Once we finished our beer, the "Free Birds" internal meeting officially concluded.
+
+Before we dispersed, the four of them unanimously decided that I should undergo adaptive combat training. Each of them would take a day to spar with me as my coach. Only through actual combat could I develop my instincts and improve my level—until this "Big Red Flower" was worthy of them.
+
+I raised my thorn-wrapped hand in protest, but my objection was swiftly overruled. They happily decided on the schedule without even consulting me. In my naivety, I still thought this was a civilized world where intellect could solve everything. They were about to give me a cruel but necessary lesson: right now, I was a Digimon, not a human.
+
+They drew straws to determine the order of my training.
+
+Dove excitedly grabbed my wrist and high-fived it. "I’m first tomorrow! Get ready for the 'Dove' rocket barrage, haha!"
+
+Falcon seemed equally expectant. "Me and my **Yellow Beast Crescent Blade** will be waiting for you on the second day. Good luck."
+
+The third day fell to Owl. He promised, "Don't worry. I’ll go easy on you."
+
+I certainly hoped he’d keep his word.
+
+The thing I understood the least was the final day. Heron was actually the one who would "inspect" my results. I was terrified she’d hold a grudge and fight for real, using her full strength against me.
+
+To prevent that, Owl specifically warned her, "I’m giving you a heads-up. Your opponent is a newcomer. No matter what the situation looks like, you are forbidden from using **Chaos Flare**."
+
+"As if I needed you to tell me."
+
+Her response was as cold and unfeeling as ever, enough to send a shiver down my spine. At this point, I could only pray that I wouldn't die at the hands of my own teammates over the next four days. If I did, my mother would surely laugh at me.
+
+"Oh please, my daughter only has this level of skill? All those years I spent evolving into a Rosemon were for nothing. How pathetic, she can't even beat her own people."
+
+Being mocked by the real thing would be the ultimate blow. I had only just parted from her and didn't want to reunite just yet. So, I decided to rise up, to work hard, and to show them the true me. From now on, there was a phrase I’d keep on my lips:
+
+Rosemon might lose, but I, Bandai Sakura, will never surrender!
+
+"Come on, let’s start with a few kilometers of jogging to warm up."
+
+"I quit!"
