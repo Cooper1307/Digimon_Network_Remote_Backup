@@ -10,23 +10,23 @@ To prevent an influx of users from disrupting the natural lives of resident Digi
 
 Based on different types of Digimon, ten Great Guilds have been established in Midgard:
 
-- **Order of Holy Knights** (神圣骑士团)
+- **Order of Holy Knights** (神圣骑士团)
 
-- **Nether Club** (幽冥俱乐部)
+- **Nether Club** (幽冥俱乐部)
 
-- **Mutant Research Lab** (突变研究所)
+- **Mutant Research Lab** (突变研究所)
 
-- **Atlantis** (亚特兰蒂斯)
+- **Atlantis** (亚特兰蒂斯)
 
-- **Drink a Glass Bar** (喝一杯酒吧)
+- **Drink a Glass Bar** (喝一杯酒吧)
 
-- **Steel Legions** (钢铁雄兵)
+- **Steel Legions** (钢铁雄兵)
 
-- **Sylvan Garden** (自然庭院)
+- **Sylvan Garden** (自然庭院)
 
-- **Imperial Dragon's Nest** (御龙巢穴)
+- **Imperial Dragon's Nest** (御龙巢穴)
 
-- **Beast King's Fangs** (兽皇之牙)
+- **Beast King's Fangs** (兽皇之牙)
 
 - **Wind-Chasing Brigade** (追风旅团)
 
@@ -42,9 +42,9 @@ Lastly, I wish you all a pleasant reading experience.
 
 ### Phase 1: Free Bird
 
-- [Prologue: The Raiders](#prologue-the-raiders)
+- [Prologue: The Raiders](#prologue-the-raiders)
 
-- [Chapter 1: The Ebon Hero](#chapter-1-the-ebon-hero)
+- [Chapter 1: The Ebon Hero](#chapter-1-the-ebon-hero)
 
 - [Chapter 2: The Fallen Owl](#chapter-2-the-fallen-owl)
 
@@ -54,39 +54,39 @@ Lastly, I wish you all a pleasant reading experience.
 
 ### Phase 3: The Gathering Storm
 
-- [Gaiden 1: The Raider Rescue Mission](#gaiden-1-the-raider-rescue-mission)
+- [Gaiden 1: The Raider Rescue Mission](#gaiden-1-the-raider-rescue-mission)
 
-- [Chapter 4: The Dove and the Heron](#chapter-4-the-dove-and-the-heron)
+- [Chapter 4: The Dove and the Heron](#chapter-4-the-dove-and-the-heron)
 
 - [Chapter 5: An Earth-Shattering Practical Duel](#chapter-5-an-earth-shattering-practical-duel)
 
 ### Phase 4: Sylvan Garden
 
-- [Chapter 6: The Challenge of the Nature Court](#chapter-6-the-challenge-of-the-nature-court)
+- [Chapter 6: The Challenge of the Nature Court](#chapter-6-the-challenge-of-the-nature-court)
 
-- [Chapter 7: The Awakened Demon Lord](#chapter-7-the-awakened-demon-lord)
+- [Chapter 7: The Awakened Demon Lord](#chapter-7-the-awakened-demon-lord)
 
-- [Chapter 8: Mother’s Final Will](#chapter-8-mothers-final-will)
+- [Chapter 8: Mother’s Final Will](#chapter-8-mothers-final-will)
 
 - [Gaiden 2: Abnormal Party Crusade](#gaiden-2-abnormal-party-crusade)
 
 ### Phase 5: The Final Judgment
 
-- [Side Story III: Game of Deep Danger](#side-story-iii-game-of-deep-danger)
+- [Side Story III: Game of Deep Danger](#side-story-iii-game-of-deep-danger)
 
-- [Chapter 9: Into the Water World](#chapter-9-into-the-water-world)
+- [Chapter 9: Into the Water World](#chapter-9-into-the-water-world)
 
-- [Chapter 10: Raging Tides and Furious Roars](#chapter-10-raging-tides-and-furious-roars)
+- [Chapter 10: Raging Tides and Furious Roars](#chapter-10-raging-tides-and-furious-roars)
 
-- [Chapter 11: Hephaestus Workshop](#chapter-11-hephaestus-workshop)
+- [Chapter 11: Hephaestus Workshop](#chapter-11-hephaestus-workshop)
 
-- [Chapter 12: Battle of Sanhara](#chapter-12-battle-of-sanhara)
+- [Chapter 12: Battle of Sanhara](#chapter-12-battle-of-sanhara)
 
-- [Chapter 13: Final Judgment](#chapter-13-final-judgment)
+- [Chapter 13: Final Judgment](#chapter-13-final-judgment)
 
-- [Chapter 14: Dragon and God](#chapter-14-dragon-and-god)
+- [Chapter 14: Dragon and God](#chapter-14-dragon-and-god)
 
-- [Chapter 15: A Beautiful End](#chapter-15-a-beautiful-end)
+- [Chapter 15: A Beautiful End](#chapter-15-a-beautiful-end)
 
 - [Side Story IV: Operation: Pluto Extermination](#side-story-iv-operation-pluto-extermination)
 
@@ -129,7 +129,9 @@ These small units operate in teams of five, fulfilling specific roles: **Vanguar
 That is all I can share for now. Indeed, that is all they permit me to say.
 
 Oh, one last thing. Before they departed, they asked me to leave a message for everyone logging in for the first time:
+
 #### "Welcome to the Digital World."
+
 ---
 
 ### Chapter 1: The Ebon Hero
@@ -172,7 +174,9 @@ I pulled out the manual, connected the power, and inserted the authentication ca
 **User ID:** Sakura  
 **Digimon:** Lilamon  
 **Affiliated Guild:** Sylvan Garden  
+
 #### Confirm Login?
+
 [YES]  [NO]
 
 ---
@@ -198,7 +202,9 @@ The sensation was intolerable. I screamed—a raw, visceral sound. It felt as th
 "What... what is happening?"
 
 By the time I realized my body was warping, it was already too late. Every process, authorized or otherwise, was executing simultaneously. My stature shot upward; my limbs grew long and slender; my waist narrowed as my curves filled out. Two thick brambles erupted from my core, winding tightly around my torso and arms. The thorns dug in, constricting my chest until even breathing became a struggle.
-#### Lilamon, Mega Digivolutions—to Rosemon!
+
+#### Lilamon, Mega Digivolutions—to Rosemon
+
 The sudden, inexplicable evolution left me reeling. I stood frozen in place, my mind struggling to process the transition.
 
 "Move, beautiful, or be trampled!"
@@ -235,7 +241,7 @@ But the result was not what I expected. Despite the full force of my blow, he di
 
 "Get away from me!" I scrambled back, clutching my chest to guard myself.
 
-"Ooh, a feisty one. I like that." He snapped his fingers and gave a theatrical, mock-gentlemanly bow. "I trust my **'Love Serenade'** was to your liking? If not, I can always treat you to a **'Dark Solo'**. I guarantee you’ll be falling for me in no time."
+"Ooh, a feisty one. I like that." He snapped his fingers and gave a theatrical, mock-gentlemanly bow. "I trust my **'Love Serenade'****'Dark Solo'**. I guarantee you’ll be falling for me in no time."
 
 "No, no! I’m good!" I stammered, desperation rising. "Who... who are you?"
 
@@ -292,7 +298,9 @@ Then, as if struck by a terrifying thought, his expression hardened into one of 
 The intent was clear: he was going to destroy me.
 
 He bared his teeth, his chest swelling with a renewed, manic fighting spirit. One hand remained clamped like a vise around my throat while the other reached toward the heavens. He roared the name of his finishing move:
+
 #### "Giga Blaster: Deadly Ray!"
+
 A surge of thick, black lightning cascaded from the heavens, engulfing my entire frame and pinning me in place. The pressure soon pierced my skin, shattering the **Trial Badge** mounted beneath my collarbone. My body began to digitize. In that moment, the pain vanished, replaced only by a strange, hollow sense of relief—the same peace I saw on my mother’s face during her final rites.
 
 Beside me, the pervert known as Yamao Oochiku wore a grotesque smile, a mix of sadistic joy and mock-regret. His dark sunglasses hid his eyes, but for a split second, I wondered if he would look different without them. Perhaps he wouldn't look so much like a monster—even if that’s exactly what he was.
@@ -348,15 +356,18 @@ Sleep claimed me for an eternity, dragging me through a delirious, feverish drea
 When I lost consciousness, I expected to be taken to a hospital or some similar medical facility. But when I woke, I found myself lying in a guest room, alone and unaccompanied.
 
 Sitting on the edge of the bed, vertigo clawed at my senses, my skull a heavy anchor of dizziness. Faintly, I could hear rows of cheering and boisterous laughter from downstairs, like a collective drinking contest. From this, I deduced I was in a bar. A mirror stood in the corner of the room; through it, I saw that I still maintained the tall, elegant form of **Rosemon**. I hadn't reverted to my human self. I suspected this was because I was still within the Digital World, even if the architecture here mirrored the human hubs of Midgard.
+
 #### [System Notification: You have one voice message. Listen?]
+
 #### [YES]
+
 A flickering dialogue box manifested in the air, a digital missive from my ebon savior. I presumed he feared I would wake in his absence and left this to explain the situation, preventing me from losing my bearings.
 
 "How thoughtful," I whispered.
 
 I clicked the button with anticipation. But as I listened, the foundations of my reality buckled and collapsed.
 
-First, my previous assumptions were overturned. I was currently in Midgard, specifically within the **"Drink a Glass Bar"** guild. My **Trial Badge** had been detonated by that pervert, MetalEtemon. Consequently, I was currently unable to revert to my human form. Fearing the system would flag me as a **BUG**, Owl had hidden me here to lay low.
+First, my previous assumptions were overturned. I was currently in Midgard, specifically within the **"Drink a Glass Bar"****Trial Badge****BUG**, Owl had hidden me here to lay low.
 
 After settling me in, Owl had headed to Guild Headquarters. He intended to report the "Pervert Party's" heinous activities—hunting live humans for sport in the Digital World. Once verified, the authorities would issue "Raiding Tasks" according to the *Midgard Safety Regulations*. That grotesque "party" would be forcibly disbanded, and every member's information would be blacklisted for life.
 
@@ -420,7 +431,7 @@ Owl had once belonged to the **"Imperial Dragon's Nest"** guild. He had been for
 
 "Hah, what else do men bet on? Violence or women."
 
-**Dragon**, the representative of the Chinese Raiding Group, was the one who had made the bet with Owl. Both were members of "Imperial Dragon's Nest" and had previously defeated the Guild Master, **Yi** (who fought in the form of **ShineGreymon**). They had earned the highest possible rewards: Owl received a **Crest of Courage**, while Dragon received the **Alpha Eye (Alphamon's Digicore)**. When the two of them reached the final stage of a tournament, they struck a deal: whoever lost the battle would leave the guild forever.
+**Dragon**, the representative of the Chinese Raiding Group, was the one who had made the bet with Owl. Both were members of "Imperial Dragon's Nest" and had previously defeated the Guild Master, **Yi****ShineGreymon**). They had earned the highest possible rewards: Owl received a **Crest of Courage**, while Dragon received the **Alpha Eye (Alphamon's Digicore)**. When the two of them reached the final stage of a tournament, they struck a deal: whoever lost the battle would leave the guild forever.
 
 "He agreed to such an absurd wager!?"
 
@@ -444,11 +455,11 @@ He then inquired about my physical condition. I told him I felt restored, with n
 
 "I don't know. It’s hard to say."
 
-He proposed that I join his raiding group, the **"Free Birds."** It would allow him to monitor my condition and give me a chance to help them in whatever capacity I could. Their **"Support"** position was currently vacant, and they urgently needed a Data-attribute Digimon to fill the gap.
+He proposed that I join his raiding group, the **"Free Birds."****"Support"** position was currently vacant, and they urgently needed a Data-attribute Digimon to fill the gap.
 
 "Was the Support position always empty before me?"
 
-"No," he replied. "There was an **Angewomon** named **Sparrow**. She and the Substitute, **Crane**, were twin sisters. Sparrow passed away from an illness. Before she left, she transferred her data to her sister, which allowed Crane—a **LadyDevimon**—to evolve into **Mastemon**."
+"No," he replied. "There was an **Angewomon****Sparrow**. She and the Substitute, **Crane**, were twin sisters. Sparrow passed away from an illness. Before she left, she transferred her data to her sister, which allowed Crane—a **LadyDevimon**—to evolve into **Mastemon**."
 
 Owl promised that if I joined them, he would do everything in his power to help me find a way back to the real world.
 
@@ -525,14 +536,16 @@ The Boss finally spoke up, intervening before Falcon could retort with whatever 
 As expected, nothing useful came out of his mouth.
 
 But they respected the Guild Master enough to comply. The crowd flowed out of the bar into the clearing in front of the building. With the wind from the forest rustling through the leaves, the duel began.
+
 #### Owl vs. Queen. BlackWarGreymon vs. TigerVespamon.
+
 There was only one condition for victory: total defeat of the opponent, by any means necessary.
 
 "Begin!"
 
 The referee's call was meaningless, but it served as the spark.
 
-In an instant, both Digimon took to the air, weapons drawn. Queen met Owl's **Dramon Killers** with her twin secret weapons, the **Royal Conquests**. Clashes ignited a firestorm of sparks, the searing heat hungry enough to devour the dry brush clinging to the stone. Gale-force winds whipped out from their colliding light-blades.
+In an instant, both Digimon took to the air, weapons drawn. Queen met Owl's **Dramon Killers****Royal Conquests**. Clashes ignited a firestorm of sparks, the searing heat hungry enough to devour the dry brush clinging to the stone. Gale-force winds whipped out from their colliding light-blades.
 
 Facing a fighter significantly faster than himself, Owl was forced to use his Dramon Killers purely for defense. He waited for an opening, utilizing his superior strength to parry her strikes. In a mid-air spin, he launched the **Brave Shield** from his back. It struck Queen squarely in her slender waist, causing a massive disruption in her data. The impact broke her flight momentum, and she crashed into the ground.
 
@@ -568,7 +581,7 @@ The spectators were on the edge of their seats, oblivious to the danger of the s
 
 "Shut up! It's getting to the good part!"
 
-The most anxious of all was Falcon. He had already switched to his **CresGarurumon** form, his grip tightening on his **Yellow-Beast Crescent-Blade**. He stood rigid, eyes glued to the sky, desperately rooting for his brother.
+The most anxious of all was Falcon. He had already switched to his **CresGarurumon****Yellow-Beast Crescent-Blade**. He stood rigid, eyes glued to the sky, desperately rooting for his brother.
 
 "Owl will win," I said, stepping up beside him. "Remember, birds eat insects. It’s the way of nature. It cannot be defied."
 
@@ -637,11 +650,17 @@ A cold-blooded government official handed me a glass of red wine and an EDEN sen
 "To prevent your login point from being compromised," he replied—a rare answer. "This mission is critical. It’s a diplomatic crisis, and we need a fallback. If the system deems you're in danger, we’ll trigger the extraction protocol, force-pull your data, and log you out."
 
 They made it sound so vital. I wondered where this protectiveness was during my previous missions. Regardless, a job is a job, especially when it comes from the top.
+
 #### [Trial ID: NO.00007]
+
 #### [Holder: Aurélie Lefebvre]
+
 #### [Raider Identity: Jade]
+
 #### [Digimon: BanchoStingmon]
+
 #### [Guild: Drink a Glass Bar]
+
 I logged in. Let’s see what kind of "good news" was waiting for me.
 
 After the usual three-second lag, I materialized in the center of the **"Raider Conference."** Every eye in the room turned toward me, as if I were some curious specimen in a zoo.
@@ -690,7 +709,7 @@ The moderator shook his head. "**Siegfried** (the German representative) went to
 
 "So we’re rescuing both?" Metal asked.
 
-"More than that. We also need to find four members of **'The Holy Knights'** guild. Earlier today, a **Rasielmon** suffered a data anomaly and became a fallen **Raguelmon**. It started as an internal guild matter, but their 'Targeted Raider Group' chased the rampaging beast into the same sector where the Korean and German Raiders vanished. They haven't been heard from since."
+"More than that. We also need to find four members of **'The Holy Knights'****Rasielmon****Raguelmon**. It started as an internal guild matter, but their 'Targeted Raider Group' chased the rampaging beast into the same sector where the Korean and German Raiders vanished. They haven't been heard from since."
 
 "What kind of sector are we talking about?" asked **Ruki**, the Japanese representative.
 
@@ -866,7 +885,7 @@ Before I get to the main story, let me tell you about a girl named **Wang**.
 
 She was a fellow guild member who looked up to me. She was always pestering me to take her as a disciple. I refused at first, telling her to follow the Guild Master instead. But she was stubborn. In the end, I let her follow me.
 
-Then came **Lucemon: Falldown Mode**. She saved my life, taking the **Dead or Alive** blast meant for me. I killed the bastard, but it wasn't a victory. Her Trial Badge was destroyed. She became a **Ouryumon**, unable to log out.
+Then came **Lucemon: Falldown Mode**. She saved my life, taking the **Dead or Alive****Ouryumon**, unable to log out.
 
 She hid in a cave by a lake, thinking she was protecting me from the "trouble" she’d cause. She thought I didn't know she was there. But fish don't just appear in a stagnant lake—I put them there. I just wanted to make sure she was eating. Nothing more.
 
@@ -894,7 +913,7 @@ I gathered flame in my hands, targeting the green and purple orbs on its wings. 
 
 "Watch closely."
 
-Ordinemon used its last reserves for one final **End of the World** blast. I met it head-on, my claws gathering a massive sphere of destruction: **Multi-Discordance**.
+Ordinemon used its last reserves for one final **End of the World****Multi-Discordance**.
 
 The two beams collided, warping the space around us. But there was no contest.
 
@@ -1032,13 +1051,13 @@ It was a redundant statement. I was a Rosemon; of course I didn't smell like tra
 
 Naturally, I couldn't say that to her face. Meeting someone for the first time, I wanted to leave a good impression. I maintained a humble posture and replied, "You flatter me... I just... I take good care of myself."
 
-Sensing the mounting tension, Owl stepped in to change the subject, officially introducing me to the three of them. "Starting today, Sakura officially joins the **Free Birds** as our **Support**. Everyone, communicate and learn from each other. We need to build rapport quickly for our next **Raid**."
+Sensing the mounting tension, Owl stepped in to change the subject, officially introducing me to the three of them. "Starting today, Sakura officially joins the **Free Birds****Support**. Everyone, communicate and learn from each other. We need to build rapport quickly for our next **Raid**."
 
 Heron spoke up coldly. "When?"
 
 "Soon," Owl replied. "The Host said once he’s finished with his current tasks, he’ll arrange the next mission immediately. The payment is generous—not just currency, but also a batch of **Temp-Patch Data**."
 
-**Temp-Patch Data** was a resource used to repair damage to a Digimon—essentially our version of a tourniquet. Generally, only members of a **Raiding Group** possessed such items, and even then, only in small quantities. Though they were sold on the black market, the prices were exorbitant, far beyond the reach of ordinary residents.
+**Temp-Patch Data****Raiding Group** possessed such items, and even then, only in small quantities. Though they were sold on the black market, the prices were exorbitant, far beyond the reach of ordinary residents.
 
 Falcon raised his hand. "I have a question!"
 
@@ -1056,7 +1075,7 @@ Seeing my hesitation, Owl understood the situation and stepped in to bail me out
 
 "What was that?"
 
-"Nothing." She turned to me, raising her voice. "Newcomer, the **Support** role is far from simple. Whether the **Vanguard** has the opening to strike, whether the **Tank**'s blind spots are covered, whether the **Vanguard** has proper cover, or whether the **Reserve** can swap in effectively—all of that falls on you. Don't let us down."
+"Nothing." She turned to me, raising her voice. "Newcomer, the **Support****Vanguard****Tank**'s blind spots are covered, whether the **Vanguard****Reserve** can swap in effectively—all of that falls on you. Don't let us down."
 
 Having said her piece, Heron picked up her refilled mug and walked out of the warehouse toward the bar for a refill. Only the four of us remained, and the tension finally began to dissipate.
 
@@ -1216,7 +1235,7 @@ Reverting to his human form and lying on his back, Dove gave me a thumbs-up. "To
 
 I took his words to heart, but they didn't help much. Falcon's speed was beyond anything I had imagined, leaving me no time to react. I deeply regretted not doing more homework the night before; otherwise, I wouldn't have been so humiliated the next day.
 
-A golden whirlwind tore toward me. I couldn't escape, I couldn't hide, and there was nowhere to run. My **Thorn Whip** was little more than a jump rope to him; he didn't trip, but instead sliced it in two with his **Beast-Wolf Great Rotation**. Before I could even draw my **Rose Rapier**, he swung his blade's hilt and swept me off my feet. He then stepped onto my waist, seemingly admiring the view from above. If it hadn't been for my cry of pain, he would have won then and there.
+A golden whirlwind tore toward me. I couldn't escape, I couldn't hide, and there was nowhere to run. My **Thorn Whip****Beast-Wolf Great Rotation**. Before I could even draw my **Rose Rapier**, he swung his blade's hilt and swept me off my feet. He then stepped onto my waist, seemingly admiring the view from above. If it hadn't been for my cry of pain, he would have won then and there.
 
 "Whoops, my bad."
 
@@ -1246,7 +1265,7 @@ If the first two victories were due to luck, the next two were nearly the death 
 
 Against Owl, I was powerless. A **BlackWarGreymon** is a natural-born warrior—balanced in offense and defense, and surprisingly fast. Being a Virus-type, crushing a weak Data-type like me was child's play.
 
-Perhaps Owl realized this himself. Before our match began, he removed the **Dramon Killers** from his arms and set aside the **Brave Shield** on his back. It was a gesture of immense sincerity. Displaying the powerful musculature of a dragon-warrior, he challenged me: "Come, Sakura. Let me see the true strength of the 'Queen of Nature.'"
+Perhaps Owl realized this himself. Before our match began, he removed the **Dramon Killers****Brave Shield** on his back. It was a gesture of immense sincerity. Displaying the powerful musculature of a dragon-warrior, he challenged me: "Come, Sakura. Let me see the true strength of the 'Queen of Nature.'"
 
 Was he talking about me? I was curious too. Might as well show him, lest he call me a "drag" in the future.
 
@@ -1366,7 +1385,7 @@ Back at the **Drink a Glass Bar**, Owl, Falcon, and Dove were waiting.
 
 "Owl, I won."
 
-"Beautiful. I knew you could do it." He gestured for me to sit beside him. "Have a drink. A small celebration. Don't worry, my treat. Welcome officially as the **Support** for the **Free Birds**. After this, it’s time to head to the **Nature Court** to find your acquaintance."
+"Beautiful. I knew you could do it." He gestured for me to sit beside him. "Have a drink. A small celebration. Don't worry, my treat. Welcome officially as the **Support****Free Birds**. After this, it’s time to head to the **Nature Court** to find your acquaintance."
 
 "So soon?" I was startled. "Is their domain maintenance finished already?"
 
@@ -1406,7 +1425,7 @@ From their conversation, I gathered they all knew each other, and their relation
 
 "You guys too?" I asked.
 
-"Of course," Dove replied. "He's my savior. When I first entered the Atrium as a **Terriermon**, I loved wandering around the Digital World. Once, I accidentally fell off a cliff, unable to move, and was surrounded by a bunch of **Togemon** with no eyes on their backs—almost got pricked to death. He happened to be flying by, heard my cries for help, and descended from the sky with a flock of **Birdramon** to rescue me."
+"Of course," Dove replied. "He's my savior. When I first entered the Atrium as a **Terriermon**, I loved wandering around the Digital World. Once, I accidentally fell off a cliff, unable to move, and was surrounded by a bunch of **Togemon****Birdramon** to rescue me."
 
 His words were filled with respect for Mr. Heath, which left me quite touched.
 
@@ -1522,7 +1541,7 @@ He gave me a bitter smile, then reached out and patted my shoulder as he passed 
 
 That wasn't up to me; it was in the hands of fate.
 
-Mr. Heath had already switched to his **Garudamon** form and flown into the sky to rendezvous with his commune members; they were about to begin the transport mission for the sleeping Belphemon. The specific method was to use a temporary fire-wall composed of thousands of **Birdramon** to push it bit by bit toward the outer perimeter of the **Nature Court**, and then it would be completely sent out by a second group of members waiting at the Atrium Square. During this process, it would be best if anyone were willing to lend a hand; if not, they could only sacrifice a portion of the Birdramon as a price to transfer such a massive security hazard, preventing more people from losing their lives in vain.
+Mr. Heath had already switched to his **Garudamon****Birdramon****Nature Court**, and then it would be completely sent out by a second group of members waiting at the Atrium Square. During this process, it would be best if anyone were willing to lend a hand; if not, they could only sacrifice a portion of the Birdramon as a price to transfer such a massive security hazard, preventing more people from losing their lives in vain.
 
 ---
 
@@ -1570,7 +1589,7 @@ As the changes were carried out in an orderly fashion, Owl stepped forward on ou
 
 "You know them?" Mr. Heath looked puzzled. "Is that something only the official **Investigation Team** has access to... you kid, don't tell me�?
 
-"Yes," Owl admitted. "Who says the **Free Birds** aren't official? As part of the **Investigation Team**, we eat from the same bowl and belong to the same department. There's no distinction between 'official' and 'civilian'."
+"Yes," Owl admitted. "Who says the **Free Birds****Investigation Team**, we eat from the same bowl and belong to the same department. There's no distinction between 'official' and 'civilian'."
 
 Mr. Heath capitulated with a heavy sigh. "Fine, bring them in. But make sure they stay safe."
 
@@ -1582,7 +1601,7 @@ With that, Owl turned his head slightly and gestured to Heath. "They're here."
 
 "Just in case something went wrong during transport, I had them on standby nearby." Owl cracked his neck. "It's rare they get to be useful. Just stay aside and watch."
 
-The Analysis Team was an elite cadre of Armor-level Digimon, all belonging to the **Armor Rebirth** club—a subordinate department of the **Investigation Team**. Members came from all over the world and were generally experts in data analysis.
+The Analysis Team was an elite cadre of Armor-level Digimon, all belonging to the **Armor Rebirth****Investigation Team**. Members came from all over the world and were generally experts in data analysis.
 
 The team leader, **Magnamon**, led the way toward Belphemon. He first circled the target, confirming its appearance hadn't changed, then beckoned the five members behind him: **Halsemon**, **Shadramon**, **Quetzalmon**, **Flybeemon**, and **Togemogumon**. The six of them positioned themselves around Belphemon—front, back, left, right, top, and bottom—simultaneously using their Digimentals to perform a comprehensive analysis.
 
@@ -1592,7 +1611,7 @@ When the analysis concluded, Magnamon approached Owl and Mr. Heath to report som
 
 Owl and Mr. Heath looked at each other and said simultaneously, "Then why was it possible before?"
 
-"Because the space within the **Nature Court** domain is saturated with data." Fearing the two still didn't understand, Magnamon explained in layman's terms: "Think of it this way: the trees, the flowers, and the grass there—they are all made of data. Since they are data, the oxygen they release is also data. A portion of the energy from the **Birdramon** combined with the air provided the conditions for Belphemon to move."
+"Because the space within the **Nature Court****Birdramon** combined with the air provided the conditions for Belphemon to move."
 
 He explained it quite clearly—so clearly that it left the two in front of him confused.
 
@@ -1658,9 +1677,9 @@ A brilliant golden laser cleared the crisis of our blocked vision; it was a gift
 
 "Daring to sneak attack me? Let me see how much skill you really have!"
 
-As Falcon spoke, he swung his **Yellow Beast Crescent Blade** in the air. Combined with the two sharp blades protruding from his shoulders, he unleashed his finishing move, **Wolf-Beast Whirlwind**, delivering eternal pain to the newly awakened Belphemon.
+As Falcon spoke, he swung his **Yellow Beast Crescent Blade****Wolf-Beast Whirlwind**, delivering eternal pain to the newly awakened Belphemon.
 
-The Demon Lord let out a howl of agony. Mr. Heath took the initiative, using **Shadow Wing** to deliver another shock. Magnamon wasn't to be outdone either, his whole body releasing the **Extreme Jihad**. Golden light and crimson flames intertwined, and with the help of my **Rose Rapier**, we successfully forced the Demon Lord back.
+The Demon Lord let out a howl of agony. Mr. Heath took the initiative, using **Shadow Wing****Extreme Jihad**. Golden light and crimson flames intertwined, and with the help of my **Rose Rapier**, we successfully forced the Demon Lord back.
 
 "Don't stop�?
 
@@ -1668,7 +1687,7 @@ Owl's voice pierced the sky. By the time it reached our ears, Belphemon had alre
 
 "�?*Hammer Boomerang**!"
 
-Turning to look, a **Zudomon** had appeared out of nowhere. Aiming at Belphemon's head, he threw his **Thor's Hammer**, knocking him to the ground.
+Turning to look, a **Zudomon****Thor's Hammer**, knocking him to the ground.
 
 "Seeing injustice on the road, I draw my blade to help!" He offered an explanation for his arrival and actions.
 
@@ -1682,7 +1701,7 @@ The powerful force lifted Belphemon off its feet. Under the combined action of G
 
 At Owl's command, no one held back their ultimate moves, each using their final techniques to strike Belphemon.
 
-Falcon and Dove were on the outer perimeter, their **Twin Moon Crescent Slash** and **Burst Shot** continuously battering the Demon Lord's body, keeping it disoriented and unable to focus on other directions. Meanwhile, **Shadow Wing** and **Forbidden Temptation**—the double crimson strike—combined with the blinding light from **Plasma Shot** and **Hammer Spark** to strike Belphemon's chest. The resurrected Demon Lord was in agony, flailing its limbs to try and stop us from dealing more pain. Before it could draw the chains from its body to release the black flames of **Hinokagutsuchi**, Owl quickly gathered a **Dark Gaia Force** formed from "negative thoughts" and completely ended it within the raging fires of the explosion.
+Falcon and Dove were on the outer perimeter, their **Twin Moon Crescent Slash****Burst Shot****Shadow Wing****Forbidden Temptation**—the double crimson strike—combined with the blinding light from **Plasma Shot****Hammer Spark****Hinokagutsuchi**, Owl quickly gathered a **Dark Gaia Force** formed from "negative thoughts" and completely ended it within the raging fires of the explosion.
 
 "Whew, finally over."
 
@@ -2006,13 +2025,16 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 **Age:** 33
 **Participant Identity:** Red
 **Digimon:** Dukemon
+
 #### Affiliated Guild:** **Order of Holy Knights
+
 #### Confirm Login
+
 [ YES ] / [ NO ]
 
 I made sure the restroom door was locked from the inside and clicked on the left to successfully log in.
 
-After passing through the Atrium public area and reaching the fire-wall, I looked up and saw a **Garudamon** returning from outside. Passing through the fire-wall, it turned into an old acquaintance of mine. His name is **Heath**, my drinking buddy and the president of the **Birdramon Commune**. He spends all day leading a bunch of **Birdramon** on patrols in the Digital World. He rescues people in distress and helps Digimon in danger. In short, he carries out the concept of "chivalry" to the end, and he has the best reputation in the entire Atrium system.
+After passing through the Atrium public area and reaching the fire-wall, I looked up and saw a **Garudamon****Heath**, my drinking buddy and the president of the **Birdramon Commune**. He spends all day leading a bunch of **Birdramon** on patrols in the Digital World. He rescues people in distress and helps Digimon in danger. In short, he carries out the concept of "chivalry" to the end, and he has the best reputation in the entire Atrium system.
 
 "Yo, look who it is—the daring truant Red."
 
@@ -2022,11 +2044,11 @@ He walked over and high-fived me, then gave my rear a smack. "Next time, you're 
 
 Equal to a 330ml volume, a single glass of the cheapest wine in the entire bar costs more than twenty-three cans of Coca-Cola. It's hard not to admit that Chairman Adam is a shark.
 
-After parting ways with him, I rushed to the designated location to meet up with Blue. When I arrived, I found he had already taken the form of **UlforceV-dramon** and charged alone into the **Abnormal Party**'s venue (stronghold), enjoying himself thoroughly. Specifically, he was sweeping up all the **Etemon** who were in a state of revelry. He drew the **Ulforce Saber** from his V-Bracelets to send the **Kinkakumon** and **Ginkakumon** who dared to block him away with one stroke, while also using **Shining V-Force** to take out a portion of the **WaruMonzaemon** he had knocked out earlier.
+After parting ways with him, I rushed to the designated location to meet up with Blue. When I arrived, I found he had already taken the form of **UlforceV-dramon****Abnormal Party**'s venue (stronghold), enjoying himself thoroughly. Specifically, he was sweeping up all the **Etemon****Ulforce Saber****Kinkakumon****Ginkakumon****Shining V-Force****WaruMonzaemon** he had knocked out earlier.
 
 "�?*Final Elysion**!"
 
-I purged the **Gryzmon** who were planning to escape, as well as a group of **Gerbemon** who were attempting to fire **Poop Bazookas** at him.
+I purged the **Gryzmon****Gerbemon****Poop Bazookas** at him.
 
 "You're late."
 
@@ -2115,8 +2137,11 @@ The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
 **Age:** 34
 **Participant Identity:** Blue
 **Digimon:** UlforceV-dramon
+
 #### Affiliated Guild:** **Order of Holy Knights
+
 #### Confirm Login
+
 [ YES ]
 
 I walked into the company's data server room, swiped my card to enter, turned around to close the door, and made sure it was locked from the inside. I took the equipment out of my backpack and plugged it in, then clicked the button on the left to login to the Atrium system.
@@ -2145,7 +2170,7 @@ Seeing his resemblance to **Gotsumon**, I called out to him and asked, "What's y
 
 "I don't know!" He shuddered, then turned back, pushed open the castle gate, and ran inside at full speed, screaming as he went: "Nanomon is dead! Someone come quick—someone's looking for trouble at the door!"
 
-Afterward, a group of **Myotismon** and **Volcamon** burst out of the castle, one by one looking aggressive, saying they were going to skin me and smash my armor to avenge their comrades. I was deeply moved by the camaraderie they displayed, so I held back a bit and didn't use my best speed. Yet they still died—it was quite ridiculous.
+Afterward, a group of **Myotismon****Volcamon** burst out of the castle, one by one looking aggressive, saying they were going to skin me and smash my armor to avenge their comrades. I was deeply moved by the camaraderie they displayed, so I held back a bit and didn't use my best speed. Yet they still died—it was quite ridiculous.
 
 "What's going on?" I was puzzled on the spot. "Why is everyone targeting me today? Looks like I'll have to let that guy share some of the burden later. Good, it's decided."
 
@@ -2374,11 +2399,11 @@ Actually, it wasn't just a portion; strictly speaking, it was all of it.
 
 I didn't tell him this directly—not because I was afraid of him getting angry, but because I feared he wouldn't be able to handle it and would reach a level of rage that would cause him to drop dead in the network world, leaving not even a corpse behind.
 
-To keep him alive, I could only try to steer the conversation elsewhere, telling him about the situation of the "Leviamon Subjugation War" **Raid**. First was Yu of the **Vanguard Position**; BanchoStingmon couldn't utilize a vanguard's full potential in the water at all and was badly beaten by the "Demon Lord of Envy," losing half his wings. If not for Lana of the **Support Position** coming to his rescue, he might not have made it back alive. Then there was Mante of the **Defense Position**; the mechanical GrandLocomon had difficulty functioning in the deep sea and could only stay in place and take hits, thus finding it hard to escape the fate of being scrapped. Fortunately, his armor was thick enough that the Digicore wasn't damaged, so he didn't perish under Leviamon's massive jaws.
+To keep him alive, I could only try to steer the conversation elsewhere, telling him about the situation of the "Leviamon Subjugation War" **Raid**. First was Yu of the **Vanguard Position**; BanchoStingmon couldn't utilize a vanguard's full potential in the water at all and was badly beaten by the "Demon Lord of Envy," losing half his wings. If not for Lana of the **Support Position****Defense Position**; the mechanical GrandLocomon had difficulty functioning in the deep sea and could only stay in place and take hits, thus finding it hard to escape the fate of being scrapped. Fortunately, his armor was thick enough that the Digicore wasn't damaged, so he didn't perish under Leviamon's massive jaws.
 
 "Dispense with the trivialities.," Zachary said, his patience always thin. "Tell me about your performance as the **Main Attacker Position**, or let's talk about our old friend, that **Substitute Position** who steals the show every time..."
 
-In summary, the **Substitute Position** was still formidable, and the **Main Attacker Position** was still reliable. The former could react in time when the **Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the "Sword Spirits" (剑灵), then dealing the finishing blow with "Aus Generieren" (辙剑审判).
+In summary, the **Substitute Position****Main Attacker Position****Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the "Sword Spirits" (剑灵), then dealing the finishing blow with "Aus Generieren" (辙剑审判).
 
 "So, for once in the United Nations Security Council **Raiders**, the one in the spotlight wasn't that **Substitute Position**, but you, the **Main Attacker**?"
 
@@ -2414,7 +2439,7 @@ With Gankoomon watching, those two sisters were safe. There were several times w
 
 Occasionally, he would go out with me to complete free-exploration missions sent by higher-ups. We treated these as combat trials and developed a very strong rapport—a master-disciple duo, invincible.
 
-He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders** representative, and Owl (He), the leader of the **Order of Holy Knights** (神圣骑士�?. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
+He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders****Order of Holy Knights** (神圣骑士�?. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
 
 According to Master, the owner, Adam, was the one person who shouldn't be underestimated. His strength was extraordinarily great; he could effortlessly catch the "Iron Fist Punishment" thrown by Master. In contrast, even for me, I had never caught that move even once, getting sent flying by the same technique every time. This made me feel a loss of face and even a bit discouraged.
 
@@ -2611,7 +2636,9 @@ The Secretary of Defense said with a dark face: "You're late, Judy."
 I had to admit, Zachary was always shrewd and considered problems comprehensively; he was a natural "Strategist." It wouldn't be easy to escape from under his nose, even if the current me wasn't the me of before—dealing with the three of them plus a group of Knightmon would be a hard battle.
 
 While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神�?, forming a brand-new spiritual armament attached to my back.
-#### Jesmon, Evolve! —�?Jesmon GX!
+
+#### Jesmon, Evolve! —�?Jesmon GX
+
 Master's voice echoed in my ears, and I suddenly felt filled with power. Using this momentum, I immediately retaliated against these people who dared think they could take my life.
 
 I utilized my main weapon, the "Endless Gauntlet" (无尽手套), switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing "God Breath" (神之庇佑), using the magic shield "Avalon" to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing "Aussterben" (毁天灭地) and "Urgent Fear" (急迫恐惧) respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
@@ -2730,7 +2757,7 @@ Afterward, Dragon told me: "I've swapped positions with him."
 
 "Why?" I was very puzzled.
 
-"Asking the obvious—what kind of defense could a HiAndromon provide? Until his next version is developed, I'll be **Defense** and he'll be **Substitute**. Your rear will be guarded by me."
+"Asking the obvious—what kind of defense could a HiAndromon provide? Until his next version is developed, I'll be **Defense****Substitute**. Your rear will be guarded by me."
 
 That last sentence made me break into a cold sweat; I could only say it was the result of a conditioned reflex.
 
@@ -2902,7 +2929,7 @@ The battle commenced with a catastrophic upheaval of water.
 
 ---
 
-### Chapter 10: Raging Tides and Furious Roars (第十�?狂涛怒啸)
+### Chapter 10: Raging Tides and Furious Roars
 
 The maelstrom's gravity was absolute. Owl was the first to be knocked overboard, his BlackWarGreymon armor proving heavy in the turbulent water.
 
@@ -2958,7 +2985,7 @@ The journey to Sanhara was tense. Falcon and Dove were unusually quiet, sensing 
 
 ---
 
-### Chapter 12: Battle of Sanhara (第十二章 圣原之战)
+### Chapter 12: Battle of Sanhara
 
 The conflict at the Sanhara Plateau erupted into a war of attrition the Free Birds had faced.
 
@@ -3042,7 +3069,7 @@ The sword touched his hard body and instantly froze it. But in the blink of an e
 
 He subjected me to verbal humiliation. As a descendant of the "Valkyrie," how could I tolerate this? So I shot my "Aurvandil's Arrow" at him, which never missed. Little did I expect that he would casually pull over a piece of chaos from behind him, turning it into a shield and blocking it very easily.
 
-It's no exaggeration to say that aside from my best skill in team command, my **Support Position** tricks were exhausted. It's hard to imagine that a person like me would become the captain of the **Five Nordic Countries Raiders**; sometimes, I feel ashamed for myself.
+It's no exaggeration to say that aside from my best skill in team command, my **Support Position****Five Nordic Countries Raiders**; sometimes, I feel ashamed for myself.
 
 Realizing that my amateur skills weren't enough to take him down alone, I immediately changed my strategy, switching from offense to defense, leading him toward populated areas to create a relatively large commotion and cause a stir, so I could meet up with the others as quickly as possible. If all five of us were present, I doubted he would have the power to turn the tide.
 
@@ -3098,7 +3125,7 @@ I didn't want to waste his good intentions, so I hurried toward the town ahead. 
 
 Judging from the subsequent results, my team members were still very reliable.
 
-After the **Vanguard Position** was defeated, Plutomon pursued me toward the town's outskirts. The Norwegian representative, Olegmon, the **Defense Position** among us, intervened to block him. In terms of reliability, the four of us combined weren't as good as him alone; it's fair to say that with him, our **Five Nordic Countries Raiders** are destined not to fail. Unfortunately, the pity was that this time he was fighting alone against an almost invincible guy who excelled in both long-range and close-range combat and had that black chaos shield that could immune all attribute damage. No matter how high Olegmon's weight class or how much monstrous strength he used, he couldn't achieve a breakthrough, and the final result could only end in a one-sided defeat.
+After the **Vanguard Position****Defense Position****Five Nordic Countries Raiders** are destined not to fail. Unfortunately, the pity was that this time he was fighting alone against an almost invincible guy who excelled in both long-range and close-range combat and had that black chaos shield that could immune all attribute damage. No matter how high Olegmon's weight class or how much monstrous strength he used, he couldn't achieve a breakthrough, and the final result could only end in a one-sided defeat.
 
 Entering the town, I kept shouting and calling for anyone to help me. However, the people here were either Rookies who had just completed guild registration or Champions who had been out for a while and came here for recovery; relying on them was impossible. They were also very sensible; seeing us coming, they one by one cleared the path very efficiently, and didn't even say a word of complaint, probably already scared witless.
 
@@ -3153,14 +3180,23 @@ Driving into Zealand and passing through Slagelse, my mother called me, asking i
 With those words of hers, I was relieved; just don't find another father for me.
 
 Making a temporary detour, I rushed into the nursing home, inserted the ID medal, logged into the Atrium system, and hoped my appearance wouldn't be too late.
+
 #### User ID: NO.05000
+
 #### Holder: Erich Freyr Hansen
+
 #### Gender: Male
+
 #### Age: 43
+
 #### User Persona: Freyr
+
 #### Digimon: Imperialdramon: Dragon Mode
+
 #### Guild: Imperial Dragon's Nest
+
 #### Confirm Login: YES
+
 "Go, son, and knock them flat!"
 
 "Actually, I'm going to save someone... Okay, no problem. Love you, Mom."
@@ -3169,8 +3205,10 @@ Touching the button on the left, I logged in successfully, then immediately swit
 
 I stepped forward to talk, asking what happened. He told me it was all the handiwork of the other four.
 
-I sensed trouble. Before he finished speaking, I took the lead and interrupted him, then flapped my huge wings on both sides and rushed forward. After flying a short while, from a distance I saw a fellow draped in a blood-red cape, jet-black all over, preparing to strike a Vikingmon. Behind him lay our team's **Defense Position** and **Support Position**, both dying, looking like they had just gone through a fierce battle. From this, I deduced that the Vikingmon must be our newcomer; last time I saw him, he was still a Zudomon.
+I sensed trouble. Before he finished speaking, I took the lead and interrupted him, then flapped my huge wings on both sides and rushed forward. After flying a short while, from a distance I saw a fellow draped in a blood-red cape, jet-black all over, preparing to strike a Vikingmon. Behind him lay our team's **Defense Position****Support Position**, both dying, looking like they had just gone through a fierce battle. From this, I deduced that the Vikingmon must be our newcomer; last time I saw him, he was still a Zudomon.
+
 #### "——Positron Laser!"
+
 Until I offered him a greeting gift, did I see clearly that our enemy was Plutomon. His image had a slight discrepancy from what I remembered; specifically, the piece of black chaos behind him looked a bit unmatched and out of place with his overall look, a bit discordant.
 
 Facing my sudden attack, Plutomon unhurriedly pulled over his cape to defend. The energy cannon ports on my back continued to output; no matter how powerful that cape of his was, it wouldn't be able to withstand it. Soon, after I surged forward and used the blade slash "Splendor Blade" of my forelimbs, he vanished into the ruins below.
@@ -3213,7 +3251,9 @@ As things stood, I wouldn't hide any cards anymore; use them if needed, never st
 "Come on!"
 
 I let out a roar and swallowed it, and my body underwent a very noticeable change.
+
 #### Imperialdramon: Dragon Mode, Mode Change —�?Imperialdramon: Fighter Mode.
+
 Switching modes, my body became flexible, and not by just a little bit. Meeting the enemy in this state, even with a ten-minute time limit, the enemy would surely feel pressure and shock.
 
 Facts were just as I thought. After I finished the mode change and confronted the enemy again, a weakened trend in his momentum was clearly perceptible. The spotlight was all mine; I wonder how he feels now, presumably already prepared to pay the price. In that case, I didn't need to be polite with him either—old way, blast him to death.
@@ -3448,7 +3488,7 @@ Agnes had concerns about this: "I've heard people say that guy doesn't have a pa
 
 "Yeah, but that guy still feels 'Ba-ye' is living in his heart, ready to lash him at any moment."
 
-After everyone's discussion, we finally reached a consensus: the subsequent part of this matter would continue to be deeply investigated by Captain Agnes, who volunteered, and the **Five Nordic Countries Raiders** she led. Jade originally wanted to join too, but first, she was stopped by her brother Master Adam, and second, she was busy handling the affairs of the **UN Five Permanent Members Raiders**. According to her, among the five of them, she's the only one free now.
+After everyone's discussion, we finally reached a consensus: the subsequent part of this matter would continue to be deeply investigated by Captain Agnes, who volunteered, and the **Five Nordic Countries Raiders****UN Five Permanent Members Raiders**. According to her, among the five of them, she's the only one free now.
 
 "What about the other four?"
 
@@ -3484,6 +3524,4 @@ It was treated like some kind of token, passed down to me through the hands of t
 
 ---
 [End of Phase 5 Consolidated Export]
-
-
 
