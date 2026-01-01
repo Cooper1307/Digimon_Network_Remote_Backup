@@ -40,55 +40,28 @@ Lastly, I wish you all a pleasant reading experience.
 
 ## Table of Contents
 
-### Phase 1: Free Bird
-
+- [Preface](#preface)
+- [Preface](#preface)
 - [Prologue: The Raiders](#prologue-the-raiders)
-
 - [Chapter 1: The Ebon Hero](#chapter-1-the-ebon-hero)
-
 - [Chapter 2: Falling Owl](#chapter-2-falling-owl)
-
-### Phase 2: The Hidden Bar
-
-- [Chapter 3: Mind Like Still Water](#chapter-3-mind-like-still-water)
-
-### Phase 3: The Gathering Storm
-
+- [Chapter 3: Stillness within the Mirror](#chapter-3-stillness-within-the-mirror)
 - [Gaiden 1: Raider Rescue Operation](#gaiden-1-raider-rescue-operation)
-
 - [Chapter 4: The Dove and the Heron](#chapter-4-the-dove-and-the-heron)
-
 - [Chapter 5: An Earth-Shattering Practical Duel](#chapter-5-an-earth-shattering-practical-duel)
-
-### Phase 4: Sylvan Garden
-
-- [Chapter 6: The Challenge of the Nature Court](#chapter-6-the-challenge-of-the-nature-court)
-
-- [Chapter 7: The Awakened Demon Lord](#chapter-7-the-awakened-demon-lord)
-
-- [Chapter 8: Mother’s Final Will](#chapter-8-mothers-final-will)
-
+- [Chapter 6: The Chairman's Request](#chapter-6-the-chairmans-request)
+- [Chapter 7: The Resurrected Demon King](#chapter-7-the-resurrected-demon-king)
+- [Chapter 8: Mother's Testament](#chapter-8-mothers-testament)
 - [Gaiden 2: Abnormal Party Crusade](#gaiden-2-abnormal-party-crusade)
-
-### Phase 5: The Final Judgment
-
-- [Side Story III: Game of Deep Danger](#side-story-iii-game-of-deep-danger)
-
 - [Chapter 9: Into the Water World](#chapter-9-into-the-water-world)
-
 - [Chapter 10: Raging Tides and Furious Roars](#chapter-10-raging-tides-and-furious-roars)
-
 - [Chapter 11: Hephaestus Workshop](#chapter-11-hephaestus-workshop)
-
 - [Chapter 12: Battle of Sanhara](#chapter-12-battle-of-sanhara)
-
 - [Chapter 13: Final Judgment](#chapter-13-final-judgment)
-
-- [Chapter 14: Dragon and God](#chapter-14-dragon-and-god)
-
-- [Chapter 15: A Beautiful End](#chapter-15-a-beautiful-end)
-
+- [Side Story III: Deep Danger Situation](#side-story-iii-deep-danger-situation)
 - [Side Story IV: Operation: Pluto Extermination](#side-story-iv-operation-pluto-extermination)
+- [Chapter 14: Dragon and God](#chapter-14-dragon-and-god)
+- [Chapter 15: A Beautiful End](#chapter-15-a-beautiful-end)
 
 ---
 
@@ -156,7 +129,7 @@ I whispered the names one by one. From her beginnings as a Rookie to her ascent 
 
 Through her entries, I began to understand her life within Midgard. She had been a member of the **Sylvan Garden Guild** and had forged a pact with a user named Snake: whoever could evolve their Lilamon into its Mega level first would earn the right to campaign for the position of the next Guild Master.
 
-*“A single minute in the waking world unravels into a full day within the digital abyss.�?
+*“A single minute in the waking world unravels into a full day within the digital abyss.?
 
 If that rule held true, she had been immersed in that world for at least ten years. According to her diary, a decade was more than enough time for a Digimon to climb from the Rookie stage to the Mega level. If one were diligent and took on enough guild commissions, eight or nine years would suffice. In other words, this "Snake" had surely already secured the right to the candidacy—perhaps they were already the Guild Master.
 
@@ -251,7 +224,7 @@ But the result was not what I expected. Despite the full force of my blow, he di
 
 "Sakura?" He stroked his chin, pondering the name. "Elegant yet common, common yet elegant. A fine name!"
 
-He snapped his fingers and started toward me. I barked at him to stop. "Don't come any closer! Or I'll—I'll�?"
+He snapped his fingers and started toward me. I barked at him to stop. "Don't come any closer! Or I'll—I'll?"
 
 I wanted to say 'call for help,' but the forest was suffocatingly dense. No one would hear me. I bit back the threat and tried to use my wits instead. "Could you... could you maybe sing something a bit softer? We girls don't really like all that shouting."
 
@@ -495,9 +468,9 @@ I followed Owl out the door. Down at the bar, a young man in a denim jacket was 
 
 The young man seemed to be an acquaintance of Owl's, as Owl immediately rushed down to the floor. I followed at a distance, making sure not to draw attention to myself. I had to remember: I wasn't just a person in a Digimon shell anymore; I *was* a Digimon.
 
-Pushing through the noisy crowd, I found the Boss. He told me that the young man in denim was the Vanguard of the "Free Birds"�?*Falcon**. Always energetic, his Digimon form was a **CresGarurumon**. He had reverted to his human form when he entered the bar, and apparently, his hand had "accidentally" brushed against the woman's backside.
+Pushing through the noisy crowd, I found the Boss. He told me that the young man in denim was the Vanguard of the "Free Birds"?*Falcon**. Always energetic, his Digimon form was a **CresGarurumon**. He had reverted to his human form when he entered the bar, and apparently, his hand had "accidentally" brushed against the woman's backside.
 
-The woman was the star of the "Drink a Glass Bar"�?*Queen**, a **TigerVespamon**. She was notoriously petty, and the words "tolerance" or "understanding" weren't in her lexicon.
+The woman was the star of the "Drink a Glass Bar"?*Queen**, a **TigerVespamon**. She was notoriously petty, and the words "tolerance" or "understanding" weren't in her lexicon.
 
 "Boss, you're the Guild Master. Is it really okay to talk about your own people like that?"
 
@@ -527,7 +500,7 @@ Falcon's fighting spirit was ignited by Owl's words. "Big Brother! This is my me
 
 "You think you know me that well?" Queen barked, her eyes widening as she pointed a finger at Falcon's nose. "You brat! I was the 'Queen of Insects' while you were still a glint in your mother's eye! Today, I'm going to teach you some respect for women’s bodies, you little rodent!"
 
-"Hey, hey, hey�?
+"Hey, hey, hey?
 
 The Boss finally spoke up, intervening before Falcon could retort with whatever insult he had ready.
 
@@ -669,7 +642,7 @@ After the usual three-second lag, I materialized in the center of the **"Raider 
 
 "No, just in time."
 
-My old acquaintance, **Metal**, stood up to greet me warmly. Beside him sat another familiar face�?*Dragon**.
+My old acquaintance, **Metal**, stood up to greet me warmly. Beside him sat another familiar face?*Dragon**.
 
 "Aren't you going to say hello?" I asked Dragon.
 
@@ -765,7 +738,7 @@ He said "us," not "me." That was high praise from Dragon. He rarely acknowledged
 
 Rescue missions differ from standard raids. The lineup was set: Metal as **Extraction**, myself as **Cover**, and Dragon as **Rearguard**.
 
-We were transported to the coordinates. Our forms shifted: I became the aerial **BanchoStingmon**; Metal transformed into the massive armored train, **GrandLocomon**; and Dragon became his terrifyingly powerful form�?*Dorugoramon**.
+We were transported to the coordinates. Our forms shifted: I became the aerial **BanchoStingmon**; Metal transformed into the massive armored train, **GrandLocomon**; and Dragon became his terrifyingly powerful form?*Dorugoramon**.
 
 "All aboard, partners. The express is leaving the station."
 
@@ -773,7 +746,7 @@ Dragon and I clung to the back of the armored locomotive. With a blast of the wh
 
 ---
 
-## (Part II) - By Metal
+#### (Part II) - By Metal
 
 First, an apology. I kept certain things from the Raiders.
 
@@ -879,7 +852,7 @@ I am an Extraction Specialist. I knew when to leave. I had faith in them.
 
 ---
 
-## (Part III) - By Dragon
+#### (Part III) - By Dragon
 
 Before I get to the main story, let me tell you about a girl named **Wang**.
 
@@ -1087,7 +1060,7 @@ Owl cuffed the back of Falcon's head. "Nonsense. You're always the one causing t
 
 "It’s true though!" Falcon complained, rubbing his head. "She’s always the one starting it. I didn't do anything to her, yet she’s always moping around like a widow. They were born from the same mother, but Sparrow was so much gentler than her."
 
-"Enough. One more word and I’ll tell them about how you tried to hit on�?
+"Enough. One more word and I’ll tell them about how you tried to hit on?
 
 "No! My mistake! Brother, please don't!" Falcon immediately folded. "I still want to leave a good impression on Sakura. Please, stop right there."
 
@@ -1217,7 +1190,7 @@ Upon switching to his **SaintGalgomon** form, Dove underwent a total metamorphos
 
 I missed the gentle version of him from yesterday. He had initially chosen **Terriermon** as his avatar simply because he thought the little thing was "cute." Who could possibly connect that person to the war machine currently chasing me with "Burst Shots"? Actually, I’m being generous—now he was locking on to me with his shoulder-mounted "Giant Missiles." I wasn't even sure if he was used to aiming; I, someone with almost no combat experience, found it relatively easy to dodge.
 
-"Taste this! Ahahaha—another laser blast, *bong*! Direct hit! Run, run! Super big missiles incoming, ahahahahaha�?"
+"Taste this! Ahahaha—another laser blast, *bong*! Direct hit! Run, run! Super big missiles incoming, ahahahahaha?"
 
 The man was in a state of sheer frenzy, completely deaf to reason. He had utterly forgotten Owl’s instructions, laying waste to the surrounding area of the **Drink a Glass Bar**’s domain. Flowers were crushed, grass was ignited, rocks were shattered, and even the topsoil was upturned. I could already imagine that when this ended, Adam would surely drag him back and force him into a week of hard labor to compensate for the damage.
 
@@ -1403,6 +1376,8 @@ I just hoped she wasn't a sore loser. Otherwise, I was in for a rough time.
 
 "Halt! Who goes there!?"
 
+### Chapter 6: The Chairman's Request
+
 "Honored guests of your Chairman."
 
 Owl explained our purpose on our behalf. One Piccolomon went inside to relay the message. Soon after, the **Lilimon** who came out with it received us and led us into this massive "data" garden.
@@ -1467,7 +1442,7 @@ As she spoke, Flower scanned my body from head to toe, a satisfied smile appeari
 
 "That depends on whether our Captain agrees."
 
-"Persuade him for me! Please! Please�?
+"Persuade him for me! Please! Please?
 
 "I..."
 
@@ -1587,7 +1562,7 @@ As the changes were carried out in an orderly fashion, Owl stepped forward on ou
 
 "Do you need me to call in the analysis team?"
 
-"You know them?" Mr. Heath looked puzzled. "Is that something only the official **Investigation Team** has access to... you kid, don't tell me�?
+"You know them?" Mr. Heath looked puzzled. "Is that something only the official **Investigation Team** has access to... you kid, don't tell me?
 
 "Yes," Owl admitted. "Who says the **Free Birds****Investigation Team**, we eat from the same bowl and belong to the same department. There's no distinction between 'official' and 'civilian'."
 
@@ -1663,11 +1638,11 @@ With that, Owl swept his hand down. Dove immediately stepped forward, puffed out
 
 "Get back here!"
 
-Owl quickly stopped Falcon, who was about to rush in to help, and blocked him. He sent a massive **Dark Gaia Force** toward Belphemon. The resulting explosion was so immense that no one present could maintain their balance; those who could fly scattered, and those who couldn't fell to the ground. Before anyone could readjust, the sleeping Demon Lord had already awakened, brushing aside the smoke from the blast to reveal its other side�?*Belphemon: Rage Mode**.
+Owl quickly stopped Falcon, who was about to rush in to help, and blocked him. He sent a massive **Dark Gaia Force** toward Belphemon. The resulting explosion was so immense that no one present could maintain their balance; those who could fly scattered, and those who couldn't fell to the ground. Before anyone could readjust, the sleeping Demon Lord had already awakened, brushing aside the smoke from the blast to reveal its other side?*Belphemon: Rage Mode**.
 
 "I think we made it mad," Falcon said to me casually, drawing the large blade from his shoulder. The next second, he was bumped aside by Owl as Belphemon's claws came down, the resulting dust storm sweeping over us once again.
 
-"�?*Gold Solar Storm**!"
+"?*Gold Solar Storm**!"
 
 A brilliant golden laser cleared the crisis of our blocked vision; it was a gift from Magnamon.
 
@@ -1681,11 +1656,11 @@ As Falcon spoke, he swung his **Yellow Beast Crescent Blade****Wolf-Beast Whirlw
 
 The Demon Lord let out a howl of agony. Mr. Heath took the initiative, using **Shadow Wing****Extreme Jihad**. Golden light and crimson flames intertwined, and with the help of my **Rose Rapier**, we successfully forced the Demon Lord back.
 
-"Don't stop�?
+"Don't stop?
 
 Owl's voice pierced the sky. By the time it reached our ears, Belphemon had already swung its claws, wreathed in hellfire, delivering its **Dark Gift**. At the critical moment, a unique sound came from behind us:
 
-"�?*Hammer Boomerang**!"
+"?*Hammer Boomerang**!"
 
 Turning to look, a **Zudomon****Thor's Hammer**, knocking him to the ground.
 
@@ -1693,7 +1668,7 @@ Turning to look, a **Zudomon****Thor's Hammer**, knocking him to the ground.
 
 With such a brave warrior coming to help, how could we have any complaints? We all thanked him in our hearts. Once the hammer returned to his hand, he didn't stop. Holding the hammer with both hands, he swept it across the ground, creating sparks and lightning as he aimed for the chin of the rising Belphemon, swinging the heavy hammer upward.
 
-"�?*Hammer Spark**!"
+"?*Hammer Spark**!"
 
 The powerful force lifted Belphemon off its feet. Under the combined action of Garudamon's charge and Owl's **Black Warrior Tornado**, the awakened "Sloth" Demon Lord completely passed through that fire-wall, breaking free from the Atrium system and arriving in the Digital World.
 
@@ -1717,11 +1692,11 @@ Dove's shocked expression represented most of those present. No one had expected
 
 Falcon also joined us to discuss a strategy: "Big brother, what now?"
 
-"Find a way not to get hurt first�?
+"Find a way not to get hurt first?
 
 Owl finished speaking and knocked Falcon out of the way, taking the Demon Lord's incoming chain head-on and flying back like a pinball, crashing into the nearby forest. I too had no time to react, watching as the Demon Lord's chain reached my face. In the crisis, Mr. Heath grabbed the chain with his talons, intending to pull it up, but the chain immediately became like a snake, wrapping around his ankle.
 
-"Mr. Heath�?
+"Mr. Heath?
 
 "Don't worry about me, get out of here!"
 
@@ -1737,7 +1712,7 @@ The word "total defeat" echoed in my mind for a long time, preventing me from mo
 
 Incinerated flower petals fell onto the back of my hand, bringing a slight sting that reminded me I hadn't turned into data yet—I was still alive. The roar of explosions overlapped; my legs felt weak as I slumped to the ground, taking a long breath as I prepared to accept fate's judgment.
 
-"It's not over yet�?
+"It's not over yet?
 
 A fierce battle cry came from behind, like someone had slapped me awake. Looking back, a black-and-white angel emerged from the fire-wall, descending like a crane, bringing a glimmer of hope to the battlefield. With her swift speed, she fired an arrow of light, **Holy Hope**, from her right arm, hitting the Demon Lord's head. Then, using her left hand, she used **Dark Despair** to forcefully break off one of the horns atop the Demon Lord's head, turning the tide for us.
 
@@ -1771,7 +1746,7 @@ Its face heavily damaged, Belphemon fell into a true rage, completely losing con
 
 "No need to tell me."
 
-Crane spread her arms and controlled both hands, releasing her ultimate technique�?*Chaos Degradation**. The "Angelic" right side gathered pale blue "Light" energy, while the "Demonic" left side gathered pale red "Dark" energy. Both were released at Belphemon simultaneously, merging to create a brilliant gateway. Immense energy erupted from it, and together with the surrounding environment, Belphemon was sucked inside, banished to the far side of a different dimension.
+Crane spread her arms and controlled both hands, releasing her ultimate technique?*Chaos Degradation**. The "Angelic" right side gathered pale blue "Light" energy, while the "Demonic" left side gathered pale red "Dark" energy. Both were released at Belphemon simultaneously, merging to create a brilliant gateway. Immense energy erupted from it, and together with the surrounding environment, Belphemon was sucked inside, banished to the far side of a different dimension.
 
 Jumping off the side of the Demon Lord's body, Crane grabbed my hand once more, catching me and carrying me away from the ripple effects of the dimensional gate. We soared through the sky in a brief moment of solitude.
 
@@ -2046,7 +2021,7 @@ Equal to a 330ml volume, a single glass of the cheapest wine in the entire bar c
 
 After parting ways with him, I rushed to the designated location to meet up with Blue. When I arrived, I found he had already taken the form of **UlforceV-dramon****Abnormal Party**'s venue (stronghold), enjoying himself thoroughly. Specifically, he was sweeping up all the **Etemon****Ulforce Saber****Kinkakumon****Ginkakumon****Shining V-Force****WaruMonzaemon** he had knocked out earlier.
 
-"�?*Final Elysion**!"
+"?*Final Elysion**!"
 
 I purged the **Gryzmon****Gerbemon****Poop Bazookas** at him.
 
@@ -2086,17 +2061,17 @@ I asked him, "What are you alone in there laughing about?"
 
 With that, he suddenly threw open his cape, and subsequently, the entire underground illuminated with colored lights he had pre-arranged. The scene was entirely like a party venue; he was the host, and I was the only guest.
 
-"Let us welcome today's VIP with a warm round of applause: Dukemon�?"
+"Let us welcome today's VIP with a warm round of applause: Dukemon?"
 
 He showed off the character for "Great King" on his chest. Accompanied by music that sounded like noise, the atmosphere failed to heat up at all, perhaps due to my cold indifference. Affected by this, he became less calm, gritting his teeth in frustration and casually sending out a gift tailored for me—his ultimate move.
 
-"�?*Photon Blocker**!"
+"?*Photon Blocker**!"
 
 The glowing sphere hit my shield, and absolutely nothing happened. The scene instantly became very awkward.
 
 At this, I huffed coldly and said, "Is that it?"
 
-He then extended a finger and wagged it in front of my eyes. "NO, NO, NO. This is just the foreplay. The good stuff is yet to come. For example... hee hee... see the environment here? There's a breach!�?*King Monkey Kick**!"
+He then extended a finger and wagged it in front of my eyes. "NO, NO, NO. This is just the foreplay. The good stuff is yet to come. For example... hee hee... see the environment here? There's a breach!?*King Monkey Kick**!"
 
 Taking a step to the left and holding up my shield, I smoothly and easily avoided it.
 
@@ -2214,17 +2189,17 @@ Saying this, I kicked his ball away. He made a powerful leap, flipping over my h
 
 He naively thought I would do nothing, just stand there and let the cloth cover me, then turn into a keychain hanging at his waist. Of course I wouldn't let him succeed, and it was hard for him anyway, because I had already activated **Ulforce**. That cloth's falling speed in my eyes was comparable to a snail on the ground—the time was ridiculously long. I even had time to pinch the four corners and re-fold it into a new shape, then place it under his feet as a stepping stone before he landed. Afterward, I ran back to my original spot, making him think I had been stationary all along.
 
-"You�?
+"You?
 
 Seeing that I hadn't disappeared and that the cloth, now folded into a flower shape, was under his feet, the look on his contorted face was beyond hilarious.
 
 "The clown is always the one being played," I told him. "If you want to cry, just cry. I'll wipe your tears for you."
 
-"Aaaarrgh�?"
+"Aaaarrgh?"
 
 He was furious. He drew the four swords from his back and threw them at me.
 
-"�?*Trump Sword**!"
+"?*Trump Sword**!"
 
 Similarly, the speed of the four swords was very slow—slow enough that his juggling couldn't be fully utilized. He originally wanted to make it impossible for me to find the correct direction they were coming from, but to me, their disappearance was just them turning transparent.
 
@@ -2276,7 +2251,7 @@ What? The new drink reception is today? How could I be so uninformed?
 
 What's the difference? I'm already ahead!
 
-"DO—NOT—ACTIVATE—ULFORCE�?
+"DO—NOT—ACTIVATE—ULFORCE?
 
 The time it took him to say those words was too long—long enough for me to vault over the castle wall first, spread my wings and fly down, reaching Lilithmon's side. First, I cut off her right **Nazar Nail** that could corrode anything, then I tied her wings in a knot, helped her tidy her messy hair, and finally moved her over the nearby lake, waiting for her to fall into the water.
 
@@ -2310,7 +2285,7 @@ I nodded and told him, "Everyone has their hobbies."
 
 The words had hardly left my mouth when suddenly, an **Ouryumon** burst out of the lake, swallowed her whole, and then dived back to the bottom with satisfaction. Before leaving, it even turned toward us and let out a burp like a clap of thunder, thanking us for the feeding.
 
-"This�?
+"This?
 
 "This... is it over?"
 
@@ -2360,7 +2335,7 @@ No problem. Just felt a bit of a pity. We both felt that way. Between "Red and B
 
 ### Part 1: The Raiders' Origins
 
-#### �?Zero's Account (Part 1) �?
+#### ?Zero's Account (Part 1) ?
 
 I do not know who I am, nor where I came from. I only know one name: Zero.
 
@@ -2368,7 +2343,7 @@ The United States federal government bestowed this title upon me. They raised me
 
 Perhaps as a reward, or perhaps to discard me and make way for the younger generation, after I completed my stage-based education, they arranged for me to live in an apartment near the Pentagon and let me work with the Department of Defense.
 
-From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the **Raiders** (攻略�?. At the same time, it was also he who forbade me from befriending anyone within the group, telling me to always be wary and keep my distance. He even had the nation's cutting-edge technology used to modify Jesmon, allowing me to use my swords to cut through space and create distortions at any time, entering a private space known as the "Zero Domain" (零域) to report to him.
+From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the **Raiders** (攻略?. At the same time, it was also he who forbade me from befriending anyone within the group, telling me to always be wary and keep my distance. He even had the nation's cutting-edge technology used to modify Jesmon, allowing me to use my swords to cut through space and create distortions at any time, entering a private space known as the "Zero Domain" (零域) to report to him.
 
 "The Chinese representative's pet (Xiao Wang)—you are watching over (monitoring) it, correct?"
 
@@ -2436,7 +2411,7 @@ With Gankoomon watching, those two sisters were safe. There were several times w
 
 Occasionally, he would go out with me to complete free-exploration missions sent by higher-ups. We treated these as combat trials and developed a very strong rapport—a master-disciple duo, invincible.
 
-He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders****Order of Holy Knights** (神圣骑士�?. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
+He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders****Order of Holy Knights** (神圣骑士?. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
 
 According to Master, the owner, Adam, was the one person who shouldn't be underestimated. His strength was extraordinarily great; he could effortlessly catch the "Iron Fist Punishment" thrown by Master. In contrast, even for me, I had never caught that move even once, getting sent flying by the same technique every time. This made me feel a loss of face and even a bit discouraged.
 
@@ -2456,7 +2431,7 @@ Ending a battle with the duration measured in seconds—this is the world of the
 
 ### Part 2: Betrayal in the Pentagon
 
-#### �?Zero's Account (Part 2) �?
+#### ?Zero's Account (Part 2) ?
 
 After lunch, I hurried into the Pentagon to see my superior in his office. I didn't want him to wait, nor did I want the Minister, whom I was meeting for the first time, to wait and have a bad impression.
 
@@ -2534,10 +2509,10 @@ The login point was established in a bar in Clarendon named "A Bar." Find the ba
 
 ```text
 User ID: NO.00003
-Holder: Zero (�?
+Holder: Zero (?
 Gender: Male
 Age: 30
-User Persona: Zero (�?
+User Persona: Zero (?
 Digimon: Jesmon
 Guild: None
 
@@ -2578,13 +2553,13 @@ After feeling sorry for her for two seconds, I began to handle these mechanical 
 
 Zachary had once mentioned in front of me the Digimon experiments conducted in Area 51, saying the US federal government had captured a group of Vademon from the Digital World for research. Later, the entire facility's system was infected by an unknown virus. They couldn't stop the virus from spreading and didn't want it invading the mainstream network, so they had to cut their losses and seal them away. Who would have thought those viruses would invade the then-popular EDEN electronic space in a way humans couldn't imagine, causing the entire Coulomb region to fall. It wouldn't be an exaggeration to say humans brought it on themselves.
 
-These Ebemon were quite dangerous—at least, so the data said. Their left hands would release "Brain Rupture" (脑裂), launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, "Planet Destroyer" (行星毁灭�?, would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
+These Ebemon were quite dangerous—at least, so the data said. Their left hands would release "Brain Rupture" (脑裂), launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, "Planet Destroyer" (行星毁灭?, would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
 
 I estimated that Master Gankoomon had been besieged by them, outnumbered and unfamiliar with their combat style, leading to his failure and demise. Now it was my turn; I couldn't make the same mistake he did. I had to annihilate them in one go before they gathered more companions.
 
 "Master, watch carefully!"
 
-With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within�?All For One" (我为人人).
+With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within?All For One" (我为人人).
 
 Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash "All For One" and clear out this rabble.
 
@@ -2602,7 +2577,7 @@ Yet, he was actually right.
 
 ### Part 3: Evolution of Jesmon GX
 
-#### �?Zero's Account (Part 3) �?
+#### ?Zero's Account (Part 3) ?
 
 The server entrance was set on the edge of the desert, where no one visited and no one would disturb—no matter how much noise was made, no one would notice. It was a perfect place for handling someone in the way. Unfortunately, that someone was me. After thirteen years of faithful service, risking my life for the nation and solving countless network security incidents, I was ultimately betrayed by my own superiors.
 
@@ -2632,9 +2607,9 @@ The Secretary of Defense said with a dark face: "You're late, Judy."
 
 I had to admit, Zachary was always shrewd and considered problems comprehensively; he was a natural "Strategist." It wouldn't be easy to escape from under his nose, even if the current me wasn't the me of before—dealing with the three of them plus a group of Knightmon would be a hard battle.
 
-While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神�?, forming a brand-new spiritual armament attached to my back.
+While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神?, forming a brand-new spiritual armament attached to my back.
 
-#### Jesmon, Evolve! —�?Jesmon GX
+#### Jesmon, Evolve! —?Jesmon GX
 
 Master's voice echoed in my ears, and I suddenly felt filled with power. Using this momentum, I immediately retaliated against these people who dared think they could take my life.
 
@@ -2642,9 +2617,9 @@ I utilized my main weapon, the "Endless Gauntlet" (无尽手套), switching it i
 
 "Lend me your strength, Master!"
 
-Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master�?Seiken Metsuha" (圣拳灭破). A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
+Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master?Seiken Metsuha" (圣拳灭破). A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
 
-"Father�?"
+"Father?"
 
 Judy suddenly cried out behind me, and only then did I realize I had just done something foolish.
 
@@ -2652,7 +2627,7 @@ Her full name was Judith Lopez. Currently, she stood woodenly in place, unmoving
 
 Looking at her, my sword hesitated. If killing a beast was for self-preservation, then killing the beast's daughter would surely be worse than a beast.
 
-After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, "End Waltz" (终结华尔�?. I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
+After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, "End Waltz" (终结华尔?. I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
 
 "Give me your life, you executioner!"
 
@@ -2660,7 +2635,7 @@ She coordinated with Secretary Craniummon, releasing four ribbon blades from her
 
 The situation was the same as before; I didn't dodge, instead taking these two sustained damage sources head-on, showing my most resilient side to explain to Judy: "I didn't want to do this. Your father... Zachary forced me."
 
-She couldn't hear my words, still using the "Pile Bunker" (冲击�? on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
+She couldn't hear my words, still using the "Pile Bunker" (冲击? on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
 
 To get rid of her, I had to be rough with her one more time. I swung my sword, sending her back into the embrace of the Knightmon army, then quickly turned, catching the Secretary's magic spear with my left hand and pointing the blade in my right hand toward him.
 
@@ -2710,7 +2685,7 @@ For a moment, I even felt that I had truly become Jesmon, truly had such a stric
 
 ### Part 4: Rescuing the Sisters
 
-#### �?Zero's Account (Part 4) �?
+#### ?Zero's Account (Part 4) ?
 
 When I woke up, I found myself in a tea garden, my body back in human form, lying on a rattan chair.
 
@@ -2838,7 +2813,7 @@ In the previous confrontation, I didn't remember the Secretary of Defense or Zac
 
 Mousse Mine was originally an independent server used to reform network prisoners, which humans found very difficult to enter without external connections. The Digimon inside were just like me—all modified, and each one was fierce, terrifying, and a genuine monster.
 
-My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of Deathmon (死亡�?. They gave Master a lot of trouble—clashing with them, Master gained no advantage. "Iron Fist Punishment" was easily neutralized, "Quaking Table" was pinned back to the ground, and finally, after using all his strength, he unleashed the move "Gijin! Shinkou! Shinkaku! Oyaji!" (地神！神鸣！神驰！亲父！) to bring down "Hinokamuy" for heavenly retribution.
+My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of Deathmon (死亡?. They gave Master a lot of trouble—clashing with them, Master gained no advantage. "Iron Fist Punishment" was easily neutralized, "Quaking Table" was pinned back to the ground, and finally, after using all his strength, he unleashed the move "Gijin! Shinkou! Shinkaku! Oyaji!" (地神！神鸣！神驰！亲父！) to bring down "Hinokamuy" for heavenly retribution.
 
 Afterward, Master, dragging his weary body, successfully rescued his friend. Unfortunately, on the way back, they were discovered by three giant GranKuwagamon on patrol and had their path blocked. Fortunately, it wasn't just them who were blocked; Adam, who had also come to rescue his fellow citizens and was also stopped by them, was there too. To protect the Imperialdramon behind him, Adam finally defeated them three-to-one. At the same time, Master realized that even among humans, there existed strong ones who could rival him.
 
@@ -2878,7 +2853,7 @@ I hadn't expected such a relationship existed between them.
 
 One sentence, straight and to the point. Not just for me, but for him as well.
 
-He picked up the teacup on the table, brought it to his mouth, took a small sip, and unhurriedly spoke that sentence full of helplessness yet extremely powerful�?Only the weak are left in the mine." In other words, the strong inside had long since been taken care of by him.
+He picked up the teacup on the table, brought it to his mouth, took a small sip, and unhurriedly spoke that sentence full of helplessness yet extremely powerful?Only the weak are left in the mine." In other words, the strong inside had long since been taken care of by him.
 
 He had helped me a huge favor again. I would remember his kindness, and him as a person.
 
@@ -2962,7 +2937,7 @@ Adam polished a glass. "Muca is a legend, Sakura. He's the one who taught many o
 
 ---
 
-### Chapter 11: Hephaestus Workshop (第十一�?利爪与尖�?
+### Chapter 11: Hephaestus Workshop
 
 The peace didn't last long. A new mission arrived, and this time, it involved a search for a missing person: Master Nagasumi (Vulcanusmon), the legendary blacksmith.
 
@@ -3130,7 +3105,7 @@ Passing through a marketplace, I was tripped by a pole in the middle of the road
 
 Looking through the fleeing crowd, a familiar figure appeared before me, gasping for breath and chewing a brown mass, looking as honest and cute as when I first knew him.
 
-"Huff... huff... finally... caught... caught up�?
+"Huff... huff... finally... caught... caught up?
 
 He's from Iceland, our new **Substitute Position** Vikingmon. In the matter of "rescuing fallen comrades," how could a chivalrous hero of "seeing injustice and drawing one's sword" be late?
 
@@ -3227,7 +3202,7 @@ I didn't quite want to answer them; telling the truth would indeed ruin the atmo
 I suddenly remembered a sentence said by Guild Master Adam, who was once my lifesaver: "Before confirming the enemy is completely finished, don't relax your guard." Clearly, I made this mistake and was a step late; the enemy's brutal, evil claws had already approached me, within reach, not allowing me to make any reaction. Fortunately, the newcomer in front of me timely threw out the two heavy battle hammers on his back, thus saving my small life.
 
 "Thanks, newcomer..."
-"Watch out�?
+"Watch out?
 
 He once again blocked in front of me, catching Plutomon's chaos strike with the thick shield on his shoulder. At this point, I could no longer stand being saved by a newcomer; this kind of embarrassing thing was enough twice, no need for a third time.
 
@@ -3304,7 +3279,7 @@ Seeing his old friend intended to end the battle as quickly as possible, Vulture
 
 The two extreme powers clashed once more, and the Atrium shook again because of it.
 
-"Guild Master�?
+"Guild Master?
 
 "Don't worry about it!"
 
@@ -3336,7 +3311,7 @@ Hearing this, Owl had no choice but to say that heartbreaking sentence: "You did
 
 "True heritage? I didn't know there was such a thing... what is it?"
 
-"The final ultimate art of the 'Data Clearing Style' that can only be performed with dual-wielding—Rakukyoukijuzan (落枭归鹫�?. Listen to this strange name; doesn't it speak exactly of us?"
+"The final ultimate art of the 'Data Clearing Style' that can only be performed with dual-wielding—Rakukyoukijuzan (落枭归鹫?. Listen to this strange name; doesn't it speak exactly of us?"
 
 "Heh, I suppose it does."
 
@@ -3474,7 +3449,7 @@ As the sister of the Master, Jade raised a question on our behalf: "He... is ver
 
 Speaking of this, Master Adam coughed twice and took the initiative to change the subject: "Voltobautamon Jack—with your current strength, you're not yet enough to be his opponent. You should know, Plutomon being instantly killed by him didn't depend all on luck; it depended more on his own terrifying strength."
 
-Master Adam suggested that if we still wanted to know the truth behind the matter, we could try to find X (埃克�?, the top talent of **Nether Club**. He was like another version of himself in **Nether Club**, knowing everything.
+Master Adam suggested that if we still wanted to know the truth behind the matter, we could try to find X (埃克?, the top talent of **Nether Club**. He was like another version of himself in **Nether Club**, knowing everything.
 
 Agnes had concerns about this: "I've heard people say that guy doesn't have a particularly good temper, and more importantly, his face looks rather scary. Going to find him and probe him might not be that easy."
 
@@ -3519,4 +3494,3 @@ It was treated like some kind of token, passed down to me through the hands of t
 "Please."
 
 ---
-[End of Phase 5 Consolidated Export]

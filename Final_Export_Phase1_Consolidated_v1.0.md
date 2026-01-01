@@ -113,7 +113,7 @@ That is all I can share for now. Indeed, that is all they permit me to say.
 
 Oh, one last thing. Before they departed, they asked me to leave a message for everyone logging in for the first time:
 
-**"Welcome to the Digital World."**
+#### "Welcome to the Digital World."
 
 ---
 
@@ -139,7 +139,7 @@ I whispered the names one by one. From her beginnings as a Rookie to her ascent 
 
 Through her entries, I began to understand her life within Midgard. She had been a member of the **Sylvan Garden Guild** and had forged a pact with a user named Snake: whoever could evolve their Lilamon into its Mega level first would earn the right to campaign for the position of the next Guild Master.
 
-*“A day in the Digital World equals a minute in reality.”*
+> "A day in the Digital World equals a minute in reality."
 
 If that rule held true, she had been immersed in that world for at least ten years. According to her diary, a decade was more than enough time for a Digimon to climb from the Rookie stage to the Mega level. If one were diligent and took on enough guild commissions, eight or nine years would suffice. In other words, this "Snake" had surely already secured the right to the candidacy—perhaps they were already the Guild Master.
 
@@ -281,7 +281,7 @@ The intent was clear: he was going to destroy me.
 
 He bared his teeth, his chest swelling with a renewed, manic fighting spirit. One hand remained clamped like a vise around my throat while the other reached toward the heavens. He roared the name of his finishing move:
 
-**"Giga Blaster: Deadly Ray!"**
+#### "Giga Blaster: Deadly Ray!"
 
 A surge of thick, black lightning cascaded from the heavens, engulfing my entire frame and pinning me in place. The pressure soon pierced my skin, shattering the **Trial Badge** mounted beneath my collarbone. My body began to digitize. In that moment, the pain vanished, replaced only by a strange, hollow sense of relief—the same peace I saw on my mother’s face during her final rites.
 

@@ -1,0 +1,71 @@
+Line 1: # Digital Monster Network: The Raiders
+Line 3: ## Preface
+Line 41: ## Table of Contents
+Line 67: ### Prologue: The Raiders
+Line 105: #### "Welcome to the Digital World."
+Line 109: ### Chapter 1: The Ebon Hero
+Line 150: #### Confirm Login (Sakura)
+Line 178: #### Lilamon, Mega Digivolutions—to Rosemon
+Line 274: #### "Giga Blaster: Deadly Ray!"
+Line 324: ### Chapter 2: Falling Owl
+Line 332: #### [System Notification: You have one voice message. Listen?]
+Line 334: #### [YES]
+Line 412: ### Chapter 3: Stillness within the Mirror
+Line 512: #### Owl vs. Queen. BlackWarGreymon vs. TigerVespamon
+Line 606: ### Gaiden 1: Raider Rescue Operation
+Line 608: #### Part I: By Jade
+Line 626: #### [Trial ID: NO.00007]
+Line 628: #### [Holder: Aurélie Lefebvre]
+Line 630: #### [Raider Identity: Jade]
+Line 632: #### [Digimon: BanchoStingmon]
+Line 634: #### [Guild: Drink a Glass Bar]
+Line 748: #### (Part II) - By Metal
+Line 854: #### (Part III) - By Dragon
+Line 982: ### Chapter 4: The Dove and the Heron
+Line 1184: ### Chapter 5: An Earth-Shattering Practical Duel
+Line 1378: ### Chapter 6: The Chairman's Request
+Line 1522: ### Chapter 7: The Resurrected Demon King
+Line 1732: ### Chapter 8: Mother's Testament
+Line 1940: ### Gaiden 2: Abnormal Party Crusade
+Line 1942: ## (I)
+Line 1944: ### -By Red-
+Line 1994: #### Participant Information (Red)
+Line 2003: #### Affiliated Guild: Order of Holy Knights (Red)
+Line 2005: #### Confirm Login (Red)
+Line 2097: ## (II)
+Line 2099: ### -By Blue-
+Line 2106: #### Participant Information (Blue)
+Line 2115: #### Affiliated Guild: Order of Holy Knights (Blue)
+Line 2117: #### Confirm Login (Blue)
+Line 2333: ### Side Story III: Deep Danger Situation
+Line 2335: ### Part 1: The Raiders' Origins
+Line 2337: #### �?Zero's Account (Part 1) �?
+Line 2431: ### Part 2: Betrayal in the Pentagon
+Line 2433: #### �?Zero's Account (Part 2) �?
+Line 2577: ### Part 3: Evolution of Jesmon GX
+Line 2579: #### �?Zero's Account (Part 3) �?
+Line 2611: #### Jesmon, Evolve! —�?Jesmon GX
+Line 2685: ### Part 4: Rescuing the Sisters
+Line 2687: #### �?Zero's Account (Part 4) �?
+Line 2869: ### Chapter 9: Into the Water World
+Line 2903: ### Chapter 10: Raging Tides and Furious Roars
+Line 2939: ### Chapter 11: Hephaestus Workshop (第十一�?利爪与尖�?
+Line 2959: ### Chapter 12: Battle of Sanhara
+Line 2981: ### Chapter 13: Final Judgment
+Line 3001: ### Side Story IV: Operation: Pluto Extermination
+Line 3003: ### Part 1: The Nordic Investigation
+Line 3005: #### -Account of Agnes (Part 1)-
+Line 3117: ### Part 2: The Hero's Detour
+Line 3119: #### -Account of Freyr (Part 2)-
+Line 3155: #### User ID: NO.05000
+Line 3157: #### Holder: Erich Freyr Hansen
+Line 3159: #### Gender: Male
+Line 3161: #### Age: 43
+Line 3163: #### User Persona: Freyr
+Line 3165: #### Digimon: Imperialdramon: Dragon Mode
+Line 3167: #### Guild: Imperial Dragon's Nest
+Line 3169: #### Confirm Login: YES
+Line 3181: #### "——Positron Laser!"
+Line 3226: #### Imperialdramon: Dragon Mode, Mode Change —Imperialdramon: Fighter Mode
+Line 3255: ### Chapter 14: Dragon and God
+Line 3337: ### Chapter 15: A Beautiful End
