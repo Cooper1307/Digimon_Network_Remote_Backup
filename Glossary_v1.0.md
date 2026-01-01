@@ -49,9 +49,11 @@ This document standardizes the terminology for the **Digital Monster Network** s
 | **黑旋风** | Black Tornado | **Black Tornado** | **Black Tornado** | Exact match. |
 | **勇气之盾** | Shield of Courage | **Brave Shield** | **Brave Shield** | Exact match. |
 | **勇气徽章** | Crest of Courage | **Crest of Courage** | **Crest of Courage** | **Lore Warning:** Owl (BlackWarGreymon) possessing this is atypical. **Highlight in TL.** |
+| **盖亚力量** | Terra Destroyer | **Gaia Force** | **Dark Gaia Force** | Standardized for BlackWarGreymon. |
 
 ## 4. Lore & World-Building
 
 - **Time Dilation:** 1 minute (Real World) = 1 day (Digital World). This must be treated as a physical law of the verse.
 - **Digitization:** Death in this world leads to permanent deletion/data dust. Term used: **Digitization** or **Decompilation**.
 - **Chrome Digizoid (时之数码合金):** Verified as the indestructible metal of the Digital World.
+- **Seed of Promotion (晋升之种):** A key lore item throughout Phase 5, enabling "Burst" or "GX" evolutions.

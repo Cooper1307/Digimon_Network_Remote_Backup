@@ -38,6 +38,13 @@
 
 - **VoltoBautamon (Jack/幽灵面具兽)**: [NEW] Mysterious and dangerous leader. Executed Plutomon with "Courtly Waltz."
 - **Plutomon (普路托兽)**: [NEW] The antagonist of the "Triangular Conflict." Driven by obsession and jealousy.
+- **X (エックス)**: [NEW] The top talent of Nether Club. Known for his scary demeanor but has a psychological shadow involving Master Muca.
+
+### Other Raiders & NPCs
+
+- **Hana (华纳/华)**: [NEW] Survivor and successor of the Windrunner Brigade after Wind's sacrifice.
+- **Aurelie Lefebvre (奥蕾莉·勒费弗尔)**: [NEW] French representative, mentioned in the late-phase conferences.
+- **Solomon (Solomon/所罗门)**: [NEW] A newcomer (Psychemon) who acted as a pawn to trigger the "Bird-Beast Conflict."
 
 ### The Free Birds (自由鸟) - Phase 5 Evolutions
 
@@ -54,8 +61,9 @@
 
 ### Concepts
 
-- **Seed of Promotion (晋升之种)**: Rare item allowing temporary evolution beyond standard limits.
-- **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca" (幕疤).
+- **Seed of Promotion (晋升之种)**: Rare item allowing temporary evolution beyond standard limits. Heavily involved in the final battles.
+- **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca" (幕疤/Ba-ye).
+- **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Owl" and "Vulture." Known for his strict discipline.
 - **Mediation Organization (调停组织)**: The original law-enforcement body of the Atrium.
 
 ## 3. Technology & Terms
