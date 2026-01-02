@@ -6,31 +6,31 @@ This work is an original fan-fiction based on the *DIGIMON* series. It can be un
 
 The setting is a near-future era where humanity has established a new login hub in the Digital World known as **Midgard**. Time in Midgard flows identically to the Digital World: one day there is roughly equivalent to one minute in reality, meaning four years in Midgard equate to a single day in our world. Originally created as a platform for professionals to identify and resolve network issues within the Digital World, it was eventually promoted to the public, evolving into a massive, live-action interactive experience system. Anyone can easily access it by purchasing an EDEN sensory immersion rig.
 
-To prevent an influx of users from disrupting the natural lives of resident Digimon and triggering cybersecurity incidents, developers implemented a mandatory protocol: all users passing through the network firewalls at Midgard are forcibly transformed into the Digimon avatar they selected within their respective Guilds. Each user is limited to a single Digimon bond. Initially, users may only choose a Digimon in its Rookie stage (selection constitutes joining the corresponding Guild). All user avatars are equipped with an "Experience Medal"a chip the size of a fingernail, typically embedded within the bodyto distinguish them from genuine Digimon. By touching a target's body, if the chip glows red, the individual is a human avatar; if there is no reaction, they are a true Digimon.
+To prevent an influx of users from disrupting the natural lives of resident Digimon and triggering cybersecurity incidents, developers implemented a mandatory protocol: all users passing through the network firewalls at Midgard are forcibly transformed into the Digimon avatar they selected within their respective Guilds. Each user is limited to a single Digimon bond. Initially, users may only choose a Digimon in its Rookie stage (selection constitutes joining the corresponding Guild). All user avatars are equipped with an "Trial Badge"a chip the size of a fingernail, typically embedded within the bodyto distinguish them from genuine Digimon. By touching a target's body, if the chip glows red, the individual is a human avatar; if there is no reaction, they are a true Digimon.
 
 Based on different types of Digimon, ten Great Guilds have been established in Midgard:
 
-- **Order of Holy Knights** (神圣骑士团)
+- **Order of Holy Knights**
 
-- **Nether Club** (幽冥俱乐部)
+- **Nether Club**
 
-- **Mutant Research Lab** (突变研究所)
+- **Mutant Research Lab**
 
-- **Atlantis** (亚特兰蒂斯)
+- **Atlantis**
 
-- **Drink a Glass Bar** (喝一杯酒吧)
+- **Drink a Glass Bar**
 
-- **Steel Legions** (钢铁雄兵)
+- **Steel Legions**
 
-- **Sylvan Garden** (自然庭院)
+- **Sylvan Garden**
 
-- **Imperial Dragon's Nest** (御龙巢穴)
+- **Imperial Dragon's Nest**
 
-- **Beast King's Fangs** (兽皇之牙)
+- **Beast King's Fangs**
 
-- **Wind-Chasing Brigade** (追风旅团)
+- **Wind-Chasing Brigade**
 
-Every two years, each Guild hosts an internal "Guild War" where members face off in PK matches. The final victor is awarded a "Seed of Ascension" by official authorities. Once consumed, it allows for a partial expansion of the user's data, manifesting as an evolution or form change that lasts for up to 600 seconds (ten minutes) before the user reverts to their previous state. Additionally, those who defeat their Guild Master receive extra rewards.
+Every two years, each Guild hosts an internal "Guild War" where members face off in PK matches. The final victor is awarded a "Promotion Seed" by official authorities. Once consumed, it allows for a partial expansion of the user's data, manifesting as an evolution or form change that lasts for up to 600 seconds (ten minutes) before the user reverts to their previous state. Additionally, those who defeat their Guild Master receive extra rewards.
 
 All characters appearing in this work are adults, making this a narrative that leans away from younger audiences. The entire story was drafted with the full chapter structure in mind; therefore, there is no risk of a "bad ending" or the story being abandoned due to a lack of content. You may read with peace of mind.
 
@@ -2335,7 +2335,7 @@ No problem. Just felt a bit of a pity. We both felt that way. Between "Red and B
 
 ### Part 1: The Raiders' Origins
 
-#### ?Zero's Account (Part 1) ?
+#### Zero's Account (Part 1)
 
 I do not know who I am, nor where I came from. I only know one name: Zero.
 
@@ -2343,7 +2343,7 @@ The United States federal government bestowed this title upon me. They raised me
 
 Perhaps as a reward, or perhaps to discard me and make way for the younger generation, after I completed my stage-based education, they arranged for me to live in an apartment near the Pentagon and let me work with the Department of Defense.
 
-From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the **Raiders** (攻略?. At the same time, it was also he who forbade me from befriending anyone within the group, telling me to always be wary and keep my distance. He even had the nation's cutting-edge technology used to modify Jesmon, allowing me to use my swords to cut through space and create distortions at any time, entering a private space known as the "Zero Domain" (零域) to report to him.
+From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the **Raiders** to report to him.
 
 "The Chinese representative's pet (Xiao Wang)—you are watching over (monitoring) it, correct?"
 
@@ -2351,7 +2351,7 @@ From that day on, I followed my new superior—Zachary Lopez, a man with a disti
 
 During this past period, to prevent me from privately contacting her pet and harming or disadvantaging her, Dragon had specially created a security measure—moving her pet to a new residence, a natural volcanic lake. The place was remote and unvisited, indeed suitable for concealment. However, her pet didn't like it much there, feeling the water was too hot and uncomfortable, and the terrain was high. Every time she couldn't see Dragon going out on missions with us, her overwhelming longing drove her to sneak back to her original residence behind Dragon's back.
 
-"If I remember correctly, that lake is a dead-water pool without a single fish left. Recently, her master has been busy [Raiding] in the depths. Don't tell me... you've been feeding her?"
+"If I remember correctly, that lake is a dead-water pool without a single fish left. Recently, her master has been busy Raiding in the depths. Don't tell me... you've been feeding her?"
 
 In response to his speculation, I simply smiled slightly. "I have no such obligation, sir."
 
@@ -2375,7 +2375,7 @@ To keep him alive, I could only try to steer the conversation elsewhere, telling
 
 "Dispense with the trivialities.," Zachary said, his patience always thin. "Tell me about your performance as the **Main Attacker Position**, or let's talk about our old friend, that **Substitute Position** who steals the show every time..."
 
-In summary, the **Substitute Position****Main Attacker Position****Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the "Sword Spirits" (剑灵), then dealing the finishing blow with "Aus Generieren" (辙剑审判).
+In summary, the **Substitute Position****Main Attacker Position****Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the "Sword Spirits", then dealing the finishing blow with "Aus Generieren".
 
 "So, for once in the United Nations Security Council **Raiders**, the one in the spotlight wasn't that **Substitute Position**, but you, the **Main Attacker**?"
 
@@ -2403,15 +2403,15 @@ I am also human, with my own passions and what one would call feelings. My time 
 
 My master is Gankoomon, a fate that was sealed from the moment I initially chose the body of Huckmon.
 
-He came to find me first. At our first meeting, like an old father who had been away for many years, he stood with a stern face and congratulated me on choosing his clumsy disciple's body. I told him then that I wasn't his disciple, but merely a pawn of the US federal government doing their bidding, needing to borrow his disciple's body for a while, and hoped he would be broad-minded and give me this chance. He said it didn't matter; he only recognized the body of Huckmon anyway. As for who was controlling it inside, he didn't care, didn't want to care, and was even less willing to care. His attitude toward this was quite "Obstinate" (顽固), making it impossible to refuse.
+He came to find me first. At our first meeting, like an old father who had been away for many years, he stood with a stern face and congratulated me on choosing his clumsy disciple's body. I told him then that I wasn't his disciple, but merely a pawn of the US federal government doing their bidding, needing to borrow his disciple's body for a while, and hoped he would be broad-minded and give me this chance. He said it didn't matter; he only recognized the body of Huckmon anyway. As for who was controlling it inside, he didn't care, didn't want to care, and was even less willing to care. His attitude toward this was quite "Obstinate", making it impossible to refuse.
 
 His training was extremely strict, reaching a level of harshness—otherwise, it wouldn't have been possible for me to evolve from a Rookie so quickly and rise all the way to a Mega. For example, he was always followed by a pair of Sistermon sisters, both wearing nun's caps—Sistermon Noir and Sistermon Blanc. They looked like two cute mascots, but both were fierce. They would use me as a target for practice. I could block, dodge, or counter-attack, but everything had to be "stop-at-contact"; I couldn't let my sword tip touch them even an inch, because if it did, they would surely die.
 
-With Gankoomon watching, those two sisters were safe. There were several times when it seemed my sword would strike them and I couldn't pull back. Master Gankoomon would appear beneath my sword in an instant, blocking the fatal blow for them, and then he would surely settle the score with me. In the unluckiest cases, I would take a hit from his "Iron Fist Punishment" (铁拳制裁). He called this "Defense Training" for me, intended to hone my resilience. It left me in a pathetic state every time, but fortunately, I persevered tenaciously and didn't get beaten to death.
+With Gankoomon watching, those two sisters were safe. There were several times when it seemed my sword would strike them and I couldn't pull back. Master Gankoomon would appear beneath my sword in an instant, blocking the fatal blow for them, and then he would surely settle the score with me. In the unluckiest cases, I would take a hit from his "Iron Fist Punishment". He called this "Defense Training" for me, intended to hone my resilience. It left me in a pathetic state every time, but fortunately, I persevered tenaciously and didn't get beaten to death.
 
 Occasionally, he would go out with me to complete free-exploration missions sent by higher-ups. We treated these as combat trials and developed a very strong rapport—a master-disciple duo, invincible.
 
-He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders****Order of Holy Knights** (神圣骑士?. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
+He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders****Order of Holy Knights**. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
 
 According to Master, the owner, Adam, was the one person who shouldn't be underestimated. His strength was extraordinarily great; he could effortlessly catch the "Iron Fist Punishment" thrown by Master. In contrast, even for me, I had never caught that move even once, getting sent flying by the same technique every time. This made me feel a loss of face and even a bit discouraged.
 
@@ -2431,7 +2431,7 @@ Ending a battle with the duration measured in seconds—this is the world of the
 
 ### Part 2: Betrayal in the Pentagon
 
-#### ?Zero's Account (Part 2) ?
+#### Zero's Account (Part 2)
 
 After lunch, I hurried into the Pentagon to see my superior in his office. I didn't want him to wait, nor did I want the Minister, whom I was meeting for the first time, to wait and have a bad impression.
 
@@ -2465,7 +2465,7 @@ The federal government didn't know I had such a master, or rather, in their eyes
 
 "Where did he die?"
 
-"An old server," the Secretary of Defense said first. The detailed address was left to Zachary: "You log in from the Atrium, follow the Network Sea, head straight ahead, pass through a Data Forest and a Data Desert, reach the edge of the desert, find a Scumon, and tell it you are going to the 'Ruins' (废墟). It will guide you there. After entering, head directly to the lower space, 'Coulomb.' Find a way to locate his residual data and bring it back."
+"An old server," the Secretary of Defense said first. The detailed address was left to Zachary: "You log in from the Atrium, follow the Network Sea, head straight ahead, pass through a Data Forest and a Data Desert, reach the edge of the desert, find a Scumon, and tell it you are going to the 'Ruins'. It will guide you there. After entering, head directly to the lower space, 'Coulomb.' Find a way to locate his residual data and bring it back."
 
 This mission sounded easy.
 
@@ -2543,7 +2543,7 @@ Her words left me speechless, making me quite embarrassed. Although I was reluct
 
 She was truly self-righteous.
 
-Wandering alone in the data labyrinth, no living thing could escape my keen eyes. When I say living things, I don't mean living things in the true sense, but a group of Ebemon (机械脑魔). It was just one or two at first. I used my five Digimental Inscription Swords to execute them quickly. Later, the deeper I went, the more I discovered. When hundreds of Ebemon swarmed toward me, I realized I had fallen into their ambush.
+Wandering alone in the data labyrinth, no living thing could escape my keen eyes. When I say living things, I don't mean living things in the true sense, but a group of Ebemon. It was just one or two at first. I used my five Digimental Inscription Swords to execute them quickly. Later, the deeper I went, the more I discovered. When hundreds of Ebemon swarmed toward me, I realized I had fallen into their ambush.
 
 The hunter had become the hunted, and the scene suddenly became lively. Weaving through beams of light and rays, I turned on my communication device to call Judy, but under the influence of those fellows, I couldn't establish contact with her. If she were in the same situation as me, she might already be in dire straits.
 
@@ -2553,13 +2553,13 @@ After feeling sorry for her for two seconds, I began to handle these mechanical 
 
 Zachary had once mentioned in front of me the Digimon experiments conducted in Area 51, saying the US federal government had captured a group of Vademon from the Digital World for research. Later, the entire facility's system was infected by an unknown virus. They couldn't stop the virus from spreading and didn't want it invading the mainstream network, so they had to cut their losses and seal them away. Who would have thought those viruses would invade the then-popular EDEN electronic space in a way humans couldn't imagine, causing the entire Coulomb region to fall. It wouldn't be an exaggeration to say humans brought it on themselves.
 
-These Ebemon were quite dangerous—at least, so the data said. Their left hands would release "Brain Rupture" (脑裂), launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, "Planet Destroyer" (行星毁灭?, would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
+These Ebemon were quite dangerous—at least, so the data said. Their left hands would release "Brain Rupture", launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, "Planet Destroyer", would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
 
 I estimated that Master Gankoomon had been besieged by them, outnumbered and unfamiliar with their combat style, leading to his failure and demise. Now it was my turn; I couldn't make the same mistake he did. I had to annihilate them in one go before they gathered more companions.
 
 "Master, watch carefully!"
 
-With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within?All For One" (我为人人).
+With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within?All For One".
 
 Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash "All For One" and clear out this rabble.
 
@@ -2577,7 +2577,7 @@ Yet, he was actually right.
 
 ### Part 3: Evolution of Jesmon GX
 
-#### ?Zero's Account (Part 3) ?
+#### Zero's Account (Part 3)
 
 The server entrance was set on the edge of the desert, where no one visited and no one would disturb—no matter how much noise was made, no one would notice. It was a perfect place for handling someone in the way. Unfortunately, that someone was me. After thirteen years of faithful service, risking my life for the nation and solving countless network security incidents, I was ultimately betrayed by my own superiors.
 
@@ -2607,17 +2607,17 @@ The Secretary of Defense said with a dark face: "You're late, Judy."
 
 I had to admit, Zachary was always shrewd and considered problems comprehensively; he was a natural "Strategist." It wouldn't be easy to escape from under his nose, even if the current me wasn't the me of before—dealing with the three of them plus a group of Knightmon would be a hard battle.
 
-While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神?, forming a brand-new spiritual armament attached to my back.
+While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy", forming a brand-new spiritual armament attached to my back.
 
 #### Jesmon, Evolve! —?Jesmon GX
 
 Master's voice echoed in my ears, and I suddenly felt filled with power. Using this momentum, I immediately retaliated against these people who dared think they could take my life.
 
-I utilized my main weapon, the "Endless Gauntlet" (无尽手套), switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing "God Breath" (神之庇佑), using the magic shield "Avalon" to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing "Aussterben" (毁天灭地) and "Urgent Fear" (急迫恐惧) respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
+I utilized my main weapon, the "Endless Gauntlet", switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing "God Breath", using the magic shield "Avalon" to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing "Aussterben" and "Urgent Fear" respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
 
 "Lend me your strength, Master!"
 
-Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master?Seiken Metsuha" (圣拳灭破). A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
+Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master?Seiken Metsuha". A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
 
 "Father?"
 
@@ -2627,15 +2627,15 @@ Her full name was Judith Lopez. Currently, she stood woodenly in place, unmoving
 
 Looking at her, my sword hesitated. If killing a beast was for self-preservation, then killing the beast's daughter would surely be worse than a beast.
 
-After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, "End Waltz" (终结华尔?. I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
+After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, "End Waltz". I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
 
 "Give me your life, you executioner!"
 
-She coordinated with Secretary Craniummon, releasing four ribbon blades from her armor and unleashing "Spiral Masquerade" (回旋华舞) for my reception.
+She coordinated with Secretary Craniummon, releasing four ribbon blades from her armor and unleashing "Spiral Masquerade" for my reception.
 
 The situation was the same as before; I didn't dodge, instead taking these two sustained damage sources head-on, showing my most resilient side to explain to Judy: "I didn't want to do this. Your father... Zachary forced me."
 
-She couldn't hear my words, still using the "Pile Bunker" (冲击? on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
+She couldn't hear my words, still using the "Pile Bunker" on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
 
 To get rid of her, I had to be rough with her one more time. I swung my sword, sending her back into the embrace of the Knightmon army, then quickly turned, catching the Secretary's magic spear with my left hand and pointing the blade in my right hand toward him.
 
@@ -2685,7 +2685,7 @@ For a moment, I even felt that I had truly become Jesmon, truly had such a stric
 
 ### Part 4: Rescuing the Sisters
 
-#### ?Zero's Account (Part 4) ?
+#### Zero's Account (Part 4)
 
 When I woke up, I found myself in a tea garden, my body back in human form, lying on a rattan chair.
 
@@ -2711,13 +2711,13 @@ Our way of getting along was also very friendly.
 
 "I don't pick up trash. It was Mante."
 
-Subsequently, he explained the situation to me one by one. To summarize simply: he and Mante had gone together to execute a **Raid** mission, defeated the domain ruler Daemon (究极魔兽), liberated a new Digital region, and returned in triumph. While passing through the desert, they found I was blocking their way.
+Subsequently, he explained the situation to me one by one. To summarize simply: he and Mante had gone together to execute a **Raid** mission, defeated the domain ruler Daemon, liberated a new Digital region, and returned in triumph. While passing through the desert, they found I was blocking their way.
 
 "Stop being so sentimental," he interrupted. "We have eyes—we'd actively avoid trash."
 
 The last battle with Leviamon had severely damaged Mante's GrandLocomon; after repairs proved fruitless, he had to announce its retirement and would no longer provide carrying services.
 
-"I heard from the Russian guy at 'Mousse Mine' that the higher-ups are building a brand-new version of the database for him. It's a massive project and will take a long time. So, he has temporarily changed his form to HiAndromon. Where he got it, I'm not clear—you can go ask the leader of the **Steel Legions** (钢铁雄兵) guild if he's willing to tell you."
+"I heard from the Russian guy at 'Mousse Mine' that the higher-ups are building a brand-new version of the database for him. It's a massive project and will take a long time. So, he has temporarily changed his form to HiAndromon. Where he got it, I'm not clear—you can go ask the leader of the **Steel Legions** guild if he's willing to tell you."
 
 "Where is he?"
 
@@ -2813,13 +2813,13 @@ In the previous confrontation, I didn't remember the Secretary of Defense or Zac
 
 Mousse Mine was originally an independent server used to reform network prisoners, which humans found very difficult to enter without external connections. The Digimon inside were just like me—all modified, and each one was fierce, terrifying, and a genuine monster.
 
-My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of Deathmon (死亡?. They gave Master a lot of trouble—clashing with them, Master gained no advantage. "Iron Fist Punishment" was easily neutralized, "Quaking Table" was pinned back to the ground, and finally, after using all his strength, he unleashed the move "Gijin! Shinkou! Shinkaku! Oyaji!" (地神！神鸣！神驰！亲父！) to bring down "Hinokamuy" for heavenly retribution.
+My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of Deathmon to bring down "Hinokamuy" for heavenly retribution.
 
 Afterward, Master, dragging his weary body, successfully rescued his friend. Unfortunately, on the way back, they were discovered by three giant GranKuwagamon on patrol and had their path blocked. Fortunately, it wasn't just them who were blocked; Adam, who had also come to rescue his fellow citizens and was also stopped by them, was there too. To protect the Imperialdramon behind him, Adam finally defeated them three-to-one. At the same time, Master realized that even among humans, there existed strong ones who could rival him.
 
 I suddenly asked Dragon: "Who is the 'Russian guy at Mousse Mine' you mentioned?"
 
-"Just a Russian guy, a proxy for the **Steel Legions** (钢铁雄兵) guild—not anyone major. Why? Do you have business with him? Don't tell me you want to go rescue those 'Sistermon sisters' you just mentioned."
+"Just a Russian guy, a proxy for the **Steel Legions** guild—not anyone major. Why? Do you have business with him? Don't tell me you want to go rescue those 'Sistermon sisters' you just mentioned."
 
 "They are my family."
 
@@ -2839,7 +2839,7 @@ Dragon told me that the sisters had once suffered severe brain damage in a car a
 
 I asked him again: "How do you know all this?"
 
-"It so happens," he admitted proactively, "the director of that hospital is actually my distant cousin—the one you all know as the leader of the **Imperial Dragon's Nest** (御龙巢穴) guild..."
+"It so happens," he admitted proactively, "the director of that hospital is actually my distant cousin—the one you all know as the leader of the **Imperial Dragon's Nest** guild..."
 
 *ShineGreymon: Burst Mode (BM).*
 
@@ -2869,133 +2869,820 @@ He gave a wry smile. "What's the hurry? Finish this cup of tea before you go."
 
 ### Chapter 9: Into the Water World
 
-Ferrying a "hacker" to the Deep Sea Temple inside Atlantis was the mission Owl accepted.
+Acting as a network bodyguard, receiving the client, confirming the destination, and beginning the escort mission.
 
-To be precise, our charge wasn't a hacker by trade, but he wore the label like a second skin. According to himself, he had once been a mid-level researcher at Bandai Namco, later fired for "failing to properly manage internal data," and coincidentally logged into the network world just before the system was fully updated, transforming into a Pufferfishmon (刺豚?.
+Like bodyguards in reality, we knew nothing about this client. Protected by privacy regulations, we had no right to inquire about their true identity, only to follow their request and ensure their safety.
 
-"I am a law-abiding citizen," he kept emphasizing as we navigated the Network Sea. "That 'hacker' label was just a slander from my competitors. They couldn't stand my genius, so they framed me."
+Before hitting the road, Dove, acting as the executive representative for the **Free Birds**, confirmed the destination one last time: "The underwater guild, **Atlantis**... is that correct, Mr. Pufferfishmon?"
 
-Owl didn't care about his personal history, only about the safety of the mission. The "Free Birds" were currently sailing a borrowed junk ship, which felt out of place in the high-tech environment of Atlantis hub.
+"There is a problem," he admitted proactively. "Actually, the destination should be the Deep Sea Temple."
 
-"Atlantis isn't a place for people like me," Pufferfishmon whispered, looking at the shimmering domes of the underwater city in the distance. "The 'Deep Sea Temple' is different; it's a private domain, a neutral ground where even the Guild Master of Atlantis, Poseidon, has limited reach."
+"But the request clearly stated..."
 
-Crane, who was navigating through the turbulent currents, added: "Don't be so sure. The Network Sea is unpredictable. We're currently in a zone where the 'Amphibious Brothers' are known to patrol. Those MetalSeadramon are not to be trifled with."
+"I wrote it wrong!" Pufferfishmon raised his voice, and seeing us all staring at him, he lowered it again. "Well, don't mind me, I wrote it like that on purpose. If I wrote 'Deep Sea Temple', I was afraid no one would take the job."
 
-Sakura (Rosemon) looked at the vast blue expanse below. "Is it true? That the guardian of this sea is Poseidon's wife?"
+Falcon retorted, "Afraid it's too dangerous?"
 
-"Lana, the AncientMermaimon," Owl confirmed. "She is known for her aggressive temperament. She won't let us pass without a proper explanation, especially if we're carrying someone labeled as a 'threat'."
+"Sort of. Every time I went there, I was chased away. To put it bluntly, I wasn't strong enough. But maybe with your help, with your power, I can see her this time."
 
-As if on cue, the water around the ship began to boil. A massive whirlpool formed directly in our path, and from its depths, a shimmering figure emerged—AncientMermaimon Lana.
+Things having developed to this point, Dove was scratching his head. He approached Owl and asked, "Captain, look at this... should we still..."
 
-"Halt!" her voice echoed through the water, vibrating in our very bones. "Who dares attempt to smuggle a criminal into the sacred grounds of the temple?"
+"Prioritize the client's wishes."
 
-Pufferfishmon turned pale. "Oh no... it's her. She remembers me."
+Owl gave a definitive answer. Then he confirmed with the client again: "The Deep Sea Temple is the private palace of Poseidon, the Guild Master of **Atlantis**. Outsiders aren't welcome. Are you sure you want to go there and die?"
 
-"Explain yourself, traveler," Lana demanded, pointing her trident at the ship. "Or be prepared to be swallowed by the abyss."
+"I'm sure."
 
-Owl stepped forward. "We are the Free Birds. We carry a client. His crimes are not our concern; his safety is our contract."
+"If something happens, you won't regret it?"
 
-"Then your contract ends here!"
+"No regrets," Pufferfishmon replied decisively. "She and I met there. That place holds our memories. I believe she must be waiting for me there... No matter the result, even if I just see her once, tell her how I feel, I'll be satisfied."
 
-The battle commenced with a catastrophic upheaval of water.
+I didn't know these places or their locations, so I moved closer to Crane and asked for help. "Is there a difference between the two places?"
+
+"A big difference," Crane told me. "**Atlantis** is in the Atrium, along the firewall edge; just head west to find it. But the Deep Sea Temple is hidden inside the Digital World, specifically in the depths of the 'Network Ocean', protected by multiple undercurrents and high water pressure. Ordinary aquatic types can't even reach it."
+
+"Then we..."
+
+"If we can't go under, we go over. We'll use the whirlpools to descend; it won't take much effort. The client has been there, he must know which whirlpool is closest. We'll follow him. Also, Dove won't join us. His mechanical body can't operate underwater, so he'll stay on the surface as backup."
+
+To ensure the operation went smoothly, Dove prepared a new tracking device for himself to pinpoint our location from the surface, allowing him to follow us and provide artillery cover if necessary.
+
+With everything confirmed, the escort officially began.
+
+Crossing the firewall, passing through the forest, arriving at the coast—the journey was incredibly smooth. No one dared to find trouble unless they had the ability to deal with six Ultimates at once. But we actually ran into one. It was an AncientMermaimon. Just as we planned to dive into a nearby Great Whirlpool, she drilled out of it, holding a golden trident horizontally in front of her, blocking our path. It seemed she was here to stop us.
+
+Falcon recognized her first, exercising his role as **Vanguard** to stir up the atmosphere. "Oh, look everyone! The Goddess Guardian of the Network Ocean has come to welcome us personally."
+
+"Isn't she just."
+
+Owl chimed in from the side. Then he directly called out her name: "Long time no see, Lana. I heard your 'UN Five' went to crusade against Leviamon? Why are you here now? Deserting? Or did you not go at all?"
+
+"Don't look down on people with your dog eyes! Stop speculating!" Lana's tone was filled with anger. "This old lady is half-dead from exhaustion. I finally dealt with the 'Demon Lord of Envy', and on the way back, I saw you guys from roughly a mile away surrounding this prickly thing. What! Do you want to help a tyrant do evil?!"
+
+Except for her and Pufferfishmon himself, none of us understood what she was saying.
+
+Seeing our confusion, Lana realized we might not know the client's true face. She raised her trident, pointed it at him, and revealed his true colors to all of us **Free Birds**.
+
+"This guy is a cyber hacker! He usually spreads rumors against the British Royal Family on the internet, posts attacks against them—slander, fabrication, distorting the truth, plus personal attacks! It has seriously affected their daily lives..."
+
+Her revelation sounded more like a vent, mixed with full personal emotion, as if she herself was the persecuted one. I couldn't bear to listen to the rest, because it was all profanity.
+
+I couldn't help but say to Crane, "This broad has quite a temper."
+
+"You have a good eye," Crane sighed. "The foolish have their own foolish blessings. She married a member of the British Royal Family and might have a chance to become Queen in the future. Can her temper be small?"
+
+"So, Guild Master Poseidon is her..."
+
+"Exactly. They just got married not long ago. He built a Deep Sea Temple to fulfill his kingdom dream ahead of schedule."
+
+"Crane, do you think Owl will terminate the agreement with the client to protect the reputation of our **Free Birds** and give up this mission?"
+
+"Who knows." Crane crossed her arms. "Anyway, in my impression, he is not a fickle person. Based on my understanding of him, probably not."
+
+Fact proved Crane right; Owl indeed did not waver because of this matter. He took the initiative to shield the client, standing alone in front of him, facing the trident in his old friend's hand, and stated his attitude: "One-sided words cannot be trusted; who knows if what you say is true. Things that happen in reality should be solved in reality. The network has its own rules. Please, Ms. Lana, show some mercy and don't make it difficult for us **Free Birds**."
+
+"Keep dreaming! The Deep Sea Temple will never welcome a social tumor like him!"
+
+Seeing Owl give her no face, Lana simply tore off the facade with him, showing no regard for old feelings, and stated bluntly: "I'll leave my words here today, Owl. Whether it's you or those behind you, whoever dares to assist him in taking one step into the 'Network Ocean', I'll make them suffer the consequences!"
+
+"Lana, I'll ask you one last time," Owl said, inevitably disappointed. "Do you really want to be our enemy?"
+
+"I should ask you!" The trident continued to approach Owl's face. "Do you really want to protect this guy who opposes us everywhere and makes our lives a mess? Hmph, fine. Friend or foe, it was determined the moment you took this commission!"
+
+"Is that so?" Owl drifted a sentence lightly. "In that case, don't blame me."
+
+"Come on! I'm not afraid of you!"
+
+As Lana spoke, she raised the trident in her hand, rising a huge whirlpool that trapped all of us inside. We were momentarily flustered; before we could react, in the next second, Lana used the trident to drive the seawater on the wall of the whirlpool, throwing her best Special Move at us—"Crystal Billow."
+
+Crystallized water, harder than metal. It struck like a torrential rain. If not for Dove's huge natural steel body, everyone would have been left with a few holes.
+
+The battle began. Falcon took the lead, using "Wolf Claw Circle" to bounce off all the water crystals shot at him, quickly approaching Lana. Lana knew she couldn't win by strength, so she summoned a current in time to slap Falcon out of the whirlpool. Meanwhile, the "Dark Despair" loaded on Crane's left hand was about to arrive. Lana had no time to dodge, so she curled up, used her fish tail to borrow force, and fanned Crane's head, causing her body to tilt to one side. Finally, she used the trident to send her to the bottom of the whirlpool.
+
+Seeing this, Owl quickly removed the Brave Shield from his back, held it in front of him, stepped on Dove's huge body, leaped with all his might, and charged head-on in Lana's direction, directly slamming her into a nearby water wall.
+
+"Sakura, take him down quickly. I'll stall Lana."
+
+"Understood!"
+
+Owl dove into the water and fought with Lana. Taking this opportunity, I quickly grabbed our client, Pufferfishmon, jumped off Dove's shoulder with him, and fell towards the bottom in the direction Crane had fallen.
+
+"Was what she said just now... true?"
+
+I sought confirmation from the client, hoping he would refute it. Unexpectedly, he nodded in affirmation: "For a living, I had to do it, otherwise... I, I also have difficulties! Please believe me!"
+
+This was the first time I had encountered such a pale and feeble explanation.
+
+"Whether to believe depends on me; whether you did it depends on you."
+
+This was an established reality, beyond doubt.
+
+I advised him: "I believe no one in this world wants to do things against their conscience. So, next time, before doing such a thing, ask yourself, ask your conscience, whether you are building your happiness on the suffering of others. Will the person you have always looked forward to seeing forgive you?"
+
+After hearing my words, he chose silence.
+
+I am not a saint, nor an emotional expert. I can't say beautiful words. I can only do my best to let the parties involved conduct a minimum level of self-reflection. I hope he can awaken the kindness sleeping in his heart and stop causing trouble for others.
+
+"By the way, you said before that you were chased away every time you went. Who does this 'they' refer to?"
+
+"The 'Amphibious Brothers'. You should have heard their names. They... Watch out—"
+
+He suddenly shouted at me, then grabbed my hand, pulled my body, and threw a "British Buttonhook" behind me. Listening to the sound, it seemed to hit a very hard metal product. Looking back, it wasn't a metal product at all, but clearly a MetalSeadramon. It had just wanted to rush in from outside the whirlpool and swallow me whole. Fortunately, my client discovered it in time and acted in time, saving my little life.
+
+"Thanks."
+
+"A piece of cake. Ouch, it hurts..."
+
+Indeed, even with knuckles protected, punching metal wouldn't feel good.
+
+"...It's the 'Amphibious Brothers'. They're here." He explained to me while rubbing his fist, "It will take some time to reach the bottom of the whirlpool. They will hover around, looking for opportunities to attack us. Triplets, three brothers, three MetalSeadramon that look exactly the same. Be careful, they are not easy to deal with."
+
+His last sentence reminded me. It forced me to distract myself and pay attention to the surroundings, preventing the other two dangerous guys from suddenly drilling out from behind the water wall.
+
+"How did they come?" I couldn't figure it out.
+
+The client answered my doubts: "All 'Great Whirlpools' are created by AncientMermaimon. The 'Amphibious Brothers' are responsible for taking turns to guard these whirlpools. If one is frustrated, the other two can quickly sense it and come over."
+
+"Watch out—"
+
+We both shouted at the same time. The difference lay in the direction we were facing. He faced down, I faced up. One up and one down, two MetalSeadramon stuck their heads out from behind the water wall, forming a pincer attack, opening their bloody mouths and pouncing on us.
+
+The disparity in size left us nowhere to hide. My "Rose Rapier" could not pierce the **Chrome Digizoid** covering the MetalSeadramon's body. The spikes covering Pufferfishmon's body were of the same material and might have been useful; knowing this, he wanted to use his unique move "Needle Squall" to resolve the crisis, but to take care of me beside him, he hesitated until the end and had to give up.
+
+At the critical moment, Falcon and Crane arrived in time. One used "Crescent Haken," sending out countless yellow beast crescent blades formed of ice; the other used her right arm to release the arrow of light "Holy Hope." The two of them, one high and one low, pincered the pincer attack of the Sea Dragon brothers, successfully saving us.
+
+"Are you okay, Sakura!"
+
+Falcon sent a greeting to me on behalf of Crane. After I expressed that I was fine, they both showed me a state of recognition at the same time, making me feel very uncomfortable, as if I had been underestimated by them.
+
+"You did a great job."
+
+"You don't need to say it." I reminded Crane, "Get ready, they are coming again!"
+
+The client was the protected object. Unless absolutely necessary, he shouldn't be allowed to act.
+
+Falcon and Crane were born warriors. They each pinned down a MetalSeadramon, scattering left and right, leaving only me. My whole body wasn't covered by a single piece of metal, yet I had to deal with a steel dragon covered in metal alone. This was almost an impossible task.
+
+Right now, there was no room for hesitation, nor any chance to retreat. The muzzle at the tip of his nose was aimed at me, "River of Power" poised to fire. I couldn't care about anything else; I had to bite the bullet.
+
+"Don't underestimate me!"
+
+Expressing the emotions suppressed in my heart, I concentrated all my energy and released "Forbidden Temptation" to counter the wave.
+
+Limited by the space of the whirlpool wall, the red and green light waves didn't have enough space to continue the stalemate. The contest between them eventually evolved into a fixed-point blasting mode. The huge shock caused lifted the water wall and blocked the whirlpool current. The surging seawater hit me head-on. With my relatively petite figure, I couldn't resist it at all. I could only be ruthlessly swallowed, merged into the vortex, and sank to the bottom of the sea, ending up with no one to care for me.
+
+*So I thought*, and my body went limp unconsciously. Dancing freely with the turbulent flow, all struggles seemed so powerless; not only was I dizzy, but my limbs were completely out of my control. My torso felt like it was about to be torn apart by the strong current, and my throat was filled with seawater, unable to call for help.
+
+Suddenly, a pair of strong hands hugged me from behind. Turning my face to look, what caught my eye was my hero—Owl. He had saved my life once again. To save me, he had been forced to give up his entanglement with Lana.
+
+I stared at him foolishly. For a moment, I even forgot that he was my captain.
+
+"Get up quickly! How can the **Support** fall first!"
+
+Expecting to seek romance from him, I was definitely out of my mind.
+
+He took me out of the water wall and returned to the cavity created by the Great Whirlpool, reuniting with Falcon, Crane, and our client. At this moment, the three MetalSeadramon opposite had already set up their killing formation, simultaneously transporting energy to the muzzles at their nose tips, and then releasing it without explanation.
+
+Three brilliant green "River of Power" beams converged together. The generated impact was unstoppable, capable of overturning everything in front of it. As the Captain, Owl had to remove the Brave Shield from his back, prop it in front of him, rush forward, and forcibly bear this powerful blow for us.
+
+"Hey, that's too reckless!"
+
+"Captain, you..."
+
+"Don't, Owl—"
+
+The voices of Falcon, Crane, and me rose and fell. Accompanied by our three shouts, Owl first resisted with the shield for two or three seconds, then was directly blown away by the strong impact, disappearing without a trace.
+
+Including the client, everyone was stunned, unwilling to believe everything they had just seen. Deep in the ocean vortex, unable to attend to the Captain's safety—Dove would naturally go to save him on the surface—all we could do was focus on these aquatic enemies before us and vent the anger burning in our hearts on them.
+
+Four against three. Not enough hands? The client will make up the number.
+
+Representing the **Support** position, I issued an invitation to him: "Mr. Pufferfishmon, please lend us a hand."
+
+He clenched his fist and declared righteously: "I will go all out!"
 
 ---
 
 ### Chapter 10: Raging Tides and Furious Roars
 
-The maelstrom's gravity was absolute. Owl was the first to be knocked overboard, his BlackWarGreymon armor proving heavy in the turbulent water.
+Owl's exit encouraged their morale, but at the same time, it also ignited our fighting spirit.
 
-"Owl!" Sakura cried out, but she had her own problems. Two MetalSeadramon had emerged from the depths, their metallic bodies glistening like deadly torpedoes.
+Enemy and friend alike engaged in a death match surrounded by the Great Whirlpool. Falcon went to deal with Lana, leaving Crane, me, and our client Pufferfishmon—three of us—to deal with the "Amphibious Brothers."
 
-"We'll gut the fish!" Crane shouted, his Craneform shifting through the water with unexpected agility. He and Sakura coordinated their attacks. Sakura used her "Forbidden Temptation" (禁断诱惑) to slow down the first MetalSeadramon, while Crane delivered a series of precise strikes with his leg blades.
+Blades against tridents, Beast Wolf against Mermaid. It wasn't sparks that were struck, but grains of crushed ice. "Crescent Haken" met "Crystal Billow" head-on; unknowingly, a layer of ice fog shrouded the already cramped center of the whirlpool. Looking out through the ice fog, I saw a Mastemon dodging the devouring giant mouth of a MetalSeadramon back and forth; she kept sending arrows of light released from her right arm behind her, which were constantly destroyed by the wave cannons shot by the other side. Not far from them, Pufferfishmon unleashed "Needle Squall" with all his might, followed by a "British Buttonhook" that hit the MetalSeadramon's muzzle head-on, instantly silencing it. Observing his move, I began to imitate him; facing the muzzle turning towards me, I took advantage of my agile figure, used "Thorn Whip" to wrap around his mouth, and just as he finished charging, I used "Rose Rapier" to thrust straight into the muzzle.
 
-The battle underneath the surface was chaotic. Pufferfishmon was huddled in a corner of the ship, which was now miraculously staying afloat thanks to some invisible force.
+The MetalSeadramon let out a painful wail. After that, the energy storage device inside its muzzle was destroyed, causing the energy within to break through the constraints of the metal muzzle and scatter in all directions. Finally, under one of my "Forbidden Temptations," he completely broke away from the pain. The ruptured muzzle emitted puffs of black smoke, and his huge body tilted to one side, slowly falling towards the seabed along the whirlpool wall.
 
-"You're not bad for land-dwellers," a booming voice echoed. Neptunemon (Poseidon) had appeared, standing atop the head of the third MetalSeadramon. "But you've brought a plague to my doorstep. This hacker once spread rumors about the royal family—rumors that nearly destabilized the diplomatic relations of the Atrium."
+"Beautifully done, Sakura!"
 
-"I was just telling the truth!" Pufferfishmon screamed.
+Crane was the first to send me congratulations. Not to be humble, I, the **Support**, gave them a good start.
 
-Poseidon ignored him and aimed his trident "Trishula" at Sakura. "You protect a liar. That makes you complicit."
+With one brother defeated, the other two wouldn't feel good either. They turned their heads one after another, gave up their previous opponents, locked their targets on me again, harboring anger, swearing to avenge their brother. Of course, if they wanted to touch me, they had to ask the others if they agreed first.
 
-Just as the situation reached a breaking point, a flurry of pink petals descended from the water's surface, somehow remaining dry and vibrant in the deep sea.
+Crane flapped the five pairs of wings on her back and caught up at full speed, using "Dark Despair" on her left arm to deal with the frontal impact of the "River of Power." The energy of the wave cannon came from inside the MetalSeadramon's body. Like him, it was composed of data and would also be deleted as fragmented data by Crane's left hand. Crane realized this, and after confirming that she could continue to resist, she went up against the muzzle and used the same "muzzle blocking" method as me to end another one.
 
-"That's enough, Poseidon."
+"One last one left." Crane said, taking the initiative to send me an invitation: "Let's go together, Sakura."
 
-Guild Master Flower (BanchoLilimon) appeared, floating gracefully in a bubble of air. "Senior Muca would frown upon such heavy-handed oppression of the uninitiated. over some petty rumors."
+I never refuse such requests.
 
-The name "Senior Muca" seemed to have a magical effect. Poseidon's eyes narrowed, but he eventually lowered his trident. "Lilimon. You always interfere at the most inconvenient times."
+However, the situation did not go as smoothly as we thought. Because two brothers had been defeated in succession, the last one didn't want to fall into the same situation as them, so he was unusually desperate and unusually full of power. My "Thorn Whip" passed through the blade hole on his head, yet he could still throw us off his head, showing that his anger had reached an extreme point.
 
-"It's called mediation, darling," she smirked. "The mission is complete. Pufferfishmon has reached the temple's borders. Let him go to his 'lost love'."
+Finally, there was really no way. To save our lives and the client's life, and not be harmed by this crazy MetalSeadramon, Crane had no choice but to sacrifice her ultimate move—"Chaos Degrade."
 
-Poseidon sighed. "Very well. But if he ever leaves the temple, he belongs to the sharks."
+"Sorry, I didn't want to do this..."
 
-The "lost love" mentioned turned out to be a Marin Angemon, who had been waiting at the temple's gates. Their reunion was surprisingly touching, reminding Sakura that even in this digital world, data could carry genuine affection.
+Crane rarely showed her gentle side. Seeing that the other party refused to stop, she hardened her heart and sent out the light and dark energy gathered on her left and right hands. The two merged with each other, gradually producing a dimensional gate that would suck everything around it into it for a complete burial.
 
-As we prepared to leave, Sakura asked Adam later at the bar: "Why did Poseidon listen to Guild Master Flower? Who is this Muca?"
+"It's over." I stretched and sighed a long sigh. Just as I wanted to show a relaxed mood, in the next second, I was frightened by a voice coming from behind.
 
-Adam polished a glass. "Muca is a legend, Sakura. He's the one who taught many of the current Guild Masters. His word is law, even if he's no longer around to enforce it."
+"It's still too early!"
+
+Looking back in the direction of the source of the voice, there seemed to be something inside the water wall. Immediately afterwards, a spear suddenly sprang out from behind the water wall. The speed was so fast that it was difficult to catch with the naked eye. It directly pierced the energy center and prevented the manifestation of the dimensional gate. The violent explosion caused directly dispersed the water wall of the Great Whirlpool, calming all the turbulence and currents in front of us.
+
+After that, the spear returned to its owner's hand. Following its direction, we saw the figure hiding behind the water wall. Like Lana's AncientMermaimon, he dragged a long fish tail behind him. Compared to Lana's slender version, his was much thicker; his body was covered with scale armor made of Blue Digizoid, making the whole look extraordinary and giving people a very majestic feeling. Judging by appearance alone: he was a strong man.
+
+"I wondered who dared to be presumptuous at my door. It turned out to be a group of free birds. Oh? And missed a bedbug."
+
+"You are the bedbug..."
+
+Pufferfishmon spoke this sentence with difficulty. His rebuttal sounded so weak and feeble at that moment.
+
+Being able to speak underwater proved that he was an aquatic king no less than the other four. Saving one of the "Amphibious Brothers" as soon as he made a move, his strength could not be underestimated. Seeing that we were affected by the explosion, shocked into losing our fighting spirit, and stunned by the strong ocean current, he didn't lower himself to our level anymore. Instead, he turned his spearhead to Falcon, who was dueling with Lana on the other side. In his words, insulting him was fine, but bullying his woman was absolutely not allowed.
+
+I didn't expect him to be Poseidon, the Guild Master of **Atlantis**, or perhaps I should call him the King of the Deep Sea Temple, Neptunemon. Intuition told us that next, Falcon would die miserably.
+
+Thinking of this, Crane grabbed my hand and pointed her other hand in Falcon's direction, seemingly signaling me to save him quickly. I understood immediately and swam towards Falcon, dragging my body which was healing at extreme speed; a Rosemon recovers as long as there is water. Whenever conditions allow, sometimes, it is just that convenient.
+
+By the time I arrived, Falcon had already undergone a beating. He was choked by the neck one at the front and one at the back by the aquatic couple, unable to breathe, struggling constantly in the water. The "Crescent Moon Sword" in his hand had fallen elsewhere, stuck in the coral on the seabed far away from him. It took me a long time to pull it out.
+
+I was just about to go up and help him when suddenly a loud noise came from above my head, and the surging current that followed almost washed me away again. Fortunately, I had the Crescent Moon Sword; sticking it into something made it safe. Looking up, a "Giga Missile" shot into the sea and detonated under the action of a "Dark Gaia Force." The impact caused forced the couple to let go of their prey for self-preservation.
+
+After the explosion, Owl dove back into the seabed to protect his little brother Falcon and let him retreat to the surface to join Dove first, staying behind to deal with these two barbaric spouses himself.
+
+"Who are you calling barbaric!"
+
+Lana was ten thousand times unwilling after hearing his address for herself. She was just about to get angry, but was stopped by Poseidon with one hand: "Honey, don't get angry with barbaric invaders. just figure out a way to kill them."
+
+As soon as these words came out, both sides immediately started fighting.
+
+One against two, Owl was always at a disadvantage. I could never intervene in the battles between them, the strong, nor could I intervene, because I was actually still a long distance away from them—I could only see them. They could be lively and vigorous underwater, but I couldn't. After all, my strength was limited and I couldn't easily overcome the water pressure and current. But that didn't mean I would choose to sit and wait for death. Interfering with the enemy is also a way of **Support**.
+
+Throwing out the "Thorn Whip" in my left hand to bind Lana and releasing high-voltage electric shocks to temporarily restrain her—in this way, Poseidon wouldn't focus all his attention on Owl, and Owl could take this opportunity to use "Black Tornado" to defeat the opponent in one fell swoop.
+
+However, I seemed to forget to consider one point. Owl's opponent was a Guild Master. Dealing with him was far from that easy. What I never expected was that the stick spear in his hand named "Vortex Penetrate" actually possessed its own thoughts. After being thrown by its master, it could change its moving direction underwater on its own, find the thorn vines binding its master's wife, bite them off with the "Terrible Bite" at the head, and bring her freedom again.
+
+"Honey, leave that girl over there to you."
+
+"No problem. You also keep an eye out on your side; the captain of the **Free Birds** is very difficult to deal with."
+
+"Haha, I'll verify the range of his knowledge. I didn't become this Guild Master for nothing!"
+
+Being able to fight with the representative of the British **Raiders** was my honor. Unfortunately, I love peace and didn't want to have too many entanglements with her, especially in this situation where the client was nowhere to be seen. To put it rudely, I felt it was unnecessary.
+
+She carried the trident in her hand and rushed towards me aggressively. I had no choice but to accept the challenge. I released a very long string of vines in advance and used it to stir the seawater, creating a whirlpool to attack her. As a result, she was not affected at all and still kept coming towards me at a very fast speed.
+
+If you think my strength is only this much, then you are very wrong.
+
+Since I knew she was an aquatic type, I naturally wouldn't use moves on her that wouldn't have much effect on aquatic types. Such stirring was actually just to lure her into my trap. Then, with a tight pull, she was bound by me again. She had to cooperate, otherwise the high-voltage current would make her feel good.
+
+Reasonably speaking, if you are captured, you should be obedient and stop causing trouble. However, this woman named Lana broadened my horizons. She was worry-free to a certain level; relying on her mermaid advantage, she continuously dragged me, who was binding her, in the water. The purpose was estimated to distract my attention so that I wouldn't have time to care about the two men above. I kept a relatively safe distance from her at all times to prevent her from slapping me dizzy with her fish tail. Gradually, I couldn't stand her anymore. Underwater, I couldn't threaten her with words, so I had to show the Crescent Moon Sword in my hand to her. After that, she stopped a lot.
+
+Really, wouldn't it have been over if you did this earlier!
+
+To prevent her from attacking while I wasn't paying attention, I used "Rose's Cradle" to hypnotize her. This way, I could free my hands, coil her fish tail on her trident, and let her take a nap alone on the seabed, so I could spare time to go up and help Owl. He was now in a temporary crisis. I didn't know if it was because of attribute restraint or because he wasn't familiar with the ocean terrain, but he was firmly fixed to a reef by Poseidon with the spear in his hand; the fish-head spear tip continued to gnaw at his arms, and the connection between his arms and the "Dramon Killers" was also miserably gnawed. He was now unilaterally reduced to the bullied party, looking indescribably aggrieved.
+
+How could I watch my hero suffer such grievances? A "Thorn Whip" lashed out, hitting his fish tail—to be precise, his buttocks—successfully attracting his attention.
+
+Owl must have been extremely puzzled by my death-seeking behavior. Of course, this was my guess; don't expect to observe any expression on BlackWarGreymon's face—it's the same for other types of Digimon.
+
+"Little girl, you shouldn't anger a king."
+
+"You shouldn't shout at my hero in front of me either."
+
+In the water, of course, this sentence couldn't be spoken. I could only prove it with my actual actions. "Forbidden Temptation" was the best example. Although it was blocked by Poseidon spinning the spear in his hand, it gave me enough opportunity to deliver the Crescent Moon Sword in my hand to my hero.
+
+"Hack him!"
+
+My eyes said this to Owl. I hope he could understand.
+
+He unloaded the "Dramon Killers" mounted on his arms, took the Crescent Moon Sword I sent, and instantly regained his spirit. Seeing this, Poseidon's face was a little flustered, but he quickly recovered.
+
+"Afraid of you just because you changed weapons? Take this—"
+
+Just as he said, changing weapons indeed couldn't completely hold him off, but at least he could fight back and forth with him in the water, not falling into a situation of being beaten.
+
+The two strong men continued to fight. Gradually, Guild Master Poseidon lost his patience. He was anxious to decide the winner and go find his other half. Taking the opportunity of the spear holding the Crescent Moon Sword, he used "Gate of Atlantis" on Owl, summoning a huge water column to attack Owl head-on. The power was no less than a single "River of Power." Even if Owl held the Crescent Moon Sword to resist, he was sent a long distance away, finally hitting a nearby reef, drifting slowly from the water like a shell.
+
+Rushing to his wife's side, when he found his wife unconscious, Guild Master Poseidon could no longer suppress the emotions in his heart. Without waiting for me to explain with simple gestures, he used that "Vortex Penetrate" which was enough to penetrate the dimensional gate on me.
+
+Its speed was swift, like lightning. One second it left his hand, the next second it was approaching my eyes. I didn't have time to dodge. Watching the spear tip about to hit, a yo-yo suddenly flashed past my eyes, pushing aside the pair of fatal spear tips for me. Immediately afterwards, a familiar voice came from behind me: "Guild Master Poseidon is very merciless to our people. Fear he doesn't want to actively provoke a struggle between guilds, huh."
+
+The one who saved me was none other than the Guild Master of the **Sylvan Garden**, "Flower" (BanchoLilimon). Her appearance was very unexpected to me, but as long as she was there, Guild Master Poseidon wouldn't dare to touch me unless he wanted to fight one against two—to be precise, one against three, because Owl had regained his fighting spirit at this time.
+
+"You really have the nerve to say that!" Poseidon shouted at us angrily. "The intruders are clearly you guys! Look at the surrounding environment. A perfectly good Network Ocean has been messed up by you. I see, you are just looking for trouble sincerely, deliberately coming to fight me!"
+
+Guild Master Flower didn't think so. She showed a delicate appearance, took one of my arms, treated me as her good sister, hid behind my body, and said to her old acquaintance Poseidon: "In my opinion, they don't have the time. As for me, routine inspection, running around to see if any Guild Master is wantonly provoking disputes, forgetting Senior **Muba**'s parting instructions, and wanting to engage in that mutual opposition set. Oh my, I didn't say it was you, don't mind, ha."
+
+Her words undoubtedly alerted the other party.
+
+"You are still as despicable as before, Flower, actually daring to use Senior **Muba** to suppress me."
+
+"It's you yourself who has a bad memory and needs me to remind you."
+
+I didn't quite understand who the "**Muba**" they were talking about was. Whenever this name was mentioned, both of their tones would involuntarily become respectful.
+
+"Fine, you win this time!" Poseidon swallowed a breath unwillingly and said, "For the sake of Senior **Muba**'s face, I'll let you off today. But, remember this! From now on, don't step into the Network Ocean again! Otherwise, even if you escape back to reality, I won't let you go!"
+
+"Thank you, Guild Master Poseidon, for your understanding. We won't disturb your world of two anymore. Leaving first."
+
+After that, Guild Master Flower hurriedly pulled me and Owl into the space tunnel she cut open to evacuate in time. I asked her why she was in such a hurry. She said she was worried Poseidon would change his mind.
+
+"Don't believe any promise that guy makes; who knows when he'll forget it."
+
+Looking at it this way, we were quite lucky. Thanks to Guild Master Flower coming to the rescue, otherwise I really wouldn't dare to think about what would happen later and what kind of dangerous situation we would encounter.
+
+"By the way, Guild Master, why did you come?"
+
+"Little Snake called me. She accidentally heard someone in the bar talking about the 'Amphibious Brothers,' saying they were patrolling the waters near the Deep Sea Temple. As soon as she thought of you guys, she rushed to find me for help, so I came."
+
+As a result, she was a step late and happened to bump into the Guild Master of **Atlantis**.
+
+"Then she..."
+
+"Went back to drinking. She has a huge capacity for alcohol. She often brags to us that she alone can drink 'Drink a Glass Bar' out of business. Don't tell the boss about this, otherwise he will raise the price again."
+
+How to say it... there were too many slots in just two sentences of dialogue; I didn't know which part to complain about.
+
+Our matter came to an end for the time being. With the help of Guild Master Flower, the commission was successfully completed. Pufferfishmon finally saw the person of his heart. The other party was a MarineAngemon.
+
+"Want to know why our client is so persistent?"
+
+I became interested in the question Owl raised: "Tell me."
+
+"Because both of them are like you. The 'Trial Badge' device was accidentally damaged, and they can only stay in this world composed of data. This place is their everything."
+
+*This place is also my everything.*
+
+Pufferfishmon fell in love with a person in the Deep Sea Temple. She was MarineAngemon.
+
+They used to be too weak to roam and survive in the Digital World together, so they had to rely on the strong to survive. Pufferfishmon chose **Mutant Research Lab**, and MarineAngemon chose **Atlantis**. Before parting, the two made a promise: whoever gained power first must not forget the other, must go to the guild the other belonged to to find the other, always worry about the other, and never forget the other.
+
+Such a story sounds romantic, but in fact it is an invisible shackle. Just like the lonely me. There are always days when Owl and the other companions of the "Free Birds" will log out of the Atrium and return to reality to enjoy their lives and their lives, while I can only stay here alone, accompanying a bar owner named Adam, helping him out, acting as a bar girl, and taking care of these adults who are like babies.
+
+Boring but fulfilling. Maybe life is just like that.
 
 ---
 
-### Chapter 11: Hephaestus Workshop
+### Chapter 11: Hephaestus's Forge
 
-The peace didn't last long. A new mission arrived, and this time, it involved a search for a missing person: Master Nagasumi (Vulcanusmon), the legendary blacksmith.
+This story is a long one.
 
-"Without him, the Atrium's weapon supply will dwindle," Owl explained. "But more importantly, he's one of the ten Mediators. If he's gone, the balance of power shifts."
+That day, the **Free Birds** received a commission. The content was simple: lead our client to "Hephaestus's Forge" to find the smelting blacksmith there, Teacher Changsun, to repair the damaged metal data on his body. Just leading the way for a newcomer was our honor as seniors. However, when we arrived, we found that Teacher Changsun was not in the house. We asked around the neighbors for a long time, but no one knew where he went. This put us in a difficult position.
 
-The narrative then shifted to the history of the Olympos XII. Originally an unreliable group of individualists, they had been forged into a cohesive mediation organization by Jupitermon. However, internal dissension was growing.
+In Owl's words, having known Teacher Changsun for so long, he had never seen him leave his territory, let alone without saying hello or leaving a note. It was contrary to his rigorous style of doing things.
 
-A conflict had erupted between the "Fang of the Beast King" (led by BanchoLeomon, known as Ultra) and the "Windrunner Brigade" (led by Orphanimon, known as Wind). It was a struggle between beasts and birds, mirroring a long-forgotten rivalry.
+"Could it be that he has an urgent matter?"
 
-"Wind is being too soft on the 'Substitutes'," Ultra roared during a public confrontation in the Atrium square. "The Raiders should be the ones leading, not some glorified security guards."
+My unauthorized speculation was unanimously denied by everyone.
 
-Owl decided to intervene. He didn't like being caught in guild politics, but the stability of the Atrium was at stake. He gathered the Free Birds and a few elite members from both guilds—including a newcomer named Xiao Yong in the form of Rasenmon.
+According to their description, Teacher Changsun is a 95-year-old ethnic Chinese with inconvenient legs and feet. It is rare and difficult for him to travel far alone unless he switches to the image of a Digimon; in that case, he will change his past aging state and return to the youngest state in his life. With the body of Vulcanusmon, he walks as fast as flying. The eight arms on his body are quite recognizable. Once seen, he will leave a very deep impression on people.
 
-"We go to Sanhara," Owl declared. "The Mediators are meeting there. If we find Master Nagasumi, we find the answers."
+After that, we asked people nearby again, but no one had seen him. Having no choice, we had to persuade the client to return to his guild to wait until Teacher Changsun came back, or until we found him and then led him over.
 
-The journey to Sanhara was tense. Falcon and Dove were unusually quiet, sensing the weight of the coming confrontation. Sakura felt a premonition of danger—a shadow that didn't belong to any of the known guilds.
+Three days later, we searched all the streets of the Atrium, big and small, but still found nothing.
 
----
+Returning to the **Drink a Glass Bar** in disgrace to accept the verbal teasing of the regular customers, just as we were about to enjoy the wine treated by a few of them, a flustered man suddenly broke in from outside the door, lying on the table nearest the door, panting heavily. I looked at him and found him somewhat familiar. I leaned over and saw that it was our client. He conveyed a very bad piece of news to us, bad enough to make the originally noisy bar silent.
+
+"It's bad, it's bad... well, our guild got into a fight with the **Windrunner Brigade**..."
+
+*So what?* I seemed to have written this sentence on my face.
+
+Seeing this situation, Owl took the initiative to come over, pulled me aside, and intimately added a part of the setting for me: "The current Atrium is different from the past. Guild struggles are explicitly prohibited. Once anyone violates the 'peace' principle set at the beginning, whether it is provoked by personal reasons or by the guild, both sides of the struggle will suffer severe punishment from the Mediation Organization."
+
+The Mediation Organization he referred to was the Olympos XII. At that time, the Atrium was still in the public beta period, the **Raiders** had not yet been established, and the "Promotion Seed" had not yet been designed. The ten major guilds were hostile to each other, and there were pitifully few Ultimates. The development team specially selected twelve Ultimates with the most "responsibility" attribute from 99,999 test accounts, granted them the ability of Deity Evolution, allowing Digimon at the Ultimate level to evolve into temporary Megas, forming a mediation organization composed of twelve Megas, counting on them to quell the struggles between guilds.
+
+"Only when the twelve of them are present at the same time can they obtain the ability of Deity Evolution. Once anyone dies in battle, logs out, or is beaten to degenerate, the remaining eleven will immediately revert to their previous Ultimate state."
+
+To sum up in one sentence: counting on them at that time was completely unreliable.
+
+In the process of mediation, it was often encountered that the two sides of the dispute united to beat one person in the mediation organization; as long as that person was beaten to degenerate, the remaining eleven would also degenerate. After cleaning up the mediation organization, most of the two sides of the dispute would shake hands and make peace, leave, and at most fight a little more without hurting their lives, stopping at the point.
+
+"Sparrow was also one of them. Evolving from Angewomon to Venusmon, she carried out the love and peace she believed in to the end. So innocent, so pure and beautiful... We met under such circumstances."
+
+The behavior of the Mediation Organization was thankless, not to mention that it was extremely possible to lose a life.
+
+The development team also realized this. After the Atrium system was officially operated, they strengthened the ability of Deity Evolution, changing "temporary evolution into Mega" to "permanent evolution into Mega," and dissolved the connection between the twelve people, allowing them to maintain independent individuals and come forward to preside over mediation work when contradictions arose between guilds.
+
+After that, Poseidon voluntarily withdrew from the Mediation Organization, took over the **Atlantis** guild, and became the Guild Master there. The Mediation Organization thus became eleven people. At that time, Sparrow took into account both the Mediation Organization and the **Free Birds**. When following the **Free Birds** to carry out a **Raid** mission, she encountered an unexpected event and was beaten back to Ultimate by Diablomon, losing the ability of Deity Evolution forever; before the development team could design a new Deity Evolution program for her, she was taken away from the world by illness one step ahead.
+
+"Currently, there are only ten people left in the Mediation Organization."
+
+Ten people, none of whom were fuel-efficient lamps. Every one of them possessed the strength of a Guild Master level. No guild had the ability to rival them. Their existence was a disaster.
+
+"Owl, what did you mean by severe punishment just now?"
+
+He answered me directly in a different tone: "It means slaughter."
+
+"Huh?"
+
+I was deeply shocked by his answer.
+
+According to him, under normal circumstances, as long as the two sides of the struggle didn't fight and cooperated with the work of the Mediation Organization, under their mediation, if the attitude of both sides improved, they wouldn't lower sanctions. But this time, the dispute happened to be between **Fang of the Beast King** and **Windrunner Brigade**. One was the brave guild with the strongest self-esteem in the whole Atrium and the least tolerance for others pointing fingers at them; the other was the free guild in the whole Atrium that yearned for freedom the most and was not bound by various rules and regulations. Beast against Bird, Tooth against Claw. The two didn't get along to begin with. With the addition of a Mediation Organization, if they really made a scene, they might overturn the entire Atrium.
+
+"Neither of the two Guild Masters is easy to talk to. If neither of them cooperates, then they can only be enemies with the Mediation Organization. To put it bluntly, it means dragging the people of the entire guild to die together. With the strength of their two guilds, all people added together cannot be the opponents of those ten guys, unless..."
+
+"Unless?"
+
+His words attracted my attention, as well as the attention of everyone in the entire bar.
+
+"...Count us in."
+
+As soon as the voice fell, the whole audience was inevitably in an uproar. Everyone was doubting their ears. Many people were stunned in place, at a loss, including our client and everyone in the **Free Birds**.
+
+The most emotional one was the owner here, Guild Master Adam. He put down the wine glass in his hand, stepped on the stool, flipped over the bar counter, rolled and crawled to Owl's side, and squeezed me away directly. Facing Owl, Guild Master Adam pointed at his nose very angrily, repeatedly forcing him to take back what he just said: "Are you fucking crazy! It's bad enough to oppose anyone, but you insist on opposing 'God'! Oh my! When the time comes, if something really goes wrong, I, I can't save you!"
+
+The strength in his hand was great, so great that Owl was poked back three seats by him. It could be seen that he was really anxious about the decision Owl just made. He didn't want to lose Owl, lose a regular customer here, and even more didn't want to lose a friend.
+
+"Do you think I want to?" Owl expressed helplessly. "There is no one in the Atrium who can restrain Ultra and Wind. If we want the situation not to develop in a serious direction, we can only pull them to stand on the same front."
+
+"But just relying on you guys—"
+
+"No need to say more." Owl reached out to stop Guild Master Adam's words, gently pushed his hand away, and completely convinced him with only one sentence: "Senior Muba expects to see no fighting between guilds, not to see two guilds destroy themselves because of fighting."
+
+This sentence was said beautifully. No one in the entire bar could refute it.
+
+Then, Owl asked our client about the details of the conflict between the two guilds. Before leaving, he whispered to Guild Master Adam for a while. I turned my ear to eavesdrop, but didn't hear too clearly, only heard a few key words: Jade, Raid Group, Investigation. I estimated that Owl discovered some problem from it and wanted Guild Master Adam to convey this matter to the principal of the **Raiders** through his sister Jade, so that he could issue instructions in time and let the **Raiders** take over the investigation of this matter as soon as possible. After all, our strength here was limited and we couldn't hold on for too long.
+
+With the gift given to me by Guild Master Adam, all members of **Free Birds**, under the gaze of a group of alcoholics, followed our client to the next battlefield—Sanhara. That was the public domain where the two major guilds were located. Neither of them had set up building-type guild strongholds; compared to those fancy buildings of other guilds, they paid more attention to the people in the guild, and the feeling they brought to themselves.
+
+To say whether the four of us had the idea of going to die with Owl, to be honest, not really. It was mainly because Owl showed an imminent look, as if everything would be finished if we didn't go. So, we were all forced; he didn't ask for our consent.
+
+After talking to myself all the way, I finally followed them to this desolate plateau.
+
+Sanhara is located inside the Atrium, in the southwest fringe area. Standing on the edge of the cliff here, you can overlook the entire Atrium. The scenery is beautiful, and the light breeze blows on your face, feeling very close to nature. It would be better without the three groups of people behind me.
+
+Let me introduce briefly. On our left were all online guild members led by Guild Master Wind (Wind) of the **Windrunner Brigade**. The vast majority could fly, and only a small part stayed on the ground, facing the blowing wind, everyone's face showing enjoyment; on our right was the Beast Legion led by Guild Master Ultra (Ultra) of **Fang of the Beast King**. They rarely kept their human appearance usually. Saying what, brave men never reveal their true identities to outsiders, in fact, they were just a group of hopeless hot-blooded bastards.
+
+The two major guilds confronted each other. Ten mediators stood opposite us, watching the situation. Everyone's image looked not to be messed with. I recognized one of them; eight arms were obvious enough.
+
+At this time, Owl had switched to the image of a Digimon, ready to do it at any time. I came to his side, looked at the "Dramon Killers" on his arm, and asked him: "Are you sure you want to be an enemy of Teacher Changsun? Do you still want him to repair the equipment on your body in the future?"
+
+Owl disapproved of this: "His old man is very generous. As long as we don't confront him directly, it's fine."
+
+This is called generous? I learned a new vocabulary today.
+
+Before our **Free Birds** arrived, the three parties were discussing. Led by the Mediation Organization, the content was nothing more than asking if the two sides had fought. If they fought, they would kill them all; in this case, even if the two sides really fought before, they couldn't admit it now. However, if both sides chose to deny, the Mediation Organization would still determine that they had fought, because the evidence was in front of them—the big pit on the ground and the burnt weeds were enough to explain everything.
+
+After questioning the Guild Masters of both sides in groups, we tentatively understood the current situation: **Fang of the Beast King** bumped into **Windrunner Brigade** during training. They wanted to stop and say hello to the other party. Unexpectedly, at this time, a piece of chaos suddenly fell from the sky, causing a huge impact that instantly swept through the two major guilds. Both sides paid a heavy price for this. Before they could recover from the impact, the Mediation Organization had arrived.
+
+"Too obvious, right?" Dove couldn't help sighing.
+
+I couldn't help but echo: "Yeah, too obvious... If neither Guild Master lied, then this matter must have been done by a third party, deliberately provoking disputes, deliberately attracting the Mediation Organization, deliberately framing. The only uncertain thing is the purpose and behavior of doing so."
+
+"And the identity of the culprit."
+
+Crane supplemented for me in time from the side. The degree of tacit understanding between us was further deepened.
+
+At the same time, Owl had taken Falcon forward to negotiate with the representative of the Mediation Organization, Jupitermon. He wanted to spare no effort to strive for zero sanctions for both sides. Unexpectedly, the other party didn't buy his act at all. Instead, he expressed that as outsiders, if we didn't go away and insisted on pleading for the two sides of the dispute, we would be treated as miscellaneous personnel hindering their execution of official duties.
+
+"Don't be silly," Owl persuaded Jupitermon, "I don't even know their two Guild Masters. Where would I have this leisure time? I advise you to look out for yourselves. Senior Muba doesn't want to see you destroy any guild."
+
+"Senior Muba is our benefactor. You shouldn't mention him."
+
+Owl asked back: "Then you still mention him?"
+
+"Mentioning him is to kill you."
+
+Owl was deeply surprised: "When did you become so brutal?"
+
+"Starting from when you mentioned him..."
+
+Two sentences collapsed. The other party's killing intent was decided. Owl was destined to suffer this time.
+
+In order to minimize the damage, Owl had to propose: before the matter came to light, temporarily let go of the members of both guilds. They were innocent and shouldn't be involved in it without the power to resist.
+
+"Sanctions must be executed face to face."
+
+"I know. I mean, if you insist on lowering sanctions, I suggest you can try aiming your butcher knives at the Guild Masters of the two major guilds and their elites, as well as the **Free Birds** who will always stand in front of you to guard them before the matter is clear. If you have the ability, just come."
+
+"Do you think we dare not?"
+
+"Yeah, afraid you dare not play a one-on-one fair game with us rookies."
+
+"You have five minutes to prepare your last words."
+
+Jupitermon accepted Owl's provocation on behalf of the Mediation Organization. After returning, Owl explained the situation to us and told the Guild Masters of the two major guilds at the same time. They readily accepted Owl's proposal, expressing their willingness to truce and find a way to survive the immediate sanctions first, otherwise the entire guild would be finished.
+
+Out of curiosity, I asked in passing: "So, is there really a conflict between you?"
+
+They didn't admit it, and at the same time, they didn't deny it. Being in the same Sanhara, being neighbors, it was normal to have some small collisions and frictions occasionally. It wouldn't be very serious; the two Guild Masters usually turned a blind eye and didn't take it to heart, just like it didn't exist. The key question now was who magnified this kind of small conflict that usually existed, so much so that it would attract the attention of the Mediation Organization and invite their intervention.
+
+"Time will tell us the answer." Owl stated, "I have found someone to investigate in advance. Now it still takes some time. As long as we hold on and are not defeated by them, the victory will be ours."
+
+"That's why you kept the Guild Masters and Elites..."
+
+"Exactly." Owl took the initiative to apologize to me, "Sorry, Sakura, involving you again this time. If you are unwilling..."
+
+"I am willing." I took the initiative to decline his late and useless apology, "It's not my first time sacrificing my life to accompany a gentleman. Besides, ten against ten, the quantity must match. We were not their opponents originally. If we don't fight for our breath, people will laugh at us."
+
+Taking advantage of our hypocritical time, the two Guild Masters called their elites from the guild crowd respectively. Guild Master Ultra, in the image of his BanchoLeomon, called out a person he called "Xiao Yong" from his Beast Legion. The image was a Rasenmon, standing beside the Guild Master, looking very much like a deputy; Guild Master Wind also turned into the image of Ornismon and ascended smoothly, calling out "Rainbow Starlight"—AncientIrismon Plume and Hououmon Wing from the bird flock behind her. Judging from the image, the deterrent power brought by the two of them was far better than their Guild Master.
+
+"I've arranged everything here. Claws are ready at any time."
+
+"Same here. Fangs are never vague."
+
+Here, Guild Master Ultra finally greeted his old enemy completely. Then, he revealed the appearance of a senior, twisted to Rasenmon "Xiao Yong" following beside him, and told him: "Those rookies behind us will evacuate when we start. What we have to do is to entangle the enemies in front of us and not give them any chance to chase. Protecting the weak is the responsibility of the strong. Did you hear that, Xiao Yong!"
+
+"Yes!"
+
+The immediate reply was seen by the three who had ascended to the sky, and they couldn't help emitting a burst of emotion: It's good to be young.
+
+Ten sanctioners were ready to go. Everyone picked their prey, just waiting for the last sixty seconds to pass.
+
+Jupitermon VS BlackWarGreymon
+Junomon VS Mastemon
+Ceresmon VS Ornismon
+Bacchusmon VS SaintGargomon
+Apollomon & Dianamon VS AncientIrismon & Hououmon
+Merukimon VS CresGarurumon
+Minervamon VS Rosemon
+Marsmon VS BanchoLeomon
+Vulcanusmon VS Rasenmon
+
+"Everyone, are you ready?"
+
+The caliber of our nine people was unusually unified.
+(Wait, nine? Owl, Falcon, Crane, Dove, Sakura, Ultra, Xiao Yong, Wind, Plume, Wing. That's 10 people. The narrative says "nine people's caliber unified"... maybe ignoring the narrator herself or Owl asked it? Or maybe Plume/Wing count as one unit? The list shows Apollo & Diana vs AncientIris & Houou, a 2v2. So 10 vs 10 individuals. Maybe "Nine people" implies everyone except the speaker? Or maybe the author can't count. I will leave it as translated or correct it? "Our nine people" might mean everyone answering Owl. I'll translate as "The response from the rest of us was unusually unified.")
+
+Waiting for Owl's order, a ten-on-ten duel of the century was about to kick off. The first thing that caught the eye was the mutual greeting between the claws and fangs.
 
 ### Chapter 12: Battle of Sanhara
 
-The conflict at the Sanhara Plateau erupted into a war of attrition the Free Birds had faced.
+At the time of judgment, the "Sanctioning Claws" attacked us, and ten bodies reacted immediately.
 
-Minervamon's "Olympia" sword was a blur of steel. Sakura (Rosemon) found herself pushed to the limit. "For a deity, you waste an awful lot of breath!" Sakura shouted, using her "Forbidden Temptation" to create an opening.
+Falcon, as always, took the lead. He rotated his body first, unleashing "Bestial Wolf Great Cyclone," successfully neutralizing the "Thousand Fists" sent by Merukimon. Before the opponent could use his beloved sword "Aztec" to open space and summon monsters from another world, Falcon used the "Yellow Beast Scimitar" in his hand to block the opponent in advance. Since then, the contest between the two turned from speed to strength.
 
-"I am the goddess of war, little rose," Minervamon countered, her voice full of amusement. "War is my language."
+Dove followed closely with his huge body. He hugged the body of his opponent Bacchusmon, dragged him into the nearby mountains and fields, and launched a wild bombardment. The reason why he chose such a "Wine Tycoon of the Digital World" as his opponent was entirely because his mechanical body was not worried about poisoning; taking on factors that were difficult for companions in the team to crack by themselves was his code of conduct as a **Defender**.
 
-Around them, the other Olympos XII members were engaged in their own duels. Falcon was matching speed with Merukimon, while Dove used her "Lullaby" to keep Bacchusmon at bay. Crane, however, was struggling against the shifting illusions of Junomon.
+Crane faced Jupitermon's wife, Junomon. As soon as the two touched, they rushed into the clouds and disappeared from the sight of all of us. In fact, not only Crane, but Guild Master Wind and the two of "Rainbow Starlight" were also the same. The only difference might be that their battle would shuttle between the clouds, occasionally uncovering the veil of the clouds to see the sun, or drilling into the dark clouds, leaving a trace of beautiful trails for people to appreciate and capture.
 
-The turning point came when Minervamon, frustrated by Sakura's resilience, unleashed her "Promotion Seed" (晋升之种). In a blinding flash of light, she evolved into Mervamon.
+The fiercest was the duel between beast and beast.
 
-"Now... let's see how you handle this," Mervamon smirked, her presence becoming even more overwhelming.
+Facing his evolved form Marsmon, Guild Master Ultra showed no trace of timidity; even if he knew that his chance of winning this battle was less than 10%, he didn't shrink back. He still acted like a senior, carrying a cavity of hot blood, and set an example for his junior Xiao Yong. Fists and feet crossed, and the two performed multiple sets of fighting skills. Except for being slightly inferior in strength, Guild Master Ultra was evenly matched with the other side in other aspects, and no one took advantage.
 
-Owl interceded, his Great Sword clashing with Mervamon's blade. "Sakura, get back! This is out of your league!"
+"As expected of the Guild Master of **Fang of the Beast King**, compared to those rotten fish and shrimp in the Atrium, it is different."
 
-But Sakura didn't retreat. She felt a new power surging within her. "I'm tired of being told what's in my league, Owl."
+"Same to you."
 
-She used a Giglio missile to temporarily blind Mervamon, allowing the Free Birds to regroup. However, the battle was far from over. The Mediators were just testing their strength.
+The body was unforgiving, and the mouth could not easily spare the other party—paying him back in his own coin was the duty of a "fighter" and the basic conduct of a brave man.
 
----
+Taking advantage of the dust storm raised in front of him to obstruct the enemy's vision, Guild Master Ultra burned his own fighting spirit, cast "Burning Bancho Punch," concentrated the raging flames ignited all over his body on his right fist, and aimed at the enemy to emit a flame lion-shaped powerful shock wave. Marsmon was prepared for this. He took the big gift sent by the enemy head-on, gathered the flames around him, wrapped his whole body, followed by kicking the ground with both feet, jumped up from the dust, faced the sunny sun close at hand, and was about to offer his most gorgeous killing move in the air.
 
-### Chapter 13: Final Judgment
+"Be prepared!"
 
-As the battle at Sanhara reached a stalemate, the true mastermind was finally revealed.
+"That's exactly my intention!"
 
-It wasn't Minervamon, and it wasn't the Beast King. It was Wind (Orphanimon), who had orchestrated the entire "Bird-Beast Conflict" from the shadows. She had used Ultra (BanchoLeomon) to create a staged hostility, then lured the Free Birds and the Mediators into a mutually destructive war.
+The fighting spirit burned to the limit. Guild Master Ultra said nothing to compromise in momentum. Facing the nirvana blow used by the enemy, he should serve with an equally gorgeous unique move.
 
-"Explain yourself, Wind." Sakura asked, her voice trembling with disbelief. "Why would you betray the Atrium?"
+"—Corona Sanctions!"
 
-"The Atrium rots in stagnation," Wind's voice echoed, though it sounded distorted. "It needs a purge—a new order."
+"Taste this—Flash Bancho Punch!"
 
-However, the "Wind" standing before them was just a puppet. The real Wind had been killed in reality by Jack's subordinate. The voice belonged to the narrator of Gaiden 3—Plutomon.
+Two absolute forces converged at one point. The violent shock caused lifted the turf, pushed aside the rock surface hidden below, distorted the originally gentle wind, and turned all flammable things in the line of sight into ashes.
 
-Plutomon had used Wind's identity to log into the network. He had systematically defeated Ceresmon, Dianamon, Apollomon, and even the Nordic members who tried to intervene. His ambition was the total annihilation of the Pantheon.
+"Guild Master—"
 
-"I am the judge of the underworld," Plutomon declared, his black Chaos power erupting like a volcano. "And my sentence is death."
+"Take care of yourself first!"
 
-He forced Junomon to evolve into Junomon: Hysteric Mode, using her as a weapon against her own master, Mastemon. The scene was one of total chaos and despair. Even Jupitermon, the leader of the Olympos XII, was brought to his knees by the sheer weight of Plutomon's resentment.
+Compared to the senior with rich combat experience, Xiao Yong, the "Star of Tomorrow," seemed not so calm.
+
+Unable to care about his own Guild Master's situation, he was suppressed all the way by Teacher Changsun who hurried over, continuously suffering from the turn-based blows of eight arms holding weapons. At this time, no matter how many drills he was equipped with, it was of no avail. Before leaving, I had asked Owl about Teacher Changsun's own combat strength; according to Owl's introduction, Teacher Changsun was not a very strong combat unit, but every time he used force, his posture looked very fierce, very easy to deter people's hearts and make people fall into a passive situation and continue to be beaten. Now it seems that it is indeed so.
+
+Of course, no matter how inexperienced a young man is in combat, he will not willingly be reduced to a sandbag under the hands of an old senior. Relying on his dexterous posture, he tried to dodge again and again. Although he failed many times on the way, fortunately, he controlled it within the range he could accept, so as not to be suppressed by the other party for a long time.
+
+"Sorry, Senior!"
+
+Leaning forward, rolling on the ground, successfully dodging the triple pincher attack of sword, hammer, and stick swung by Teacher Changsun, appearing instantly, he spun the blade on his arm and, at the moment of getting up, delivered a powerful punch "Spiral Vanish" to the old senior approaching him quickly.
+
+Taking the continuous punches of the younger generation head-on, Teacher Changsun's voice obviously carried a little pain. He half-kneeled on the ground, sighed, lamented that the younger generation was formidable, then suddenly turned on the power of his whole body and attacked like a storm. The two hands holding meteor hammers at the very back launched an attack first. While Xiao Yong retreated to dodge, he threw out the metal clubs in the front row and hit the target head-on; accompanied by Xiao Yong looking up to express the pain on his face, the double swords in the front row hands and the double hammers in the second row hands began to play their roles, aiming at Xiao Yong's arms and chest respectively, vowing to smash and dismember him.
+
+"Don't blame me, kid, fate is hard to violate!"
+
+Fate? Could it be that their Mediation Organization was also forced?
+
+They were very close to each other, so close that before Xiao Yong could react, the double hammers and double swords had already approached his body. It was impossible to resist unless there was a nobleman to help. And this nobleman was Owl.
+
+He concentrated the "Dark Gaia Force" in his palm in advance. Taking advantage of turning around to dodge Jupitermon's "Punish Judge," he sent it out smoothly and handed it to his old friend; it exploded the sword and hammer in his hand, saved the life of the younger generation, and also gave him a reminder—there had never been any fate in the Atrium. Even if there was, it had already been cut off by the two "Kiku-Rin" (Chrysanthemum & Phosphorous) swords in the hands of Senior "Muba"; as his former colleague, he absolutely must not do things he didn't want to see.
+
+Teacher Changsun appreciated his old friend's intention. Everything looked so natural.
+
+After the smoke cleared, the war situation had reversed. Xiao Yong seized the opportunity just now, spun the blade of his hand at ultra-high speed, causing the tornado "Qualialise Blast," which swallowed Teacher Changsun's figure in an instant.
+
+"You still have time to care about others?"
+
+"Why not, learned from you." Owl turned his head to face Jupitermon, "If you hadn't cared about your own people all the time, fearing that they would be affected, you would have sent me, this virus seed, on the road with 'Wide-Range Divine Punishment' long ago, wouldn't you?"
+
+"Smart."
+
+"I'm flattered."
+
+After speaking, Jupitermon stretched his arms, hit the heavy hammers in his left and right hands against each other, summoned a small thundercloud, and continuously lowered "Mabolt" on the area where Owl was located. Owl quickly approached Jupitermon while holding up the "Brave Shield" to resist the thunder overhead; after arriving at a certain distance, he saw the opportunity, drilled into the thundercloud, used the "Dark Gaia Force" sent out just now as a cover, locked a straight line with the shortest distance to the opponent, and used "Black Tornado."
+
+A powerful cyclone piercing came head-on. Jupitermon knew that his own strength could not match. In order to save his life, he was forced to give up one hand and the heavy hammer in his hand. At the same time, he also swung the heavy hammer on the other side and smashed Owl directly to the ground.
+
+"Abandon the pawn to save the chariot. Smart."
+
+"I'm flattered!"
+
+This was an affirmation of strength made by a person who lost his arm and weapon to another person whose chest armor was damaged.
+
+My own situation was relatively single. The opponent was Minervamon. Her behavior didn't match her name very much. She was simple to a realm, so that she would only rush up to chop against an opponent like me who had no fighting intention. The big sword "Olympia" in her hand was quite sharp. I didn't want to be chopped by it, so I could only dodge again and again. If not, I threw out "Thorn Whip" to bind her. After that, she still refused to stop. Having no choice, I could only discharge electricity again, trying to make her sleep, but found that she was immune to electric shock; not only that, she also struggled to cut off the vines that bound her with the big sword in her hand and regained her freedom.
+
+Without saying a word, she used "Strike Roll" on me. While dodging, I used "Rose Velvet" to limit her actions on the ground. With a shout full of girlish voice, she jumped up with all her might, used the horizontal rotating cut "Madness Merry-Go-Round," and set off a huge tornado. I couldn't handle such a powerful move.
+
+Counting on Owl to help me, looking back, he was targeted by Jupitermon all the time and was stared at very closely. He had no time to spare at all. Other companions were not in the line of sight. Right now, the only person I could count on was myself.
+
+My brain was running fast. Suddenly, a "Giga Missile" fell from the sky. I guess Dove, the **Defender**, was performing his duty again. I, the **Support**, naturally had to work hard too. Thinking of this, I hurriedly lay down on the ground. Minervamon in the tornado was not so lucky—she didn't see the "Giga Missile" at all. Holding the big sword, she chopped up with the momentum of the tornado. The missile exploded in response. She was blown far away and fell face down in the dirt. The scene was as funny as it could be, and as humiliating as it could be. If this was seen by the person she liked, she estimated that she wouldn't get married in this life.
+
+Our task was to drag the ten mediators and delay time so that the person Owl sent to investigate the mastermind could get the result as soon as possible. Therefore, we must never leave our target. Even if she just landed on her face and squeezed out a few crystal tears in shame in front of you, you couldn't have any sympathy for her. Instead, you should mock her, preferably the kind between women. The effect is significant. She will rush at you like crazy. At this time, what you have to do is use the whip in your hand to whip her frantically until she can rush up against your whipping and subdue you to the ground. You can pull her into your arms and let her experience personally how comfortable it is to sleep in the "Rosey Cradle."
+
+Looking up at the sky, in addition to the flashes of thunderclouds, there were countless rainbow stars. It could be seen how difficult it was for Guild Master Wind and the two of "Rainbow Starlight" to deal with their opponents.
+
+A loud noise came from the sky. Crane and Junomon hugged each other and fell into a forest in the mountains. I wanted to rush over to help her, but just as I took a step forward, a violent adsorption magnetic field was generated in the forest. Obviously, this was the result caused by Crane using "Chaos Degrade."
+
+Leaning back against a huge rock to prevent myself from being sucked into it. Before the dimensional gate closed, another explosion came from not far in front of me. Standing up slightly and looking, Dove's figure flashed past my eyes. Following him was Owl, and Jupitermon who had been chasing him. In addition, there was a sleeping Minervamon lying beside me. This was the environment I was currently in. Tense, exciting, and boring.
+
+Still the same sentence. I hate fighting, but I have to fight. Hard to win a battle, just relaxed and panted heavily, another battle started in front of my eyes.
+
+The person who started it was Jupitermon. He found Minervamon who had fallen into a deep sleep, knocked the heavy hammer in his hand casually, and lowered a thunderbolt from the sky, hitting her and making her awaken into another state. Or rather, giving her a part of energy, allowing her to evolve into a Digimon of a higher stage.
+
+Minervamon, evolve——Mervamon.
+
+Mature, steady, powerful and charming. This was the new feeling she brought me.
+
+Every time I saw the big sword "Olympia Kai" in her right hand and the "Medullia" on her left wrist, I felt more and more that I was not her opponent, especially in the state of self-tension.
+
+"Don't be afraid..."
+
+Owl rushed over to comfort me in time, but it didn't play much role.
+
+Continuous lightning drove him away, and Jupitermon also left the stage, leaving a solitary space for us two girls very gentlemanly, wishing Mervamon could kill me. Naturally, I wouldn't let him get his wish. In this era, who didn't hide one or two unique moves; whether I could defeat her was temporarily not mentioned, but to say self-protection, theoretically there was no problem. After all, Guild Master Adam had exhorted me well. Don't use the small gift he gave me unless absolutely necessary. In his words, the role of the small gift is to save life, not to risk life.
+
+This was a real hard battle.
+
+She is a Virus type, and I am a Data type. I can't take any advantage in attributes. Therefore, whether to use this last trump card will depend entirely on whether she can walk out of my "Forbidden Temptation" alive.
+
+I released ruthless words to her: "Are you ready to accept my temptation?"
+
+She raised the big sword in her hand and replied to me with determined eyes: "If you have the ability, just come!"
+
+This is the most heroic word I have ever heard from a woman's mouth. I have to admit, she successfully aroused my fighting spirit, making me have to show my real trump card and fight to the death with her.
+
+### Chapter 13: Mastermind's Confession
+
+Fifteen years ago, at Cambridge University, I fell in love with a girl. Hindered by my status as a foreign student and a Jew, I didn't easily express my feelings to her, but just watched from the side, silently guarding her.
+
+At the Christmas party at the end of the same year, she made her romance public. The object was a boy from the college's publicity department. The two of them met in the **Atrium** and developed feelings in the **Atrium**. No wonder I never found out. Coincidentally, I also registered an **Atrium** account at that time, but rarely logged in, just treating it as a different form of weekend pastime; even if I was one stage behind them, still staying at the Dobermon of the Champion level, I didn't feel that there was any difference between us. Both appearance and image had turned into Digimon, theoretically there should not be a big difference.
+
+He was Aegiochusmon, and that girl was Angewomon. As a celestial couple, they were known to everyone in the **Holy Knights** at that time. Almost everyone praised them as up-and-coming stars; even their Guild Master felt that if they continued to develop like this, they could completely surpass the "Red and Blue Pair" and become the leaders of the guild. As a member of the **Netherworld Club**, I was not qualified to enter the **Holy Knights** guild. I only deserved to hide outside their guild territory every day, or follow their footsteps, hide in the bushes, staring, watching, listening, thinking, pondering, giggling, envying, being jealous... until they evolved to the Mega level and announced their marriage in front of the whole guild.
+
+I was very angry, but helpless. Who told me not to have the power to resist him.
+
+I chose to swallow my anger, but my heart didn't let him go. harboring a cavity of cowardly anger, thus burying the seed of revenge. Next, it only took time to conceive it, and what I needed to do was to wait quietly for it to mature.
+
+During this period, I didn't know which nerve was wrong, I actually took the initiative to step forward and contact them, pretending to appear as a completely stranger. With the outer clothing of Digimon, they couldn't guess who I was. Gradually, we became familiar with each other. This feeling was like knowing each other again.
+
+From their mouths, I learned about their twelve mediators. Thanks to him, I also realized that it might not be that easy to take revenge on him in the future, unless I struck first and killed the remaining ten people.
+
+So, I embarked on the road of seeking power.
+
+After unremitting efforts, constantly inquiring about intelligence from various people, and even not hesitating to use the underground trading network of our **Netherworld Club**, I finally came to that barren land located in the Digital World and obtained that hard-won dark power from a foreign land. It prompted me to skip the Ultimate level of Cerberumon and directly evolve into the Mega level Plutomon, allowing me to have the strength and courage to rival the twelve of them.
+
+After going back, I didn't become arrogant because of this, but was cautious everywhere.
+
+The environment of the **Atrium** at that time was very unfavorable to the Mediation Organization. Major guilds were hostile to each other. usually, they ran their legs off to resolve disputes between major guilds, and were often besieged by both sides of the dispute jointly. Speaking of reasons, it might be because the feeling they gave to the **Atrium** users was more like the lackeys of the development team, not listening to any defense from either side, regardless of what the truth of the matter was, always acting according to the principles in their mouths. If someone didn't listen, they would do it after persuading again and again. Their behavior was no different from the ruthless law enforcers in reality.
+
+In the **Atrium**, everyone yearns for freedom and unrestrainedness. Most users choose to log in here just to escape the set of restraints in reality, and the existence of the Mediation Organization happens to become an obstacle. How could such people, such an organization, be welcomed by everyone.
+
+The situation was very favorable to me. Following the principle of doing it one by one and defeating them individually, after thoroughly investigating the respective strengths of the twelve of them, I decided to pick a soft persimmon from among them to pinch first, for example, the youngest Venusmon.
+
+Her innocence made me envious. The speed of stepping into the trap was staggering. I didn't even have to lure her specially, saving me a lot of effort. I created a piece of chaos out of thin air, trapped her, and then opened the "Hell's Gate," trying to suck her into it, so that there would be no trace. Unexpectedly, a "Kiku-Rin" suddenly cut in front of me, split the chaos, and left a deep mark on my chest, seriously hindering my plan.
+
+I became extremely annoyed, rushed forward, and launched a desperate fight with the owner of "Kiku-Rin."
+
+At that time, I was young and energetic, and didn't know what kind of person "Master Scar" (Muba) appeared in front of me was. Naturally, I was cleaned up miserably by him. After this battle, I realized a truth very thoroughly: one cannot choose to fight alone just because the object of revenge is one person. At critical moments, unexpected people will always appear to disrupt the situation and save the scene. The best way is to "kill people with a borrowed knife," so that at least you won't be overwhelmed and can put all your mind on your revenge object.
+
+When the **Atrium** entered the official operation stage, I found such an opportunity.
+
+It is better to say that the opportunity found me than I found the opportunity. On that day, Guild Master Wind of the **Windrunner Brigade** painted her face with makeup, came to the territory of the **Netherworld Club**, found our Guild Master Jack (Knave), and said she wanted to see me.
+
+"Are you sure it's her?"
+
+"Except for me, she is the only one in the whole Atrium who can put on that kind of wild makeup."
+
+I admire Jack's honesty. He feels uncomfortable if he doesn't paint himself into a clown every day.
+
+As soon as we met, the wild Guild Master Wind went straight to the subject and asked if I wanted to take revenge on the Mediation Organization. After listening, Jack and I looked at each other and smiled. Jack turned his face and sucked in a breath of cold air, with a smiling face, exhorted "The **Netherworld Club** does not pay for personal behavior," and actively avoided our conversation.
+
+After he left, I stared at Guild Master Wind in front of me and gave a one-word answer: Yes.
+
+"Do you know the 'Free Birds'?"
+
+"The folk **Raiders** who love to meddle in other people's business, I've heard of them."
+
+"What do you think of them?"
+
+"What do you mean?" I was slightly confused and expressed, "What do you mean? Let the five of them deal with the twelve of the Mediation Organization. What is the difference between that and sending them to die?"
+
+She told me that not only them, she herself would also go out, and at the same time, she would pull the leader of the **Windrunner Brigade**, "Rainbow Starlight," and her old neighbor would also come to help.
+
+"Are you sure Ultra has that time?"
+
+"He has never complained about my request. Besides, what we have to deal with this time is the Mediation Organization that he has wanted to take down so many times. presumably you also know how many good things the twelve of them ruined for us back then..."
+
+"Stop." I reached out to stop her from continuing, "I'm not a Guild Master, how do I know how many grudges there are between you back then. Besides, I'm not interested in knowing. If you have that time, you might as well talk to me about the implementation method, let me hear if what comes out of the mouth of a bird flying in the sky is feasible."
+
+She fulfilled my wish and reintroduced herself to me: "Aurora, a folk hypnosis master."
+
+She specially used the word "Master," indicating that she was very confident in her ability in this area. I was dubious about this, expressing that unless she was willing to give me a demonstration in front of me, it would be difficult to convince me.
+
+"There is no need." She said to me with a smile, "You have been hypnotized by me now, haven't you found out?"
+
+I couldn't help becoming cautious and asked her: "How to prove it?"
+
+"Your Guild Master didn't kill me, this is the best proof."
+
+That's true.
+
+During the public beta period, guilds fought on their own and fought each other. Jack once said personally that Wind was his prey. Even though the environment of the **Atrium** has tended to be peaceful for many years now, the hatred between the major Guild Masters will not evaporate so easily, and friendly reception of the other party is even more impossible.
+
+"So, you hypnotized both of us?"
+
+"No, I only hypnotized you." She explained to me, "I injected a subconsciousness into you, making you think that the guy who brought me in just now was your Guild Master. You are convinced of this, aren't you?"
+
+I couldn't beat her, and I couldn't trust her, so I could only follow her words: "Let's assume it is so."
+
+After that, she took out a photo of a man and handed it to me, telling me that this person was the leader of the "Free Birds." She wanted to induce him to help us achieve our goals by applying psychological suggestions to him.
+
+"He will also carry the blame. Who told the method to come out of his mouth?"
+
+I roughly understood what she meant. To be honest, this method is despicable. First act out a play with Ultra to create a picture of hostility between their two major guilds, and then send a "messenger" who had contacted the "Free Birds" very early to notify them, lure them over, stand on our side, and openly be the enemy of the Mediation Organization. It is simply too crazy.
+
+"What if you can't beat the ten mediators..."
+
+"Then it's your turn to go out."
+
+She meant to let me engage in sneak attacks from behind. I exactly had this intention.
+
+Obviously, she was using me. Using me to harvest heads at the end. If it succeeds, everyone is happy; if it fails, the pot is buckled on my head, I will become the target of public criticism and be treated as a bad person by everyone; even if I confess that she and Ultra possess the main conspiracy, by that time, no one will believe me. I have to say, her abacus is very good, but unfortunately she used the wrong place and chose the wrong person. So, I decided to take this opportunity to take good revenge on her.
+
+I don't want to be the big fish that ends the struggle between shrimp and crab, but the fisherman who catches everything in one net without wasting any effort and obtains the final benefit. Therefore, I need a good bait that can catch them all in one net.
+
+The matter was settled like this.
+
+Ten days later, I received a courier package from Ukraine, containing a dried human head. Judging from the hair length, it looked like a woman; in addition, there was a letter written by Jack's subordinate, a mercenary leader. The letter said that the owner of the human head was the folk hypnotist named Aurora, also known as Guild Master Wind. Her identity verification card was also attached below. How to do it later depends on my own arrangement.
+
+Things developed to this step, completely beyond my expectations.
+
+Also revenge, also taking human life, clearly it can be done in the Digital World without leaving a trace, but he insisted on taking action in the real world. I don't understand why. Based on my understanding of Jack, even if I log in to the **Atrium** to find him and question him face to face about what is going on, he will pretend to know nothing and tell me that this is likely the personal behavior of his subordinate, and he never pays for personal behavior. Naturally, he cannot give a reasonable explanation, at most he can only care for humanitarianism, mourn two sentences hypocritically, put his hypocrisy on the table, disgust you away, and you will never know what kind of abacus he is playing from beginning to end.
+
+There was a sentence written on the back of the letter: *You're welcome*.
+
+His means are really high, simply writing "I did it" on his face. In this way, meticulous planning, accurate timing, and reliable executioners, all three conditions are met, so that a seamless revenge can be created.
+
+Obtaining Wind's account, I logged in and contacted Ultra. He didn't suspect my identity at all and still regarded me as his good neighbor. The plan proceeded step by step. Obviously, Wind applied psychological hints to Owl before dying, or rather, Jack sent someone to harvest Wind's head after she applied psychological hints to Owl. The mantis stalks the cicada, unaware of the oriole behind, but when it came to me, I was asked, an oriole myself, to play the cicada that was eaten. What was more terrible was that the one eyeing me was Ceresmon, who was also a big bird like the current me.
+
+Fortunately, I understood the opponent's weakness in advance, that is, her main body, "Ceresmon Medium" located on her head, looking very much like a human. She has a very terrifying skill called "Fruit Flechette". I, playing Ornismon, unfortunately became a victim of this skill. Not only was the "Cosmic Ray" released completely sucked away, but the entire Digimon image also turned into pieces of data, slowly disappeared, and ceased to exist.
+
+Since I was inside the **Atrium**, not belonging to the external Digital World, death did not mean the end of everything. For the current me, it meant a comeback.
+
+Forced to return to reality, took the identity verification card belonging to me, inserted it and logged in again, killed back again in the image of Plutomon, and easily harvested Ceresmon's head with only one move of "Wild Cluster".
+
+The subsequent progress continued to advance.
+
+Hijacking Dianamon, solving Apollomon, preventing them from Jogress evolving into GraceNovamon, the remaining two little girls of "Rainbow Starlight" naturally would not be my opponents. We fought happily in the sky, and no one below could see what happened above the clouds. I used a little trick, opened the "Hell's Gate," sent away Hououmon and her "Starlight Explosion," invaded a part of AncientIrismon's body data at the same time, destroyed the "Trial Badge" device in her body, making her completely turn into a Digimon, falling from the sky. The trajectory of the fall naturally formed a beautiful rainbow.
+
+After that, I went to visit my former sweetheart. She was also one of the objects of revenge I wanted. At this moment, she was hugging Mastemon, pinching each other's necks. Seeing that the opportunity was just right, I attacked them from behind, used a piece of chaos as a cover to make them think that it was the other party's credit, and then hid in the clouds with peace of mind, watching them fall slowly.
+
+Coming to the place where they fell, the two ladies were stunned by the fall, rushing at each other with teeth and claws. I stepped forward to separate them and gave each one a slap. They didn't calm down because of this, but became more like a shrew.
+
+Mastemon rushed at me first. She successively used her two proud moves against me—"Holy Desire" and "Dark Despair," which were resolved by me one by one. Seeing that she couldn't win quickly, she didn't think much and directly used her bottom card "Chaos Degrade" on me. The generated dimensional gate not only had no effect on me, but reserved a part of time for me, so that I could take my former sweetheart into my arms, inject my core virus into her, let her obtain the same dark power from a foreign land as me, and prompt her to complete further breakthroughs in herself, evolving into Junomon: Hysteric Mode.
+
+In this form, she would not be perceived by Jupitermon. In other words, I could make good use of her.
+
+As expected of the girl I once fancied, she really didn't let me down. Using the needles in both hands, she easily destroyed the armor on Mastemon's body, pierced her body, made her fall into a state of suspended animation unable to move, lifted her over her head like showing off a trophy, dragged her for a long distance, and threw her away like garbage after confirming that there was new prey nearby.
+
+"Willful girl."
+
+ I let such a sentence float by casually, looked around, and didn't find anyone else nearby. When I realized that I might be that target, she had already entangled me with the chains on her two hands, preparing to pierce me like the garbage thrown out just now.
+
+Seriously, at that moment, my heart ached, as if returning to the era when she broke my heart completely. Wanting to cry, the tears in my heart had already dried up back then, leaving only a cavity of hot blood.
+
+In order to survive, I had no choice but to use "Chaos Light" to end her, ending the love of that year.
+
+When I saw Jupitermon collapse because of her death, I realized that over the years, my goal had gradually shifted from that girl to the person who accompanied her. Dazzled by the thought of revenge, unknowingly, the proportion he occupied in my heart had far exceeded my beloved girl, which was undoubtedly a tragedy.
+
+A complete tragedy created by my own hands.
 
 ---
 
@@ -3261,7 +3948,7 @@ The God of Heaven followed closely: "Data Clearing Style, Vulture—Reporting fo
 
 Thereafter, the two simultaneously displayed a confident posture, gripping their greatswords at the same moment. Once the impact before them had completely dissipated, they rapidly closed in on each other. The two giant swords crossed and joined, generating a massive energy that pushed both back, forcing them to pull apart once more.
 
-The frontal clash yielded no result, so the two immediately shifted strategy, unfolding a duel of sword techniques supported by speed. Dragging their giant swords, the two wove through the forest and fields; every swing was incredibly heavy, and the damage caused was enough to alter part of the terrain. As members who had both been taught the "Data Clearing Style" under Master Muca, the two were equally hardworking and had both received direct instruction from their master. Thus, in terms of sword skills, they were evenly matched, making it difficult to determine a victor.
+The frontal clash yielded no result, so the two immediately shifted strategy, unfolding a duel of sword techniques supported by speed. Dragging their giant swords, the two wove through the forest and fields; every swing was incredibly heavy, and the damage caused was enough to alter part of the terrain. As members who had both been taught the "Data Clearing Style" under Master Muba, the two were equally hardworking and had both received direct instruction from their master. Thus, in terms of sword skills, they were evenly matched, making it difficult to determine a victor.
 
 Owl swung his sword, but Vulture retreated and jumped onto a nearby tree, then raised the thunderous greatsword high, firing a golden bolt of lightning straight into the sky. A vast expanse of thunderclouds answered his call, raining down fierce thunderclaps in response.
 
@@ -3307,11 +3994,11 @@ The smoke dissipated, and the setting sun spilled down. A gentle breeze brushed 
 
 "Bullshit! Losing is losing; I won't fail to admit such a thing. So, you'd better not use that hypocritical face of yours to compliment and deal with me—I don't buy that."
 
-Hearing this, Owl had no choice but to say that heartbreaking sentence: "You didn't receive the true heritage of Master Muca."
+Hearing this, Owl had no choice but to say that heartbreaking sentence: "You didn't receive the true heritage of Master Muba."
 
 "True heritage? I didn't know there was such a thing... what is it?"
 
-"The final ultimate art of the 'Data Clearing Style' that can only be performed with dual-wielding—Rakukyoukijuzan (落枭归鹫?. Listen to this strange name; doesn't it speak exactly of us?"
+"The final ultimate art of the 'Data Clearing Style' that can only be performed with dual-wielding—Rakukyoukijuzan"
 
 "Heh, I suppose it does."
 
@@ -3319,7 +4006,7 @@ With those words, Vulture showed a look of compromise, gazing up at the sky that
 
 That feeling seemed like reminiscing about the past, yet also like thanking their master.
 
-Master Muca, you truly are the greatest blacksmith in the Atrium. Even knowing you were to part with this world, you didn't forget to forge two swords no less than "Kiku-rin"... one named "Owl" and one named "Vulture."
+Master Muba, you truly are the greatest blacksmith in the Atrium. Even knowing you were to part with this world, you didn't forget to forge two swords no less than "Kiku-rin"... one named "Owl" and one named "Vulture."
 
 Thanks to you, those two swords are still as cold and sharp as ever today. Just like you back then, they are always guarding the Atrium.
 
@@ -3449,13 +4136,13 @@ As the sister of the Master, Jade raised a question on our behalf: "He... is ver
 
 Speaking of this, Master Adam coughed twice and took the initiative to change the subject: "Voltobautamon Jack—with your current strength, you're not yet enough to be his opponent. You should know, Plutomon being instantly killed by him didn't depend all on luck; it depended more on his own terrifying strength."
 
-Master Adam suggested that if we still wanted to know the truth behind the matter, we could try to find X (埃克?, the top talent of **Nether Club**. He was like another version of himself in **Nether Club**, knowing everything.
+Master Adam suggested that if we still wanted to know the truth behind the matter, we could try to find X, the top talent of **Nether Club**. He was like another version of himself in **Nether Club**, knowing everything.
 
 Agnes had concerns about this: "I've heard people say that guy doesn't have a particularly good temper, and more importantly, his face looks rather scary. Going to find him and probe him might not be that easy."
 
-"Don't be afraid." Master Adam offered another trick for us. "His weakness, in the eyes of us Guild Masters, is practically common knowledge. Recalling back then, Master Muca used to discipline every junior who spoke rudely to him upon first meeting—he always stopped when he had the upper hand. Only X was an exception; he was beaten so miserably that a deep psychological shadow was left on him, which he hasn't been able to forget for many years. So, if during your contact with him, you feel his attitude toward you isn't particularly friendly, you can try using the name '疤爷' (Ba-ye/Master Muca) to intimidate him."
+"Don't be afraid." Master Adam offered another trick for us. "His weakness, in the eyes of us Guild Masters, is practically common knowledge. Recalling back then, Master Muba used to discipline every junior who spoke rudely to him upon first meeting—he always stopped when he had the upper hand. Only X was an exception; he was beaten so miserably that a deep psychological shadow was left on him, which he hasn't been able to forget for many years. So, if during your contact with him, you feel his attitude toward you isn't particularly friendly, you can try using the name 'Ba-ye' (Ba-ye/Master Muba) to intimidate him."
 
-"But, Brother, didn't Master Muca pass away long ago?"
+"But, Brother, didn't Master Muba pass away long ago?"
 
 "Yeah, but that guy still feels 'Ba-ye' is living in his heart, ready to lash him at any moment."
 
@@ -3483,11 +4170,11 @@ After parting, Owl went to visit the remaining three injured members of "Free Bi
 
 "Eh?" I'm sure I didn't hear it wrong.
 
-"That one, strictly speaking, isn't mine." Master Adam said: "Back then, just after the 'Promotion Seed' was designed, Master Muca unexpectedly obtained one. He believed the strong don't need this stuff, so he left it with me, saying that in the future, if I also became a strong person like him and didn't need this thing anymore, I should give it away, to someone who truly needs it."
+"That one, strictly speaking, isn't mine." Master Adam said: "Back then, just after the 'Promotion Seed' was designed, Master Muba unexpectedly obtained one. He believed the strong don't need this stuff, so he left it with me, saying that in the future, if I also became a strong person like him and didn't need this thing anymore, I should give it away, to someone who truly needs it."
 
 It was treated like some kind of token, passed down to me through the hands of the two masters.
 
-"Master, about the 'Master Muca' you talk about—I've asked Owl many times before, and he never told me. Can you tell me the story about him?"
+"Master, about the 'Master Muba' you talk about—I've asked Owl many times before, and he never told me. Can you tell me the story about him?"
 
 "Certainly. I see you've almost finished clearing up. Shall we drink and chat?"
 "Sure."
