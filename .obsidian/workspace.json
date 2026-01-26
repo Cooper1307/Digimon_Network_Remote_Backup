@@ -6,22 +6,70 @@
       {
         "id": "947c4e75002a606b",
         "type": "tabs",
+        "dimension": 59.51417004048582,
         "children": [
           {
-            "id": "1885b49065df3f9d",
+            "id": "dacc7733d043c4e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final_Consolidated_Up_Volume_v1.0.md",
+                "file": "2_Draft_Components/English_Versions/Phase1/Ch1_Part1_v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final_Consolidated_Up_Volume_v1.0"
+              "title": "Ch1_Part1_v1.0"
+            }
+          },
+          {
+            "id": "f9f3215f6707dc1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Source_Material/原文拆分版本/5.第三章 明镜止水.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.第三章 明镜止水"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3dcbc259db532a04",
+        "type": "tabs",
+        "dimension": 40.48582995951417,
+        "children": [
+          {
+            "id": "c6355ad4acf685b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "3a232363214b78fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Source_Material/原文拆分版本/4.第二章 落枭.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.第二章 落枭"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 252.5
   },
   "right": {
     "id": "d39540032bc06017",
@@ -174,52 +222,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "1885b49065df3f9d",
+  "active": "f9f3215f6707dc1e",
   "lastOpenFiles": [
-    "find_terms.py",
-    "Final_Export_Phase1_Consolidated_v1.0.md",
-    "Final_Consolidated_Up_Volume_v1.0.md",
-    "purge_hallucinations.py",
-    "hallucination_report.txt",
-    "scan_hallucinations.py",
-    "scan_chinese.py",
-    "clean_garbage.py",
-    "scan_garbage.py",
-    "中译英原文《数码兽网络：攻略组》（上）.md",
-    "header_report.txt",
-    "audit_headers.py",
-    "debug_headers.py",
-    "final_toc_gen.py",
+    "1_Source_Material/原文拆分版本/6.第四章 鸽与鹤.md",
+    "1_Source_Material/原文拆分版本/8.第六章",
+    "1_Source_Material/原文拆分版本/7.第五章",
+    "1_Source_Material/原文拆分版本/未命名.md",
+    "1_Source_Material/中译英原文《数码兽网络：攻略组》（上）.md",
+    "1_Source_Material/原文拆分版本/5.第三章 明镜止水.md",
+    "2_Draft_Components/English_Versions/Phase3/Ch3_v1.0.md",
+    "2_Draft_Components/English_Versions/Phase3/Ch4_v1.0.md",
     "AIE_Project_Edit_Log_v1.0.md",
-    "原文拆分版本/目录.md",
-    "Final_Export_Phase3_Consolidated_v1.0.md",
-    "Final_Export_Phase2_Consolidated_v1.0.md",
-    "《数码兽网络：攻略组》最终项目总结报告_v1.0.md",
-    "原文拆分版本/第三章 明镜止水.md",
-    "原文拆分版本/第四章 鸽与鹤.md",
-    "原文拆分版本/第二章 落枭.md",
-    "原文拆分版本/序章 攻略组.md",
-    "原文拆分版本/第一章 漆黑勇者.md",
-    "原文拆分版本/《数码兽网络：攻略组》（上）前言.md",
-    "English_Versions/Phase1/Ch1_Part1_v1.0.md",
     "未命名.md",
-    "English_Versions/Phase5/Final_Export_Phase5_Consolidated_v1.0.md",
-    "English_Versions/Phase4/Final_Export_Phase4_Consolidated_v1.0.md",
-    "English_Versions/Phase4/Gaiden2_v1.0.md",
-    "English_Versions/Phase5/Gaiden4_v1.0.md",
-    "English_Versions/Phase5/Ch15_v1.0.md",
-    "English_Versions/Phase5/Ch14_v1.0.md",
-    "English_Versions/Phase5/Ch13_v1.0.md",
-    "English_Versions/Phase5/Ch12_v1.0.md",
-    "English_Versions/Phase5/Ch11_v1.0.md"
+    "2_Draft_Components/English_Versions/Phase2/Ch2_v1.0.md",
+    "1_Source_Material/原文拆分版本/4.第二章 落枭.md",
+    "2_Draft_Components/English_Versions/Phase1/Ch1_Part1_v1.0.md",
+    "1_Source_Material/原文拆分版本/3.第一章 漆黑勇者.md",
+    "1_Source_Material/原文拆分版本/2.序章 攻略组.md",
+    "English_Versions/Phase2/Ch2_v1.0.md",
+    "English_Versions/Phase2",
+    "English_Versions",
+    "7_Archives/WPS查看版与最终提交版",
+    "7_Archives/联网核查",
+    "7_Archives/未命名.md",
+    "MTPE/Phase2/Analysis_Ch2_v1.0.md",
+    "7_Archives/preface_dump.txt",
+    "7_Archives/Preparation_for_Phase5_Migration.md",
+    "7_Archives/Preparation_for_Phase4_Migration.md",
+    "7_Archives/Preparation_for_Phase3_Migration.md",
+    "7_Archives/Final_Export_Phase3_Consolidated_v1.0.md",
+    "7_Archives/Final_Export_Phase2_Consolidated_v1.0.md",
+    "7_Archives/Final_Export_Phase1_Consolidated_v1.0.md",
+    "6_Scripts/scan_hallucinations.py",
+    "6_Scripts/scan_garbage.py",
+    "6_Scripts/scan_chinese.py",
+    "5_Project_Docs/《数码兽网络：攻略组》最终项目总结报告_v1.0.md",
+    "5_Project_Docs/Terminology_Audit/Terminology_Audit.md",
+    "5_Project_Docs/MTPE/Phase5/MTPE_Analysis_Gaiden4_v1.0.md"
   ]
 }

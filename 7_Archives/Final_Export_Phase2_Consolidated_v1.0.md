@@ -1,3 +1,13 @@
+# Digital Monster Network: Phase 2 Consolidated Export (v1.0)
+
+## Contents
+
+1. [Chapter 2: Falling Owl](#chapter-2-falling-owl)
+
+---
+
+<a name="chapter-2-falling-owl"></a>
+
 # Chapter 2: Falling Owl
 
 I slept for a long time, long enough to finish a delirious, feverish dream of a queen and her knight.
@@ -6,9 +16,9 @@ When I lost consciousness, I expected to be taken to a hospital or some similar 
 
 Sitting on the edge of the bed, my head still felt heavy and dizzy. Faintly, I could hear rows of cheering and boisterous laughter from downstairs, like a collective drinking contest. From this, I deduced I was in a bar. A mirror stood in the corner of the room; through it, I saw that I still maintained the tall, elegant form of **Rosemon**. I hadn't reverted to my human self. I suspected this was because I was still within the Digital World, even if the architecture here mirrored the human hubs of Midgard.
 
-**[System Notification: You have a voice message. Listen?]**
+**[System Notification: You have one voice message. Listen?]**
 
-**[LISTEN]**      **[LATER]**
+**[YES]**
 
 A dialogue box appeared before me, sent by my knight. I presumed he feared I would wake in his absence and left this to explain the situation, preventing me from losing my bearings.
 
@@ -82,66 +92,6 @@ Owl had once belonged to the **"The Dragon's Den"** guild. He had been forced ou
 
 **Dragon**, the representative of the Chinese Raiding Group, was the one who had made the bet with Owl. Both were members of "The Dragon's Den" and had previously defeated the Guild Master, **Yi** (who fought in the form of **ShineGreymon**). They had earned the highest possible rewards: Owl received a **Crest of Courage**, while Dragon received the **Alpha Eye (Alphamon's Digicore)**. When the two of them reached the final stage of a tournament, they struck a deal: whoever lost the battle would leave the guild forever.
 
-> **Alpha Eye**: A black stone glowing red from within—it is, in fact, **Alphamon's** Digicore.
-
 "He agreed to such an absurd wager!?"
 
-"We, the audience, had the same reaction," Adam recalled. "But back then, Owl was just a fledgling who didn't know his own limits—all heart and fire. He didn't see it, and neither did we..." Adam murmured.
-
-Owl had previously defeated their Guild Master despite a type disadvantage, so he had no fear of facing a Data-type opponent that theoretically countered him. He was confident he could exploit the weakness shared by all members of 'The Dragon's Den'—using the 'Dramon Killers' on his arms to deal massive, super-effective damage. But the result... was the first crushing defeat of his career.
-
-"In the end, he didn't see the result coming, and we... well, we didn't see the process coming."
-
-"The process?"
-
-"Yeah."
-
-He leaned against the doorframe, lighting a cigarette with a casual flick. "What is Dragon's Digimon form?"
-
-I shook my head. "You haven't told me."
-
-"**Dorugoramon**."
-
-He spoke the name that induces shuddering merely by sound, then took a deep drag, exhaling a large smoke ring into the air. "A flawless, Ultimate-type Digimon with zero weaknesses. The **Black Tornado** left no mark on his body. The **Dark Gaia Force** was swatted away like a fly. That guy was trampled underfoot like a bug, utterly powerless. The disparity was so vast it offered no hope of a turnaround."
-
-The entire audience had stood to cheer for Owl, only to be crushed by disappointment.
-
-"Since then, those who witnessed that battle ceased to believe in 'miracles'. They preferred to accept the brutal reality before them, giving up the struggle early for release. Quitting the guild is equivalent to abandoning the **Raiders**."
-
-"Even if he was strong?"
-
-"Even if he was strong... what does that mean? What use is strength?"
-
-I couldn't help but wonder. "Since the goal is exploring unknown territories, shouldn't the **Raiders** prioritize those powerful individuals? They might be more suitable for deep exploration than guild members."
-
-"There is one thing you might not know yet," he told me solemnly. "Here, just like outside, it is a world where the weak are prey to the strong. There are too many strong people; we don't lack one more."
-
-His words successfully silenced me, teaching me a very realistic lesson.
-
-The topic of Owl came to a pause. Next, it was time to discuss my situation. I had noticed earlier that this boss, or Guild Master, was subconsciously blocking my path, preventing me from leaving the room. I couldn't figure out why.
-
-I asked him, "Since you are the bar owner, could you... buy me a drink?"
-
-"Of course." He agreed readily, but his expression changed the next second. "But it has to be in this room. I can go downstairs, pour you a glass, and bring it up. As for the reason... you can ask that guy. He told me to guard you constantly, not letting you take half a step out of this room, saying he was afraid you'd be seen by others."
-
-"Is being seen strange?"
-
-"No." He looked slightly troubled. "In the guild domain, maintaining either human or Digimon form is fine as long as you don't hinder others. But you are special."
-
-"How so?"
-
-"Without the **Trial Badge**, you are currently, in principle, just a Digimon, no longer a human in Digimon form. If you approach those drunks and debtors downstairs looking like this, they might treat you as a wild Digimon. Don't forget, this is a haven for **Insect-type** Digimon. As everyone knows, insects sip nectar and eat plants. It's true in nature, and it's true in the Digital World. So, for the sake of your own life, bear with it. If you need anything, I'll prepare it immediately."
-
-His eyes revealed sincerity, and his behavior passed the test—no excessive expressions. At least it proved he wasn't good at lying. Furthermore, while speaking, his gaze remained level with mine, never stealing glances at my body or harboring superfluous thoughts. He was trustworthy enough.
-
-"I won't trouble you then."
-
-"Don't be polite."
-
-"Then... could I have a glass of water?"
-
-"Wait. Right away."
-
-He snapped his fingers, turned to grab the railing of the second-floor corridor, and shouted downstairs: "Hey down there! Anyone idle? Pour a glass of water and bring it up!"
-
-So their bar had bartenders. That put me at ease.
+"We, the audience, had the same reaction," Adam recalled. "But back then, Owl was just a fledgling who didn't know his own limits—all heart and fire. In the end, he didn't see the result coming, and we... well, we didn't see the process coming."
