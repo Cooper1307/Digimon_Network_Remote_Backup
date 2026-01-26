@@ -188,3 +188,15 @@ This log records every major edit and file synchronization event, ensuring absol
 - Pull: origin/main 已是最新
 - Push: 暂缓（当前环境无法访问 GitHub HTTPS）
 - Next step: 在可联网环境执行 `git push -u origin main`
+
+### [2026-01-26 19:58:58] [Remote Sync — Attempt 2]
+
+- Remote: https://github.com/Cooper1307/Digimon_Network_Remote_Backup
+- Branch: main
+- Action: 尝试推送（HTTPS失败：端口443不可达）；切换SSH尝试
+- SSH错误：`C:\\Users\\Lenovo\\.ssh\\config` 第3行配置错误（Port 值非法），导致连接终止
+- 处理：恢复远程为 HTTPS；未更改系统配置文件
+- 建议：
+  - 修复 SSH 配置：将 `Port 22` 写入第3行
+  - 或在可联网环境直接执行 `git push -u origin main`
+  - 若用 SSH：生成密钥并上传到 GitHub，然后推送
