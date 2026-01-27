@@ -1,4 +1,4 @@
-# Digital Monster Network: Phase 4 Consolidated Export (v1.0)
+# Digimon Network: Phase 4 Consolidated Export (v1.0)
 
 This document contains the refined English translations for Chapters 6, 7, 8, and Gaiden 2.
 

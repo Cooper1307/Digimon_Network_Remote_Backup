@@ -1,4 +1,4 @@
-# Digital Monster Network: Phase 2 Consolidated Export (v1.0)
+# Digimon Network: Phase 2 Consolidated Export (v1.0)
 
 ## Contents
 

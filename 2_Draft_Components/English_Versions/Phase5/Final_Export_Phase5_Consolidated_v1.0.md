@@ -1,4 +1,4 @@
-# Digital Monster Network: Phase 5 Consolidated Export (v1.0)
+# Digimon Network: Phase 5 Consolidated Export (v1.0)
 
 This document contains the refined English translations for Chapters 9 through 15, and Side Stories (Gaiden) 3 and 4.
 

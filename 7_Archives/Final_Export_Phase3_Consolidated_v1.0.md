@@ -1,4 +1,4 @@
-# Digital Monster Network: Phase 3 Consolidated Export (V1.0)
+# Digimon Network: Phase 3 Consolidated Export (V1.0)
 
 This document contains the final, refined translations for Phase 3 of the project.
 

@@ -1,4 +1,4 @@
-# Digital Monster Network: Preface
+# Digimon Network: Preface
 
 This work is an original fan-fiction based on the *DIGIMON* series. It can be understood as a story where humans assume the roles of Digimon to embark on network adventures. The setting utilizes a fused worldview and excludes supernatural elements such as X-Antibody or Hybrids. The narrative alternates between the "Main Story" and "Side Stories," spanning a total of nine volumes. The "Upper Volume" covers the first four parts, the "Middle Volume" encompasses the fifth, and the "Lower Volume" comprises the final four. The Main Story follows the journey of the lead heroine, while the Side Stories provide perspectives from other characters (excluding Guild Leaders) to expand on secondary plotlines.
 

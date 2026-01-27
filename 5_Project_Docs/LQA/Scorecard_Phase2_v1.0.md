@@ -1,6 +1,6 @@
 # AIE LQA Scorecard: Phase 2 Automation v1.0
 
-**Project:** Digital Monster Network
+**Project:** Digimon Network
 **Scope:** Chapter 2 ("Falling Owl")
 **Auditor:** AIE System v3.0
 

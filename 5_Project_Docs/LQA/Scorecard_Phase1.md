@@ -1,6 +1,6 @@
 # Professional Translation Evaluation Report (Phase 1)
 
-**Project:** Digital Monster Network: The Raiders  
+**Project:** Digimon Network: The Raiders  
 **Scope:** Prologue & Chapter 1 (Lines 1-265)  
 **Standard:** Absolute Integrity Edition (AIE) Protocols
 

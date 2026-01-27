@@ -1,4 +1,4 @@
-# AIE Project Database: Phase 3 (Digital Monster Network) v1.0
+# AIE Project Database: Phase 3 (Digimon Network) v1.0
 
 This database serves as the single source of truth for all lore, entities, and systemic facts established or active during Phase 3.
 

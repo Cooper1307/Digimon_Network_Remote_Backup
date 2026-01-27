@@ -1,4 +1,4 @@
-# Digital Monster Network: The Raiders
+# Digimon Network: The Raiders
 
 ## Preface
 

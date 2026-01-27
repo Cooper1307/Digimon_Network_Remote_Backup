@@ -1,4 +1,4 @@
-# AIE Project Edit Log: Phase 1 (Digital Monster Network)
+# AIE Project Edit Log: Phase 1 (Digimon Network)
 
 This log records every major edit and file synchronization event, ensuring absolute transparency and compliance with the "Absolute Integrity" protocol.
 

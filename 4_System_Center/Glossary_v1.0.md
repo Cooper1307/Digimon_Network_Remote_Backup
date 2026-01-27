@@ -1,6 +1,6 @@
 # Terminology Audit & Global Glossary v1.0
 
-This document standardizes the terminology for the **Digital Monster Network** series, following the "Absolute Integrity" protocol.
+This document standardizes the terminology for the **Digimon Network** series, following the "Absolute Integrity" protocol.
 
 ## 1. Character & Entity Audit
 
