@@ -1,5 +1,7 @@
 # Terminology Audit & Global Glossary v1.0
 
+> **Master Index.** This file is the authoritative, consolidated glossary. For incremental maintenance, see the category sub-files in `Glossary/`: `characters.md`, `digimon.md`, `skills_gear.md`, `lore.md`, `idioms.md`.
+
 This document standardizes the terminology for the **Digimon Network** series, following the "Absolute Integrity" protocol.
 
 ## 1. Character & Entity Audit

@@ -1,0 +1,55 @@
+# ==========================================
+# AI IDE (Antigravity/Cursor) Ignore Rules
+# 让底层检索系统 (ripgrep/fd) 自动忽略以下文件包，极大提升回答速度并降低幻觉错乱
+# ==========================================
+
+# ---- Binary & Large Files (二进制和大文件) ----
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+
+# ---- Archive Folders (归档文件夹 - 不加入日常上下文) ----
+归档/
+归档*/
+*归档/
+*归档*/
+archive/
+Archive/
+
+# ---- Extracted Textbook Folders (解压后的外部教材 - 太大) ----
+货币、金融市场与金融机构*/
+
+# ---- System Files ----
+~$*
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# ---- Editor Temp Files ----
+*.swp
+*.swo
+*~
+
+# ---- Office Lock Files ----
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# ---- Agent Internal Cache ----
+.agent/.cache/
+.agent/.tmp/
+
+# ---- Compilation & Build (如有前端开发拓展) ----
+node_modules/
+.npm/

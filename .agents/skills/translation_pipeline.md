@@ -14,6 +14,18 @@ This skill defines the step-by-step procedure for translating a chapter/section 
 
 ## Pipeline Steps
 
+### Step 0: Pre-Flight Checklist
+
+Before proceeding, verify all prerequisites:
+
+- [ ] Source file exists and is complete in `1_Source_Material/`.
+- [ ] `4_System_Center/Glossary_v1.0.md` is loaded.
+- [ ] Previous chapter/section is SEALED (no open dependencies).
+- [ ] Relevant `4_System_Center/Database/` files are loaded.
+- [ ] `AIE_Project_Edit_Log_v2.0.md` has been reviewed for latest status.
+
+If any item fails, resolve it before continuing.
+
 ### Step 1: Pre-Audit (Lore & Terminology Scan)
 
 1. Read the source chapter from `1_Source_Material/`.

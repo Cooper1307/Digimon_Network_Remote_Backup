@@ -59,4 +59,18 @@ Classify each issue by severity:
 1. Generate an LQA report summarizing findings and score.
 2. If score ≥ 95: Approve for final export.
 3. If score < 95: List required fixes and iterate.
-4. Record the review in `AIE_Project_Edit_Log_v1.0.md`.
+4. Record the review in `AIE_Project_Edit_Log_v2.0.md`.
+
+### Step 6: Delta Review Mode
+
+Use this mode when reviewing a file that has been modified after a previous LQA pass:
+
+1. Identify the previous version of the file (pre-fix).
+2. Generate a diff between the previous and current versions.
+3. Focus the LQA review **only on changed sections**:
+   - Verify the fix addresses the original issue.
+   - Check for regressions introduced by the fix.
+   - Re-score only affected dimensions.
+4. Update the overall LQA score.
+5. Document: original issue → fix applied → score impact.
+

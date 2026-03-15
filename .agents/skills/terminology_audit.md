@@ -51,5 +51,20 @@ This skill defines how to perform a comprehensive terminology audit for any chap
 
 1. Add verified new terms to the Glossary with:
    - Chinese source | English translation | Source/authority | Date added
-2. Record any glossary changes in `AIE_Project_Edit_Log_v1.0.md`.
+2. Record any glossary changes in `AIE_Project_Edit_Log_v2.0.md`.
 3. Update `4_System_Center/Database/` if new entities are discovered.
+
+### Step 6: Batch Audit Mode (Multi-Chapter)
+
+Use this mode for cross-chapter terminology consistency checks:
+
+1. Specify the range of chapters to audit (e.g., Phase 3: Ch3–Ch5).
+2. Extract all proper nouns and terms from each chapter's English export.
+3. Build a unified term frequency table across all chapters.
+4. Flag any inconsistencies:
+   - Same source term translated differently across chapters.
+   - Term used in one chapter but missing from another where expected.
+   - Glossary-locked term overridden without authorization.
+5. Generate a **Cross-Chapter Consistency Report** listing all flagged items.
+6. Resolve flagged items: standardize to the Glossary-locked version, or escalate to user.
+

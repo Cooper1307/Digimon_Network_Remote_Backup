@@ -1,0 +1,54 @@
+# ==========================================
+# AI IDE (Antigravity) Ignore Rules
+# 让 AI 不自动读取以下文件和文件夹
+# ==========================================
+
+# ---- Binary & Large Files (二进制和大文件) ----
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.rar
+*.7z
+
+# ---- Archive Folders (归档文件夹) ----
+归档/
+归档*/
+*归档/
+*归档*/
+archive/
+Archive/
+
+# ---- Extracted Textbook Folders (解压后的教材文件夹) ----
+货币、金融市场与金融机构*/
+
+# ---- System Files ----
+~$*
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# ---- Editor Temp Files ----
+*.swp
+*.swo
+*~
+
+# ---- Office Lock Files ----
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# ---- Agent Internal ----
+.agent/.cache/
+.agent/.tmp/
+
+# ---- Build Artifacts ----
+node_modules/

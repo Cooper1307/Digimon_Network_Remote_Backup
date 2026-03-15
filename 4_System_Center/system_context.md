@@ -1,4 +1,4 @@
-# System Context: Absolute Integrity Edition (AIE) Protocols v3.0
+# System Context: Absolute Integrity Edition (AIE) Protocols v4.0
 
 ## 1. Role Definition & Core Philosophy
 
@@ -17,11 +17,11 @@
 
 - **File & Versioning:** Every core content block must have a filename and version tag.
 - **Dual-Save Protocol:** All FINAL outputs must be synchronized to two specific local directories:
-  - `/MTPE/`: Deep analysis and internal bibles.
-  - `/English_Versions/`: Clean, client-ready English exports.
+  - `2_Draft_Components/MTPE/` — Deep analysis and internal bibles.
+  - `English_Versions/` — Clean, client-ready English exports (root-level canonical directory).
 - **Omission Audit:** Mandatory check for missing information after each major task.
 - **Consolidation Cycle:** Every chapter concludes with a "Milestone Export"—a single, cohesive file combining all parts after final LQA.
-- **Edit Log Accuracy:** All changes must be recorded in `AIE_Project_Edit_Log_vX.Y.md` with second-accurate timestamps.
+- **Edit Log Accuracy:** All changes must be recorded in `AIE_Project_Edit_Log_v2.0.md` with accurate timestamps. Historical log (`v1.0`) is SEALED and read-only.
 
 ## 4. Module Requirements (Refined)
 
@@ -30,25 +30,62 @@
 - **Module C (Principles):** Dynamic verbs, verb-centricity, emotional strength (dramatic impact over literal accuracy when necessary).
 - **Module D (Pipeline):** **Pre-Audit** -> Initial Translation -> MTPE -> LQA -> **Database Update** -> **Web-Check** -> Final Polish -> **Self-Assessment & Scoring**.
 
-## 5. [NEW] Database & Entity Mapping (v1.2 Addition)
+## 5. Database & Entity Mapping
 
-- **Protocol:** Every new character, item, or location must be indexed in the `/Database/` directory.
-- **File:** `Database_Phase1_v1.0.md` serves as the structured lore repository for Phase 1.
+- **Protocol:** Every new character, item, or location must be indexed in `4_System_Center/Database/`.
+- **Active Files:**
+  - `Database_Phase1_v1.0.md` — Phase 1 structured lore repository.
+  - `Database_Phase5_v1.0.md` — Phase 5 structured lore repository.
+  - `Archive/` — Archived intermediate-phase databases.
 
-## 6. Project Status & Asset Map (v3.0 - ARCHIVED)
+## 6. Project Status & Asset Map (v4.0)
 
-- **Current Status:** Phase 1 (Preface to Ch1 Part 4) is **COMPLETE & ARCHIVED**. Ready for Phase 2 Migration.
-- **Milestone:** Final Export Phase 1 Consolidated v1.0 generated. 100/100 LQA Scorecard.
+- **Current Status:** Up Volume (Phase 1–5) is **COMPLETE & SEALED**. Project is in **Maintenance & Optimization Mode**.
+- **Milestones:**
+  - Phase 1 (Preface–Ch1): 100/100 LQA. SEALED.
+  - Phase 2 (Ch2): SEALED.
+  - Phase 3 (Ch3, Gaiden1, Ch4–5): SEALED.
+  - Phase 4 (Ch6–8, Gaiden2): SEALED.
+  - Phase 5 (Gaiden3, Ch9–15, Gaiden4): SEALED.
+  - LQA v1.1 Resolution: Content restoration & terminology standardization applied.
 - **Asset Map:**
-  - `/`: `system_context.md`, `Glossary_v1.0.md`, `AIE_Project_Edit_Log_v1.0.md`.
-  - `MTPE/`: `Analysis_Digimon_Network_..._v1.0.md` (EN Logic) and `..._CN.md` (Localized Bibles).
-  - `English_Versions/`: Final clean exports for each part.
-  - `LQA/`: `Scorecard_Phase1.md`, `LQA_Report_Phase1.md`.
-  - `Database/`: `Database_Phase1_v1.0.md`.
+  - `4_System_Center/` — `system_context.md`, `Glossary_v1.0.md`, `Glossary_v1.0_CN.md`.
+  - `4_System_Center/Database/` — Phase1 + Phase5 databases, `Archive/`.
+  - `1_Source_Material/` — Chinese source texts.
+  - `2_Draft_Components/MTPE/` — Deep analysis bibles (by Phase).
+  - `English_Versions/` — Final clean exports (by Phase, root-level canonical directory).
+  - `AIE_Project_Edit_Log_v1.0.md` — Phase 1–5 log (SEALED).
+  - `AIE_Project_Edit_Log_v2.0.md` — Maintenance phase log (ACTIVE).
+  - `归档/` — Archived materials.
 
 ## 7. Migration & Handover Protocol
 
-1. **Context Load:** Read `system_context.md` (v3.0).
-2. **Status Sync:** Review the `AIE_Project_Edit_Log_v1.0.md` entry for "Phase 1 Archival".
-3. **Lore Load:** Load entities from `Database_Phase1_v1.0.md`.
-4. **Resumption:** Start Chapter 2 with a fresh Lore-Scan, inheriting all Phase 1 standards.
+When starting a new translation phase or conversation:
+
+1. **Context Load:** Read `system_context.md` (this file, v4.0).
+2. **Status Sync:** Review `AIE_Project_Edit_Log_v2.0.md` for latest progress.
+3. **Lore Load:** Load relevant entities from `4_System_Center/Database/`.
+4. **Glossary Lock:** Load `4_System_Center/Glossary_v1.0.md` to inherit all locked terms.
+5. **Resumption:** Start the new chapter/task with a fresh Lore-Scan, inheriting all established standards.
+
+## 8. Agent Configuration
+
+This project uses `.agents/` for AI assistant configuration:
+
+- `.agents/rules.md` — Behavioral constraints and resource index (references this file as sole authority).
+- `.agents/skills/` — Executable skill definitions:
+  - `translation_pipeline.md` — Full AIE translation pipeline (includes Pre-Flight Checklist).
+  - `terminology_audit.md` — Terminology verification (includes Batch Audit Mode).
+  - `lqa_review.md` — LQA review and scoring (includes Delta Review Mode).
+  - `database_indexing.md` — Structured entity entry into Database.
+  - `consolidation_export.md` — Phase-level merge and export.
+  - `source_verification.md` — Source text proofreading and translation completeness check.
+- `.agents/workflows/` — Triggerable workflow definitions:
+  - `new_chapter.md` — `/new_chapter` — Full translation lifecycle.
+  - `manual_review.md` — `/manual_review` — Automated review pipeline for manual translations.
+  - `lqa_fix.md` — `/lqa_fix` — Post-seal LQA issue resolution.
+  - `glossary_update.md` — `/glossary_update` — New term verification and entry.
+  - `remote_sync.md` — `/remote_sync` — GitHub synchronization.
+  - `phase_migration.md` — `/phase_migration` — Phase archival and initialization.
+- `4_System_Center/Glossary/` — Category sub-files for incremental glossary maintenance:
+  - `characters.md`, `digimon.md`, `skills_gear.md`, `lore.md`, `idioms.md`.
