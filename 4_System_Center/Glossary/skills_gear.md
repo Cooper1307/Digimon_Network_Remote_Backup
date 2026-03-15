@@ -16,3 +16,4 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 黄兽偃月刀 | Yellow-Beast Crescent-Blade | — | **Yellow-Beast Crescent-Blade** | CresGarurumon weapon. |
 | 皇家征服 | Royal Conquest | Royal Conquests | **Royal Conquests** | TigerVespamon swords. |
 | 龙兽克星 | Dramon Killer | Dramon Killers | **Dramon Killers** | Official Bandai (Plural). |
+| 多路喧嚣 | DORU Din | DORU Din | **DORU Din** | Official for Dorugoramon. |

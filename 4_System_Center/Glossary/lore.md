@@ -6,3 +6,4 @@ Sourced from `Glossary_v1.0.md` §4. For incremental additions, update this file
 - **Digitization:** Death leads to permanent deletion/data dust. Term: **Digitization** or **Decompilation**.
 - **Chrome Digizoid (时之数码合金):** The indestructible metal of the Digital World.
 - **Seed of Promotion (晋升之种):** Key lore item enabling "Burst" or "GX" evolutions.
+- **Alpha Inforcer (阿尔法之眼):** Extremely rare data artifact/treasure won from Adam.
