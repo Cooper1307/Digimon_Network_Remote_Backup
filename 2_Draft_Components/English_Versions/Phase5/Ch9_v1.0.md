@@ -4,7 +4,7 @@ Acting as network bodyguards, we received our client, the destination was confir
 
 Just like real-world bodyguards, we knew little about this particular client. Protected by privacy regulations, we had no right to inquire about the client's true identity; we could only fulfill his request to the best of our ability and safeguard his life.
 
-Before setting out, Dove, as the executive representative of the "Free Birds", confirmed the destination one last time: "The Aquarius Guild, [Atlantis]—no problem there, Mr. Pufferfishmon?"
+Before setting out, Dove, as the executive representative of the **Free Birds**, confirmed the destination one last time: "The Aquarius Guild, **Atlantis**—no problem there, Mr. Pufferfishmon?"
 
 "There is a problem," he admitted. "Actually, the destination should be the Deep Sea Temple."
 
@@ -20,7 +20,7 @@ At this point, Dove was quite confused. He went to Owl's side and asked if they 
 
 "The client's wishes come first."
 
-Owl gave a definitive answer. Then, he confirmed once more with our client: "The Deep Sea Temple is the palace of Poseidon, the Guild Master of [Atlantis], and his private domain. It doesn't welcome outsiders. Are you sure you want to go there and risk your life?"
+Owl gave a definitive answer. Then, he confirmed once more with our client: "The Deep Sea Temple is the palace of Poseidon, the Guild Master of **Atlantis**, and his private domain. It doesn't welcome outsiders. Are you sure you want to go there and risk your life?"
 
 "I'm sure."
 
@@ -30,7 +30,7 @@ Owl gave a definitive answer. Then, he confirmed once more with our client: "The
 
 I wasn't familiar with these two places, nor did I know their locations, so I approached Crane for help: "Is there any difference between these two places?"
 
-"A huge difference," Crane told me. "The two places are very far apart. The [Atlantis] guild is in Midgard; you can find it by going west along the firewall. The Deep Sea Temple is hidden deep within the Digital World, specifically in the depths of the 'Network Sea'. It's protected by multiple undercurrents, and the water pressure is extremely high—standard aquatic types cannot reach it."
+"A huge difference," Crane told me. "The two places are very far apart. The **Atlantis** guild is in Midgard; you can find it by going west along the firewall. The Deep Sea Temple is hidden deep within the Digital World, specifically in the depths of the 'Network Sea'. It's protected by multiple undercurrents, and the water pressure is extremely high—standard aquatic types cannot reach it."
 
 "Then we..."
 
@@ -42,15 +42,15 @@ With everything confirmed, the escort officially set sail.
 
 Passing through the firewall, through the forest, and arriving at the coast—the journey was remarkably smooth. No one dared to cause trouble, unless they had the ability to deal with six Megas simultaneously. Yet, we actually encountered one. The opponent was an AncientMermaimon. When we intended to descend through the nearest giant whirlpool, she proactively emerged from it, holding a golden trident across her chest to block our path. It looked like she was stopping us.
 
-Falcon was the first to recognize her. Embracing his role as the [Vanguard], he took the lead in setting the atmosphere: "Oh, look everyone! The guardian goddess of the 'Network Sea' has come to welcome us in person."
+Falcon was the first to recognize her. Embracing his role as the **Vanguard**, he took the lead in setting the atmosphere: "Oh, look everyone! The guardian goddess of the 'Network Sea' has come to welcome us in person."
 
-"She certainly has," Owl added. Then, he directly called out her name: "Long time no see, Lana. I heard the [UNSC P5] went to subjugate Leviamon—so why are you here now? Deserting? Or did you just not go?"
+"She certainly has," Owl added. Then, he directly called out her name: "Long time no see, Lana. I heard the **UNSC P5** went to subjugate Leviamon—so why are you here now? Deserting? Or did you just not go?"
 
 "Keep your snide remarks to yourself! Stop making baseless assumptions!" Lana's tone was full of anger. "I'm exhausted from finally dealing with that 'Demon Lord of Envy.' On my way back, I saw you lot from afar, surrounding this spiky thing. What for? Trying to play the villain's accomplices?!"
 
 Except for her and Pufferfishmon himself, none of us understood what she was talking about.
 
-Seeing the confusion on our faces, Lana immediately realized we might not know the client's true identity. So, she raised her trident, pointed it at him, and revealed his true face to all of us "Free Birds":
+Seeing the confusion on our faces, Lana immediately realized we might not know the client's true identity. So, she raised her trident, pointed it at him, and revealed his true face to all of us **Free Birds**:
 
 "This guy is a network hacker. He spreads all kinds of rumors about the British Royal Family online, publishes inflammatory attacks against them, slanders, fabricates stories, distorts facts, and makes personal attacks. It has seriously affected their daily lives..."
 
@@ -64,11 +64,11 @@ I couldn't help but say to Crane: "This woman has quite the temper."
 
 "Correct. They just got married recently and built a Deep Sea Temple to fulfill his dream of a kingdom ahead of time."
 
-"Crane, do you think Owl will terminate the agreement with the client and abandon this mission to protect the reputation of the 'Free Birds'?"
+"Crane, do you think Owl will terminate the agreement with the client and abandon this mission to protect the reputation of the **Free Birds**?"
 
 "Who knows." Crane folded her arms. "Anyway, in my impression, he isn't the type to break a promise. From what I know of him, he probably won't."
 
-Owl's actions proved Crane right—he indeed didn't waver. He took a protective stance, standing alone in front of the client, facing the trident in his old acquaintance's hand, and stated his position: "We can't just take your word for it. Who knows if what you say is true? What happens in reality should be resolved in reality. The network has its own rules. I ask that Miss Lana show us some leniency and not make things difficult for us 'Free Birds'."
+Owl's actions proved Crane right—he indeed didn't waver. He took a protective stance, standing alone in front of the client, facing the trident in his old acquaintance's hand, and stated his position: "We can't just take your word for it. Who knows if what you say is true? What happens in reality should be resolved in reality. The network has its own rules. I ask that Miss Lana show us some leniency and not make things difficult for us **Free Birds**."
 
 "You're dreaming! The Deep Sea Temple will never welcome a social cancer like him!"
 
@@ -82,11 +82,11 @@ Seeing Owl not giving her any face, Lana simply broke off with him completely, s
 
 "Come on! As if I'm afraid of you!"
 
-As she spoke, Lana raised her trident, raising a massive whirlpool that trapped all of us. We were momentarily thrown into confusion. Before we could react, in the next second, Lana used her trident to drive the sea water from the whirlpool wall, launching her favored finishing move toward us—"Crystal Billow".
+As she spoke, Lana raised her trident, raising a massive whirlpool that trapped all of us. We were momentarily thrown into confusion. Before we could react, in the next second, Lana used her trident to drive the sea water from the whirlpool wall, launching her favored finishing move toward us—**Crystal Billow**.
 
 The crystallized water was no less hard than metal. It came down like a storm; without Dove—that massive, natural slab of steel—shielding us, everyone would have had a few holes punched through them.
 
-As the battle began, Falcon took the lead, using "Beast Wolf Great Revolution" to deflect all the water crystals shot at him, rapidly closing in on Lana. Knowing she couldn't win in a contest of strength, Lana promptly summoned a stream of water, swatting Falcon out of the whirlpool. Simultaneously, the "Dark Despair" attached to Crane's left hand was about to be delivered. Lana had no time to dodge and could only curl her body, using her fish tail to deflect the blow with a sweep, hitting Crane's head and causing her body to tilt to one side, finally using her trident to send her toward the bottom of the whirlpool.
+As the battle began, Falcon took the lead, using **Beast Wolf Great Revolution** to deflect all the water crystals shot at him, rapidly closing in on Lana. Knowing she couldn't win in a contest of strength, Lana promptly summoned a stream of water, swatting Falcon out of the whirlpool. Simultaneously, the **Dark Despair** attached to Crane's left hand was about to be delivered. Lana had no time to dodge and could only curl her body, using her fish tail to deflect the blow with a sweep, hitting Crane's head and causing her body to tilt to one side, finally using her trident to send her toward the bottom of the whirlpool.
 
 Seeing this, Owl quickly detached the Brave Shield from his back, held it in front, and used Dove's massive body as a springboard to leap upward, heading toward Lana and directly slamming her into the nearby wall of water.
 
@@ -136,9 +136,9 @@ The client answered: "All the 'Giant Whirlpools' were created by AncientMermaimo
 
 The two of us shouted at the same time, with the difference being the direction we faced. He faced down, and I faced up—one up and one down, two MetalSeadramon poked their heads from behind the wall of water, pouncing toward us in a pincer attack with their mouths wide open.
 
-The disparity in size left us with nowhere to hide. My "Rose Rapier" couldn't pierce the "Chrome Digizoid" covering MetalSeadramon's entire body. The spikes covering Pufferfishmon's body were of the same material and might be useful; he knew this and wanted to use his ultimate move "Spike Storm" to resolve the crisis, but to protect me beside him, he hesitated and ultimately had to abandon the idea out of fear of catching me in the crossfire.
+The disparity in size left us with nowhere to hide. My **Rose Rapier** couldn't pierce the **Chrome Digizoid** covering MetalSeadramon's entire body. The spikes covering Pufferfishmon's body were of the same material and might be useful; he knew this and wanted to use his ultimate move **Spike Storm** to resolve the crisis, but to protect me beside him, he hesitated and ultimately had to abandon the idea out of fear of catching me in the crossfire.
 
-At the critical moment, Falcon and Crane arrived just in time. One used "Geki Iogetsuga", sending out countless ice-forged Yellow-Beast Crescent-Blades, and the other used her right arm to release the arrow of light "Holy Hope". The two of them, one up and one down, countered the Seadramon brothers' pincer and successfully saved us.
+At the critical moment, Falcon and Crane arrived just in time. One used **Geki Iogetsuga**, sending out countless ice-forged Yellow-Beast Crescent-Blades, and the other used her right arm to release the arrow of light **Holy Hope**. The two of them, one up and one down, countered the Seadramon brothers' pincer and successfully saved us.
 
 "Are you okay, Sakura!"
 
@@ -152,11 +152,11 @@ The client was the one under our protection and shouldn't be allowed to act unle
 
 Falcon and Crane were both natural warriors. They each held off a MetalSeadramon, dispersing to the left and right, leaving only me. Without a single piece of metal on my body, yet having to face a steel leviathan sheathed entirely in metal, alone—this was almost an impossible task.
 
-Now, there was no room for any hesitation, and no chance to retreat. The muzzle at the nose was pointed at me, and "Ultimate Stream" was ready. I couldn't care about anything else and could only steel myself and charge forward.
+Now, there was no room for any hesitation, and no chance to retreat. The muzzle at the nose was pointed at me, and **Ultimate Stream** was ready. I couldn't care about anything else and could only steel myself and charge forward.
 
 "Every last one of you... don't you dare look down on me!"
 
-Venting the suppressed emotions in my heart, I concentrated all my energy and released "Forbidden Temptation" to clash against the cannon blast.
+Venting the suppressed emotions in my heart, I concentrated all my energy and released **Forbidden Temptation** to clash against the cannon blast.
 
 Due to the space constraints of the whirlpool wall, the red and green light waves didn't have enough space to persist in a stalemate; the contest finally turned into a point-blank detonation. The resulting massive impact blew open the wall of water and blocked the whirlpool stream. The rushing sea water came toward me, and with my petite frame, I was powerless to resist. I could only be ruthlessly swallowed up, joining the swirling currents, sinking into the seabed, and left drifting completely alone.
 
@@ -166,13 +166,13 @@ Suddenly, a pair of strong hands grabbed me from behind. Turning to look, who me
 
 I stared at him in a daze; for a moment, I even forgot he was still my captain.
 
-"Get up! The [Support Position] can't be the first to fall!"
+"Get up! The **Support Position** can't be the first to fall!"
 
 Expecting romance from him—I must be out of my mind.
 
 He led me out of the water wall, back into the cavity created by the giant whirlpool, and met up with Falcon, Crane, and our client. At this moment, the three MetalSeadramon opposite us had already taken their lethal formation, simultaneously channeling energy into the muzzles at their noses, and then, without further ado, released it.
 
-The three beams of bright green "Ultimate Stream" converged, producing an unstoppable impact that could easily overturn everything in sight. Owl, as the captain, to cover us, had to take the Brave Shield from his back, hold it in front, rush forward, and take the full brunt of the blast for us.
+The three beams of bright green **Ultimate Stream** converged, producing an unstoppable impact that could easily overturn everything in sight. Owl, as the captain, to cover us, had to take the Brave Shield from his back, hold it in front, rush forward, and take the full brunt of the blast for us.
 
 "Hey, that's too reckless!"
 
@@ -186,6 +186,6 @@ Everyone, including the client, stood stunned, unwilling to believe everything t
 
 Four against three—we were short on hands, so the client had to make up the numbers.
 
-On behalf of the [Support Position], I invited him: "Mr. Pufferfishmon, please lend us your strength."
+On behalf of the **Support Position**, I invited him: "Mr. Pufferfishmon, please lend us your strength."
 
 He clenched his fists and replied without hesitation: "I will give it everything I have!"
