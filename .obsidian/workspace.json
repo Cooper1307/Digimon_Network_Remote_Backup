@@ -6,7 +6,7 @@
       {
         "id": "947c4e75002a606b",
         "type": "tabs",
-        "dimension": 33.16378433367243,
+        "dimension": 49.12023460410557,
         "children": [
           {
             "id": "dacc7733d043c4e1",
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Source_Material/原文拆分版本/21.第十五章 美丽的终结.md",
+                "file": "1_Source_Material/原文拆分版本/6.外传一  攻略组救援战.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21.第十五章 美丽的终结"
+              "title": "6.外传一  攻略组救援战"
             }
           }
         ],
@@ -70,7 +70,7 @@
       {
         "id": "3dcbc259db532a04",
         "type": "tabs",
-        "dimension": 66.83621566632758,
+        "dimension": 50.87976539589443,
         "children": [
           {
             "id": "c6355ad4acf685b7",
@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Source_Material/原文拆分版本/20.第十四章 龙与神.md",
+                "file": "2_Draft_Components/English_Versions/Phase3/5.Gaiden1_v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20.第十四章 龙与神"
+              "title": "5.Gaiden1_v1.0"
             }
           },
           {
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "d39540032bc06017",
@@ -264,8 +265,11 @@
   },
   "active": "c6355ad4acf685b7",
   "lastOpenFiles": [
-    "1_Source_Material/原文拆分版本/21.第十五章 美丽的终结.md",
+    "1_Source_Material/原文拆分版本/6.外传一  攻略组救援战.md",
+    "2_Draft_Components/English_Versions/Phase3/5.Gaiden1_v1.0.md",
     "1_Source_Material/原文拆分版本/20.第十四章 龙与神.md",
+    "1_Source_Material/原文拆分版本/7.第四章 鸽与鹤.md",
+    "1_Source_Material/原文拆分版本/21.第十五章 美丽的终结.md",
     "1_Source_Material/原文拆分版本/22..md",
     "1_Source_Material/原文拆分版本/23..md",
     "归档/中译英原文《数码兽网络：攻略组》（上）.md",
@@ -290,9 +294,6 @@
     "1_Source_Material/原文拆分版本/6.第四章 鸽与鹤.md",
     "1_Source_Material/原文拆分版本/8.第六章",
     "1_Source_Material/原文拆分版本/7.第五章",
-    "2_Draft_Components/English_Versions/Phase3/Ch3_v1.0.md",
-    "2_Draft_Components/English_Versions/Phase3/Ch4_v1.0.md",
-    "AIE_Project_Edit_Log_v1.0.md",
     "English_Versions/Phase2",
     "归档/English_Versions",
     "7_Archives/WPS查看版与最终提交版",

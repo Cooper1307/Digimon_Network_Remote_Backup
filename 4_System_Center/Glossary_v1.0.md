@@ -43,6 +43,9 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **虎蜂兽** | TigerVespamon | **TigerVespamon** | Official. |
 | **力神比多兽** | HerculesKabuterimon | **HerculesKabuterimon** | Official. |
 | **偃月加鲁鲁兽** | CresGarurumon | **CresGarurumon** | Official. |
+| **座天使兽：堕落形态** | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. |
+| **秩序兽** | Ordinemon | **Ordinemon** | Official. |
+| **莫斯提兽** | Mastemon | **Mastemon** | Official. |
 
 ## 3. Skill & Gear Audit
 
@@ -60,6 +63,9 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **黄兽偃月刀** | Yellow-Beast Crescent-Blade | **Yellow-Beast Crescent-Blade** | **Yellow-Beast Crescent-Blade** | CresGarurumon's Weapon. |
 | **皇家征服** | Royal Conquest | **Royal Conquests** | **Royal Conquests** | TigerVespamon's Twin Light-Swords. |
 | **龙兽克星** | Dramon Killer | **Dramon Killers** | **Dramon Killers** | Official Bandai (Plural). |
+| **黑暗盖亚能量炮** | Dark Gaia Force | **Dark Terra Destroyer** | **Dark Terra Destroyer** | Aligns with BlackWarGreymon's Terra Destroyer naming convention. |
+| **铠马大名刃** | Kai Riku Daimyoujin | **Gairyu Senbajin** | **Gairyu Senbajin** | Ouryumon's blade. |
+| **玫瑰色摇篮** | Rose Cradle | **Rosy Cradle** | **Rosy Cradle** | Rosemon's skill. |
 
 ## 4. Lore & World-Building
 
