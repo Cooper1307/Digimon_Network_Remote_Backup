@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Source_Material/原文拆分版本/6.外传一  攻略组救援战.md",
+                "file": "2_Draft_Components/English_Versions/Phase4/Ch8_v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.外传一  攻略组救援战"
+              "title": "Ch8_v1.0"
             }
           }
         ],
@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Draft_Components/English_Versions/Phase3/5.Gaiden1_v1.0.md",
+                "file": "1_Source_Material/原文拆分版本/11.第八章 母亲的遗嘱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.Gaiden1_v1.0"
+              "title": "11.第八章 母亲的遗嘱"
             }
           },
           {
@@ -265,6 +265,8 @@
   },
   "active": "c6355ad4acf685b7",
   "lastOpenFiles": [
+    "2_Draft_Components/English_Versions/Phase4/Ch8_v1.0.md",
+    "1_Source_Material/原文拆分版本/11.第八章 母亲的遗嘱.md",
     "1_Source_Material/原文拆分版本/6.外传一  攻略组救援战.md",
     "2_Draft_Components/English_Versions/Phase3/5.Gaiden1_v1.0.md",
     "1_Source_Material/原文拆分版本/20.第十四章 龙与神.md",
@@ -287,11 +289,9 @@
     "1_Source_Material/原文拆分版本/4.第二章 落枭.md",
     "1_Source_Material/原文拆分版本/13.外传三 深险之局.md",
     "1_Source_Material/原文拆分版本/12.外传二 变态派对讨伐战.md",
-    "1_Source_Material/原文拆分版本/11.第八章 母亲的遗嘱.md",
     "1_Source_Material/原文拆分版本/10.第七章 复苏的魔王.md",
     "1_Source_Material/原文拆分版本/9.第六章 会长的请求.md",
     "1_Source_Material/原文拆分版本/5.第三章 明镜止水.md",
-    "1_Source_Material/原文拆分版本/6.第四章 鸽与鹤.md",
     "1_Source_Material/原文拆分版本/8.第六章",
     "1_Source_Material/原文拆分版本/7.第五章",
     "English_Versions/Phase2",
