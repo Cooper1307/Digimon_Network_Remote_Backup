@@ -89,3 +89,23 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **明镜方能止水** | **Only a clear mirror reflects still water** | Dialogue | Queen's "pseudo-philosophical" face-saving line. |
 | **吃了老娘豆腐** | **cop a feel** | Slang | Gritty, adult-oriented localization. |
 | **鼠辈** | **rodent** | Insult | Character-appropriate insult for a "little brother" type. |
+
+## 6. Ch9 New Terms (2026-03-19)
+
+### Digimon
+| Source (CN) | Official | Project Standard | Notes |
+| :--- | :--- | :--- | :--- |
+| **古代人鱼兽** | AncientMermaimon | **AncientMermaimon** | Official. |
+| **钢铁海龙兽** | MetalSeadramon | **MetalSeadramon** | Official. |
+| **利维亚兽** | Leviamon | **Leviamon** | Official. Demon Lord of Envy. |
+
+### Skills
+| Source (CN) | Official | Project Decision | Notes |
+| :--- | :--- | :--- | :--- |
+| **结晶狂涛** | Crystal Billow | **Crystal Billow** | AncientMermaimon's attack. |
+| **兽狼大回旋** | Beast Wolf Great Revolution | **Beast Wolf Great Revolution** | CresGarurumon's attack. |
+| **究极波浪炮** | Ultimate Stream | **Ultimate Stream** | MetalSeadramon's attack. |
+| **禁断诱惑** | Forbidden Temptation | **Forbidden Temptation** | Rosemon's attack. |
+| **蔷薇突刺剑** | Rose Rapier | **Rose Rapier** | Rosemon's weapon. |
+| **刺针暴风** | — | **Spike Storm** | Novel-original. Pufferfishmon. |
+| **英国冲拳** | — | **British Punch** | Novel-original. Pufferfishmon. |

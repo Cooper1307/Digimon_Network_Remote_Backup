@@ -17,3 +17,10 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 皇家征服 | Royal Conquest | Royal Conquests | **Royal Conquests** | TigerVespamon swords. |
 | 龙兽克星 | Dramon Killer | Dramon Killers | **Dramon Killers** | Official Bandai (Plural). |
 | 多路喧嚣 | DORU Din | DORU Din | **DORU Din** | Official for Dorugoramon. |
+| 结晶狂涛 | Crystal Raging Waves | Crystal Billow | **Crystal Billow** | Official. AncientMermaimon's attack. |
+| 兽狼大回旋 | Beast Wolf Great Revolution | Beast Wolf Great Revolution | **Beast Wolf Great Revolution** | Official. CresGarurumon's attack. |
+| 究极波浪炮 | Ultimate Wave Cannon | Ultimate Stream | **Ultimate Stream** | Official. MetalSeadramon's attack. |
+| 禁断诱惑 | Forbidden Temptation | Forbidden Temptation | **Forbidden Temptation** | Official. Rosemon's attack. |
+| 蔷薇突刺剑 | Rose Rapier | Rose Rapier | **Rose Rapier** | Rosemon's weapon. |
+| 刺针暴风 | Spike Storm | — | **Spike Storm** | Novel-original. Pufferfishmon's attack. |
+| 英国冲拳 | British Punch | — | **British Punch** | Novel-original. Pufferfishmon's attack. |

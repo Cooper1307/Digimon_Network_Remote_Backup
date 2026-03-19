@@ -22,3 +22,6 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 虎蜂兽 | TigerVespamon | **TigerVespamon** | Official. |
 | 力神比多兽 | HerculesKabuterimon | **HerculesKabuterimon** | Official. |
 | 偃月加鲁鲁兽 | CresGarurumon | **CresGarurumon** | Official. |
+| 古代人鱼兽 | AncientMermaimon | **AncientMermaimon** | Official. Ch9. |
+| 钢铁海龙兽 | MetalSeadramon | **MetalSeadramon** | Official. Ch9. |
+| 利维亚兽 | Leviamon | **Leviamon** | Official. Demon Lord of Envy. |
