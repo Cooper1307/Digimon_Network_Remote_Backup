@@ -4,9 +4,9 @@ Acting as network bodyguards, we received our client, the destination was confir
 
 Just like real-world bodyguards, we knew little about this particular client. Protected by privacy regulations, we had no right to inquire about the client's true identity; we could only fulfill his request to the best of our ability and safeguard his life.
 
-Before setting out, Dove, as the executive representative of the "Free Birds" (自由鸟), confirmed the destination one last time: "The Aquarius Guild, [Atlantis] (亚特兰蒂斯)—no problem there, Mr. Pufferfishmon?"
+Before setting out, Dove, as the executive representative of the "Free Birds", confirmed the destination one last time: "The Aquarius Guild, [Atlantis]—no problem there, Mr. Pufferfishmon?"
 
-"There is a problem," he admitted. "Actually, the destination should be the Deep Sea Temple (深海神殿)."
+"There is a problem," he admitted. "Actually, the destination should be the Deep Sea Temple."
 
 "But the request clearly states..."
 
@@ -30,7 +30,7 @@ Owl gave a definitive answer. Then, he confirmed once more with our client: "The
 
 I wasn't familiar with these two places, nor did I know their locations, so I approached Crane for help: "Is there any difference between these two places?"
 
-"A huge difference," Crane told me. "The two places are very far apart. The [Atlantis] guild is in Midgard; you can find it by going west along the firewall. The Deep Sea Temple is hidden deep within the Digital World, specifically in the depths of the 'Network Sea' (网络之海). It's protected by multiple undercurrents, and the water pressure is extremely high—standard aquatic types cannot reach it."
+"A huge difference," Crane told me. "The two places are very far apart. The [Atlantis] guild is in Midgard; you can find it by going west along the firewall. The Deep Sea Temple is hidden deep within the Digital World, specifically in the depths of the 'Network Sea'. It's protected by multiple undercurrents, and the water pressure is extremely high—standard aquatic types cannot reach it."
 
 "Then we..."
 
@@ -40,7 +40,7 @@ To ensure the success of this operation, Dove had specially prepared a brand-new
 
 With everything confirmed, the escort officially set sail.
 
-Passing through the firewall, through the forest, and arriving at the coast—the journey was remarkably smooth. No one dared to cause trouble, unless they had the ability to deal with six Megas simultaneously. Yet, we actually encountered one. The opponent was an AncientMermaimon (古代人鱼兽). When we intended to descend through the nearest giant whirlpool, she proactively emerged from it, holding a golden trident across her chest to block our path. It looked like she was stopping us.
+Passing through the firewall, through the forest, and arriving at the coast—the journey was remarkably smooth. No one dared to cause trouble, unless they had the ability to deal with six Megas simultaneously. Yet, we actually encountered one. The opponent was an AncientMermaimon. When we intended to descend through the nearest giant whirlpool, she proactively emerged from it, holding a golden trident across her chest to block our path. It looked like she was stopping us.
 
 Falcon was the first to recognize her. Embracing his role as the [Vanguard], he took the lead in setting the atmosphere: "Oh, look everyone! The guardian goddess of the 'Network Sea' has come to welcome us in person."
 
@@ -50,7 +50,7 @@ Falcon was the first to recognize her. Embracing his role as the [Vanguard], he 
 
 Except for her and Pufferfishmon himself, none of us understood what she was talking about.
 
-Seeing the confusion on our faces, Lana immediately realized we might not know the client's true identity. So, she raised her trident, pointed it at him, and revealed his true face to all of us "Free Birds" (自由鸟):
+Seeing the confusion on our faces, Lana immediately realized we might not know the client's true identity. So, she raised her trident, pointed it at him, and revealed his true face to all of us "Free Birds":
 
 "This guy is a network hacker. He spreads all kinds of rumors about the British Royal Family online, publishes inflammatory attacks against them, slanders, fabricates stories, distorts facts, and makes personal attacks. It has seriously affected their daily lives..."
 
@@ -82,11 +82,11 @@ Seeing Owl not giving her any face, Lana simply broke off with him completely, s
 
 "Come on! As if I'm afraid of you!"
 
-As she spoke, Lana raised her trident, raising a massive whirlpool that trapped all of us. We were momentarily thrown into confusion. Before we could react, in the next second, Lana used her trident to drive the sea water from the whirlpool wall, launching her favored finishing move toward us—"Crystal Billow" (结晶狂涛).
+As she spoke, Lana raised her trident, raising a massive whirlpool that trapped all of us. We were momentarily thrown into confusion. Before we could react, in the next second, Lana used her trident to drive the sea water from the whirlpool wall, launching her favored finishing move toward us—"Crystal Billow".
 
 The crystallized water was no less hard than metal. It came down like a storm; without Dove—that massive, natural slab of steel—shielding us, everyone would have had a few holes punched through them.
 
-As the battle began, Falcon took the lead, using "Beast Wolf Great Revolution" (兽狼大回旋) to deflect all the water crystals shot at him, rapidly closing in on Lana. Knowing she couldn't win in a contest of strength, Lana promptly summoned a stream of water, swatting Falcon out of the whirlpool. Simultaneously, the "Dark Despair" (黑暗绝望) attached to Crane's left hand was about to be delivered. Lana had no time to dodge and could only curl her body, using her fish tail to deflect the blow with a sweep, hitting Crane's head and causing her body to tilt to one side, finally using her trident to send her toward the bottom of the whirlpool.
+As the battle began, Falcon took the lead, using "Beast Wolf Great Revolution" to deflect all the water crystals shot at him, rapidly closing in on Lana. Knowing she couldn't win in a contest of strength, Lana promptly summoned a stream of water, swatting Falcon out of the whirlpool. Simultaneously, the "Dark Despair" attached to Crane's left hand was about to be delivered. Lana had no time to dodge and could only curl her body, using her fish tail to deflect the blow with a sweep, hitting Crane's head and causing her body to tilt to one side, finally using her trident to send her toward the bottom of the whirlpool.
 
 Seeing this, Owl quickly detached the Brave Shield from his back, held it in front, and used Dove's massive body as a springboard to leap upward, heading toward Lana and directly slamming her into the nearby wall of water.
 
@@ -114,9 +114,9 @@ I am no saint, nor am I a relationship counselor; I don't know how to speak pret
 
 "By the way, you said before that every time you go, you are driven away by 'them'. Who are 'they'?"
 
-"The 'Amphibious Brothers' (三栖兄弟). You should have heard their names. They... WATCH OUT—"
+"The 'Amphibious Brothers'. You should have heard their names. They... WATCH OUT—"
 
-He suddenly shouted at me, then grabbed my hand and pulled my body aside, delivering a "British Punch" (英国冲拳) right past my back. From the sound, it seemed to have hit a very hard metal object. Looking back, it wasn't a metal object at all, but a MetalSeadramon (钢铁海龙兽). It had just tried to rush in from outside the whirlpool and swallow me whole. Fortunately, my client noticed in time and acted, saving my life.
+He suddenly shouted at me, then grabbed my hand and pulled my body aside, delivering a "British Punch" right past my back. From the sound, it seemed to have hit a very hard metal object. Looking back, it wasn't a metal object at all, but a MetalSeadramon. It had just tried to rush in from outside the whirlpool and swallow me whole. Fortunately, my client noticed in time and acted, saving my life.
 
 "Thank you."
 
@@ -136,9 +136,9 @@ The client answered: "All the 'Giant Whirlpools' were created by AncientMermaimo
 
 The two of us shouted at the same time, with the difference being the direction we faced. He faced down, and I faced up—one up and one down, two MetalSeadramon poked their heads from behind the wall of water, pouncing toward us in a pincer attack with their mouths wide open.
 
-The disparity in size left us with nowhere to hide. My "Rose Rapier" (蔷薇突刺剑) couldn't pierce the "Chrome Digizoid" (时之数码合金) covering MetalSeadramon's entire body. The spikes covering Pufferfishmon's body were of the same material and might be useful; he knew this and wanted to use his ultimate move "Spike Storm" (刺针暴风) to resolve the crisis, but to protect me beside him, he hesitated and ultimately had to abandon the idea out of fear of catching me in the crossfire.
+The disparity in size left us with nowhere to hide. My "Rose Rapier" couldn't pierce the "Chrome Digizoid" covering MetalSeadramon's entire body. The spikes covering Pufferfishmon's body were of the same material and might be useful; he knew this and wanted to use his ultimate move "Spike Storm" to resolve the crisis, but to protect me beside him, he hesitated and ultimately had to abandon the idea out of fear of catching me in the crossfire.
 
-At the critical moment, Falcon and Crane arrived just in time. One used "Geki Iogetsuga" (激·冰月牙), sending out countless ice-forged Yellow-Beast Crescent-Blades, and the other used her right arm to release the arrow of light "Holy Hope" (神圣希望). The two of them, one up and one down, countered the Seadramon brothers' pincer and successfully saved us.
+At the critical moment, Falcon and Crane arrived just in time. One used "Geki Iogetsuga", sending out countless ice-forged Yellow-Beast Crescent-Blades, and the other used her right arm to release the arrow of light "Holy Hope". The two of them, one up and one down, countered the Seadramon brothers' pincer and successfully saved us.
 
 "Are you okay, Sakura!"
 
@@ -152,11 +152,11 @@ The client was the one under our protection and shouldn't be allowed to act unle
 
 Falcon and Crane were both natural warriors. They each held off a MetalSeadramon, dispersing to the left and right, leaving only me. Without a single piece of metal on my body, yet having to face a steel leviathan sheathed entirely in metal, alone—this was almost an impossible task.
 
-Now, there was no room for any hesitation, and no chance to retreat. The muzzle at the nose was pointed at me, and "Ultimate Stream" (究极波浪炮) was ready. I couldn't care about anything else and could only steel myself and charge forward.
+Now, there was no room for any hesitation, and no chance to retreat. The muzzle at the nose was pointed at me, and "Ultimate Stream" was ready. I couldn't care about anything else and could only steel myself and charge forward.
 
 "Every last one of you... don't you dare look down on me!"
 
-Venting the suppressed emotions in my heart, I concentrated all my energy and released "Forbidden Temptation" (禁断诱惑) to clash against the cannon blast.
+Venting the suppressed emotions in my heart, I concentrated all my energy and released "Forbidden Temptation" to clash against the cannon blast.
 
 Due to the space constraints of the whirlpool wall, the red and green light waves didn't have enough space to persist in a stalemate; the contest finally turned into a point-blank detonation. The resulting massive impact blew open the wall of water and blocked the whirlpool stream. The rushing sea water came toward me, and with my petite frame, I was powerless to resist. I could only be ruthlessly swallowed up, joining the swirling currents, sinking into the seabed, and left drifting completely alone.
 
