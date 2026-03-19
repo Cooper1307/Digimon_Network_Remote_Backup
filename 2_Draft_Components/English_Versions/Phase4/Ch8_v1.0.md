@@ -10,7 +10,7 @@ Crane's sudden assault proved effective; Belphemon was caught off guard, pinned 
 
 Belphemon's massive shadow gradually emerged from the smoke. Sensing the opportunity was near, Crane and I exchanged a look, understanding each other's intent. I grabbed Crane's hand and was carried into the sky, then thrown forward. Using that momentum, I thrust the **Rose Rapier** head-on into the resurrected Demon Lord, successfully drawing all its attention.
 
-Its face heavily damaged, Belphemon fell into a true rage, completely losing control. Before it could make a major move, I used **Thorn Whipping** to entwine its neck, restricting its actions, and told Crane in the sky, "It's all yours!"
+Its face heavily damaged, Belphemon fell into a true rage, completely losing control. Before it could make a major move, I used **Thorn Whip** to entwine its neck, restricting its actions, and told Crane in the sky, "It's all yours!"
 
 "No need to tell me."
 
@@ -26,15 +26,15 @@ She suddenly threw this line at me out of the blue, making my heart flutter a bi
 
 The mission was a complete success—a victory for the **Free Birds**.
 
-We thanked Magnamon and Zudomon for their help, bid them farewell, and then exchanged a few words with Mr. Heath, reflecting on the difficulty of the battle. Then, the group returned to the **Nature Court** to report.
+We thanked Magnamon and Zudomon for their help, bid them farewell, and then exchanged a few words with Mr. Heath, reflecting on the difficulty of the battle. Then, the group returned to the **Sylvan Garden** to report.
 
 This time, Chairman Flower was personally waiting at the entrance to welcome our triumphant return. Beside her, flanked by Lilimon and Piccolomon, was someone else—a human woman with exceptional proportions. She was very elegant, with an undeniable aura, looking perhaps slightly older than me. She wore a police uniform, appearing upright and charming.
 
 Skipping past Chairman Flower's long-winded introduction, I'll get straight to the point: she was "Snake."
 
-"Hinomoto Snake, nice to meet you."
+"Senbongi Snake, nice to meet you."
 
-I stepped forward to greet her, as she was the person I had been looking for. "Nice to meet you, Officer Hinomoto..."
+I stepped forward to greet her, as she was the person I had been looking for. "Nice to meet you, Officer Senbongi..."
 
 "Ah, no need for such formalities," she replied with a sweet smile. "I'm not a police officer; I'm a fashion model. The Chairman said someone was looking for me urgently, so I came in during a break in a photoshoot and didn't have time to change. Please forgive any inconvenience."
 
@@ -60,7 +60,7 @@ After listening to my account, she let out a long sigh and slumped onto the gras
 
 "As simple as that."
 
-"Heh, heh." She gave a weak laugh and said to me, "You win, Sakura Mandai."
+"Heh, heh." She gave a weak laugh and said to me, "You win, Bandai Sakura."
 
 She called out my name, even though I hadn't told her.
 
@@ -68,9 +68,9 @@ Sensing my surprise, she revealed the truth. It turned out my mother, Ms. Shimiz
 
 "How 'free' was she?"
 
-"The two of us were the elite of the **Nature Court**. The '**Twin Flowers**' referred to us."
+"The two of us were the elite of the **Sylvan Garden**. The '**Twin Flowers**' referred to us."
 
-The moment she mentioned "Twin Flowers," I understood. It was one of the four most famous duos among the guild's elite, along with the **Holy Knights**' "Red and Blue," the **Raider Brigade**'s "Rainbow Starlight," and **Atlantis**'s "Amphibious Brothers," collectively known as the "Guild Quadrille." Their reputation was known throughout the entire Atrium system. I had previously come across an introduction to them in my mother's diary, but I never expected her to be one of the flowers.
+The moment she mentioned "Twin Flowers," I understood. It was one of the four most famous duos among the guild's elite, along with the **Order of Holy Knights**' "Red and Blue," the **Wind-Chasing Brigade**'s "Rainbow Starlight," and **Atlantis**'s "Amphibious Brothers," collectively known as the "Guild Quadrille." Their reputation was known throughout the entire Midgard system. I had previously come across an introduction to them in my mother's diary, but I never expected her to be one of the flowers.
 
 "Wow, that's truly impressive," I complimented her insincerely. "So, she wanted you to be my mentor..."
 
@@ -94,7 +94,7 @@ In other words, she didn't trust any "person," and even with her own servants, s
 
 "What was my mother's relationship like with the Chairman?"
 
-"How should I put it..." Snake looked slightly troubled. "If I say it was good, it wasn't *that* good. If I say it was bad, they truly respected each other and showed each other a great deal of face. Oh, right, I forgot to tell you—the Chairman of the **Nature Court** is replaceable."
+"How should I put it..." Snake looked slightly troubled. "If I say it was good, it wasn't *that* good. If I say it was bad, they truly respected each other and showed each other a great deal of face. Oh, right, I forgot to tell you—the Chairman of the **Sylvan Garden** is replaceable."
 
 "Replaceable?"
 
@@ -166,7 +166,7 @@ I felt this was purely an excuse, likely made up on the spot without a draft. To
 
 What did I say? As expected, more made-up reasons followed.
 
-"I don't want them to have a bad impression of our **Nature Court** because of my personal reasons. I've already cleared it with the Chairman. Just think of it as a favor to your senior, okay?"
+"I don't want them to have a bad impression of our **Sylvan Garden** because of my personal reasons. I've already cleared it with the Chairman. Just think of it as a favor to your senior, okay?"
 
 I wasn't the one to make that call; ask our Captain, he was right in front of you.
 
