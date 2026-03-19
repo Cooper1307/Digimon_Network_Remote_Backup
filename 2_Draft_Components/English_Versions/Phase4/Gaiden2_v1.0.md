@@ -1,4 +1,4 @@
-# Gaiden 2: Abnormal Party Crusade
+# Gaiden 2: Pervert Party Crusade
 
 ## (I)
 
@@ -6,7 +6,7 @@
 
 I am Red. My real name is Red; I despise fictional names.
 
-In the Atrium system, every guild has its own elite frontrunners. Their strength isn't necessarily the highest, but the roles they play are certainly the most vital, second only to the guild's Chairman. In the **Holy Knights**, this position is occupied by us, the "**Red and Blue**" duo. The other guy is Blue—don't worry, he'll show up in the next part to say hello.
+In the Midgard system, every guild has its own elite frontrunners. Their strength isn't necessarily the highest, but the roles they play are certainly the most vital, second only to the guild's Chairman. In the **Order of Holy Knights**, this position is occupied by us, the "**Red and Blue**" duo. The other guy is Blue—don't worry, he'll show up in the next part to say hello.
 
 Some people think our personalities are mismatched. I don't blame them; you can see it just from our names. Furthermore, I am the Regional Operations Director for Coca-Cola, while he is the Regional Operations Manager for the competitor, Pepsi. I won't disclose exactly which regions. If someone said we were as close as brothers during our daily lives, almost no one would believe them.
 
@@ -22,19 +22,19 @@ If you're going to talk, talk. Why suddenly brag in the middle of it? What's so 
 
 I frowned and told him, "Tell me what it's about first. I'll see if I can make some time to evaporate from the human world for a bit."
 
-"You know about the **Abnormal Party**, right?"
+"You know about the **Pervert Party**, right?"
 
 "What party?"
 
 I was sure I hadn't misheard.
 
-"Abnormal. You didn't mishear—abnormal. As the name suggests, it's a club formed by 'abnormals.' The club leader is a well-known 'Lust' female rogue, an alluring tramp. She loves taking her group of 'abnormals' into the Digital World to harass anyone with a decent appearance, acting as stalkers and flashers. Their targets are always people with a hint of sexiness. Apparently, they've been making quite a stir lately, and the higher-ups told me to send someone to clean them up. So I found you. No problem, right?"
+"Pervert. You didn't mishear—pervert. As the name suggests, it's a club formed by 'perverts.' The club leader is a well-known 'Lust' female rogue, an alluring tramp. She loves taking her group of 'perverts' into the Digital World to harass anyone with a decent appearance, acting as stalkers and flashers. Their targets are invariably anyone with a hint of sexiness. Apparently, they've been making quite a stir lately, and the higher-ups told me to send someone to clean them up. So I found you. No problem, right?"
 
 Of course there was a problem.
 
-I wasn't polite with him either and asked directly, "Where do you get the confidence that our 'Red and Blue' duo can handle this?"
+I wasn't about to be polite with him either and asked directly, "Where do you get the confidence that our 'Red and Blue' duo can handle this?"
 
-"Well, you are the guild's representatives. If not you, then who else?"
+"Well, you are the guild's face. If not you, then who?"
 
 "Why don't you go yourself?"
 
@@ -42,7 +42,7 @@ He laughed a few times and stated calmly, "If I go, who's going to manage the gu
 
 So that Belphemon matter was his doing.
 
-I knew it. How could a sleeping Demon Lord-type Digimon appear in the **Nature Court**'s territory for no reason? Someone definitely offloaded it on purpose. Passing the troubles assigned from above to others—that's his usual style. I'd long since ceased to be surprised by it.
+I knew it. How could a sleeping Demon Lord-type Digimon appear in the **Sylvan Garden**'s territory for no reason? Someone definitely offloaded it on purpose. Passing the troubles assigned from above to others—that's his usual style. I'd long since ceased to be surprised by it.
 
 "How long will this take, roughly?"
 
@@ -58,7 +58,7 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 **Age:** 33
 **Participant Identity:** Red
 **Digimon:** Dukemon
-**Affiliated Guild:** **Holy Knights**
+**Affiliated Guild:** **Order of Holy Knights**
 
 **Confirm Login**
 
@@ -66,7 +66,7 @@ The messages from his end stopped. I hadn't even said I was free. Dammit, played
 
 I made sure the restroom door was locked from the inside and clicked on the left to successfully log in.
 
-After passing through the Atrium public area and reaching the fire-wall, I looked up and saw a **Garudamon** returning from outside. Passing through the fire-wall, it turned into an old acquaintance of mine. His name is **Heath**, my drinking buddy and the president of the **Birdramon Commune**. He spends all day leading a bunch of **Birdramon** on patrols in the Digital World. He rescues people in distress and helps Digimon in danger. In short, he carries out the concept of "chivalry" to the end, and he has the best reputation in the entire Atrium system.
+After passing through the Midgard public area and reaching the firewall, I looked up and saw a **Garudamon** returning from outside. Passing through the firewall, it turned into an old acquaintance of mine. His name is **Heath**, my drinking buddy and the club leader of the **Birdramon Commune**. He spends all day leading a bunch of **Birdramon** on patrols in the Digital World. He rescues people in distress and helps Digimon in danger. In short, he carries out the word "chivalry" to the end—they have the best reputation of any club in the entire Midgard system.
 
 "Yo, look who it is—the daring truant Red."
 
@@ -74,9 +74,9 @@ He walked over and high-fived me, then gave my rear a smack. "Next time, you're 
 
 "Whatever you want, but I'm only ordering one glass."
 
-Equal to a 330ml volume, a single glass of the cheapest wine in the entire bar costs more than twenty-three cans of Coca-Cola. It's hard not to admit that Chairman Adam is a shark.
+For the same 330ml, a single glass of the cheapest booze in the entire bar costs the equivalent of twenty-three cans of Coca-Cola. It's hard not to admit that Chairman Adam is anything but a shark.
 
-After parting ways with him, I rushed to the designated location to meet up with Blue. When I arrived, I found he had already taken the form of **UlforceV-dramon** and charged alone into the **Abnormal Party**'s venue (stronghold), enjoying himself thoroughly. Specifically, he was sweeping up all the **Etemon** who were in a state of revelry. He drew the **Ulforce Saber** from his V-Bracelets to send the **Kinkakumon** and **Ginkakumon** who dared to block him away with one stroke, while also using **Shining V-Force** to take out a portion of the **WaruMonzaemon** he had knocked out earlier.
+After parting ways with him, I rushed to the designated location to meet up with Blue. When I arrived, I found he had already taken the form of **UlforceV-dramon** and charged alone into the **Pervert Party**'s venue (headquarters), having himself a grand time. Specifically, he swept up all the **Etemon** in the middle of their revelry in one fell swoop, then drew the **Ulforce Saber** from his V-Bracelet and sent the **Kinkakumon** and **Ginkakumon** who came to block him packing with a single stroke, while also using **Shining V-Force** to take out a portion of the **WaruMonzaemon** he had knocked unconscious earlier.
 
 "—**Final Elysion**!"
 
@@ -90,7 +90,7 @@ I told him helplessly, "I have to control the time I spend in the restroom so a 
 
 "Do you usually squat or sit?"
 
-"Don't talk nonsense; toilets were invented to be sat on... You squat?"
+"Duh, toilets were invented to be sat on... You squat?"
 
 "Yeah. My legs get numb if I squat too long."
 
@@ -98,15 +98,15 @@ I told him helplessly, "I have to control the time I spend in the restroom so a 
 
 The topic suddenly took a strange turn, but fortunately, we both realized it at the same time.
 
-Following the dilapidated castle all the way deep inside, we encountered **Devidramon**—killed them. We met **Phantomon**—killed them. We met **Nanimon**—still killed them. You ask why there are no details? I'll tell you: a **Vanguard** doesn't need a process, only a result. Because the process lasts only a split second—too fast to describe in words.
+Following the dilapidated castle deeper and deeper inside: encountered **Devidramon**—killed. Encountered **Phantomon**—killed. Encountered **Nanimon**—killed. You ask me why there's no process? I'll tell you: a **Vanguard** doesn't need a process, only results. Because the process is but a single instant—too fast to put into words.
 
-Along the way, we saw many people who had been kidnapped by these abnormals and brought here. There were men and women, all given new appearances. Seeing "suggestive" outfits on Digimon felt more than a little jarring.
+Along the way, we saw many people who had been kidnapped by these perverts and brought here. There were men and women, all given new appearances. Seeing lingerie-style outfits on Digimon felt more than a little jarring.
 
 He reminded me, "Focus. Don't let your eyes wander."
 
 I was speechless. "Didn't you look too? And so closely... Hey, I'm talking to you, give me a response."
 
-See? This guy is narrow-minded and extremely hypocritical. Let me give a simple example: when going to the cinema to watch a movie, you usually buy popcorn and a drink at the counter. The price is usually a bit higher than what's sold outside. If the drink he buys is under the Coca-Cola company, he'll be miserable all day. Conversely, if it's from Pepsi, he thinks it's worth it no matter how expensive. So I feel like sometimes he just targets me on purpose—no reason, no purpose, just to vent, for the thrill of it.
+See? This guy is petty and applies absurdly double standards to everything. Let me give the simplest example: when you go to a cinema, you normally buy popcorn and a drink at the counter; the price is usually a bit higher than what's sold outside. If the drink he gets happens to be from the Coca-Cola company, he'll be miserable all day. Conversely, if it's a Pepsi brand, no matter how expensive, he'll think it's worth it. So sometimes I really feel like he just targets me on purpose—no reason, no motive, purely to vent and feel good about it.
 
 Coming to a fork in the path further ahead, it split into two directions: one going up, leading directly to the castle's rooftop, and one going down, leading to the castle's dungeon. He had wings, so he naturally went up. I couldn't fly, so I automatically went down. Throughout the entire process, there was no verbal exchange—that's what you call a silent understanding.
 
@@ -120,9 +120,9 @@ With that, he suddenly threw open his cape, and subsequently, the entire undergr
 
 "Let us welcome today's VIP with a warm round of applause: Dukemon—!"
 
-He showed off the character for "Great King" on his chest. Accompanied by music that sounded like noise, the atmosphere failed to heat up at all, perhaps due to my cold indifference. Affected by this, he became less calm, gritting his teeth in frustration and casually sending out a gift tailored for me—his ultimate move.
+He flashed the two characters for "Great King" emblazoned on his chest. Accompanied by music that was more noise than melody, the vibe completely failed to heat up—probably because I was too cold to react. Thrown off by this, he lost his composure, gritting his teeth in frustration and tossing out a gift custom-made for me—his ultimate move.
 
-"—**Photon Blocker**!"
+"—**Photon Destroyer**!"
 
 The glowing sphere hit my shield, and absolutely nothing happened. The scene instantly became very awkward.
 
@@ -144,7 +144,7 @@ He bared his teeth at me, and still, absolutely nothing happened. Never mind him
 
 What a joke.
 
-"Ah, I've had enough!" I, the competent audience member, couldn't help but complain. "You waste, '**performing a monkey show**' is for you to play others, not for you to act as the monkey yourself and play with yourself. Go to hell!"
+"Ah, I can't take this anymore!" I, the dutiful audience member, couldn't help but lodge a complaint. "You useless thing—'**performing a monkey show**' means you make a monkey out of *others*, not be the monkey yourself and play yourself. Just die already."
 
 Thrusting out the lance in my right hand, I initiated **Royal Saber**. He stood there, not even dodging, and obediently let me pierce his chest. He turned into a mass of data residue and vanished forever from this world.
 
@@ -157,7 +157,7 @@ So, what exactly was I expecting?
 ### -By Blue-
 
 I am Blue. I'm direct.
-The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
+The Boss (He) told me to crusade against the **Pervert Party**. I go.
 
 ---
 
@@ -167,17 +167,17 @@ The Boss (He) wants me to crusade against the **Abnormal Party**. I'll go.
 **Age:** 34
 **Participant Identity:** Blue
 **Digimon:** UlforceV-dramon
-**Affiliated Guild:** **Holy Knights**
+**Affiliated Guild:** **Order of Holy Knights**
 
 **Confirm Login**
 
 [ YES ]
 
-I walked into the company's data server room, swiped my card to enter, turned around to close the door, and made sure it was locked from the inside. I took the equipment out of my backpack and plugged it in, then clicked the button on the left to login to the Atrium system.
+I walked into the company's data server room, swiped my card to enter, turned around to close the door, and made sure it was locked from the inside. I took the equipment out of my backpack and plugged it in, then clicked the button on the left to login to the Midgard system.
 
 Passing through the fire-wall and arriving at the rendezvous point, I imagined myself as a wooden post, standing in front of the castle gate for nearly two hours. The red guy never showed up. During that time, three groups of people entered the castle, each with a bountiful harvest. The prey they caught were all humanoid living Digimon, with a balanced ratio of males and females, all with quite good figures.
 
-At first, I was even thinking: *don't these guys get tired of eating this stuff all day?* Then a **Nanomon** came over to pick a fight with me: "Hey, you! Who are you!? Private property, no trespassing!"
+At first, I was even thinking: *don't these guys get tired of eating this stuff all day?* Then a **Datamon** came over to pick a fight with me: "Hey, you! Who are you!? Private property, no trespassing!"
 
 "I'm waiting for someone."
 
@@ -187,19 +187,19 @@ At first, I was even thinking: *don't these guys get tired of eating this stuff 
 
 Later, he harassed me for a while, insisting I leave. He didn't think about how that could be possible—the mission wasn't finished, the other teammate hadn't arrived, and he wanted me to go away? No way.
 
-"I see you're refusing a toast only to drink a forfeit..."
+"I see you're refusing a toast only to drink a forfeit—"
 
 I found him annoying, so I drew the sword from my bracelet and gave a light swing. He was cut into two pieces and vanished with the wind as ash.
 
 "Whew, finally some peace and quiet."
 
-Hardly had I spoken when someone happened to come out of the castle and witnessed this scene, standing there stunned. I turned my head and looked carefully; it was an **Insekimon**.
+Hardly had I spoken when someone happened to come out of the castle and witnessed this scene, standing there stunned. I turned my head and looked carefully; it was a **Meteormon**.
 
 Seeing his resemblance to **Gotsumon**, I called out to him and asked, "What's your relation to Gotsumon?"
 
-"I don't know!" He shuddered, then turned back, pushed open the castle gate, and ran inside at full speed, screaming as he went: "Nanomon is dead! Someone come quick—someone's looking for trouble at the door!"
+"I don't know!" He shuddered, then turned back, pushed open the castle gate, and ran inside at full speed, screaming as he went: "Datamon is dead! Someone come quick—someone's looking for trouble at the door!"
 
-Afterward, a group of **Myotismon** and **Volcamon** burst out of the castle, one by one looking aggressive, saying they were going to skin me and smash my armor to avenge their comrades. I was deeply moved by the camaraderie they displayed, so I held back a bit and didn't use my best speed. Yet they still died—it was quite ridiculous.
+Afterward, a group of **Myotismon** and a group of **Volcamon** burst out of the castle, every last one looking ferocious, saying they were going to skin me alive and smash my armor to avenge their comrade. I was so deeply moved by the camaraderie they showed that I held back a little, didn't use my best speed—and yet they still went ahead and died. It was quite ridiculous.
 
 "What's going on?" I was puzzled on the spot. "Why is everyone targeting me today? Looks like I'll have to let that guy share some of the burden later. Good, it's decided."
 
@@ -227,11 +227,11 @@ In case he couldn't find me later, I asked the Boss about the situation: "Why ha
 
 With that, I raised the light sword in my hand, sliced open the castle gate, and drifted inside, starting an indiscriminate massacre of the inhabitants.
 
-No one was innocent. No one could leave alive to tell this tale—especially not to Red. No one. As for the Boss, he's the type to forget once he's said it, and besides, it's not a big matter; he won't take it to heart. So there was no need to worry—it's never too late to kill after speaking out.
+No one was innocent. No one would leave alive to tell the tale—especially not to Red. No one. As for the Boss, well, he's the type who forgets things the moment they leave his mouth. Plus it wasn't a big deal; he wouldn't take it to heart. So no need to worry—even if word got out, it was never too late to silence them afterward.
 
 Then, what happened in the previous part occurred. Red went to the dungeon, and I went to the rooftop.
 
-The path to the rooftop was clear. Arriving at a bell tower, a **Piemon** suddenly hopped out, balancing on a ball and moving nimbly, showing off his exquisite balance.
+The path to the rooftop was completely clear. Arriving at a large bell, a **Piedmon** suddenly hopped out from inside it, standing on a ball and nimbly twisting his body, showing off his exquisite sense of balance.
 
 "Do you want to die?" I asked him.
 
@@ -241,7 +241,7 @@ The path to the rooftop was clear. Arriving at a bell tower, a **Piemon** sudden
 
 Saying this, I kicked his ball away. He made a powerful leap, flipping over my head and casually throwing down a white cloth, just big enough to cover my body.
 
-He naively thought I would do nothing, just stand there and let the cloth cover me, then turn into a keychain hanging at his waist. Of course I wouldn't let him succeed, and it was hard for him anyway, because I had already activated **Ulforce**. That cloth's falling speed in my eyes was comparable to a snail on the ground—the time was ridiculously long. I even had time to pinch the four corners and re-fold it into a new shape, then place it under his feet as a stepping stone before he landed. Afterward, I ran back to my original spot, making him think I had been stationary all along.
+He naively thought I would just stand there and do nothing, letting his white cloth cover me, after which I'd turn into a keychain dangling from his waist. Of course I wouldn't let him succeed—and he could hardly succeed anyway, because I had already activated **Ulforce**. In my eyes, that cloth was falling at the speed of a snail on the ground—absurdly slow. I even had time to pinch together the four corners, re-fold it into a brand-new shape, and set it at his feet as a stepping stone before he even landed, then dash back to my original position, letting him believe I had been motionless the entire time.
 
 "You—"
 
@@ -275,7 +275,7 @@ I thought about it and asked him, "Don't you know there's something called netwo
 
 Then we both put on a face that said we wanted to kill each other, but aimed our weapons behind us. There was a bitch trying to sneak attack us from behind, but unfortunately, we had noticed her long ago.
 
-"Just like the intelligence said," Red raised his voice on purpose. "The club leader of the **Abnormal Party**, **Lilithmon**, an alluring tramp."
+"Just like the intelligence said," Red raised his voice on purpose. "The club leader of the **Pervert Party**, **Lilithmon**, an alluring tramp."
 
 "Hahaha," she let out a laugh at both of us like a maniac. "Calling me alluring, hmm... I admit it. After all, a person is beautiful like this all their life. Calling me a tramp, hmm... you're the tramp! Your whole family are tramps!"
 
@@ -293,7 +293,7 @@ We agreed instantly, but the next second, the opponent immediately chickened out
 
 Too late. My fist had already swung out and had already touched her face. Her feet were off the ground, and she'd likely fall from the rooftop platform to the ground in a few seconds. If she was lucky, her face wouldn't be ruined.
 
-"What are you in such a hurry for?" Red asked me helplessly. "The new drink reception at the **The 'Drink' Bar** doesn't start for another seven hours. Going now, you won't even get a seat. Just give up."
+"What's the rush?" Red asked me helplessly. "The new drink reception at **The 'Drink' Bar** doesn't start for another seven hours. Even if you go now, you won't snag a seat. Just give it up."
 
 What? The new drink reception is today? How could I be so uninformed?
 
@@ -325,9 +325,9 @@ I turned my head and glanced at the bubbling lake surface. "Bathing. No peeking.
 
 I nodded and told him, "Everyone has their hobbies."
 
-"Eww... hobbies. I'd say 'abnormal' is more like it."
+"Eww... hobbies. I'd say 'pervert' is more like it."
 
-"An abnormal resolving an abnormal—I'd say it's just right."
+"A pervert resolving a pervert—I'd say it's just right."
 
 "Fair enough." He leaned against a tree and asked me, "When do you plan to save her?"
 
@@ -335,9 +335,9 @@ I nodded and told him, "Everyone has their hobbies."
 
 "Why? Didn't you just say you like her? Turning your back so soon?"
 
-"Not that." I answered him. "I just accidentally let my 'abnormal' side out. I wanted to see if a Digimon can drown in water. Look, she's still struggling, but she's almost..."
+"Not that." I answered him. "I just accidentally let my 'pervert' side out. I wanted to see if a Digimon can drown in water. Look, she's still struggling, but she's almost..."
 
-The words had hardly left my mouth when suddenly, an **Ouryumon** burst out of the lake, swallowed her whole, and then dived back to the bottom with satisfaction. Before leaving, it even turned toward us and let out a burp like a clap of thunder, thanking us for the feeding.
+The words had hardly left my mouth when suddenly, an **Ouryumon** burst out of the lake and swallowed her alive, then dived back to the bottom with satisfaction. Before disappearing, it even turned toward us and let out a thunderous belch—thanking us for the feeding.
 
 "This—"
 
@@ -351,7 +351,7 @@ I cast a vote of approval. "Old place, old specifications?"
 
 "Let's go!"
 
-We agreed once more and turned toward the **The 'Drink' Bar**. After greeting Red's old friend Heath and exchanging a few words, we learned there were no seats left. We had to find two empty barrels from the warehouse in the back to sit on.
+We hit it off once more and headed for **The 'Drink' Bar**. After greeting Red's old friend Heath and exchanging a few pleasantries, we learned there were no seats left. We had to find two empty barrels from the warehouse in the back before we could sit down.
 
 "What'll the two **Vanguards** have today?"
 

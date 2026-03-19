@@ -2,13 +2,13 @@
 
 The battle with the Demon Lord of "Sloth," Belphemon, continued.
 
-Crane's sudden assault proved effective; Belphemon was caught off guard, pinned to the ground and clutching half its face as it let out a howl of agony toward the sky. Seizing this window, Crane used **Dark Despair** again, severing the chains the Demon Lord had plunged into the ground, cutting off its energy supply. Without replenishment, it could not recover, and the Demon Lord's body could no longer withstand high-intensity damage. Facing the combined assault of the group once more, it became vulnerable and was quickly buried in the smoke of the explosions.
+Crane's surprise attack proved highly effective; Belphemon was caught completely off guard, pinned face-down on the ground, clutching half its face as it let out a howl of agony toward the sky. Seizing this opening, Crane used **Dark Despair** again, severing one after another the chains the Demon Lord had plunged into the ground, cutting off its energy supply. Without replenishment, unable to regenerate, the Demon Lord's body could no longer withstand high-intensity damage. Facing the combined onslaught of the group once more, it crumbled and was quickly buried in the smoke of the explosions.
 
 "Sakura, cover me!"
 
 "Coming!"
 
-Belphemon's massive shadow gradually emerged from the smoke. Sensing the opportunity was near, Crane and I exchanged a look, understanding each other's intent. I grabbed Crane's hand and was carried into the sky, then thrown forward. Using that momentum, I thrust the **Rose Rapier** head-on into the resurrected Demon Lord, successfully drawing all its attention.
+Belphemon's massive shadow gradually emerged from the smoke. Sensing the moment was near, Crane and I exchanged a glance, and each understood the other's intent. I grabbed Crane's hand, was carried into the sky, and then hurled forward. Using that momentum, I thrust the **Rose Rapier** head-on at the re-emerging Demon Lord—a strike potent enough to seize its full attention.
 
 Its face heavily damaged, Belphemon fell into a true rage, completely losing control. Before it could make a major move, I used **Thorn Whip** to entwine its neck, restricting its actions, and told Crane in the sky, "It's all yours!"
 
@@ -20,15 +20,15 @@ Jumping off the side of the Demon Lord's body, Crane grabbed my hand once more, 
 
 "You 'Supported' very well."
 
-She suddenly threw this line at me out of the blue, making my heart flutter a bit, though I suspected she might be speaking against her conscience.
+She threw this line at me out of nowhere, and it made my heart itch with irritation—I couldn't help but feel she was speaking against her conscience.
 
-"Feeling a bit reluctant?" I pouted and turned my face away, feeling somewhat petty. Peering at her reaction, though she didn't show it clearly, I could vaguely detect a flicker of annoyance on her face—she was likely being petty just like me. This only proved that we were both immature women.
+"Not very convincing, huh." I pouted and turned my face away, in a bit of a huff. Sneaking a peek at her reaction—though she didn't show it too obviously—I could still faintly detect a flicker of annoyance cross her face. She was probably being just as petty as me. This only proved one thing: we were both immature women.
 
 The mission was a complete success—a victory for the **Free Birds**.
 
 We thanked Magnamon and Zudomon for their help, bid them farewell, and then exchanged a few words with Mr. Heath, reflecting on the difficulty of the battle. Then, the group returned to the **Sylvan Garden** to report.
 
-This time, Chairman Flower was personally waiting at the entrance to welcome our triumphant return. Beside her, flanked by Lilimon and Piccolomon, was someone else—a human woman with exceptional proportions. She was very elegant, with an undeniable aura, looking perhaps slightly older than me. She wore a police uniform, appearing upright and charming.
+This time, Chairman Flower was personally standing at the entrance to welcome our triumphant return. Aside from the Lilimon and Piccolomon flanking both sides, there was someone else by her side—a human woman with exceptionally proportioned figure. She was very refined, with an undeniable aura, and appeared to be perhaps slightly older than me. She wore a police uniform, looking upright and charming.
 
 Skipping past Chairman Flower's long-winded introduction, I'll get straight to the point: she was "Snake."
 
@@ -50,7 +50,7 @@ I mentioned my mother's name. Hearing it, she immediately rushed forward and gra
 
 I recounted everything to her, start to finish.
 
-After listening to my account, she let out a long sigh and slumped onto the grass of the **Nature Court**. The light in her eyes faded, and her expression became heavy beyond words—she looked like she had aged fifty years in an instant.
+After listening to my account, she let out a long sigh and slumped onto the grass of the **Sylvan Garden**. The light drained from her eyes, and her expression became unspeakably heavy—she looked as if she had aged fifty years in an instant.
 
 "She sent you to find me?"
 
@@ -64,19 +64,19 @@ After listening to my account, she let out a long sigh and slumped onto the gras
 
 She called out my name, even though I hadn't told her.
 
-Sensing my surprise, she revealed the truth. It turned out my mother, Ms. Shimizu Iwami, had known for a long time that she might encounter misfortune. Thus, she had made her testament in advance, arranging things for later—including transferring her account to my name and arranging for Snake to be my personal mentor, to help me familiarize myself with this world quickly, inherit her stature within it, and live as freely as she did.
+Sensing my surprise, she revealed the truth. It turned out my mother, Ms. Shimizu Iwami, had long known that she might one day meet with misfortune. So she had drawn up her testament in advance, arranging everything for after—including transferring her account to my name, assigning Snake as my personal mentor to help me acclimatize to this world as quickly as possible, inheriting her physique within it, and living as freely and carefree as she did in life.
 
 "How 'free' was she?"
 
 "The two of us were the elite of the **Sylvan Garden**. The '**Twin Flowers**' referred to us."
 
-The moment she mentioned "Twin Flowers," I understood. It was one of the four most famous duos among the guild's elite, along with the **Order of Holy Knights**' "Red and Blue," the **Wind-Chasing Brigade**'s "Rainbow Starlight," and **Atlantis**'s "Amphibious Brothers," collectively known as the "Guild Quadrille." Their reputation was known throughout the entire Midgard system. I had previously come across an introduction to them in my mother's diary, but I never expected her to be one of the flowers.
+The moment she mentioned "Twin Flowers," I understood. It was one of the four most famous elite duos among the guilds, alongside the **Order of Holy Knights**' "Red and Blue," the **Wind-Chasing Brigade**'s "Rainbow Starlight," and **Atlantis**'s "Amphibious Brothers"—collectively known as the "Guild Quadrille." Their fame reached every corner of the Midgard system; truly household names. I had previously come across an introduction to them in my mother's diary, but I never imagined she was one of the flowers.
 
 "Wow, that's truly impressive," I complimented her insincerely. "So, she wanted you to be my mentor..."
 
 What was this? Did she not trust her own daughter? Did she think I couldn't forge my own path? Or was she worried I'd be tricked in a strange world? I didn't think any of that was likely.
 
-"If you're unwilling, I won't force you," she said in a negotiable tone. "She also told me that if we met for the first time and you were defiant, refusing to listen or trust me, I should go ahead and personally handle you—to let you experience that the cruelty of this world is no less than that of reality. Now, it seems that won't be necessary."
+"If you're unwilling, I won't force you," she said in a negotiable tone. "She also told me that if, upon our first meeting, you proved unruly—insisting on going against me and refusing to trust me—I should feel free to deal with you personally, to teach you that the cruelty of this world is no less than that of reality. As things stand now, though, it seems that won't be necessary."
 
 Of course not. Having defeated a Demon Lord, the **Free Birds** weren't about to be tied down by a snake. That said, Snake was still someone worth my trust, being an old acquaintance of my mother's; it wouldn't hurt to make a new friend.
 
@@ -102,17 +102,17 @@ It was the first I'd heard of it.
 
 "Do you remember the agreement between me and your mother?"
 
-"Of course," I said fluently. "Whoever evolved to Mega level first would be eligible to run for the next Chairman... Speaking of which, after so much time in the digital world, it's a bit strange that you haven't become Chairman yet, isn't it?"
+"Of course," I rattled off without hesitation. "Whoever evolved to Mega Level first would be eligible to run for the next Chairman... Speaking of which, after so much time in the Digital World, it's a bit strange that you haven't become Chairman yet, isn't it?"
 
 Her face immediately turned sour, as if I had struck a nerve.
 
-"Ah, that... actually, it's not 'strange'," she said sheepishly. "I've had the eligibility and even challenged the Chairman... but I've just never won, have I?"
+"Ah, that... actually, there's nothing strange about it," she said sheepishly. "I did earn the eligibility, and I did challenge the Chairman... it's just that, well—I've never been able to beat her, have I?"
 
 "That really is..."
 
-"But it doesn't matter!" She suddenly changed her tone, looking at me with expectant eyes. "Now there's you! If it's you, I think you won't be like me—overestimating your own strength and getting thrashed by the Chairman."
+"But it doesn't matter!" She suddenly shifted her tone, casting me an expectant look. "Now that *you're* here! If it's you, I believe you won't end up like me—biting off more than you can chew and getting thrashed by the Chairman."
 
-No, no, no, she thought too highly of me. If I went, the result would be the same, and likely worse. If you think about it simply, if I had that kind of ability, I wouldn't be hanging around with Owl and the others. Besides, if I had that kind of strength, how could I have been bullied that way by a pervert from the start?
+No, no, no—she thought far too highly of me. If I went, the result would be the same, possibly even worse. Just think about it: if I had that kind of ability, why would I still be tagging along with Owl and the crew? And besides, if I had that kind of strength, how could I have been pushed around like that by a pervert in the first place?
 
 Seeing my feigned modesty, she smiled and told me I wasn't being frank. I admitted as much—not only was I not frank, I was also a bit arrogant, conceited, and proud. Who could blame me? I was young.
 
@@ -122,15 +122,15 @@ Being young is an asset; no arguments accepted.
 
 "A try it is."
 
-Though Sakura Mandai wasn't an expert fighter, she wasn't one to back down from a challenge.
+Though Bandai Sakura wasn't an expert fighter, she would never back down from a challenge placed squarely before her.
 
-In this informal duel, there was no need for pre-battle chatter. Once we switched to our Digimon forms, we went straight to it. She was **Lotusmon**, I was **Rosemon**; one purple, one red. The result: one won, one lost. No need to guess—I was definitely the loser, without a doubt.
+An informal sparring match, no room for pre-battle banter. Once we switched to our Digimon forms, we went straight at it. She was a lotus; I was a rose—one purple, one red. In the end, one won and one lost. No need to guess—the loser was definitely me, without a shred of doubt.
 
 Through that brief clash, I discovered her strength was anything but ordinary. It was no exaggeration to say that within the **Free Birds**, aside from Owl, no one else was her match. Both in combat experience and nimble response, she far surpassed us. She truly deserved her place as the strongest in the guild, second only to the Chairman.
 
 "You... you're incredible..."
 
-I clutching my waist as she pulled me up from the ground, my face looking bitter as I asked for confirmation: "Did my mother... did she have this level of strength too?"
+Bracing my aching back as she pulled me up from the ground, my face bitter, I asked for confirmation: "My mother... in her lifetime... did she really have strength like yours?"
 
 "You want my honest opinion?"
 
@@ -144,9 +144,9 @@ I suddenly felt a pang in my chest, a feeling I couldn't quite name.
 
 Coincidentally, I felt the same way.
 
-Since she had admitted it herself, there was no need for me to dwell on it. Having completed the purpose of my visit, it was time to leave—yet I couldn't return, which was a kind of tragedy in itself.
+Since she had admitted it herself, there was no need for me to push further. The purpose of my visit was fulfilled; it was time to go back—yet I couldn't go back. Wasn't that, in itself, a kind of tragedy?
 
-Owl and the others rushed over after hearing the commotion. Seeing us safe and sound, having made peace and sitting together like sisters, they finally breathed a sigh of relief.
+Owl and the others came rushing over after hearing the commotion. Seeing us safe and sound, shaking hands and sitting together chatting like sisters, they finally let out a sigh of relief.
 
 "You two... did you have to make such a scene..."
 
@@ -160,7 +160,7 @@ I denied her guess with absolute certainty: "No, he's my savior. He promised to 
 
 We smiled at each other, and then she said, "Young people shouldn't be so polite; it'll go to this senior's head! Hmm? Speaking of which, there was a request for me to serve as a bodyguard for a **Pukumon** and assist it in crossing the sea. I couldn't find where it was, so I've been putting it off..."
 
-I felt this was purely an excuse, likely made up on the spot without a draft. To put it bluntly, she was using her senior status to dump the tasks from above onto us, calling it "mentorship" or "help." We were all women; who was she trying to fool?
+I felt this was purely an excuse—one she had clearly made up on the spot, without even a rough draft. To put it bluntly, she was using her senior status to dump the tasks assigned from above that she didn't want to do onto us, sugar-coating it as "training" and "a favor." We were all women here; who couldn't see through whom?
 
 "Speaking of which, Sakura, could you guys check it out for me?"
 
@@ -172,7 +172,7 @@ I wasn't the one to make that call; ask our Captain, he was right in front of yo
 
 "Okay?"
 
-I repeated it to Owl. He was stunned for a moment, then tilted his head and said to me, "Are you... being that... rash? Not even going to... discuss it with the team...?"
+I repeated it to Owl. He was stunned for a moment, then tilted his head and said to me, "You're just... going to be... this rash about it? Not even going to... talk it over with the rest of us?"
 
 He was right; I was a member of the **Free Birds**, and I should prioritize the team's interests.
 
@@ -182,7 +182,7 @@ Normally, a senior who was thick-skinned enough to hear such a rejection would h
 
 "Don't go looking for anyone else."
 
-Owl interrupted me just in time, stepping forward and whispering into my ear, "It's not every day a job walks in the door. Opportunities are for seizing; everything can be discussed."
+Owl cut in just in time, stepping forward and leaning into my ear: "It's not every day a job comes knocking. Opportunities are there to be seized; everything is up for discussion."
 
 With that, he turned back to Snake and began to persuade her: "Truly, wait for us a moment while we discuss our plans internally. We'll see if everyone has enough free time. If it's all good, it's no problem—the **Free Birds** are happy to serve you."
 
@@ -194,12 +194,12 @@ As I said, he's the Captain, so he makes the calls; my opinion was just my own. 
 
 "Is it for something special?"
 
-"Not particularly," she said. "It's just a **Pukumon** who wants to go there to propose to someone. I don't know what he did before, but he's very unpopular there—they're ready to draw blades at a moment's notice. I felt sorry for him, so I took the request."
+"Nothing special," she said. "It's just a **Pukumon** who wants to go there to propose. I don't know what he did before, but he's extremely unwelcome there—the slightest disagreement and they're ready to draw blades on him. I felt sorry for the guy, so I took the request."
 
 She truly was a kind person, completely unlike what her name suggested.
 
 "Is it dangerous?"
 
-"Depends on who you ask," Snake explained. "Pukumon is a Virus-type, and he's most afraid of the 'Vaccines' in the water making trouble and ruining his chances. This senior is only one person and can't swim, so my heart is willing but my strength is lacking."
+"Depends on who you're asking about," Snake explained. "Pukumon is a Virus-type; what he fears most are the 'Vaccines' in the water stirring up trouble and ruining his plans. Your senior here is all alone and can't even swim—the spirit is willing but the flesh is weak, you know?"
 
-I'd had enough of her excuses—it was beyond reason. At the same time, I found it hard to understand what benefit she got from being so transparently petty and calculating. I only hoped this wouldn't be another life-risking mission, or the **Free Birds** would have to risk it all again to fly free and find the meaning of survival.
+I was sick of her act—it was beyond absurd. At the same time, I couldn't fathom what good it did her to wear a woman's coyness and cunning so transparently on her sleeve. I could only pray this wouldn't turn out to be another adrenaline-fueled ordeal, or the **Free Birds** would once again have to put their lives on the line, spread their wings, and search for the meaning of survival.
