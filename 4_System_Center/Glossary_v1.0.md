@@ -46,6 +46,8 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **座天使兽：堕落形态** | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. |
 | **秩序兽** | Ordinemon | **Ordinemon** | Official. |
 | **莫斯提兽** | Mastemon | **Mastemon** | Official. |
+| **番长百合兽** | BanchoLilimon | **BanchoLilimon** | Official. |
+| **贝尔菲兽：睡眠形态** | Belphemon: Sleep Mode | **Belphemon: Sleep Mode** | Official. |
 
 ## 3. Skill & Gear Audit
 
@@ -66,6 +68,10 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **黑暗盖亚能量炮** | Dark Gaia Force | **Dark Terra Destroyer** | **Dark Terra Destroyer** | Aligns with BlackWarGreymon's Terra Destroyer naming convention. |
 | **铠马大名刃** | Kai Riku Daimyoujin | **Gairyu Senbajin** | **Gairyu Senbajin** | Ouryumon's blade. |
 | **玫瑰色摇篮** | Rose Cradle | **Rosy Cradle** | **Rosy Cradle** | Rosemon's skill. |
+| **对花瓣** | Twin Petal | **Twin Petal** | **Twin Petal** | BanchoLilimon's skill. |
+| **日中花** | Lampranthus | **Lampranthus** | **Lampranthus** | Belphemon Sleep Mode's skill. |
+| **绝对领域** | Absolute Territory | **Absolute Territory** | **Absolute Territory** | BanchoLilimon's spatial cut. |
+| **陨石巨翼** | Meteor Wing | **Meteor Wing** | **Meteor Wing** | Garudamon's skill. |
 
 ## 4. Lore & World-Building
 

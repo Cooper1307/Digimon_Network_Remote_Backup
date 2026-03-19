@@ -1,8 +1,8 @@
 # Chapter 6: The Chairman's Request
 
-The Atrium is divided into a total of ten regions, each managed by its respective Digimon Guild.
+Midgard is divided into a total of ten regions, each managed by its respective Digimon Guild.
 
-Among them, the **Holy Knights**, **Iron Soldiers**, **Atlantis**, and **Underworld Club** occupy the outer layers. The remaining guilds are enclosed within these, with the core area being the **The 'Drink' Bar** and the adjacent public grand garden connected to several regions—the **Nature Court**.
+Among them, the **Order of Holy Knights**, **Steel Legions**, **Atlantis**, and **Nether Club** occupy the outer layers. The remaining guilds are enclosed within these, with the core area being the **The 'Drink' Bar** and the adjacent public grand garden connected to several regions—the **Sylvan Garden**.
 
 This is the paradise of plants, the kingdom of fairies. Just standing at the edge of the region, one can feel the rich oxygen content within; it is so fresh and so soul-refreshing. Similar to "The 'Drink' Bar," anyone can enter here, but recently it has been undergoing "internal maintenance," and all non-guild members are prohibited from entering. There are even temporary sentry posts set up at the entrance, manned by several differently colored **Piccolomon**.
 
@@ -18,7 +18,7 @@ At these words, Dove couldn't help but chuckle. Falcon walked ahead, baring his 
 
 Fine, I believed him. Or at least, I'd pretend I did.
 
-The Chairman here goes by the name **Flower**, a 27-year-old from Singapore. She’s quite special; she never shows her true face in the Atrium system and always appears as **BanchoLilimon**. It’s said this is because she lacks confidence in her appearance—who knows if that’s true? In a garden draped with sprawling blooms, she had prepared floral tea, awaiting our arrival. Another person sat beside her—the one she had specifically notified.
+The Chairman here goes by the name **Flower**, a 27-year-old from Singapore. She’s quite special; she never shows her true face in the Midgard system and always appears as **BanchoLilimon**. It’s said this is because she lacks confidence in her appearance—who knows if that’s true? In a garden draped with sprawling blooms, she had prepared floral tea, awaiting our arrival. Another person sat beside her—the one she had specifically notified.
 
 "You didn't say you'd called someone else."
 
@@ -30,7 +30,7 @@ From their conversation, I gathered they all knew each other, and their relation
 
 "You guys too?" I asked.
 
-"Of course," Dove replied. "He's my savior. When I first entered the Atrium as a **Terriermon**, I loved wandering around the Digital World. Once, I accidentally fell off a cliff, unable to move, and was surrounded by a bunch of **Togemon** with no eyes on their backs—almost got pricked to death. He happened to be flying by, heard my cries for help, and descended from the sky with a flock of **Birdramon** to rescue me."
+"Of course," Dove replied. "He's my savior. When I first entered Midgard as a **Terriermon**, I loved wandering around the Digital World. Once, I accidentally fell off a cliff, unable to move, and was surrounded by a bunch of **Togemon** with no eyes on their backs—almost got pricked to death. He happened to be flying by, heard my cries for help, and descended from the sky with a flock of **Birdramon** to rescue me."
 
 His words were filled with respect for Mr. Heath, which left me quite touched.
 
@@ -78,7 +78,7 @@ As she spoke, Flower scanned my body from head to toe, a satisfied smile appeari
 
 I really couldn't stand her. This woman dared to openly grope me under this pretext, right in broad daylight. From my lower back all the way down to my rear, I was nearly rubbed to a sheen, and she still wouldn't let go, instead squeezing tighter and with more force. No matter how I struggled, she remained unmoved, clearly intending to take advantage of me from the start.
 
-I have to admit, the **Nature Court** is truly "natural"—everything is so natural, so blatant. It was one thing for her to take liberties, but Falcon was benefiting too; he stared directly at us, not helping me at all, but watched with fascination as if he were learning techniques. Meanwhile, he kept providing cover for the Chairman, chiming in with supportive words so the others wouldn't pay attention to us. They were truly a pair made in heaven; it would be a pity if they didn't end up together.
+I have to admit, the **Sylvan Garden** is truly "sylvan"—everything is so natural, so blatant. It was one thing for her to take liberties, but Falcon was benefiting too; he stared directly at us, not helping me at all, but watched with fascination as if he were learning techniques. Meanwhile, he kept providing cover for the Chairman, chiming in with supportive words so the others wouldn't pay attention to us. They were truly a pair made in heaven; it would be a pity if they didn't end up together.
 
 "Owl, just agree," I suggested. "Looking at how pitiful the Chairman is, let's just help her."
 
@@ -108,11 +108,11 @@ Owl's move was executed flawlessly; I have to look at him in a new light now.
 
 The sleeping Belphemon looked like a massive plush doll—black and round, with a pair of horns on its head and something resembling either ears or wings behind its head. It appeared unusually cute. Even so, it was not to be trifled with; just a single yawn could release a powerful shockwave.
 
-According to the Lilimon, at first, Chairman Flower wanted to use her kick technique, **Petal Dance**, to move it out of the room, but she was met with its retaliation. Black flames, **Hinokagutsuchi**, were released from the chains wrapped around its body, not only burning half of the Chairman's calf but also incinerating several flower breeding rooms in a row. With a series of flower embryos destroyed, the Chairman, in a fit of rage, unleashed her ultimate technique, **Absolute Field**, swinging her yo-yo to slice through space, and used this spatial tunnel as a path to finally transfer it to the garden through a combined effort.
+According to the Lilimon, at first, Chairman Flower wanted to use her kick technique, **Twin Petal**, to move it out of the room, but she was met with its retaliation. Black flames, **Lampranthus**, were released from the chains wrapped around its body, not only burning half of the Chairman's calf but also incinerating several flower breeding rooms in a row. With a series of flower embryos destroyed, the Chairman, in a fit of rage, unleashed her ultimate technique, **Absolute Territory**, swinging her yo-yo to slice through space, and used this spatial tunnel as a path to finally transfer it to the garden through a combined effort.
 
 "You guys really didn't have it easy."
 
-If it weren't for "it," the **Nature Court** wouldn't be having any "internal maintenance." These were all excuses made up on the spot to prevent any panic in the outside world.
+If it weren't for "it," the **Sylvan Garden** wouldn't be having any "internal maintenance." These were all excuses made up on the spot to prevent any panic in the outside world.
 
 "Why?" I was quite puzzled. "Isn't it usually better to spread the news as widely as possible so more people come to help?"
 
@@ -134,9 +134,9 @@ In other words, the reason everyone didn't come to help was simply because they 
 
 His description was very grave, and Owl listened without offering any rebuttal. It showed that at least during this time, Falcon was no longer the man whose head was filled with perverted thoughts; he was also considering the team's future, trying to find a way to save as many as possible.
 
-I walked to Owl's side, staring at the massive Demon Lord suspended in mid-air. I asked him, "What do you say, Captain? Are you confident in this 'Exploration'?"
+I walked to Owl's side, staring at the massive Demon Lord suspended in mid-air. I asked him, "What do you say, Captain? Are you confident in this 'Raid'?"
 
-I wasn't wrong; a **Direct Exploration** is also an exploration.
+I wasn't wrong; a **Targeted Raid** is also a raid.
 
 "Not at all," Owl shook his head and asked me, "Is it too late to regret now?"
 
@@ -146,4 +146,38 @@ He gave me a bitter smile, then reached out and patted my shoulder as he passed 
 
 That wasn't up to me; it was in the hands of fate.
 
-Mr. Heath had already switched to his **Garudamon** form and flown into the sky to rendezvous with his commune members; they were about to begin the transport mission for the sleeping Belphemon. The specific method was to use a temporary fire-wall composed of thousands of **Birdramon** to push it bit by bit toward the outer perimeter of the **Nature Court**, and then it would be completely sent out by a second group of members waiting at the Atrium Square. During this process, it would be best if anyone were willing to lend a hand; if not, they could only sacrifice a portion of the Birdramon as a price to transfer such a massive security hazard, preventing more people from losing their lives in vain.
+Mr. Heath had already switched to his **Garudamon** form and flown into the sky to rendezvous with his commune members; they were about to begin the transport mission for the sleeping Belphemon. The specific method was to use a temporary fire-wall composed of thousands of **Birdramon** to push it bit by bit toward the outer perimeter of the **Sylvan Garden**, and then it would be completely sent out by a second group of members waiting at the Midgard Square. During this process, it would be best if anyone were willing to lend a hand; if not, they could only sacrifice a portion of the Birdramon as a price to transfer such a massive security hazard, preventing more people from losing their lives in vain.
+
+"Are those Birdramon... those people, going to die?"
+
+"Yes, they prepared themselves for this a long time ago," Mr. Heath said meaningfully. "The vast majority of them are terminally ill patients from all corners of the world. They help each other out, like a family, so none of them wants to be separated from the rest."
+
+"Then why would they still..."
+
+"It's strange, right? I think so too. Even though they know they will die, they scramble and fight to be the ones to sacrifice themselves. It's a mindset that's hard for us to understand, so we can only choose to respect it."
+
+They were all heroes. The wall of life forged by these heroes would undoubtedly protect the innocent, as well as those who lacked the strength to help themselves—those who had received their aid in the past, knew gratitude, but didn't have the power to return the favor. In the future, they would take the place of these heroes, continuing to inherit and carry forward this spirit, becoming an eternal, undying flame within Midgard.
+
+"Are you ready?" Mr. Heath hollered to Owl in the distance.
+
+"Bring it on."
+
+Mr. Heath took full command of the operation.
+
+While they were responsible for the transport, we were responsible for guarding the cargo—Belphemon—just in case it suddenly woke up and switched into Rage Mode. If necessary, we would sacrifice our small selves for the greater good and become part of that undying flame.
+
+"The Belphemon Transfer Operation begins now! First echelon, take flight! 'Meteor Wing' formation, ready! Second echelon, stand by for orders! Sync-wall coordinates confirmed, execute swiftly! Nine, eight, seven, six, keep up in the back..."
+
+Such a dangerous request would be a once-in-a-lifetime occurrence. Otherwise, even Owl would feel that while our spirits were willing, our lives were not nearly expendable enough.
+
+"'Free Birds', prepare to receive the mission."
+
+"Copy that."
+
+Then, through our Captain Owl's mouth, the first operational command was given to us: "Raid, start! 'Free Birds', all members enter high alert. Ensure the path ahead remains completely clear. Falcon, clear the way into the vanguard. Dove, go help Falcon evacuate the crowds. Sakura, watch our rear, and be careful not to get caught in the collateral damage of a falling 'Meteor Wing'..."
+
+"Understood."
+
+"Understood."
+
+"Alright, I got it."
