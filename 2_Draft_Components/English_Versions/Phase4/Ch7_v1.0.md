@@ -2,7 +2,7 @@
 
 The transport operation continued, and everyone's nerves were taut, fearing a single slip-up in any part of the process.
 
-"About to exit the **Nature Court** domain! Group two, get ready!"
+"About to exit the **Sylvan Garden** domain! Group two, get ready!"
 
 Mr. Heath circled above the transported object, monitoring the overall situation from multiple angles. For now, everything was running smoothly, with no major issues—a stroke of luck amidst the misfortune.
 
@@ -12,7 +12,7 @@ The same was true for the **Free Birds**. I followed behind, keeping an eye on t
 
 This was a new term I heard. Where these Demon Lord-type Digimon came from, we didn't know; we only knew they were by no means roles that humans could easily play, and unless by chance, they were never easily encountered.
 
-"Strange, isn't it?" Owl suddenly leaned in and said to me. "One of the **Seven Great Demon Lords**, Sloth itself, has descended upon the Atrium and hasn't been treated by the system as a BUG. This suggests that beneath that skin, there is likely a person just like us. Whether they are trapped inside waiting for rescue or biding their time to cause havoc once they wake up, no one can say for sure."
+"Strange, isn't it?" Owl suddenly leaned in and said to me. "One of the **Seven Great Demon Lords**, Sloth itself, has descended upon Midgard and hasn't been treated by the system as a BUG. This suggests that beneath that skin, there is likely a person just like us. Whether they are trapped inside waiting for rescue or biding their time to cause havoc once they wake up, no one can say for sure."
 
 If that were true, then this matter was indeed suspicious.
 
@@ -24,7 +24,7 @@ No kidding. To be able to quietly drop Belphemon into the Chairman's private roo
 
 With the preamble finished, we quickly cut to the chase:
 
-Once the transport team left the territory of the **Nature Court**, Belphemon suddenly stopped moving. It hung in the air as if caught in a BUG, remaining unmoved no matter how the Birdramon fire-wall pushed from behind.
+Once the transport team left the territory of the **Sylvan Garden**, Belphemon suddenly stopped moving. It hung in the air as if caught in a BUG, remaining unmoved no matter how the Birdramon fire-wall pushed from behind.
 
 "What's going on!?"
 
@@ -40,9 +40,9 @@ As the changes were carried out in an orderly fashion, Owl stepped forward on ou
 
 "Do you need me to call in the analysis team?"
 
-"You know them?" Mr. Heath looked puzzled. "Is that something only the official **Investigation Team** has access to... you kid, don't tell me—"
+"You know them?" Mr. Heath looked puzzled. "Is that something only the official **Raiders** has access to... you kid, don't tell me—"
 
-"Yes," Owl admitted. "Who says the **Free Birds** aren't official? As part of the **Investigation Team**, we eat from the same bowl and belong to the same department. There's no distinction between 'official' and 'civilian'."
+"Yes," Owl admitted. "Who says the **Free Birds** aren't official? As part of **The Raiders**, we eat from the same bowl and belong to the same department. There's no distinction between 'official' and 'civilian'."
 
 Mr. Heath could only resign himself. "Fine, bring them in. But make sure they stay safe."
 
@@ -54,9 +54,9 @@ With that, Owl turned his head slightly and gestured to Heath. "They're here."
 
 "Just in case something went wrong during transport, I had them on standby nearby." Owl cracked his neck. "It's rare they get to be useful. Just stay aside and watch."
 
-The so-called analysis team was a squad composed of Armor-level Digimon, all belonging to the **Armor Rebirth** club—a subordinate department of the **Investigation Team**. Members came from all over the world and were generally experts in data analysis.
+The so-called analysis team was a squad composed of Armor-level Digimon, all belonging to the **Armor Rebirth** club—a subordinate department of **The Raiders**. Members came from all over the world and were generally experts in data analysis.
 
-The team leader, **Magnamon**, led the way toward Belphemon. He first circled the target, confirming its appearance hadn't changed, then beckoned the five members behind him: **Halsemon**, **Shadramon**, **Quetzalmon**, **Flybeemon**, and **Togemogumon**. The six of them positioned themselves around Belphemon—front, back, left, right, top, and bottom—simultaneously using their Digimentals to perform a comprehensive analysis.
+The team leader, **Magnamon**, led the way toward Belphemon. He first circled the target, confirming its appearance hadn't changed, then beckoned the five members behind him: **Owlmon**, **Shadramon**, **Quetzalmon**, **Flybeemon**, and **Peacockmon**. The six of them positioned themselves around Belphemon—front, back, left, right, top, and bottom—simultaneously using their Digimentals to perform a comprehensive analysis.
 
 The process lasted a long time, and everyone broke into a cold sweat for them.
 
@@ -64,7 +64,7 @@ When the analysis concluded, Magnamon approached Owl and Mr. Heath to report som
 
 Owl and Mr. Heath looked at each other and said simultaneously, "Then why was it possible before?"
 
-"Because the space within the **Nature Court** domain is saturated with data." Fearing the two still didn't understand, Magnamon explained in layman's terms: "Think of it this way: the trees, the flowers, and the grass there—they are all made of data. Since they are data, the oxygen they release is also data. A portion of the energy from the **Birdramon** combined with the air provided the conditions for Belphemon to move."
+"Because the space within the **Sylvan Garden** domain is saturated with data." Fearing the two still didn't understand, Magnamon explained in layman's terms: "Think of it this way: the trees, the flowers, and the grass there—they are all made of data. Since they are data, the oxygen they release is also data. A portion of the energy from the **Birdramon** combined with the air provided the conditions for Belphemon to move."
 
 He explained it quite clearly—so clearly that it left the two in front of him confused.
 
@@ -76,7 +76,7 @@ Heath nodded. "Mostly. You?"
 
 Then Mr. Heath asked Magnamon, "So, in this situation, how can we make it move forward just a bit more without sacrificing our own people?"
 
-Owl chimed in, saying, "As you can see, we're inches away from the fire-wall, with only the Atrium Square in between. You can't just leave everyone who recently logged in facing a constant threat of death."
+Owl chimed in, saying, "As you can see, we're inches away from the fire-wall, with only the Midgard Square in between. You can't just leave everyone who recently logged in facing a constant threat of death."
 
 Magnamon listened and nodded silently, finding their words reasonable. After some careful thought and deduction, he finally proposed an extremely dangerous but effective method: "Find a way to wake it up, then draw its attention so it keeps chasing you, until you lead it into the Digital World."
 
@@ -116,7 +116,7 @@ With that, Owl swept his hand down. Dove immediately stepped forward, puffed out
 
 "Get back here!"
 
-Owl quickly stopped Falcon, who was about to rush in to help, and blocked him. He sent a massive **Dark Gaia Force** toward Belphemon. The resulting explosion was so immense that no one present could maintain their balance; those who could fly scattered, and those who couldn't fell to the ground. Before anyone could readjust, the sleeping Demon Lord had already awakened, brushing aside the smoke from the blast to reveal its other side—**Belphemon: Rage Mode**.
+Owl quickly stopped Falcon, who was about to rush in to help, and blocked him. He sent a massive **Dark Terra Destroyer** toward Belphemon. The resulting explosion was so immense that no one present could maintain their balance; those who could fly scattered, and those who couldn't fell to the ground. Before anyone could readjust, the sleeping Demon Lord had already awakened, brushing aside the smoke from the blast to reveal its other side—**Belphemon: Rage Mode**.
 
 "I think we made it mad," Falcon said to me casually, drawing the large blade from his shoulder. The next second, he was bumped aside by Owl as Belphemon's claws came down, the resulting dust storm sweeping over us once again.
 
@@ -148,13 +148,13 @@ With such a brave warrior coming to help, how could we have any complaints? We a
 
 "—**Hammer Spark**!"
 
-The powerful force lifted Belphemon off its feet. Under the combined action of Garudamon's charge and Owl's **Black Warrior Tornado**, the awakened "Sloth" Demon Lord completely passed through that fire-wall, breaking free from the Atrium system and arriving in the Digital World.
+The powerful force lifted Belphemon off its feet. Under the combined action of Garudamon's charge and Owl's **Black Tornado**, the awakened "Sloth" Demon Lord completely passed through that fire-wall, breaking free from the Midgard system and arriving in the Digital World.
 
 "Let's finish it in one go!"
 
 At Owl's command, no one held back their ultimate moves, each using their final techniques to strike Belphemon.
 
-Falcon and Dove were on the outer perimeter, their **Twin Moon Crescent Slash** and **Burst Shot** continuously battering the Demon Lord's body, keeping it disoriented and unable to focus on other directions. Meanwhile, **Shadow Wing** and **Forbidden Temptation**—the double crimson strike—combined with the blinding light from **Plasma Shot** and **Hammer Spark** to strike Belphemon's chest. The resurrected Demon Lord was in agony, flailing its limbs to try and stop us from dealing more pain. Before it could draw the chains from its body to release the black flames of **Hinokagutsuchi**, Owl quickly gathered a **Dark Gaia Force** formed from "negative thoughts" and completely ended it within the raging fires of the explosion.
+Falcon and Dove were on the outer perimeter, their **Twin Moon Crescent Slash** and **Burst Shot** continuously battering the Demon Lord's body, keeping it disoriented and unable to focus on other directions. Meanwhile, **Shadow Wing** and **Forbidden Temptation**—the double crimson strike—combined with the blinding light from **Plasma Shot** and **Hammer Spark** to strike Belphemon's chest. The resurrected Demon Lord was in agony, flailing its limbs to try and stop us from dealing more pain. Before it could draw the chains from its body to release the black flames of **Lampranthus**, Owl quickly gathered a **Dark Terra Destroyer** formed from "negative thoughts" and completely ended it within the raging fires of the explosion.
 
 "Whew, finally over."
 
