@@ -25,3 +25,17 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 古代人鱼兽 | AncientMermaimon | **AncientMermaimon** | Official. Ch9. |
 | 钢铁海龙兽 | MetalSeadramon | **MetalSeadramon** | Official. Ch9. |
 | 利维亚兽 | Leviamon | **Leviamon** | Official. Demon Lord of Envy. |
+| 朱庇特兽 | Jupitermon | **Jupitermon** | Official. Olympos XII. |
+| 奥尼斯兽 | Ornismon | **Ornismon** | Official. Ancient Bird. |
+| 古代彩虹兽 | AncientIrismon | **AncientIrismon** | Official. |
+| 凤凰兽 | Hououmon | **Hououmon** | Official. |
+| 螺旋兽 | Rasenmon | **Rasenmon** | Official. |
+| 朱诺兽 | Junomon | **Junomon** | Official. Olympos XII. |
+| 刻瑞斯兽 | Ceresmon | **Ceresmon** | Official. Olympos XII. |
+| 巴克科斯兽 | Bacchusmon | **Bacchusmon** | Official. Olympos XII. |
+| 阿波罗兽 | Apollomon | **Apollomon** | Official. Olympos XII. |
+| 狄安娜兽 | Dianamon | **Dianamon** | Official. Olympos XII. |
+| 墨丘利兽 | Merukimon | **Merukimon** | Official. Olympos XII. |
+| 密涅瓦兽 | Minervamon | **Minervamon** | Official. Olympos XII. |
+| 玛尔斯兽 | Marsmon | **Marsmon** | Official. Olympos XII. |
+| 武尔坎努斯兽 | Vulcanusmon | **Vulcanusmon** | Official. Olympos XII. |

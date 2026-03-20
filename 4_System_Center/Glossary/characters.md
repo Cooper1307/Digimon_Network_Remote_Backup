@@ -23,3 +23,7 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 追风旅团 | Wind-Chasing Brigade | Guild | Dynamic, agile tone. |
 | 变态公会 | The Pervert Guild | Enemy Group | Reflects the "Adult/Gritty" tone. |
 | 老板 / 会长 | The Boss / Guild Master | Title | Adam's dual role. |
+| 长孙老师 | Master Changsun | Character | 95-year-old blacksmith. |
+| 羽 | Plume | Character | AncientIrismon. |
+| 翼 | Wing | Character | Hououmon. |
+| 小勇 | Xiao Yong | Alias | Rasenmon's alias. |

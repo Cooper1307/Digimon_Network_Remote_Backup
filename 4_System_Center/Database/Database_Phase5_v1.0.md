@@ -18,6 +18,13 @@
 - **Junomon (朱诺兽)**: [NEW] Wife of Jupitermon. Represents the emotional catalyst for the "Hysteric Mode" tragedy.
 - **Mervamon (梅尔瓦兽)**: [NEW] Evolved from Minervamon. Mature, powerful, and attractive.
 - **Vulcanusmon (Master Changsun/武尔坎努斯兽)**: [NEW] 95-year-old master blacksmith. Strict yet benevolent.
+- **Ceresmon (刻瑞斯兽)**: [NEW] Member of Olympos XII.
+- **Bacchusmon (巴克科斯兽)**: [NEW] Member of Olympos XII.
+- **Apollomon (阿波罗兽) & Dianamon (狄安娜兽)**: [NEW] Members of Olympos XII.
+- **Merukimon (墨丘利兽)**: [NEW] Member of Olympos XII.
+- **Marsmon (玛尔斯兽)**: [NEW] Member of Olympos XII.
+- **Xiao Yong (小勇/螺旋兽)**: [NEW] Rasenmon. Lieutenant and powerhouse of the Beast King's Fangs.
+- **Rainbow Starlight (彩虹星光)**: [NEW] The elite duo of **Plume** (羽/AncientIrismon) and **Wing** (翼/Hououmon) from the Wind-Chasing Brigade.
 
 ### The Water World (水世界)
 

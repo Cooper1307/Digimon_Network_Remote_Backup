@@ -54,14 +54,10 @@
             "id": "79dddb1a21d25100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Draft_Components/English_Versions/Phase4/Ch8_v1.0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ch8_v1.0"
+              "title": "新标签页"
             }
           }
         ],
@@ -78,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Source_Material/原文拆分版本/11.第八章 母亲的遗嘱.md",
+                "file": "2_Draft_Components/English_Versions/Phase5/Ch11_v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.第八章 母亲的遗嘱"
+              "title": "Ch11_v1.0"
             }
           },
           {
@@ -157,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "d39540032bc06017",
@@ -265,33 +260,34 @@
   },
   "active": "c6355ad4acf685b7",
   "lastOpenFiles": [
-    "2_Draft_Components/English_Versions/Phase4/Ch8_v1.0.md",
+    "归档/原文拆分版本/9.第六章 会长的请求.md",
+    "归档/原文拆分版本/8.第五章 惊天动地的实战对决.md",
+    "归档/原文拆分版本/7.第四章 鸽与鹤.md",
+    "归档/原文拆分版本/5.第三章 明镜止水.md",
+    "归档/原文拆分版本/6.外传一  攻略组救援战.md",
+    "归档/原文拆分版本/4.第二章 落枭.md",
+    "归档/原文拆分版本/3.第一章 漆黑勇者.md",
+    "归档/原文拆分版本/21.第十五章 美丽的终结.md",
+    "归档/原文拆分版本/20.第十四章 龙与神.md",
+    "归档/原文拆分版本/2.序章 攻略组.md",
+    "归档/原文拆分版本/19.外传四 普路托兽讨伐战.md",
+    "归档/原文拆分版本/18.第十三章 幕后黑手的自述.md",
+    "归档/原文拆分版本/17.第十二章 鏖战.md",
+    "归档/原文拆分版本/16.第十一章 利爪与尖牙.md",
+    "归档/原文拆分版本/15.第十章 狂涛怒啸.md",
+    "归档/原文拆分版本/14.第九章 深入水世界.md",
+    "归档/原文拆分版本/12.外传二 变态派对讨伐战.md",
+    "归档/原文拆分版本/13.外传三 深险之局.md",
+    "归档/原文拆分版本/11.第八章 母亲的遗嘱.md",
+    "归档/原文拆分版本/10.第七章 复苏的魔王.md",
+    "归档/原文拆分版本/1.目录.md",
+    "归档/原文拆分版本/0.《数码兽网络：攻略组》（上）前言.md",
+    "归档/原文拆分版本",
     "1_Source_Material/原文拆分版本/11.第八章 母亲的遗嘱.md",
+    "2_Draft_Components/English_Versions/Phase4/Ch8_v1.0.md",
     "1_Source_Material/原文拆分版本/6.外传一  攻略组救援战.md",
     "2_Draft_Components/English_Versions/Phase3/5.Gaiden1_v1.0.md",
-    "1_Source_Material/原文拆分版本/20.第十四章 龙与神.md",
-    "1_Source_Material/原文拆分版本/7.第四章 鸽与鹤.md",
-    "1_Source_Material/原文拆分版本/21.第十五章 美丽的终结.md",
-    "1_Source_Material/原文拆分版本/22..md",
-    "1_Source_Material/原文拆分版本/23..md",
-    "归档/中译英原文《数码兽网络：攻略组》（上）.md",
-    "1_Source_Material/原文拆分版本/1.目录.md",
-    "1_Source_Material/原文拆分版本/18.第十三章 幕后黑手的自述.md",
-    "1_Source_Material/原文拆分版本/19.外传四 普路托兽讨伐战.md",
-    "2_Draft_Components/English_Versions/Phase1/Ch1_Part1_v1.0.md",
-    "1_Source_Material/原文拆分版本/14.第九章 深入水世界.md",
-    "1_Source_Material/原文拆分版本/0.《数码兽网络：攻略组》（上）前言.md",
     "1_Source_Material/原文拆分版本/未命名",
-    "1_Source_Material/原文拆分版本/15.第十章 狂涛怒啸.md",
-    "1_Source_Material/原文拆分版本/17.第十二章 鏖战.md",
-    "1_Source_Material/原文拆分版本/16.第十一章 利爪与尖牙.md",
-    "归档/English_Versions/Phase2/Ch2_v1.0.md",
-    "1_Source_Material/原文拆分版本/4.第二章 落枭.md",
-    "1_Source_Material/原文拆分版本/13.外传三 深险之局.md",
-    "1_Source_Material/原文拆分版本/12.外传二 变态派对讨伐战.md",
-    "1_Source_Material/原文拆分版本/10.第七章 复苏的魔王.md",
-    "1_Source_Material/原文拆分版本/9.第六章 会长的请求.md",
-    "1_Source_Material/原文拆分版本/5.第三章 明镜止水.md",
     "1_Source_Material/原文拆分版本/8.第六章",
     "1_Source_Material/原文拆分版本/7.第五章",
     "English_Versions/Phase2",
@@ -299,7 +295,6 @@
     "7_Archives/WPS查看版与最终提交版",
     "7_Archives/联网核查",
     "7_Archives/preface_dump.txt",
-    "6_Scripts/scan_hallucinations.py",
-    "6_Scripts/scan_garbage.py"
+    "6_Scripts/scan_hallucinations.py"
   ]
 }

@@ -109,3 +109,27 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **蔷薇突刺剑** | Rose Rapier | **Rose Rapier** | Rosemon's weapon. |
 | **刺针暴风** | — | **Spike Storm** | Novel-original. Pufferfishmon. |
 | **英国冲拳** | — | **British Punch** | Novel-original. Pufferfishmon. |
+
+## 7. Ch11 New Terms (2026-03-20)
+
+### Ch11 Entities & Lore
+
+| Source (CN) | English | Type | Notes |
+| :--- | :--- | :--- | :--- |
+| **奥林匹斯十二神族** | **Olympos XII** | Organization | Mediation body of Midgard. |
+| **神祇进化** | **Godly Evolution** | Term | Specialized evolution program for XII. |
+| **调停组织** | **Mediation Organization** | Term | General title for Olympos XII's role. |
+| **赫菲斯托斯工房** | **Hephaestus Workshop** | Location | Master Changsun's forge. |
+| **山栖原** | **Mountain Habitat** | Location | Formerly Sanhara. Neutral habitat. |
+| **长孙老师** | **Master Changsun** | Character | The legendary blacksmith (Vulcanusmon). |
+
+### Ch11 Digimon List
+
+| Source (CN) | Official | Project Standard | Notes |
+| :--- | :--- | :--- | :--- |
+| **朱庇特兽** | Jupitermon | **Jupitermon** | Leader of XII. |
+| **奥尼斯兽** | Ornismon | **Ornismon** | Ancient Bird type. |
+| **螺旋兽** | Rasenmon | **Rasenmon** | High-power Rookie-to-Mega entity. |
+| **古代彩虹兽** | AncientIrismon | **AncientIrismon** | Official. |
+| **凤凰兽** | Hououmon | **Hououmon** | Official. |
+| **番长狮子兽** | BanchoLeomon | **BanchoLeomon** | Official. Guild Master Ultra. |
