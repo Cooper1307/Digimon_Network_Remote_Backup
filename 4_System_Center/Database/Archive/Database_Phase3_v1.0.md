@@ -21,8 +21,9 @@ This database serves as the single source of truth for all lore, entities, and s
 | **齐格弗里德** | **Siegfried** | Big Five Rep | Slayerdramon | Wounded | German representative. Uses greatsword Fragarach. |
 | **蓝慎** | **Lanshen** | Big Five Rep | MirageGaogamon | Missing | Korean representative. Vanished in sector search. |
 | **拉贵尔兽** | **Raguelmon** | Enemy | Beast Angel | Mad | Initial target of the pursuit. |
-| **座天使兽：堕落形态**| **Ophanimon: Falldown Mode**| Fusion Core | Fallen Angel | Fused | Fused with Raguelmon. |
-| **秩序兽** | **Ordinemon** | Fusion Boss | Composite Entity | Defeated | Celestial size. Sky-blotting black wings. |
+| **座天使兽：堕落形态**| **Ophanimon: Falldown Mode**| Fusion Core | Fallen Angel | Fused | Fused with Raguelmon into Ordinemon. |
+| **莫斯提兽** | **Mastemon** | Entity (Free Birds) | Angle/Fallen Angel | Active | Phase 3 High-power entity. |
+| **秩序兽** | **Ordinemon** | Fusion Boss | Composite Entity | Defeated | Zenith-sized fusion of Raguelmon and Ophanimon: FM. |
 
 ## 2. Locations & World-Building
 
@@ -30,7 +31,7 @@ This database serves as the single source of truth for all lore, entities, and s
 | :--- | :--- | :--- | :--- | :--- |
 | **喝一杯酒吧** | **The 'Drink' Bar** | Guild / Hub | Central gathering place in Chuge area. | Neutral ground. |
 | **自由鸟** | **Free Birds** | Raiding Group | Owl's independent group. | Goal: Sever Digital/Real link. |
-| **自然庭院** | **Nature Court** | Guild Domain| Home to Snake and other nature-aligned entities. | Inner space maintenance ongoing. |
+| **自然庭院** | **Sylvan Garden** | Guild Domain| Home to Flower and nature-aligned entities. | Inner space maintenance ongoing. |
 | **联合国五常攻略组**| **UN Big Five Raiders**| International | Elite state-sponsored teams. | Geopolitical rivalries. |
 
 ## 3. Technical & System Concepts
@@ -44,6 +45,7 @@ This database serves as the single source of truth for all lore, entities, and s
 | **阿尔法之眼** | **Alpha Inforcer** | Tech Artifact | Extremely rare data artifact won from the Guild Master. |
 | **多路喧嚣** | **DORU Din** | Combat Skill | Dorugoramon's signature "Multi-Discordance" blast. |
 | **佛拉格拉克** | **Fragarach** | Gear | Slayerdramon's extendable greatsword. |
+| **铠马大名刃** | **Gairyu Senbajin** | Gear | Ouryumon's legendary dual blades. |
 
 ---
 *Last Updated: 2025-12-19 23:45:00 - Phase 3 INITIALIZED*

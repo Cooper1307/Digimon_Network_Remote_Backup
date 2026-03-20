@@ -41,6 +41,10 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 武尔坎努斯兽 | Vulcanusmon | **Vulcanusmon** | Official. Olympos XII. |
 | 拉贵尔兽 | Raguelmon | **Raguelmon** | Official. Extreme-level beast angel. |
 | 斩龙兽 | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
+| 座天使兽：堕落形态 | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. Phase 3 Fusion Core. |
+| 莫斯提兽 | Mastemon | **Mastemon** | Official. Phase 3 Entity. |
 | 幻影加奥加兽 | MirageGaogamon | **MirageGaogamon** | Official. Lanshen's form. |
-| 秩序兽 | Ordinemon | **Ordinemon** | Official. Zenith-sized fusion. |
+| 秩序兽 | Ordinemon | **Ordinemon** | Official. Phase 3 Fusion Boss. |
+| 番长百合兽 | BanchoLilimon | **BanchoLilimon** | Official. Phase 4 Group Leader. |
+| 贝尔菲兽：睡眠形态 | Belphemon: Sleep Mode | **Belphemon: Sleep Mode** | Official. Phase 4 Target. |
 | 欧米茄兽 | Omnimon | **Omnimon** | Official (Royal Knight). |

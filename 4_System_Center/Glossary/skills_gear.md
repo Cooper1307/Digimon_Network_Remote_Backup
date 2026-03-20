@@ -12,13 +12,16 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 勇气之盾 | Shield of Courage | Brave Shield | **Brave Shield** | Exact match. |
 | 勇气徽章 | Crest of Courage | Crest of Courage | **Crest of Courage** | Lore Warning: atypical for BWG. |
 | 盖亚力量 | Terra Destroyer | Gaia Force | **Terra Destroyer** | Official for BlackWarGreymon. |
+| 黑暗盖亚能量炮 | Dark Gaia Force | Dark Terra Destroyer | **Dark Terra Destroyer** | Aligns with BWG naming convention. |
 | 音速刺针 V | Sonic Stinger V | Mach Stinger V | **Mach Stinger V** | Official Bandai. |
 | 黄兽偃月刀 | Yellow-Beast Crescent-Blade | — | **Yellow-Beast Crescent-Blade** | CresGarurumon weapon. |
 | 皇家征服 | Royal Conquest | Royal Conquests | **Royal Conquests** | TigerVespamon swords. |
 | 龙兽克星 | Dramon Killer | Dramon Killers | **Dramon Killers** | Official Bandai (Plural). |
 | 多路喧嚣 | DORU Din | DORU Din | **DORU Din** | Official for Dorugoramon. |
 | 佛拉格拉克 | Fragarach | Fragarach | **Fragarach** | Slayerdramon's greatsword. |
+| 铠马大名刃 | Kai Riku Daimyoujin | Gairyu Senbajin | **Gairyu Senbajin** | Ouryumon's blade. |
 | 世界终结 | End of the World | End of the World | **End of the World** | Ordinemon's signature blast. |
+| 玫瑰色摇篮 | Rose Cradle | Rosy Cradle | **Rosy Cradle** | Rosemon's skill. |
 | 结晶狂涛 | Crystal Raging Waves | Crystal Billow | **Crystal Billow** | Official. AncientMermaimon's attack. |
 | 兽狼大回旋 | Beast Wolf Great Revolution | Beast Wolf Great Revolution | **Beast Wolf Great Revolution** | Official. CresGarurumon's attack. |
 | 究极波浪炮 | Ultimate Wave Cannon | Ultimate Stream | **Ultimate Stream** | Official. MetalSeadramon's attack. |
@@ -26,3 +29,7 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 蔷薇突刺剑 | Rose Rapier | Rose Rapier | **Rose Rapier** | Rosemon's weapon. |
 | 刺针暴风 | Spike Storm | — | **Spike Storm** | Novel-original. Pufferfishmon's attack. |
 | 英国冲拳 | British Punch | — | **British Punch** | Novel-original. Pufferfishmon's attack. |
+| 对花瓣 | Twin Petal | Twin Petal | **Twin Petal** | BanchoLilimon's skill. |
+| 日中花 | Lampranthus | Lampranthus | **Lampranthus** | Belphemon Sleep Mode's skill. |
+| 绝对领域 | Absolute Territory | Absolute Territory | **Absolute Territory** | BanchoLilimon's spatial cut. |
+| 陨石巨翼 | Meteor Wing | Meteor Wing | **Meteor Wing** | Garudamon's skill. |

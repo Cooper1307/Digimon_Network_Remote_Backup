@@ -9,4 +9,6 @@ Sourced from `Glossary_v1.0.md` §4. For incremental additions, update this file
 - **Alpha Inforcer (阿尔法之眼):** Extremely rare data artifact/treasure won from Adam.
 - **Hephaestus Workshop (赫菲斯托斯工房):** Master Changsun's forge.
 - **Mountain Habitat (山栖原):** Plateau location where major guild confrontations occur.
+- **Sylvan Garden (自然庭院):** The elaborate botanical sector in Midgard, home to fairy-type Digimon.
+- **Nether Club (幽冥俱乐部):** The dark-sector guild enclave.
 - **Rainbow Starlight (彩虹星光):** The iconic duo of AncientIrismon and Hououmon.
