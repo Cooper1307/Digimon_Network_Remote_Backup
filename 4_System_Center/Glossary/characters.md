@@ -22,6 +22,10 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 兽皇之牙 | Beast King's Fangs | Guild | Primal, martial tone. |
 | 追风旅团 | Wind-Chasing Brigade | Guild | Dynamic, agile tone. |
 | 变态公会 | The Pervert Guild | Enemy Group | Reflects the "Adult/Gritty" tone. |
+| 齐格弗里德 | Siegfried | Character | Slayerdramon (German rep). |
+| 蓝慎 | Lanshen | Character | MirageGaogamon (Korean rep). |
+| 亚历山大 / 亚历克 | Alexander / Alec | Character | Adam's true name (French). |
+| 奥蕾莉 · 勒夫费尔 | Aurélie Lefebvre | Character | Jade's true name. |
 | 老板 / 会长 | The Boss / Guild Master | Title | Adam's dual role. |
 | 长孙老师 | Master Changsun | Character | 95-year-old blacksmith. |
 | 羽 | Plume | Character | AncientIrismon. |

@@ -44,7 +44,7 @@
 - **Milestones:**
   - Phase 1 (Preface–Ch1): 100/100 LQA. SEALED.
   - Phase 2 (Ch2): SEALED.
-  - Phase 3 (Ch3, Gaiden1, Ch4–5): SEALED.
+  - Phase 3 (Ch3, Gaiden1, Ch4–5): SEALED (Deep Audited/Refined).
   - Phase 4 (Ch6–8, Gaiden2): SEALED.
   - Phase 5 (Gaiden3, Ch9–15, Gaiden4): SEALED.
   - LQA v1.1 Resolution: Content restoration & terminology standardization applied.

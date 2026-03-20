@@ -26,6 +26,9 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **兽皇之牙** | **Beast King's Fangs** | Guild | Primal, martial tone. |
 | **追风旅团** | **Wind-Chasing Brigade** | Guild | Dynamic, agile tone. |
 | **变态公会** | **The Pervert Guild** | Enemy Group | Reflects the "Adult/Gritty" tone. |
+| **齐格弗里德** | **Siegfried** | Character | Slayerdramon (German rep). |
+| **蓝慎** | **Lanshen** | Character | MirageGaogamon (Korean rep). |
+| **奥蕾莉 · 勒夫费尔** | **Aurélie Lefebvre** | Character | Jade's true name. |
 | **老板 / 会长** | **The Boss / Guild Master** | Title | Adam's dual role. Use **"the Boss"** for the persona/address and **"Owner/Proprietor"** for formal role description. |
 
 ## 2. Digimon & Level Audit
@@ -45,6 +48,8 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **偃月加鲁鲁兽** | CresGarurumon | **CresGarurumon** | Official. |
 | **座天使兽：堕落形态** | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. |
 | **秩序兽** | Ordinemon | **Ordinemon** | Official. |
+| **拉贵尔兽** | Raguelmon | **Raguelmon** | Official. Phase 3 Enemy. |
+| **斩龙兽** | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
 | **莫斯提兽** | Mastemon | **Mastemon** | Official. |
 | **番长百合兽** | BanchoLilimon | **BanchoLilimon** | Official. |
 | **贝尔菲兽：睡眠形态** | Belphemon: Sleep Mode | **Belphemon: Sleep Mode** | Official. |
@@ -65,6 +70,9 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **黄兽偃月刀** | Yellow-Beast Crescent-Blade | **Yellow-Beast Crescent-Blade** | **Yellow-Beast Crescent-Blade** | CresGarurumon's Weapon. |
 | **皇家征服** | Royal Conquest | **Royal Conquests** | **Royal Conquests** | TigerVespamon's Twin Light-Swords. |
 | **龙兽克星** | Dramon Killer | **Dramon Killers** | **Dramon Killers** | Official Bandai (Plural). |
+| **多路喧嚣** | DORU Din | **DORU Din** | **DORU Din** | Official for Dorugoramon. |
+| **佛拉格拉克** | Fragarach | **Fragarach** | **Fragarach** | Slayerdramon's greatsword. |
+| **世界终结** | End of the World | **End of the World** | **End of the World** | Ordinemon's signature blast. |
 | **黑暗盖亚能量炮** | Dark Gaia Force | **Dark Terra Destroyer** | **Dark Terra Destroyer** | Aligns with BlackWarGreymon's Terra Destroyer naming convention. |
 | **铠马大名刃** | Kai Riku Daimyoujin | **Gairyu Senbajin** | **Gairyu Senbajin** | Ouryumon's blade. |
 | **玫瑰色摇篮** | Rose Cradle | **Rosy Cradle** | **Rosy Cradle** | Rosemon's skill. |
@@ -79,6 +87,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 - **Digitization:** Death in this world leads to permanent deletion/data dust. Term used: **Digitization** or **Decompilation**.
 - **Chrome Digizoid (时之数码合金):** Verified as the indestructible metal of the Digital World.
 - **Seed of Promotion (晋升之种):** A key lore item throughout Phase 5, enabling "Burst" or "GX" evolutions.
+- **Alpha Inforcer (阿尔法之眼):** Extremely rare data artifact won from the Guild Master. |
 
 ## 5. Idioms & Meta-Localizations
 
@@ -92,14 +101,16 @@ This document standardizes the terminology for the **Digimon Network** series, f
 
 ## 6. Ch9 New Terms (2026-03-19)
 
-### Digimon
+### Ch9 Digimon
+
 | Source (CN) | Official | Project Standard | Notes |
 | :--- | :--- | :--- | :--- |
 | **古代人鱼兽** | AncientMermaimon | **AncientMermaimon** | Official. |
 | **钢铁海龙兽** | MetalSeadramon | **MetalSeadramon** | Official. |
 | **利维亚兽** | Leviamon | **Leviamon** | Official. Demon Lord of Envy. |
 
-### Skills
+### Ch9 Skills
+
 | Source (CN) | Official | Project Decision | Notes |
 | :--- | :--- | :--- | :--- |
 | **结晶狂涛** | Crystal Billow | **Crystal Billow** | AncientMermaimon's attack. |

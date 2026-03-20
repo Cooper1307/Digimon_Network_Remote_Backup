@@ -39,3 +39,8 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 密涅瓦兽 | Minervamon | **Minervamon** | Official. Olympos XII. |
 | 玛尔斯兽 | Marsmon | **Marsmon** | Official. Olympos XII. |
 | 武尔坎努斯兽 | Vulcanusmon | **Vulcanusmon** | Official. Olympos XII. |
+| 拉贵尔兽 | Raguelmon | **Raguelmon** | Official. Extreme-level beast angel. |
+| 斩龙兽 | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
+| 幻影加奥加兽 | MirageGaogamon | **MirageGaogamon** | Official. Lanshen's form. |
+| 秩序兽 | Ordinemon | **Ordinemon** | Official. Zenith-sized fusion. |
+| 欧米茄兽 | Omnimon | **Omnimon** | Official (Royal Knight). |

@@ -14,10 +14,15 @@ This database serves as the single source of truth for all lore, entities, and s
 | **鹤** | **Heron / Crane** | Reserve (Free Birds) | Mastemon | Active | Cold, traumatized by sister's death. |
 | **雀** | **Sparrow** | Former Support | Angewomon | Deceased | Owl's former partner, Dove/Heron's sibling. |
 | **龙** | **Dragon** | Big Five Rep | Dorugoramon | Active | "Invincible King." China's representative. |
-| **曼特** | **Metal** | Big Five Rep | GrandLocomon | Active | Russian military operative. |
-| **玉** | **Jade** | Big Five Rep | BanchoStingmon | Active | Adam's sister. French vanguard. |
-| **小王** | **Wang** | Disciple | Ouryumon | Active | Dragon's disciple. Decompiled. |
-| **零** | **Zero** | Big Five Rep | Jesmon | Active | Silent lone wolf. CIA-modified. |
+| **曼特** | **Metal** | Big Five Rep | GrandLocomon | Active | Russian military operative. High-rank General's son. |
+| **玉** | **Jade / Aurélie Lefebvre** | Big Five Rep | BanchoStingmon | Active | Adam's sister. French vanguard. |
+| **小王 / 晓王** | **Wang / Xiao Wang** | Disciple | Ouryumon | Active | Dragon's disciple. Decompiled. Innocent smile trait. |
+| **零** | **Zero** | Big Five Rep | Jesmon | Active | Silent lone wolf. CIA-modified. Uses "hacks." |
+| **齐格弗里德** | **Siegfried** | Big Five Rep | Slayerdramon | Wounded | German representative. Uses greatsword Fragarach. |
+| **蓝慎** | **Lanshen** | Big Five Rep | MirageGaogamon | Missing | Korean representative. Vanished in sector search. |
+| **拉贵尔兽** | **Raguelmon** | Enemy | Beast Angel | Mad | Initial target of the pursuit. |
+| **座天使兽：堕落形态**| **Ophanimon: Falldown Mode**| Fusion Core | Fallen Angel | Fused | Fused with Raguelmon. |
+| **秩序兽** | **Ordinemon** | Fusion Boss | Composite Entity | Defeated | Celestial size. Sky-blotting black wings. |
 
 ## 2. Locations & World-Building
 
@@ -36,6 +41,9 @@ This database serves as the single source of truth for all lore, entities, and s
 | **时之数码合金** | **Chromes Digizoid** | Material | Near-indestructible metal coating. |
 | **反编译** | **Decompilation** | Condition | Irreversible loss of human logout capability. |
 | **临时添补数据** | **Temp-Patch Data** | Item | Rare resource used to repair DigiCore/physical damage. |
+| **阿尔法之眼** | **Alpha Inforcer** | Tech Artifact | Extremely rare data artifact won from the Guild Master. |
+| **多路喧嚣** | **DORU Din** | Combat Skill | Dorugoramon's signature "Multi-Discordance" blast. |
+| **佛拉格拉克** | **Fragarach** | Gear | Slayerdramon's extendable greatsword. |
 
 ---
 *Last Updated: 2025-12-19 23:45:00 - Phase 3 INITIALIZED*
