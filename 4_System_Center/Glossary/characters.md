@@ -35,3 +35,4 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 尼普顿兽 | Neptunemon | Character | Guild Master of Atlantis. Alias: Poseidon. |
 | 古代人鱼兽 | AncientMermaimon | Character | Guardian of the Network Sea. Alias: Lana. |
 | 小勇 | Xiao Yong | Alias | Rasenmon's alias. |
+| 幕疤 | Master Muca | Alias | Also known as "Ba-ye." The legendary master blacksmith and mentor. |

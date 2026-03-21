@@ -40,3 +40,14 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 皇家枪击 | Royal Saber | Royal Saber | **Royal Saber** | Dukemon's skill. |
 | 极乐净土 | Final Elysion | Final Elysion | **Final Elysion** | Dukemon's skill. |
 | 黑暗绝望 | Black Despair | Dark Despair | **Dark Despair** | Mastemon's skill. |
+| 千重拳打 | Thousand Fist | Thousand Fist | **Thousand Fist** | Merukimon's attack. |
+| 燃烧战魂 | Burn Bancho Punch | Burn Bancho Punch | **Burn Bancho Punch** | BanchoLeomon's attack. |
+| 日冕制裁 | Corona Sanctions | Corona Sanctions | **Corona Sanctions** | Marsmon's attack. |
+| 陀螺碎击 | Gyro Smash | Gyro Smash | **Gyro Smash** | Rasenmon's attack. |
+| 感受化爆风 | Qualialise Blast | Qualialise Blast | **Qualialise Blast** | Rasenmon's attack. |
+| 广域神罚 | Wide-Range Divine Punishment | Wide-Range Divine Punishment | **Wide-Range Divine Punishment** | Jupitermon's attack. |
+| 雷云霹雳 | Mabolt | Mabolt | **Mabolt** | Jupitermon's attack. |
+| 惩罚审判 | Punish Judge | Punish Judge | **Punish Judge** | Jupitermon's attack. |
+| 强袭旋斩 | Strike Roll | Strike Roll | **Strike Roll** | Minervamon's attack. |
+| 疯狂旋转木马 | Madness Merry-go-round | Madness Merry-go-round | **Madness Merry-go-round** | Minervamon's attack. |
+| 巨人导弹 | Giant Missile | Giant Missile | **Giant Missile** | MegaGargomon's attack. |

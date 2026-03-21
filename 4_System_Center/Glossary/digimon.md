@@ -39,6 +39,7 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 密涅瓦兽 | Minervamon | **Minervamon** | Official. Olympos XII. |
 | 玛尔斯兽 | Marsmon | **Marsmon** | Official. Olympos XII. |
 | 武尔坎努斯兽 | Vulcanusmon | **Vulcanusmon** | Official. Olympos XII. |
+| 梅尔瓦兽 | Mervamon | **Mervamon** | Official. Evolved from Minervamon. |
 | 拉贵尔兽 | Raguelmon | **Raguelmon** | Official. Extreme-level beast angel. |
 | 斩龙兽 | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
 | 座天使兽：堕落形态 | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. Phase 3 Fusion Core. |

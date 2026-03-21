@@ -17,3 +17,6 @@ Sourced from `Glossary_v1.0.md` §4. For incremental additions, update this file
 - **Birdramon Commune (巴多拉公社):** Aerial transport/patrol guild led by Heath.
 - **Deep Sea Temple (深海神殿)**: The private palace of Poseidon in the depths of the Network Sea.
 - **Network Sea (网络之海)**: A major aquatic sector in the Digital World known for its high pressure and undercurrents.
+- **Mediation Organization (调停组织)**: The original law-enforcement body of Midgard.
+- **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca."
+- **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Owl" and "Vulture."

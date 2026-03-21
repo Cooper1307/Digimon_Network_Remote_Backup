@@ -46,7 +46,7 @@
   - Phase 2 (Ch2): SEALED.
   - Phase 3 (Ch3, Gaiden1, Ch4–5): SEALED (Deep Audited/Refined).
   - Phase 4 (Ch6–8, Gaiden2): SEALED.
-  - Phase 5 (Gaiden3, Ch9–15, Gaiden4): SEALED.
+  - Phase 5 (Gaiden3, Ch9-15, Gaiden4): **Ch 12 LQA COMPLETE**. Overall Phase 5 in Final Optimization.
   - LQA v1.1 Resolution: Content restoration & terminology standardization applied.
 - **Asset Map:**
   - `4_System_Center/` — `system_context.md`, `Glossary_v1.0.md`, `Glossary_v1.0_CN.md`.

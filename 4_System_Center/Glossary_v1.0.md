@@ -31,6 +31,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **蓝慎** | **Lanshen** | Character | MirageGaogamon (Korean rep). |
 | **奥蕾莉 · 勒夫费尔** | **Aurélie Lefebvre** | Character | Jade's true name. |
 | **老板 / 会长** | **The Boss / Guild Master** | Title | Adam's dual role. Use **"the Boss"** for the persona/address and **"Owner/Proprietor"** for formal role description. |
+| **幕疤** | **Master Muca** | Character | Also known as "Ba-ye." The legendary master blacksmith and mentor of Owl and Jupitermon. |
 
 ## 2. Digimon & Level Audit
 
@@ -63,6 +64,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **圣龙兽** | **UlforceV-dramon** | **UlforceV-dramon** | Official. Blue's Mega form. |
 | **公爵兽** | **Gallantmon / Dukemon** | **Dukemon** | Official. Red's Mega form. |
 | **大王猿猴兽** | **MetalEtemon** | **MetalEtemon** | Official. Pervert Party leader. |
+| **梅尔瓦兽** | Mervamon | **Mervamon** | Official. Olympos XII. Evolved from Minervamon. |
 
 ## 3. Skill & Gear Audit
 
@@ -167,3 +169,28 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **孔雀兽** | Peacockmon | **Peacockmon** | Official (Armor Level). Corrected from Togemogumon. |
 | **贝尔菲兽：愤怒形态** | Belphemon: Rage Mode | **Belphemon: Rage Mode** | Official (Mega Level). Ch 7. |
 | **混沌降阶** | Chaos Degradation | **Chaos Degradation** | Mastemon signature skill. Ch 8. |
+
+### Ch12 New Terms (2026-03-21)
+
+#### Ch12 Skills
+
+| Source (CN) | Official | Project Decision | Notes |
+| :--- | :--- | :--- | :--- |
+| **千重拳打** | Thousand Fist | **Thousand Fist** | Merukimon's attack. |
+| **燃烧战魂** | Burn Bancho Punch | **Burn Bancho Punch** | BanchoLeomon's attack. |
+| **日冕制裁** | Corona Sanctions | **Corona Sanctions** | Marsmon's attack. |
+| **陀螺碎击** | Gyro Smash | **Gyro Smash** | Rasenmon's attack (Xiao Yong). |
+| **感受化爆风** | Qualialise Blast | **Qualialise Blast** | Rasenmon's attack (Xiao Yong). |
+| **广域神罚** | Wide-Range Divine Punishment | **Wide-Range Divine Punishment** | Jupitermon's attack. |
+| **雷云霹雳** | Mabolt | **Mabolt** | Jupitermon's attack. |
+| **惩罚审判** | Punish Judge | **Punish Judge** | Jupitermon's attack. |
+| **强袭旋斩** | Strike Roll | **Strike Roll** | Minervamon's attack. |
+| **疯狂旋转木马** | Madness Merry-go-round | **Madness Merry-go-round** | Minervamon's attack. |
+| **巨人导弹** | Giant Missile | **Giant Missile** | MegaGargomon's attack (Dove). |
+
+#### Ch12 Lore & Organizations
+
+| Source (CN) | English | Type | Notes |
+| :--- | :--- | :--- | :--- |
+| **调停组织** | **Mediation Organization** | Organization | The original law-enforcement body of Midgard. |
+| **数据清除流** | **Data Deletion Style** | Lore | The swordsmanship lineage shared by Owl and Jupitermon. |
