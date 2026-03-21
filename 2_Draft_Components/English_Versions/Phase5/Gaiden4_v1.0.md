@@ -1,356 +1,131 @@
-# Side Story IV: Subjugation of Plutomon (外传四：普路托兽讨伐战)
+# Gaiden 4: Subjugation of Plutomon (外传四 普路托兽讨伐战)
 
-## (Part 1)
+## (I)
 
-**-By Agnes-**
+-By Agnes-
 
-My father arranged a blind date for me. I didn't want to go, afraid I wouldn't find any common topics with the guy. Just as I was looking for an excuse to decline, an excuse found its way to me.
+My father set me up on a blind date. I was highly reluctant to go, dreading the inevitable lack of any shared interests with the man. Just as I was desperately racking my brain for an excuse to cancel, the perfect alibi practically knocked on my door.
 
-The person who contacted me was the younger sister of my first boyfriend, Aurelie Lefebvre, who was also my senior in university. She reached out to me as the representative of the French [Raiders], trying to convince me to help her investigate a certain person. Originally, she wanted to go through the formal process and report it to the [Raiders] lead for assignment, but the leader was away, so she contacted me first.
+The caller was Aurélie Lefebvre—my first boyfriend's younger sister, and also my upperclassman during our university days. Acting formally as the representative of the French **Raiders**, she reached out in an attempt to commission my help in a covert investigation regarding a specific target. Originally, she had intended to follow standard protocol and escalate the request to the Guild Master of the Raiders for official dispersal. However, since the Boss was currently MIA, she opted to contact me directly.
 
 "You've come to the right person."
 
-I accepted without a second thought.
+I agreed without a second thought.
 
-"The target likely isn't a friendly character, Agnes. Are you sure you don't want to reconsider?"
+"The target isn't exactly a pushover, Agnes. Are you absolutely certain you don't want to sleep on it?"
 
-"By the time I finish reconsidering, the bird will have flown." I thanked her for her kind warning and told her: "Don't worry, the five Nordic countries are a group; we always act together. If there's a lead, I'll give you an answer immediately."
+"By the time I finish 'sleeping on it,' our prey will have already slipped the net." I thanked her for her genuine concern, quickly reassuring her, "Don't worry. The Nordic 5 operate as a cohesive unit; we always mobilize together. I'll get back to you the second I acquire a solid lead."
 
-Hanging up, I ignored my father's persuasion outside the door, shared the news with the representatives of the other four Nordic countries, locked the door, went to the EDEN haptic equipment, wiped off the dust, inserted my ID medal, and logged into the long-lost Atrium system. Sanhara was still as beautiful as ever.
+Terminating the call, I ignored my elderly father's persistent nagging through the bedroom door, relayed the intel to the other four Nordic representatives, and firmly locked the deadbolt. Approaching my EDEN neuro-dive rig, I wiped away the accumulated dust, slotted in my Identity Verification Card, and securely initiated a dive into the long-lost Midgard system. The Mountain Habitat remained as breathtakingly beautiful as the day I left it.
 
-Switching to the form of Valkyrimon, I was about to fly up to find Guild Master Wind and ask about the situation. Just as I was about to move, my companion golden bird "Freya" stopped me, warning me to be alert as something dangerous was approaching.
+Initiating my manifestation sequence to step into the form of Valkyrimon, I primed my wings, preparing to take to the skies to track down Guild Master Wind and gather spatial intel. However, before I could even launch, my golden avian companion, *Freya*, physically blocked my path. She issued a dire warning, actively urging me into a state of high alert—something incredibly dangerous was rapidly closing in on our coordinates.
 
-Hiding behind a massive rock and looking around, I soon saw a Plutomon. He was muttering to himself, full of self-reproach, as if he had just done something wrong to someone.
+Concealing myself behind a massive boulder, I cautiously scanned the perimeter. Before long, my optics locked onto the silhouette of a Plutomon. He was obsessively muttering to himself, stringing together sentences heavy with self-condemnation, functioning precisely like a man who had just committed an act of irredeemable guilt.
 
-I followed him all the way, hoping to hear some useful clues from his mouth to save the trouble of disturbing our Guild Master, who loved to pursue freedom and the wind. He seemed to have a screw loose, personally confessing every crime he had committed—including how he used Guild Master Wind's ID medal to log into the Atrium in her identity and played the "Free Birds" and the mediation organization like puppets.
+I shadowed him silently, praying I would catch some actionable dialogue slipping from his lips, sparing me the logistical headache of trying to pin down a Guild Master obsessed with chasing the wind. I have zero clue what psychological breaking point he had hit, but he spontaneously and comprehensively confessed to every single atrocity he had orchestrated. This included the grim revelation of how he hijacked Wind's Identity Verification Card to spoof her signature within Midgard, masterfully playing both the "Free Birds" and the Mediation Organization like puppets on a string.
 
-My intuition judged that he was the culprit I was looking for.
+My gut instinct violently confirmed it: he was the exact target I was contracted to hunt.
 
-So I stepped forward immediately to engage in negotiation; the reason I didn't act immediately was because I still tried to believe that what he had just said was all nonsense. After questioning him once, not only did he not answer a single question, but he turned back and asked me: "Did you hear everything I just said?"
+Drawing my weapon, I stepped out of cover to initiate an interrogation. The strictly logical reason I withheld an immediate, lethal strike was my stubborn, desperate hope that the deranged confession I just witnessed was merely the raving of a lunatic. However, after subjecting him to a barrage of questions, not only did he actively refuse to provide a single coherent answer, but his head snapped back toward me as he posed a chilling counter-question: "Did you hear everything I just mumbled?"
 
-I gave him an affirmative answer. He smiled twice at me, ended with a contemptuous tone, and then stated that I knew too much about him, so he had to silence me and not let me return alive to tell others, even gentlemanly asking me to prepare to be quickly terminated by him.
+I gave him a brutally honest, affirmative response. In return, he offered me a hollow, disturbing chuckle that rapidly deteriorated into a tone of absolute contempt. He coldly deduced that since I possessed far too much terminal intelligence regarding his operation, he was permanently silencing me. I would not be leaving this zone alive to leak his secrets. Retaining a horrifically gentlemanly composure, he then cordially advised me to brace myself for a swift execution.
 
-"Please, is there any point in these empty words?" I said to him disdainfully. "Straight talk: we're both Megas, who are you trying to intimidate?"
+"Spare me. Is there any actual tactical value to this melodramatic garbage?" I retorted, injecting my voice with palpable disdain. "Let's be intimately frank here—we're both Mega-level limits. Exactly who in the hell do you think you're trying to intimidate?"
 
-The next second, he released a piece of black chaos from behind him, vanished into it, and instantly appeared behind me. Fortunately, with Freya's timely warning, his sneak attack didn't succeed. I made a prompt decision and drew the "Fenrir Sword" hanging on my left waist to counter-attack.
+Without a measurable microsecond of delay, a void of pitch-black Chaos tore open behind his spine. He sank seamlessly into the abyss, instantaneously materializing directly at my six o'clock. If it hadn't been for Freya shrieking a split-second warning, his lethal spine-breaker of a sneak attack would have undoubtedly connected. Operating purely on reflexive muscle memory, I unsheathed the "Fenrir Sword" holstered at my left hip and ripped a violent backhanded slash to counter.
 
-The sword touched his hard body and instantly froze it. But in the blink of an eye, he was swallowed by that clump of black chaos again, then restored to his state before being frozen, reappearing before me.
+The frost-infused edge bit deep into his heavily armored torso, the sub-zero enchantments instantaneously flash-freezing his physical structure. Yet, in the literal blink of an eye, that abhorrent mass of black Chaos surged forward, swallowing his frozen frame whole. The localized reality warped, forcibly resetting his data to its pre-frozen state, and he materialized directly in front of my face once more.
 
-"Is this all you've got?"
+"Is this the absolute limit of your output?"
 
-He subjected me to verbal humiliation. As a descendant of the "Valkyrie," how could I tolerate this? So I shot my "Aurvandil's Arrow" at him, which never missed. Little did I expect that he would casually pull over a piece of chaos from behind him, turning it into a shield and blocking it very easily.
+The sheer arrogance of his verbal degradation burned. As an entity modeled upon the proud lineage of a "Valkyrie," absorbing such disrespect was structurally intolerable. Channeling maximum holy output, I knocked and loosed the "Arrow of Aurvandil"—a devastating projectile hard-coded with a guaranteed-hit tracking logic. Yet, defying core system mechanics, he casually tore a strip of raw Chaos from his back, manifesting a localized void shield that effortlessly absorbed the lethal strike into nothingness.
 
-It's no exaggeration to say that aside from my best skill in team command, my [Support Position] tricks were exhausted. It's hard to imagine that a person like me would become the captain of the [Five Nordic Countries Raiders]; sometimes, I feel ashamed for myself.
+Without a shred of exaggeration, bypassing my specialized proficiency in macro-level squad command, my entire solo combat repertoire as a [Support Position] had just been categorically exhausted. It honestly boggles the mind how an operative entirely lacking in overwhelming firepower ever inherited the captain's mantle for the **Nordic 5**. Periodically, the sheer imposter syndrome of it all makes me physically cringe.
 
-Realizing that my amateur skills weren't enough to take him down alone, I immediately changed my strategy, switching from offense to defense, leading him toward populated areas to create a relatively large commotion and cause a stir, so I could meet up with the others as quickly as possible. If all five of us were present, I doubted he would have the power to turn the tide.
+Acutely recognizing that my standard combat routines lacked the necessary DPS thresholds to solo him, I immediately executed a tactical pivot. I transitioned exclusively into evasive maneuvers, explicitly attempting to kite his aggro toward the nearest heavily populated safe-zones. The objective was to generate enough collateral acoustic and visual noise to trigger a localized perimeter alarm, expediting my rendezvous with the rest of my squad. I mathematically calculated that if all five members of our raid party dropped into the same grid, his unique defensive hacks would be completely overwhelmed by our combined burst damage.
 
-I excelled at speed, so dodging was my forte—little did I know it was also his.
+Agility and velocity maxing were my specialty code—evasion was my absolute bread and butter. What I completely failed to factor in was that it was also his.
 
-Following me with a relentless pursuit, I didn't gain a single advantage and ended up covered in wounds, often being blasted from the sky to the ground, rolling and crashing into trees and rocks, the scene becoming as pathetic as could be.
+I was subjected to an unyielding, high-RPM aerial pursuit. Every spatial advantage I attempted to leverage was aggressively shut down, leaving my avatar laced with critical lacerations. I was repeatedly staggered mid-flight, violently swatted from the stratosphere, and sent careening through the forest canopy—shattering ancient pines and cratering into jagged bedrock. The sheer one-sided brutality of the beatdown was deeply humiliating.
 
-Holding my waist and lying on the ground, I gradually realized I might not make it to a populated area, so I intended to turn back and fight to the death, to see whose life was harder.
+Clutching my fractured ribs as I lay half-buried in the dirt, the bleak logistical reality finally fully processed: I wasn't going to survive the transit to the nearest safe-zone. Erasing all thoughts of retreat, I forced myself to my feet, actively choosing to stake my remaining HP in a desperate, final stand. Let’s see whose data integrity was statistically harder to crack.
 
-The results proved that his was harder.
+As the combat logs would later confirm: his was infinitely harder.
 
-I was beaten to a pulp, with no way to resist. The feathers on my body were continuously burned by the black chaos, and the pain from the skin burns made me scream again and again, but it only made him more excited, more wanting to strip a bird-person like me from the data combination and have my soul completely infected by this dangerous virus, becoming another scourge threatening the Atrium.
+I was degraded to an utterly broken state. Every attempt at kinetic resistance was effortlessly dismantled. My holy feathers were steadily scorched into ash by the corrosive proximity of his black Chaos. The simulated physiological pain of the digital burns forcibly extracted agonizing screams from my throat time and time again. But the auditory feedback of my suffering only seemed to hyper-stimulate him. The violent sadism blazing in his optics confirmed his intent: he intended to violently rip my core consciousness free from my baseline avian parameters and irreversibly infect my root soul with his apocalyptic virus, mutating me into an equally devastating plague upon the Midgard server.
 
-Wanting to beg for mercy, but unable to open my mouth.
-Wanting to run away, but unable to move my legs.
-Falling into such a state, it's no exaggeration to say my life was "in imminent danger." I didn't know if this power of his was innate or obtained through effort; regardless, I could be sure that the black chaos on him absolutely didn't belong to the Atrium—in other words, the Atrium couldn't produce a monster like him.
+The pathetic instinct to beg for mercy surged in my throat, but the localized paralysis explicitly locked down my vocal routines. The primal directive to flee screamed in my processor, but my digitized nervous system flatly refused to actuate my legs.
 
-"Miraculous, right?" He leaned close to my ear and whispered softly: "This black thing has given me power. it cannot be destroyed by your ultimate moves, cannot be cleared as data, and cannot even be identified as a bug by the system. With it, no one is my opponent. Everyone who stands in my way will be swallowed by it, becoming its nourishment and prompting it to continuously supply me with power. And you are but an appetizer; I can tell it to be a bit gentler to you, so you don't go so painfully."
+Sinking into such absolute operational despair, acknowledging that I had physically crossed the threshold onto "death's door" was devoid of any exaggeration. Whether his overwhelming admin-level privileges were natively coded or acquired through grueling exploitation was irrelevant. The one absolutely tangible truth I had mapped was that the undulating ring of pitch-black Chaos orbiting his frame emphatically did not belong to the Midgard architecture. Put simply: it fundamentally lacked the foundational logic necessary to spawn a system error of his magnitude.
 
-"Does it require me to pay any price?"
+"A truly magnificent phenomenon, isn't it?" He maliciously leaned his maw against my audio receptors, his digital whisper dripping with venomous pride. "This anomaly... it gifted me absolute power. It structurally cannot be deleted by your primitive ultimate skills. It cannot be purged as loose data ash. Your precious system firewall cannot even flag it as a bug. While wearing this mantle, I have no mathematical equal. Any foolish entity attempting to obstruct my path will be uniformly swallowed by the void, meticulously digested into raw nourishment, and recursively looped back into my core battery to supply infinite power. As for you? You're nothing more than an appetizer. Though, if you behave, I might instruct the void to be gentle—ensuring your deletion is mercifully swift rather than agonizingly slow."
 
-"Of course not," he replied quickly. "Erasing your existence is the price."
+"And it requires absolutely no cost in exchange?"
 
-I felt more and more that even if the five of us gathered, we might not be able to handle him, because that piece of black chaos would always block all fatal damage for him, and sometimes it could even become transparent, appearing unexpectedly and giving you a hard blow from behind, becoming a weapon to plot against you.
+"Of course it does," he countered with sociopathic neatness. "The total erasure of your existence *is* the price."
 
-"I want to know where you got such a treasure?"
+As his monologue processed, a glacial dread began accumulating in my stomach. If his gloating held even a trace of systemic truth, the horrifying reality was that stacking the combined DPS of all five Nordic members would result in a mathematically zero-sum output. That parasitic ring of black Chaos functioned as an absolute, omni-directional damage nullifier. Even more disgustingly, it possessed the localized capability to forcibly transition into an optically camouflaged state, delivering catastrophic kinetic impacts directly against a target's blind spot—an ultimate, untraceable weapon explicitly built for backstabbing.
 
-I gritted my teeth and struggled to ask this question. My strength was gradually being sucked away, my spirit became withered, and even the vision before my eyes hadn't escaped the influence, blurring bit by bit.
+"I have to know. Where exactly did you excavate such a game-breaking exploit?"
 
-"Like you, I also want to know."
+Gritting my teeth, I forcibly overrode my pain suppressors just to utter the question. My baseline stamina gauges were actively plummeting as the void leeched my vitality, and my psychological fortitude was actively weathering into dust. Even my optical sensors were failing to escape the localized interference, rendering my visual feed in heavy, pixelated static.
 
-He told me that back then, to pursue power beyond the mediation organization, he stepped into that barren land in the Digital World and then honorably fainted. When he woke up, he found he possessed this miraculous power.
+"Much like yourself, I similarly seek the answers to that."
 
-"...And even completed a stage-skipping evolution."
+He elaborated that during his fanatical pursuit to shatter the absolute power ceiling enforced by the Mediation Organization, his desperate wandering eventually deposited him deep within a thoroughly corrupted, desolate sector of the external Digital World. Upon breaching the perimeter, his avatar suffered an emergency shutdown and he blacked out. The moment his systems forcibly rebooted, he discovered this miraculous, god-tier anomaly already grafted to his code.
 
-"Stage-skipping? How... how is that possible?"
+"...and directly triggered a leapfrog evolution, violently skipping an entire developmental stage as a complimentary bonus."
 
-"Believe it or not," he said indifferently. "No executioner would lie to a dying person. It... indeed happened, right to me. I also want to figure out what's going on, but unfortunately, there aren't enough talents in the Atrium. Perhaps, at this moment, someone has hidden in their territory and figured it out."
+"A leapfrog evolution? How... mathematically, how does the architecture even permit that?"
 
-He had ignored one thing from the beginning, and that was why I had fallen to such a state. Logically, in terms of speed, he and I were evenly matched, and it shouldn't lead to a one-sided situation, unless "Freya," the golden bird that always reminded me how to dodge attacks from behind, had been sent out temporarily to perform another task. For example, calling someone, leading the way—and all I had to do was cooperate with it, delay Plutomon, and buy more time for it until my reinforcements arrived.
+"Your belief is fundamentally irrelevant," he stated with chilling apathy. "The executioner gains no tactical advantage by lying to the corpse swinging on the gallows. It... undeniably occurred, precisely to my own frame. Trust me, I harbored equally intense desires to decompile the underlying logistics of this anomaly. Unfortunately, the Midgard server suffers from a catastrophic lack of top-tier analytical talent. Although, operating under a theoretical mandate, it's highly probable that at this exact microsecond, some reclusive tech-baron is firmly barricaded within their personal stronghold, actively reverse-engineering the anomaly in absolute secrecy."
 
-Hard work pays off; just before my left arm was disabled, the first reinforcement arrived—Sleipmon, the representative from Finland and the [Vanguard Position]. The "Bifrost" was fired from the holy crossbow "Muspelheim" in his left hand, and Plutomon, unable to dodge in time, had to take this hit squarely.
+However, buried within his ego-driven monologue, he had completely overlooked one glaring, tactical discrepancy: the actual mechanics of *why* I had been ground into such a helpless state. Statistically speaking, our velocity metrics ran at a near-identical parallel. Trapping me in such a violently one-sided beatdown should have been probabilistically impossible—unless *Freya*, the golden avian companion actively feeding me real-time telemetry and optimal evasion vectors for attacks originating outside my FOV, had been deliberately redeployed for a secondary objective. Specifically: designated SOS transmission and pathfinding. Ergo, my sole operational requirement had been to aggressively buy time. To leverage my failing HP pool to securely anchor Plutomon's aggro to my coordinates while praying that my vanguard could secure a locational lock.
 
-Upon meeting, he sent a greeting gift to our enemy, which not only distracted him but also bought enough time to rescue me. It seems his [Vanguard Position] is quite reliable.
+The brutal stalling tactics yielded a massive dividend. Mere moments before my left arm’s damage threshold was critically breached, the deafening howl of a shattered sound barrier heralded the arrival of my first reinforcement riding the gale. It was the representative of Finland—our dedicated [Vanguard Position], Sleipmon. Leveling the holy crossbow "Muspelheim" mounted on his left arm, he unleashed a barrage of blazing "Bifröst" arrows directly into the kill box. Caught entirely flat-footed by the ambush, Plutomon failed to initialize a dodge vector and was forced to absorb the catastrophic payload point-blank.
 
-"Go quickly, I've got this."
+Sticking the landing, he effortlessly delivered a high-explosive greeting gift squarely to our mutual adversary, aggressively drawing full aggro and securing the critical seconds necessary to pull me from the impact crater. The sheer, overwhelming competence he displayed absolutely justified his designation as our vanguard.
 
-After saying this, he was knocked aside by Plutomon's "Chaos Light." With the holy shield "Niflheim" on his right arm as a block, the damage he sustained was minimal.
+"Initiate immediate exfil! I am drawing aggro and locking him to this grid!"
 
-Seeing this, Plutomon naturally wouldn't leave him much room to breathe. After dropping two chaos bombs in quick succession, our vanguard Sleipmon completely disappeared into a patch of chaos. When we saw him again, he had been forced to use his hidden ultimate "Odin's Breath," using the holy shield "Niflheim" on his right arm to manipulate the nearby weather and trigger a blizzard to continuously resist that chaos.
+Barely had the tactical command left his mouth before a searing blast of "Light of Chaos," discharged directly from Plutomon's core, violently launched him aside. By instinctively bringing up the holy shield "Niflheim" braced on his right arm, he perfectly blocked the thermal surge, dropping the incoming damage to negligible margins.
 
-I didn't want to waste his good intentions, so I hurried toward the town ahead. I firmly believed that as long as we reached a populated area, it would be our home field, and we would transform from our previous identity as prey into hunters. Of course, it's possible I was overthinking it.
+Visually confirming the block, Plutomon completely abandoned any pretense of restraint, stubbornly refusing to allow the sniper a single frame to realign his sights. Dropping two consecutive ordinance strikes of highly compressed Chaos Bombs, the resulting dimensional detonation utterly consumed our vanguard, drawing Sleipmon screaming into a localized vortex of the abyss. By the time his optical signature re-emerged on the tactical overlay, the sheer structural damage he had accumulated forced him to instantly trigger his absolute last-ditch survival protocol: "Odin's Breath." Channelling the holy shield "Niflheim," he aggressively manipulated the localized atmospheric pressures, spawning a localized Category-5 blizzard in a desperate, grinding war of attrition directly against the creeping spread of the Chaos.
 
-Judging from the subsequent results, my team members were still very reliable.
+I explicitly refused to squander the bloody window his sacrifice had purchased. Rerouting all remaining auxiliary power to my mobility thrusters, I burned a desperate, max-velocity trajectory directly toward the sprawling township looming on the horizon. I clung to the absolute, unshakeable conviction that the microsecond we breached the perimeter of a heavily populated grid, the tactical dynamic would instantaneously invert. That urban sprawl was our sovereign territory. We would seamlessly transition from the hunted directly into the apex predators. Although, viewing the scenario through the brutally objective lens of hindsight, it’s entirely plausible I was suffering from severe tactical delusion.
 
-After the [Vanguard Position] was defeated, Plutomon pursued me toward the town's outskirts. The Norwegian representative, Olegmon, the [Defense Position] among us, intervened to block him. In terms of reliability, the four of us combined weren't as good as him alone; it's fair to say that with him, our [Five Nordic Countries Raiders] are destined not to fail. Unfortunately, the pity was that this time he was fighting alone against an almost invincible guy who excelled in both long-range and close-range combat and had that black chaos shield that could immune all attribute damage. No matter how high Olegmon's weight class or how much monstrous strength he used, he couldn't achieve a breakthrough, and the final result could only end in a one-sided defeat.
+Judging safely from the post-action debriefing reports, the structural reliability of my squad remained absolute.
 
-Entering the town, I kept shouting and calling for anyone to help me. However, the people here were either Rookies who had just completed guild registration or Champions who had been out for a while and came here for recovery; relying on them was impossible. They were also very sensible; seeing us coming, they one by one cleared the path very efficiently, and didn't even say a word of complaint, probably already scared witless.
+Following the tactical suppression of our vanguard, Plutomon effortlessly matched my escape velocity, violently breaching the outer perimeter limits of the township. That was the precise millisecond the representative of Norway executed a brutal, blunt-force intervention. This was our heavily armored [Defense Position]—Olegmon. Objectively speaking, indexing raw, unadulterated reliability metrics, the remaining four members of the Nordic squad combined couldn't hold a candle to him as an individual unit. It was a globally accepted fact that deploying him practically guaranteed the statistical impossibility of an operational failure for the **Nordic 5**. However, the sheer catastrophic tragedy of this particular engagement was that he was operating utterly solo, and the target locked in his crosshairs was a functionally immortal glitch—an entity possessing dual mastery over both devastating long-range bombardment and brutal CQC execution. To compound the nightmare, he possessed that floating ring of black Chaos, acting as a sovereign guardian entirely immune to all coded attribute damage. No matter how much sheer, staggering tonnage Olegmon brought to bear, or the raw, terrifying volume of blunt-force trauma he unloaded, breaching that anomaly was mathematically impossible. The ultimate conclusion of the duel was doomed to terminal, unilateral slaughter.
 
-Passing through a marketplace, I was tripped by a pole in the middle of the road. Turning back, Plutomon's right index finger was pointing exactly at my brow, less than half a fist's distance away. At the critical moment, two massive battle hammers flew from a side street, hitting the Plutomon who was about to act against me.
+Smashing violently through the town's perimeter gating, I frantically broadcasted a wide-band SOS request for immediate combat support. Predictably, the local demographic was agonizingly inadequate. The populace consisted entirely of green-tag rookies who had literally just finalized their guild registration papers, or exhausted Ultimate-levels who had limped back from the badlands seeking R&R. Factoring them into any viable defense grid was an exercise in statistical comedy. Further cementing their absolute uselessness, their localized survival instincts functioned perfectly—the moment visual contact with my bloodied, incoming trajectory was established, the crowds uniformly parted like the Red Sea. They cleared physical space with practiced, terrifying efficiency, not uttering a single syllable of complaint. I can only assume their psychological limiters had already snapped in sheer terror.
 
-Looking through the fleeing crowd, a familiar figure appeared before me, gasping for breath and chewing a brown mass, looking as honest and cute as when I first knew him.
+Tearing recklessly through an open-air bazaar, my fractured equilibrium finally betrayed me. My boot snagged violently against a discarded shoulder pole bridging the cobblestone path, sending me crashing face-first into the dirt. Instantly twisting onto my back, my optic sensors locked onto the immediate reality: Plutomon's right index finger was leveled perfectly between my eyes, the glowing muzzle flash hovering barely three inches from my skull. In that microsecond suspended between life and deletion, a pair of absolute, colossal war-hammers came screaming out of a flanking alleyway like localized meteor strikes. The blunt-force impact connected dead-center against Plutomon's flank, violently blasting his execution attempt off-target and launching his frame completely out of the immediate grid.
 
-"Huff... huff... finally... caught... caught up—"
+Peering through the chaotic swarm of stampeding bystanders, a deeply familiar silhouette materialized at the periphery of my vision. He was aggressively panting to reset his stamina thresholds while simultaneously aggressively chewing through a massive mouthful of something suspiciously brown. Visually, he presented the exact same overwhelming aura of earnest, endearingly pure honesty that had defined the exact day I drafted him.
 
-He's from Iceland, our new [Substitute Position] Vikingmon. In the matter of "rescuing fallen comrades," how could a chivalrous hero of "seeing injustice and drawing one's sword" be late?
+"Hah... Hah... I finally... managed to... close the gap—"
 
-Opening his mouth, he brought me a piece of news that sounded somewhat sorrowful: "Freyr had a bad stomach last night and went to the toilet without paper. He told us to wait for him a while, and he'll come to meet up with us after he's 'air-dried'."
+This was the pride of Iceland—our freshly promoted [Substitute Position], Vikemon. When it came to narrative-defining tropes like "saving a cornered comrade at the eleventh hour," how could the self-proclaimed paragon of heroic justice ever allow himself to miss his cue?
 
-I even smelled the scent in his words.
+The absolute second he successfully purged the food from his mouth, he relayed a sit-rep dripping with bizarrely tragic undertones: "Freyr apparently destroyed his stomach linings last night. Factoring in catastrophic logistical failure—he forgot to stock his bathroom with toilet paper—he requested we hold the line for a delay. He confirmed he will initiate combat deployment the exact moment he’s successfully 'air-dried'."
 
-Hard to imagine how I originally promoted such a guy to join the [Raiders], speaking such words with his mouth full of chocolate; wouldn't he feel disgusted?
+I swear to the server gods, I could practically smell the lingering bio-hazard radiating off the syntax of that sentence.
 
-## (Part 2)
+The severe migraine forming behind my optical sensors forced me to critically reevaluate the incredibly flawed decision matrix that led me to formally contract this guy into the **Raiders**. Relaying that exact specific string of words while actively and aggressively chewing a mouthful of chocolate—did his auditory processors fundamentally fail to register the overwhelming level of disgust?
 
-**-By Freyr-**
+## (II)
 
-I am Freyr, from Copenhagen, Denmark. Currently working at St. Canute's Cathedral where Hans Christian Andersen was once baptized. I don't like fairy tales and long for a solitary life with only myself in the whole world, probably because I'm used to being bullied by the group of fellows around me.
+-By Freyr-
 
-I actually can't figure out why I'm usually targeted by them. Simply because I have a good temper? Perhaps that's indeed the case; who wouldn't want to pick a person with a good temper to bully? As long as it's not particularly excessive, at most I'll say a few words to them in person; if it is particularly excessive, it's actually fine—at most I'll curse a few more swear words. I suddenly realized, do I usually give them too much of a good face, to the point where they think I won't get angry? Maybe; if I want to get a conclusion on this sort of thing, I have to find a special chance to test. And I'm a person who's afraid of trouble; if I were a bit more diligent, I wouldn't be holding a Copenhagen University diploma and doing the work of a cathedral gatekeeper.
+I am Freyr, from Copenhagen, Denmark. I currently work at St. Knute's Church, the exact location where Hans Christian Andersen was baptized. I absolutely despise fairy tales and actively yearn for an isolated, solitary life where I am the sole human being left on the planet. Perhaps it's precisely because I'm so violently accustomed to being bullied by the degenerates around me.
 
-That Sunday, as usual, I was patrolling near the cathedral, picking up trash and watching tourists show affection. Bored, I pulled out my phone to check messages. Captain Agnes contacted us, telling us to go online as soon as possible to perform a new mission.
+Actually, I could never logically deduce why I was so frequently targeted. Was it simply a byproduct of possessing a genuinely good temper? Perhaps so—who wouldn't instinctively select the most accommodating person in the room to bully? As long as their transgressions didn't cross a critical threshold, the absolute most I would retaliate with was a couple of sternly worded sentences to their faces. If it was particularly egregious, it honestly didn't bother me that much either—at worst, I'd simply curse them out with a heavier vocabulary of swear words. It suddenly dawned on me: did I consistently offer them too much slack, to the point where they organically concluded that I physically lacked the capacity to get angry? Perhaps. Formulating a definitive conclusion on such a psychological metric would require orchestrating a controlled test, and I am an individual who fundamentally abhors unnecessary trouble. If I possessed even a fraction more diligence, I wouldn't be clutching a graduation diploma from the University of Copenhagen while clocking in as a glorified church gatekeeper.
 
-The remaining three indicated in turn "received" or "on the way." Not following their formation would make me stick out, which wouldn't be quite right. However, my EDEN haptic experience device was still at my home in Fasanvej, Copenhagen, quite a distance from my place of work. How far? Let me put it this way: from a geographical standpoint, they aren't even on the same island. Driving back would take me at least two and a half hours.
+That Sunday, I was running my standard patrol circuit near the chapel, picking up discarded trash and silently judging tourists aggressively parading their affection. Dying of boredom, I pulled out my terminal to skim my messages. Captain Agnes had initiated contact, broadcasting an urgent directive for all hands to log in ASAP for a newly designated mission.
 
-The job can't be left undone; it determines whether I starve to death in reality. The mission can't be skipped either; my absence might lead to mission failure and team members being killed in action. I can't bear the responsibility associated with lives, so I decisively chose the latter.
+The remaining three operatives respectively pinged back with standard acknowledgments or an "on the way." Breaking designated formation and operating completely out of sync would make me an extreme outlier, which was highly inappropriate. However, my EDEN neuro-dive rig was securely anchored back at my apartment in Vansenvej, Copenhagen, posing a significant geographical distance from my current workplace. Exactly how far? Allow me to put it bluntly: geographically speaking, they weren't even located on the same island. Commuting back would cost me a minimum of two and a half hours.
 
-I wanted to retract the message I just sent out, but unfortunately they had already seen it. Distance made it certain I would be late; I had to make up a suitable reason for myself in advance. So, I privately contacted the newcomer [Substitute] who had just joined the team, telling him I had a party with friends last night, had a bad stomach, woke up to find it was already noon today, and was currently at the toilet, even forgot to bring paper, and asked them to wait for me for a bit.
+I literally cannot afford to neglect my day job; it single-handedly dictates whether my physical body will starve to death in reality. However, I equally couldn't afford to ghost the mission; my absence could directly precipitate a catastrophic operational failure and result in the deletion of my squad members. I couldn't stomach shouldering the responsibility of virtual casualties, so I decisively opted for the latter.
 
-"When can you arrive? Give me a definitive answer!" The newcomer had a rather fiery temper.
-
-"Uh, anyway, no paper. How long it takes to 'air-dry', I don't know either; estimate it yourself."
-
-I hope he can deliver the words completely.
-
-Driving at high speed on the road, while waiting for a red light, I took my phone. The Atrium system's information page automatically pushed a message to me, the title unusually eye-catching: "Windrunner Brigade VS Fang of the Beast King." Clicking in for details, it even included a live broadcast screen. After watching for a few seconds, I thought it was quite interesting. Just as I was about to put down my phone and prepare to start, the golden bird "Freya," always following Agnes, sent us a distress message in the form of data, telling us to come quickly as its master was about to give out.
-
-"Sorry, I'm still on the road. If I don't go, the drivers behind will rush up to beat me."
-
-After replying with such a message, I put down my phone, stepped on the gas, and hurried through the fatal intersection just as the signal light turned yellow; the path ahead was clear.
-
-Driving into Zealand and passing through Slagelse, my mother called me, asking if I could visit her tonight and have dinner with her. I said I was very busy; even though I was currently less than two kilometers from the nursing home where she lived, I still couldn't slow down because in another world, there was someone waiting for me to save.
-
-"...Be proud of him. Your son is on his way to be a hero." As I spoke, one hand subconsciously pulled an ID medal from my pocket. I never dreamed it would appears here; no wonder I couldn't find it after searching the whole house for the past few days.
-
-"Wait, Mom!" I suddenly remembered something. "Does your nursing home have EDEN haptic equipment?" "Of course, otherwise how do you think a mother in a wheelchair would experience life every day?"
-
-With those words of hers, I was relieved; just don't find another father for me.
-
-Making a temporary detour, I rushed into the nursing home, inserted the ID medal, logged into the Atrium system, and hoped my appearance wouldn't be too late.
-
-**User ID: NO.05000**
-**Holder: Erich Freyr Hansen**
-**Gender: Male**
-**Age: 43**
-**User Persona: Freyr**
-**Digimon: Imperialdramon: Dragon Mode**
-**Guild: Imperial Dragon's Nest**
-
-**Confirm Login: YES**
-
-"Go, son, and knock them flat!"
-
-"Actually, I'm going to save someone... Okay, no problem. Love you, Mom."
-
-Touching the button on the left, I logged in successfully, then immediately switched to my Digimon form and rushed toward the coordinates given by Freya. Passing through three guild domains on the way, I finally reached the territory of [Nether Club], just in time to catch my old acquaintance Heath being in charge of evacuation work here.
-
-I stepped forward to talk, asking what happened. He told me it was all the handiwork of the other four.
-
-I sensed trouble. Before he finished speaking, I took the lead and interrupted him, then flapped my huge wings on both sides and rushed forward. After flying a short while, from a distance I saw a fellow draped in a blood-red cape, jet-black all over, preparing to strike a Vikingmon. Behind him lay our team's [Defense Position] and [Support Position], both dying, looking like they had just gone through a fierce battle. From this, I deduced that the Vikingmon must be our newcomer; last time I saw him, he was still a Zudomon.
-
-**"——Positron Laser!"**
-
-Until I offered him a greeting gift, did I see clearly that our enemy was Plutomon. His image had a slight discrepancy from what I remembered; specifically, the piece of black chaos behind him looked a bit unmatched and out of place with his overall look, a bit discordant.
-
-Facing my sudden attack, Plutomon unhurriedly pulled over his cape to defend. The energy cannon ports on my back continued to output; no matter how powerful that cape of his was, it wouldn't be able to withstand it. Soon, after I surged forward and used the blade slash "Splendor Blade" of my forelimbs, he vanished into the ruins below.
-
-Next, it was time to face my teammates.
-
-"Sorry, I'm late." I originally wanted to say this to them.
-"If you didn't come, we'd be dead for sure!" I originally thought they would answer like that.
-
-Unexpectedly, none of us followed common sense.
-
-"How come the [Main Attacker Position] isn't here? You all are acting like bears, collectively playing dead?"
-"Freyr!"
-
-They called out my name very affectionately. In that moment, I felt like a hero, admired and envied by them. And then, they asked that stupid-to-the-core question in unison: "Are you... air-dried?"
-
-I didn't quite want to answer them; telling the truth would indeed ruin the atmosphere.
-
-I suddenly remembered a sentence said by Guild Master Adam, who was once my lifesaver: "Before confirming the enemy is completely finished, don't relax your guard." Clearly, I made this mistake and was a step late; the enemy's brutal, evil claws had already approached me, within reach, not allowing me to make any reaction. Fortunately, the newcomer in front of me timely threw out the two heavy battle hammers on his back, thus saving my small life.
-
-"Thanks, newcomer..."
-"Watch out—"
-
-He once again blocked in front of me, catching Plutomon's chaos strike with the thick shield on his shoulder. At this point, I could no longer stand being saved by a newcomer; this kind of embarrassing thing was enough twice, no need for a third time.
-
-"Get out of the way, newcomer!"
-
-I pushed him aside, intending to let that abominable enemy taste the flavor of "Mega Death." Unexpectedly, the opponent was a step ahead. After taking a hit of "Chaos Light" squarely, my whole body went limp on the ground, and I could no longer move; the surrounding environment was gradually swallowed by the piece of black chaos behind him. Now I am the one who needs to be saved.
-
-Let me ask, whose [Main Attacker Position] is so pathetic right upon debut? Only the Nordic Five.
-
-"Any last words, big guy?"
-
-He completely enraged me; he's finished!
-
-"Yes, of course I do." I told him, "They're hidden in my mouth."
-
-As things stood, I wouldn't hide any cards anymore; use them if needed, never stingy. Whether I could breakthrough this black chaos entirely depended on what I had just held in my mouth. Before I switched to my Digimon form, I had taken a treasure from my personal inventory and swallowed it—it was a rare item named "Promotion Seed." Its role, to put it broadly, could turn the current critical situation around; to put it specifically, it could help me save everyone's lives.
-
-"Come on!"
-
-I let out a roar and swallowed it, and my body underwent a very noticeable change.
-
-**Imperialdramon: Dragon Mode, Mode Change —— Imperialdramon: Fighter Mode.**
-
-Switching modes, my body became flexible, and not by just a little bit. Meeting the enemy in this state, even with a ten-minute time limit, the enemy would surely feel pressure and shock.
-
-Facts were just as I thought. After I finished the mode change and confronted the enemy again, a weakened trend in his momentum was clearly perceptible. The spotlight was all mine; I wonder how he feels now, presumably already prepared to pay the price. In that case, I didn't need to be polite with him either—old way, blast him to death.
-
-With round after round of "Giga Death," he gradually became a bit unable to hold on, and could only use that piece of black chaos behind him to block in front for protection. Taking this chance, the remaining three suddenly surged—no, strictly speaking, it was four. The Finnish fellow of the [Vanguard Position] had just arrived. Four people, covered in wounds, let the Plutomon before them experience a gift from the Nordic countries; I guess, aside from a blizzard, there wasn't anything else worth presenting.
-
-The target wasn't Plutomon, but the piece of black chaos that served him in resisting damage. It was like a stray flame, always guarding its master. Unfortunately, in the triple icy blizzard, it couldn't hold out for long and was soon firmly frozen, suffering Olegmon's "Viking Flail" and turning into data powder, dissipating among the clouds.
-
-Losing the protection of the black chaos, Plutomon was in total disarray and tried to escape, but was surrounded by the five of us. You can imagine what happened next. "Aurvandil's Arrow," "Fenrir Sword," "Dual Battle-Axe Rotation," "Mjolnir Hammer"—every skill we could use was used on him. Finally, under the impact of a "Giga Death" released after I gathered energy, Plutomon's mission thoroughly met its conclusion.
-
-The streets were torn up, and the town was in ruins. Looking at the large crater left on the ground, everyone let out a sigh—except for our captain, Miss Agnes. She alone was looking around for Plutomon's remains, for unknown reasons.
-
-I subconsciously advised her: "Don't look. With such a large impact range, there's surely not even a speck left..."
-
-She tentatively believed my words. After confirming that the cleanup work for the scene had begun, she led us back to report.
-
-Five people, dragging their weary bodies, crawled into "A Cup of Bar" and waited for a long time before the client, Jade, finally appeared. Her face didn't look particularly beautiful, probably having encountered unpleasant things on the way.
-
-"You're finally here, our competitors."
-
-She rarely didn't greet me, didn't say a word, sat down at our table, hesitated repeatedly, and told us a piece of news she had just heard from someone else.
-
-In summary, after taking a "Giga Death" from me, Plutomon unexpectedly survived. He pathetically ran to the base of [Nether Club] to beg Guild Master Jack to save him and repair his missing data. Not clear what they communicated; possibly Guild Master Jack was dissatisfied with his actions, or possibly afraid his arrival would involve himself. So, he switched to the form of Voltobautamon and solved him neatly with a "Palace Waltz."
-
-"...Treat it as evil meeting its reward."
-
-Is the fact really so? Perhaps we will never know.
-
-## (Part 3)
-
-**-By Sakura-**
-
-"That makes sense." Owl said, snapping his fingers. "A Gabumon subspecies—except for the horn on the top of its head, there's no part of its body that needs metal to fill. Let's make a hypothesis: if he were just an ordinary newcomer with a decent reputation in the guild, even if the horn on his head broke one day, he wouldn't be in such a hurry to find us and request that we take him to 'Hephaestus Workshop' to find Master Nagasumi. Ask anyone in the guild and they'd know where the place is..."
-
-"Reasonable."
-
-Miss Jade sat up straight and took over Owl's words. Holding the glass in her hand, she expanded her deduction: "If, I'm saying if, that newcomer named Solomon—what if he's Plutomon's man?"
-
-"Then it returns to the starting point," Captain Agnes answered her bluntly. "Nothing has changed."
-
-"So, only if he works for the person who truly benefits can everything make sense."
-
-Xiao Yong didn't quite understand and asked Jade sitting next to him: "How can you tell?"
-
-"Think about it," Miss Jade put forward a new line of thinking for us. "What kind of role is he responsible for playing in this matter? A runner, someone who could enable 'Free Birds' to intervene in the bird-beast struggle and participate in it, and a character who is hostile to the mediation organization. In other words, although he is only a pawn in the hands of the beneficiary, the position he occupies is quite important. With him, this thing can succeed."
-
-For a moment, everyone fell into contemplation, and the atmosphere was inexplicably quiet. Master Adam passed by us with two empty wine glasses. Seeing us all in such a serious state of thinking, he couldn't help but join in, and as soon as he spoke, he shocked us deeply.
-
-"Having heard you say so much, if you ask me, this matter was clearly done by Jack of [Nether Club]."
-
-I hurriedly stopped him and asked: "No, boss, why can you be so certain?"
-
-"That's easy. I've heard him mention it before." He couldn't help but sigh. "You guys just came to the Atrium a few days late and missed all the guild conflicts and personal grudges between Guild Masters. That guy used to be at odds with Wind. Actually, strictly speaking, during that time, except for me, basically none of the other nine Guild Masters could look at each other favorably. They often quarreled over trifles, big and small... Don't mind my harsh words, none of those nine is a simple character, and none is a good person."
-
-Hearing this, a look of embarrassment appeared on Xiao Yong's face: "You're... truly transparent."
-
-"Ultra is the same, paranoid to a certain extent." Master Adam subconsciously supported his forehead, and his expression truly didn't look beautiful: "At the very beginning, he was the first to start having discord with Wind. I remember, in the most serious instance, the two of them directly fought as humans. I didn't expect that a big man like him would actually take a woman seriously. No matter how much I pulled, they wouldn't separate. More importantly, those punches landing on the other's face were truly something; he didn't hold back a speck of strength. The most excessive part is that this kind of conflict erupted not once or twice. One time, it even made its way to my place..."
-
-"Then you..."
-
-"I cleaned them both up and threw them out. If they dared to come to my place again, I'd clean them up every time I saw them."
-
-Xiao Yong raised an eyebrow and casually muttered: "No wonder the Guild Master sent me to act for him—turned out he was afraid of getting beaten."
-
-With the boss's words, we could basically lock onto another suspect of this incident, Jack. About him, we only knew he was "mysterious," and didn't know anything else; not only us, but the regulars in the bar were the same.
-
-"Take my advice," Master Adam rarely showed a serious manner. "Don't go looking for him, and don't mention him in public for no reason. His eyes and ears are all over the Atrium. Once you offend him, you're destined not to be able to handle it, unless you're seeking death."
-
-As the sister of the Master, Miss Jade raised a question on our behalf: "He... is very powerful?"
-
-"More than powerful; more importantly, he's dangerous, no matter in which world." After saying this meaningfully, Master Adam snapped his fingers, signaling the bartender to bring another glass of wine for our table.
-
-"Brother, why didn't I hear you mention him before?"
-
-"At that time, you were all very weak and hadn't grown up. Naturally, you wouldn't provoke dangerous people or come into contact with dangerous things, especially things concerning human lives."
-
-Speaking of this, Master Adam coughed twice and took the initiative to change the subject: "Voltobautamon Jack—with your current strength, you're not yet enough to be his opponent. You should know, Plutomon being instantly killed by him didn't depend all on luck; it depended more on his own terrifying strength."
-
-Master Adam suggested that if we still wanted to know the truth behind the matter, we could try to find X (埃克斯), the top talent of [Nether Club]. He was like another version of himself in [Nether Club], knowing everything.
-
-Agnes had concerns about this: "I've heard people say that guy doesn't have a particularly good temper, and more importantly, his face looks rather scary. Going to find him and probe him might not be that easy."
-
-"Don't be afraid." Master Adam offered another trick for us. "His weakness, in the eyes of us Guild Masters, is practically common knowledge. Recalling back then, Master Muca used to discipline every junior who spoke rudely to him upon first meeting—he always stopped when he had the upper hand. Only X was an exception; he was beaten so miserably that a deep psychological shadow was left on him, which he hasn't been able to forget for many years. So, if during your contact with him, you feel his attitude toward you isn't particularly friendly, you can try using the name 'Old Man Muca' to intimidate him."
-
-"But, Brother, didn't Master Muca pass away long ago?"
-
-"Yeah, but that guy still feels 'Old Man Muca' is living in his heart, ready to lash him at any moment."
-
-After everyone's discussion, we finally reached a consensus: the subsequent part of this matter would continue to be deeply investigated by Captain Agnes, who volunteered, and the [Five Nordic Countries Raiders] she led. Miss Jade originally wanted to join too, but first, she was stopped by her brother Master Adam, and second, she was busy handling the affairs of the [UN Five Permanent Members Raiders]. According to her, among the five of them, she's the only one free now.
-
-"What about the other four?"
-
-"Dragon and Zero have gone who-knows-where, Lana has to accompany their Poseidon, and Ment is busy rushing a report, leaving only your poor sister to do the work of five alone, being bossed around by the head."
-
-Owl chimed in appropriately: "If you feel like you can't handle it alone, you can slightly depend on us."
-
-"You?" Miss Jade showed a bit of disdain toward Owl. "Stop joking. In 'Free Birds', the only ones truly 'free' now are you two. I don't want to be the third wheel. If you have the time, help my brother clear up those people who owe debts every day, and take more care of him for me."
-
-"We're not nannies."
-
-"Just treat it as my request." Jade said, glanced at her brother sitting beside her, and bumped him gently: "The bar will be closed for a week starting next week. Someone's going to have surgery. The doctor and bed have already been arranged for him. Go there and directly state my name. In a while, after I finish the affairs at the [Raiders] side, I'll bring a flower basket to visit him."
-
-The sibling affection between them was truly enviable.
-
-After parting, Owl went to visit the remaining three injured members of "Free Birds." I stayed at the bar, helping the boss clear the empty glasses on the table and handling the aftermath.
-
-## (Part 4)
-
-**-By Sakura-**
-
-"By the way, Master, I had to use the 'Promotion Seed' you gave me earlier. I know this thing is very valuable and rare, so just treat it as if I owe you. In the future, if there's an opportunity, I'll definitely..."
-
-"No need to pay it back."
-
-"Eh?" I'm sure I didn't hear it wrong.
-
-"That one, strictly speaking, isn't mine." Master Adam said: "Back then, just after the 'Promotion Seed' was designed, Master Muca unexpectedly obtained one. He believed the strong don't need this stuff, so he left it with me, saying that in the future, if I also became a strong person like him and didn't need this thing anymore, I should give it away, to someone who truly needs it."
-
-It was treated like some kind of token, passed down to me through the hands of the two masters.
-
-"Master, about the 'Master Muca' you talk about—I've asked Owl many times before, and he never told me. Can you tell me the story about him?"
-
-"Certainly. I see you've almost finished clearing up. Shall we drink and chat?"
-"Sure."
-"Please."
-
----
-
-The final resolution of the Atrium's greatest crisis had come, not through purely superior force, but through a complex web of loyalty, sacrifice, and the enduring legacy of a long-gone master. As the five Nordic countries retreated to their domains and the mediation organization struggled to rebuild its shattered hierarchy, the "Free Birds" stood as a beacon of independence.
-
-Bandai Sakura watched the sunset from the balcony of "A Cup of Bar," a bittersweet smile on her face. The "Promotion Seed" had changed her, but the words of Master Adam had changed her more. She understood now that strength was not just about the data in one's core or the power of one's evolution, but about the weight of the dreams one carried for those who could no longer speak.
-
-The shadow of Jack and the [Nether Club] still loomed large over the horizon, a reminder that peace was but a fleeting comma in the grand narrative of the Digital World. But as long as there were those willing to pursue the "Truth" without losing their "Principle," the future remained a story worth writing.
-
-The curtain falls on Phase 5, but for the Raiders of the Digital World, the next adventure is already taking shape in the heart of the Atrium.
+I desperately wanted to retract the message I had just fired off, but the read-receipts confirmed they had already seen it. Geography undeniably doomed me to be late; I had to meticulously fabricate a suitable, iron-clad alibi in advance. Consequently, I opened a private comms channel with our freshly drafted [Substitute Position] rookie, fabricating a story about getting blackout drunk at a party the night before, nuking my stomach linings, waking up squarely at noon, and currently finding myself trapped in the nightmare scenario of a toilet with zero toilet paper. I forcefully instructed them to hold the line and buy me a delay.
