@@ -47,4 +47,16 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 秩序兽 | Ordinemon | **Ordinemon** | Official. Phase 3 Fusion Boss. |
 | 番长百合兽 | BanchoLilimon | **BanchoLilimon** | Official. Phase 4 Group Leader. |
 | 贝尔菲兽：睡眠形态 | Belphemon: Sleep Mode | **Belphemon: Sleep Mode** | Official. Phase 4 Target. |
+| 猫头鹰兽 | Owlmon | **Owlmon** | Official (Armor Level). Corrected from Halsemon. |
+| 孔雀兽 | Peacockmon | **Peacockmon** | Official (Armor Level). Corrected from Togemogumon. |
+| 贝尔菲兽：愤怒形态 | Belphemon: Rage Mode | **Belphemon: Rage Mode** | Official (Mega Level). Awakened Boss in Ch 7. |
 | 欧米茄兽 | Omnimon | **Omnimon** | Official (Royal Knight). |
+| 刺豚兽 | Pukumon | **Pukumon** | Official. Guard mission target. |
+| 王龙兽 | Ouryumon | **Ouryumon** | Official. Gaiden 2 appearance. |
+| 究极古加兽 | GranKuwagamon | **GranKuwagamon** | Official. Gaiden 2 enemy. |
+| 金角兽 | Kinkakumon | **Kinkakumon** | Official. Pervert Party. |
+| 银角兽 | Ginkakumon | **Ginkakumon** | Official. Pervert Party. |
+| 恶门左卫兽 | WaruMonzaemon | **WaruMonzaemon** | Official. Pervert Party. |
+| 究极 V 龙兽 | UlforceV-dramon | **UlforceV-dramon** | Official. Blue's Mega form. |
+| 公爵兽 | Dukemon | **Dukemon** | Official. Red's Mega form. |
+| 大王猿猴兽 | MetalEtemon | **MetalEtemon** | Official. Pervert Party Leader. |

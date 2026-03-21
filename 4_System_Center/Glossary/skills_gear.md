@@ -33,3 +33,10 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 日中花 | Lampranthus | Lampranthus | **Lampranthus** | Belphemon Sleep Mode's skill. |
 | 绝对领域 | Absolute Territory | Absolute Territory | **Absolute Territory** | BanchoLilimon's spatial cut. |
 | 陨石巨翼 | Meteor Wing | Meteor Wing | **Meteor Wing** | Garudamon's skill. |
+| 混沌降阶 | Chaos Degradation | Chaos Degradation | **Chaos Degradation** | Mastemon signature skill (Ch 8). |
+| 光子破坏球 | Photon Destroyer | Photon Destroyer | **Photon Destroyer** | MetalEtemon's skill. |
+| 究极圣剑 | Ulforce Saber | Ulforce Saber | **Ulforce Saber** | UlforceV-dramon's skill. |
+| 闪光 V 力量 | Shining V-Force | Shining V-Force | **Shining V-Force** | UlforceV-dramon's skill. |
+| 皇家枪击 | Royal Saber | Royal Saber | **Royal Saber** | Dukemon's skill. |
+| 极乐净土 | Final Elysion | Final Elysion | **Final Elysion** | Dukemon's skill. |
+| 黑暗绝望 | Black Despair | Dark Despair | **Dark Despair** | Mastemon's skill. |

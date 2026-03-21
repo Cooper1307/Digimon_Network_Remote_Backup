@@ -7,7 +7,9 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 万代 樱 | Bandai Sakura | Protagonist | Meta-Reference: No official character exists. |
 | 枭 | Owl | Hero | Name remains "Owl." |
 | 隼 | Falcon | Hero | Standardized as "Falcon." |
-| 小蛇 | Snake | Rival | Standardized as "Snake." |
+| 千本木 蛇 | Senbongi Snake | Mentor / Rival | Formerly "Snake." Established as Model/Mentor in Ch 8. Part of "Twin Flowers." |
+| 希斯 | Heath | NPC | Birdramon Commune leader. Red's drinking buddy. |
+| 自由鸟 | Free Birds | Team | Sakura's team (Sakura, Owl, Falcon, etc). |
 | 攻略组 | The Raiders | Organization | Action-oriented title. |
 | 中庭 | Midgard | Location | The Digital World's terminal plaza. |
 | EDEN | EDEN | Technology | Standardized sensory immersion rig. |
@@ -30,4 +32,6 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 长孙老师 | Master Changsun | Character | 95-year-old blacksmith. |
 | 羽 | Plume | Character | AncientIrismon. |
 | 翼 | Wing | Character | Hououmon. |
+| 尼普顿兽 | Neptunemon | Character | Guild Master of Atlantis. Alias: Poseidon. |
+| 古代人鱼兽 | AncientMermaimon | Character | Guardian of the Network Sea. Alias: Lana. |
 | 小勇 | Xiao Yong | Alias | Rasenmon's alias. |

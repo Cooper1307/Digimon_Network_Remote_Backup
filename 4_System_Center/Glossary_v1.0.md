@@ -9,9 +9,10 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | Source (CN) | Proposed English | Type | Audit/Web Verification Notes |
 | :--- | :--- | :--- | :--- |
 | **万代 樱** | **Bandai Sakura** | Protagonist | Meta-Reference: No official character exists. |
-| **枭** | **Owl** | Hero | Name remains "Owl." |
-| **隼** | **Falcon** | Hero | Standardized as "Falcon." |
-| **小蛇** | **Snake** | Rival | Standardized as "Snake." |
+| **千本木 蛇** | **Senbongi Snake** | Mentor / Rival | Formerly "Snake." Established as Model/Mentor in Ch 8. Part of "Twin Flowers." |
+| **希斯** | **Heath** | NPC | Birdramon Commune leader. Red's drinking buddy. |
+| **自由鸟** | **Free Birds** | Team | Sakura's team (Sakura, Owl, Falcon, etc). |
+| **小蛇** | **Snake** | Mentor / Rival | Standardized as "Snake." |
 | **攻略组** | **The Raiders** | Organization | Action-oriented title. |
 | **中庭** | **Midgard** | Location | The Digital World's terminal plaza. |
 | **EDEN** | **EDEN** | Technology | Standardized sensory immersion rig. |
@@ -25,7 +26,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **御龙巢穴** | **Imperial Dragon's Nest** | Guild | Grand, imperial resonance. |
 | **兽皇之牙** | **Beast King's Fangs** | Guild | Primal, martial tone. |
 | **追风旅团** | **Wind-Chasing Brigade** | Guild | Dynamic, agile tone. |
-| **变态公会** | **The Pervert Guild** | Enemy Group | Reflects the "Adult/Gritty" tone. |
+| **变态公会 / 变态派对** | **The Pervert Party** | Enemy Group | Reflects the "Adult/Gritty" tone. Also called "Pervert Guild." |
 | **齐格弗里德** | **Siegfried** | Character | Slayerdramon (German rep). |
 | **蓝慎** | **Lanshen** | Character | MirageGaogamon (Korean rep). |
 | **奥蕾莉 · 勒夫费尔** | **Aurélie Lefebvre** | Character | Jade's true name. |
@@ -52,7 +53,16 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **斩龙兽** | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
 | **莫斯提兽** | Mastemon | **Mastemon** | Official. |
 | **番长百合兽** | BanchoLilimon | **BanchoLilimon** | Official. |
-| **贝尔菲兽：睡眠形态** | Belphemon: Sleep Mode | **Belphemon: Sleep Mode** | Official. |
+| **贝尔菲兽：睡眠形态** | **Belphemon: Sleep Mode** | **Belphemon: Sleep Mode** | Official. |
+| **刺豚兽** | **Pukumon** | **Pukumon** | Official. Bodyguard mission target. |
+| **王龙兽** | **Ouryumon** | **Ouryumon** | Official. Gaiden 2 appearance. |
+| **究极古加兽** | **GranKuwagamon** | **GranKuwagamon** | Official. Gaiden 2 enemy. |
+| **金角兽** | **Kinkakumon** | **Kinkakumon** | Official. |
+| **银角兽** | **Ginkakumon** | **Ginkakumon** | Official. |
+| **恶门左卫兽** | **WaruMonzaemon** | **WaruMonzaemon** | Official. |
+| **圣龙兽** | **UlforceV-dramon** | **UlforceV-dramon** | Official. Blue's Mega form. |
+| **公爵兽** | **Gallantmon / Dukemon** | **Dukemon** | Official. Red's Mega form. |
+| **大王猿猴兽** | **MetalEtemon** | **MetalEtemon** | Official. Pervert Party leader. |
 
 ## 3. Skill & Gear Audit
 
@@ -80,6 +90,12 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **日中花** | Lampranthus | **Lampranthus** | **Lampranthus** | Belphemon Sleep Mode's skill. |
 | **绝对领域** | Absolute Territory | **Absolute Territory** | **Absolute Territory** | BanchoLilimon's spatial cut. |
 | **陨石巨翼** | Meteor Wing | **Meteor Wing** | **Meteor Wing** | Garudamon's skill. |
+| **光子破坏球** | Photon Destroyer | **Photon Destroyer** | **Photon Destroyer** | MetalEtemon's skill. |
+| **究极圣剑** | Ulforce Saber | **Ulforce Saber** | **Ulforce Saber** | UlforceV-dramon's skill. |
+| **闪光 V 力量** | Shining V-Force | **Shining V-Force** | **Shining V-Force** | UlforceV-dramon's skill. |
+| **皇家枪击** | Royal Saber | **Royal Saber** | **Royal Saber** | Dukemon's skill. |
+| **极乐净土** | Final Elysion | **Final Elysion** | **Final Elysion** | Dukemon's skill. |
+| **黑暗绝望** | Black Despair | **Dark Despair** | **Dark Despair** | Mastemon's skill. |
 
 ## 4. Lore & World-Building
 
@@ -87,7 +103,10 @@ This document standardizes the terminology for the **Digimon Network** series, f
 - **Digitization:** Death in this world leads to permanent deletion/data dust. Term used: **Digitization** or **Decompilation**.
 - **Chrome Digizoid (时之数码合金):** Verified as the indestructible metal of the Digital World.
 - **Seed of Promotion (晋升之种):** A key lore item throughout Phase 5, enabling "Burst" or "GX" evolutions.
-- **Alpha Inforcer (阿尔法之眼):** Extremely rare data artifact won from the Guild Master. |
+- **Alpha Inforcer (阿尔法之眼):** Extremely rare data artifact won from the Guild Master.
+- **Twin Flowers (双子花):** The legendary elite duo of Sylvan Garden (Iwami & Snake).
+- **Guild Quadrille (公会四角):** The four most famous elite duos in the Midgard system.
+- **Birdramon Commune (巴多拉公社):** Aerial transport/patrol guild led by Heath. |
 
 ## 5. Idioms & Meta-Localizations
 
@@ -144,3 +163,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **古代彩虹兽** | AncientIrismon | **AncientIrismon** | Official. |
 | **凤凰兽** | Hououmon | **Hououmon** | Official. |
 | **番长狮子兽** | BanchoLeomon | **BanchoLeomon** | Official. Guild Master Ultra. |
+| **猫头鹰兽** | Owlmon | **Owlmon** | Official (Armor Level). Corrected from Halsemon. |
+| **孔雀兽** | Peacockmon | **Peacockmon** | Official (Armor Level). Corrected from Togemogumon. |
+| **贝尔菲兽：愤怒形态** | Belphemon: Rage Mode | **Belphemon: Rage Mode** | Official (Mega Level). Ch 7. |
+| **混沌降阶** | Chaos Degradation | **Chaos Degradation** | Mastemon signature skill. Ch 8. |

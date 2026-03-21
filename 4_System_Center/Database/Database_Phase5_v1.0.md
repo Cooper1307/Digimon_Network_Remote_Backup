@@ -29,8 +29,9 @@
 ### The Water World (水世界)
 
 - **Neptunemon (Poseidon/尼普顿兽)**: [NEW] King of the Deep Sea Temple (深海神殿). Guild Master of Atlantis.
-- **AncientMermaimon (Lana/古代人鱼兽)**: [NEW] Wife of Neptunemon. Aggressive temperament, future Queen of a "Digital Kingdom."
-- **Pufferfishmon (刺豚兽)**: [NEW] A network hacker seeking redemption and his lost love.
+- **AncientMermaimon (Lana/古代人鱼兽)**: [NEW] Wife of Neptunemon. Aggressive temperament, future Queen of a "Digital Kingdom." Refined personality: snarky and defensive.
+- **MetalSeadramon (Amphibious Brothers/三栖兄弟)**: [NEW] High-speed underwater patrol units. Triplets using pincer tactics.
+- **Pufferfishmon (刺豚兽)**: [NEW] A network hacker seeking redemption and his lost love. Skillful with "British Punch."
 - **Marin Angemon (海天使兽)**: [NEW] The romantic interest of Pufferfishmon.
 
 ### Nordic 5 (北欧五国攻略组)
@@ -75,7 +76,6 @@
 
 ## 3. Technology & Terms
 
-- **Ocean Whirlpools (巨大漩涡)**: Created by AncientMermaimon as a defense mechanism.
-- **Dragon Beast Buster (龙兽破碎者/Dramon Breaker)**: The massive sword wielded by VictoryGreymon.
-- **Trident Gaia (三叉戟盖亚)**: Ultimate tactical strike for VictoryGreymon.
+- **Golden Trident (黄金三叉戟)**: Wielded by Lana/AncientMermaimon. Capable of manipulating massive whirlpools.
+- **Chrome Digizoid (时之数码合金)**: Indestructible meta-material covering MetalSeadramon and Pufferfishmon's spikes.
 - **AIE v3.0 Protocol**: Sustained for all Phase 5 content.
