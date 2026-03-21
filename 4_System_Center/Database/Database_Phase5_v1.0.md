@@ -14,15 +14,16 @@
 
 ### The Atrium Leaders & Olympos XII (奥林匹斯十二神族)
 
-- **Jupitermon (鷲/朱庇特兽)**: [NEW] Leader of the Mediation Organization. Former comrade of Owl (梟). Represents "Principles."
-- **Junomon (朱诺兽)**: [NEW] Wife of Jupitermon. Represents the emotional catalyst for the "Hysteric Mode" tragedy.
-- **Mervamon (梅尔瓦兽)**: [NEW] Evolved from Minervamon. Mature, powerful, and attractive.
-- **Vulcanusmon (Master Changsun/武尔坎努斯兽)**: [NEW] 95-year-old master blacksmith. Strict yet benevolent.
-- **Ceresmon (刻瑞斯兽)**: [NEW] Member of Olympos XII.
-- **Bacchusmon (巴克科斯兽)**: [NEW] Member of Olympos XII.
-- **Apollomon (阿波罗兽) & Dianamon (狄安娜兽)**: [NEW] Members of Olympos XII.
-- **Merukimon (墨丘利兽)**: [NEW] Member of Olympos XII.
-- **Marsmon (玛尔斯兽)**: [NEW] Member of Olympos XII.
+- **Jupitermon (鷲/朱庇特兽)**: Leader of the Mediation Organization. Former comrade of Owl. Represents "Principles."
+- **Aegiochusmon (埃癸奥都斯兽)**: [NEW] Jupitermon's prior Ultimate form.
+- **Junomon (朱诺兽)**: Wife of Jupitermon. Represents the emotional catalyst for the tragedy. Evolved into Junomon: Hysteric Mode (朱诺兽：癔病形态) via Plutomon's virus.
+- **Mervamon (梅尔瓦兽)**: Evolved from Minervamon. Mature, powerful, and attractive.
+- **Vulcanusmon (Master Changsun/武尔坎努斯兽)**: 95-year-old master blacksmith. Strict yet benevolent.
+- **Ceresmon Medium (刻瑞斯兽 灵媒)**: [NEW] Core of Ceresmon. Wields "Hunger" to drain data.
+- **Bacchusmon (巴克科斯兽)**: Member of Olympos XII.
+- **Apollomon (阿波罗兽) & Dianamon (狄安娜兽)**: Members of Olympos XII. Can fuse into GraceNovamon (优雅新星兽).
+- **Merukimon (墨丘利兽)**: Member of Olympos XII.
+- **Marsmon (玛尔斯兽)**: Member of Olympos XII.
 - **Xiao Yong (小勇/螺旋兽)**: [NEW] Rasenmon. Lieutenant and powerhouse of the Beast King's Fangs.
 - **Rainbow Starlight (彩虹星光)**: [NEW] The elite duo of **Plume** (羽/AncientIrismon) and **Wing** (翼/Hououmon) from the Wind-Chasing Brigade.
 
@@ -36,15 +37,16 @@
 
 ### Nordic 5 (北欧五国攻略组)
 
-- **Valkyrimon (Agnes/瓦尔基里兽)**: [NEW] Leader of the Nordic team. Strategic and swift.
-- **Sleipmon (Finn/斯雷普兽)**: [NEW] Vanguard. Armed with the holy crossbow "Muspell."
-- **Olegmon (Oleg/奥列格兽)**: [NEW] Defense. Unmatched physical strength.
-- **Vikemon (Viking/维京兽)**: [NEW] Substitute. Stoic and heavy-hitting.
-- **Imperialdramon: Fighter Mode (Freyr/帝皇龙甲兽：战士形态)**: [NEW] Main Attacker. High-firepower unit.
+- **Valkyrimon (Agnes/瓦尔基里兽)**: Leader of the Nordic team. Strategic and swift. Has a golden bird companion named **Freya** (芙蕾雅).
+- **Sleipmon (Finn/斯雷普兽)**: Vanguard. Armed with the holy crossbow "Muspelheim" (穆斯贝尔海姆) and holy shield "Niflheim" (尼福尔海姆).
+- **Olegmon (Oleg/奥列格兽)**: Defense. Unmatched physical strength and heavy armor.
+- **Vikemon (维京兽)**: Substitute. Stoic and heavy-hitting. Has a habit of eating chocolate under pressure.
+- **Imperialdramon: Fighter Mode (Freyr/弗雷尔/帝皇龙甲兽：战士形态)**: Main Attacker. Missing from combat due to a catastrophic lack of toilet paper.
 
 ### Underworld Club (幽冥俱乐部)
 
-- **VoltoBautamon (Jack/幽灵面具兽)**: [NEW] Mysterious and dangerous leader. Executed Plutomon with "Courtly Waltz."
+- **Plutomon (Jack/普路托兽)**: [NEW] The true mastermind behind the bird-beast conflict. Evolved directly from Cerberumon (沙路比兽). Possesses the invincible "Black Chaos" anomaly.
+- **VoltoBautamon (幽灵面具兽)**: Mysterious and dangerous leader. Executed Plutomon with "Courtly Waltz."
 - **Plutomon (普路托兽)**: [NEW] The antagonist of the "Triangular Conflict." Driven by obsession and jealousy.
 - **X (エックス)**: [NEW] The top talent of Nether Club. Known for his scary demeanor but has a psychological shadow involving Master Muca.
 
@@ -69,9 +71,10 @@
 
 ### Concepts
 
+- **Black Chaos (黑色混沌)**: [NEW] A god-tier anomaly discovered by Plutomon in the outer Digital World. Provides absolute nullification of attribute damage and infinite data absorption.
 - **Seed of Promotion (晋升之种)**: Rare item allowing temporary evolution beyond standard limits. Heavily involved in the final battles.
 - **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca" (幕疤/Ba-ye).
-- **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Owl" and "Vulture." Known for his strict discipline.
+- **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Kikurin". Known for his strict discipline.
 - **Mediation Organization (调停组织)**: The original law-enforcement body of the Atrium.
 
 ## 3. Technology & Terms

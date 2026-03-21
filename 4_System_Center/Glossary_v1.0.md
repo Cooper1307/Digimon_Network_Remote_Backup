@@ -63,8 +63,17 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **恶门左卫兽** | **WaruMonzaemon** | **WaruMonzaemon** | Official. |
 | **圣龙兽** | **UlforceV-dramon** | **UlforceV-dramon** | Official. Blue's Mega form. |
 | **公爵兽** | **Gallantmon / Dukemon** | **Dukemon** | Official. Red's Mega form. |
-| **大王猿猴兽** | **MetalEtemon** | **MetalEtemon** | Official. Pervert Party leader. |
+| **大王猿猴兽** | MetalEtemon | **MetalEtemon** | Official. Pervert Party leader. |
 | **梅尔瓦兽** | Mervamon | **Mervamon** | Official. Olympos XII. Evolved from Minervamon. |
+| **刻瑞斯兽 灵媒** | Ceresmon Medium | **Ceresmon Medium** | Official. Ceresmon's main body. |
+| **朱诺兽：癔病形态** | Junomon: Hysteric Mode | **Junomon: Hysteric Mode** | Official. Dark evolution. |
+| **优雅新星兽** | GraceNovamon | **GraceNovamon** | Official. Fusion of Apollomon and Dianamon. |
+| **埃癸奥都斯兽** | Aegiochusmon | **Aegiochusmon** | Official. Jupitermon's Ultimate form. |
+| **沙路比兽** | Cerberumon | **Cerberumon** | Official. Plutomon's prior form. |
+| **瓦尔基里兽** | Valkyrimon | **Valkyrimon** | Official. Agnes' form. |
+| **斯雷普兽** | Sleipmon | **Sleipmon** | Official. Finn's form. |
+| **奥列格兽** | Olegmon | **Olegmon** | Official. Nordic Defense Position. |
+| **维京兽** | Vikemon | **Vikemon** | Official. Nordic Substitute Position. |
 
 ## 3. Skill & Gear Audit
 
@@ -187,6 +196,19 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **强袭旋斩** | Strike Roll | **Strike Roll** | Minervamon's attack. |
 | **疯狂旋转木马** | Madness Merry-go-round | **Madness Merry-go-round** | Minervamon's attack. |
 | **巨人导弹** | Giant Missile | **Giant Missile** | MegaGargomon's attack (Dove). |
+| **野性丛集** | Haggard Cluster | **Haggard Cluster** | Plutomon's attack. |
+| **地狱之门** | Hell's Gate | **Hell's Gate** | Plutomon's attack. |
+| **混沌之光** | Light of Chaos | **Light of Chaos** | Plutomon's execution move. |
+| **饥饿** | Hunger | **Hunger** | Ceresmon Medium's attack. |
+| **宇宙射线** | Cosmic Ray | **Cosmic Ray** | Ornismon's attack. |
+| **星光爆破** | Starlight Explosion | **Starlight Explosion** | Hououmon's attack. |
+| **神圣渴望** | Holy Desire | **Holy Desire** | Mastemon's attack. |
+| **芬里尔剑** | Fenrir Sword | **Fenrir Sword** | Valkyrimon's weapon. |
+| **奥尔万迪尔之矢** | Arrow of Aurvandil | **Arrow of Aurvandil** | Valkyrimon's attack. |
+| **穆斯贝尔海姆** | Muspelheim | **Muspelheim** | Sleipmon's holy crossbow. |
+| **虹桥烈矢** | Bifröst | **Bifröst** | Sleipmon's attack. |
+| **尼福尔海姆** | Niflheim | **Niflheim** | Sleipmon's holy shield. |
+| **奥丁的气息** | Odin's Breath | **Odin's Breath** | Sleipmon's ultimate. |
 
 #### Ch12 Lore & Organizations
 
@@ -194,3 +216,4 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | :--- | :--- | :--- | :--- |
 | **调停组织** | **Mediation Organization** | Organization | The original law-enforcement body of Midgard. |
 | **数据清除流** | **Data Deletion Style** | Lore | The swordsmanship lineage shared by Owl and Jupitermon. |
+| **黑色混沌** | **Black Chaos** | Lore | A god-tier anomaly discovered by Plutomon in the outer Digital World. |

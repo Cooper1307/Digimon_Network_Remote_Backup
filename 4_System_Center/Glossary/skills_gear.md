@@ -51,3 +51,16 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 强袭旋斩 | Strike Roll | Strike Roll | **Strike Roll** | Minervamon's attack. |
 | 疯狂旋转木马 | Madness Merry-go-round | Madness Merry-go-round | **Madness Merry-go-round** | Minervamon's attack. |
 | 巨人导弹 | Giant Missile | Giant Missile | **Giant Missile** | MegaGargomon's attack. |
+| 野性丛集 | Haggard Cluster | Haggard Cluster | **Haggard Cluster** | Plutomon's attack. |
+| 地狱之门 | Hell's Gate | Hell's Gate | **Hell's Gate** | Plutomon's attack. |
+| 混沌之光 | Light of Chaos | Light of Chaos | **Light of Chaos** | Plutomon's execution move. |
+| 饥饿 | Hunger | Hunger | **Hunger** | Ceresmon Medium's attack. |
+| 宇宙射线 | Cosmic Ray | Cosmic Ray | **Cosmic Ray** | Ornismon's attack. |
+| 星光爆破 | Starlight Explosion | Starlight Explosion | **Starlight Explosion** | Hououmon's attack. |
+| 神圣渴望 | Holy Desire | Holy Desire | **Holy Desire** | Mastemon's attack. |
+| 芬里尔剑 | Fenrir Sword | Fenrir Sword | **Fenrir Sword** | Valkyrimon's weapon. |
+| 奥尔万迪尔之矢 | Arrow of Aurvandil | Arrow of Aurvandil | **Arrow of Aurvandil** | Valkyrimon's attack. |
+| 穆斯贝尔海姆 | Muspelheim | Muspelheim | **Muspelheim** | Sleipmon's holy crossbow. |
+| 虹桥烈矢 | Bifröst | Bifröst | **Bifröst** | Sleipmon's attack. |
+| 尼福尔海姆 | Niflheim | Niflheim | **Niflheim** | Sleipmon's holy shield. |
+| 奥丁的气息 | Odin's Breath | Odin's Breath | **Odin's Breath** | Sleipmon's ultimate. |
