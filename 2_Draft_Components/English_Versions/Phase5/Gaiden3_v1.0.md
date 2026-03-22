@@ -1,4 +1,4 @@
-# Side Story 3: Deep Danger Situation (Parts 1-4) (外传三 深险之局)
+# Side Story 3: Deep Danger Situation (Parts 1-4)
 
 ## (Part 1)
 
@@ -10,7 +10,7 @@ The United States federal government bestowed this title upon me. They raised me
 
 Perhaps as a reward, or perhaps to discard me and make way for the younger generation, after I completed my stage-based education, they arranged for me to live in an apartment near the Pentagon and let me work with the Department of Defense.
 
-From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the [Raiders] (攻略组). At the same time, it was also he who forbade me from befriending anyone within the group, telling me to always be wary and keep my distance. He even had the nation's cutting-edge technology used to modify Jesmon, allowing me to use my swords to cut through space and create distortions at any time, entering a private space known as the "Zero Domain" (零域) to report to him.
+From that day on, I followed my new superior—Zachary Lopez, a man with a distinct aura of mystery. After resigning from the CIA, he was transferred to the Department of Defense to continue his old trade. It was he who received high-level orders and arranged for an elite network spy like me to represent the United States in the **Raiders**. At the same time, it was also he who forbade me from befriending anyone within the group, telling me to always be wary and keep my distance. He even had the nation's cutting-edge technology used to modify Jesmon, allowing me to use my swords to cut through space and create distortions at any time, entering a private space known as the **Zero Domain** to report to him.
 
 "The Chinese representative's pet (Xiao Wang)—you are watching over (monitoring) it, correct?"
 
@@ -18,7 +18,7 @@ From that day on, I followed my new superior—Zachary Lopez, a man with a disti
 
 During this past period, to prevent me from privately contacting her pet and harming or disadvantaging her, Dragon had specially created a security measure—moving her pet to a new residence, a natural volcanic lake. The place was remote and unvisited, indeed suitable for concealment. However, her pet didn't like it much there, feeling the water was too hot and uncomfortable, and the terrain was high. Every time she couldn't see Dragon going out on missions with us, her overwhelming longing drove her to sneak back to her original residence behind Dragon's back.
 
-"If I remember correctly, that lake is a dead-water pool without a single fish left. Recently, her master has been busy [Raiding] in the depths. Don't tell me... you've been feeding her?"
+"If I remember correctly, that lake is a dead-water pool without a single fish left. Recently, her master has been busy **Raiding** in the depths. Don't tell me... you've been feeding her?"
 
 In response to his speculation, I simply smiled slightly. "I have no such obligation, sir."
 
@@ -30,7 +30,7 @@ Later, I also explained to him that there had never been fish in the lake. She w
 
 "Continue."
 
-The result was quite unexpected; that fellow was remarkably lucky. For some unknown reason, the "Demon Lord of Lust," Lilithmon, appeared on the lake surface without any warning. She was waiting at the bottom of the lake, saw movement on the surface, thought it was food, and without thinking, opened her maw and lunged up, snatching it. Without even having time to chew, she swallowed it whole. It was fortunate she was a Vaccine-type; had she been a Data-type, those data bits would surely have been infected the moment they went down.
+The result was quite unexpected; that fellow was remarkably lucky. For some unknown reason, the **Demon Lord of Lust**, Lilithmon, appeared on the lake surface without any warning. She was waiting at the bottom of the lake, saw movement on the surface, thought it was food, and without thinking, opened her maw and lunged up, snatching it. Without even having time to chew, she swallowed it whole. It was fortunate she was a Vaccine-type; had she been a Data-type, those data bits would surely have been infected the moment they went down.
 
 "So, she ate a Demon Lord and obtained a portion of her data..."
 
@@ -38,13 +38,13 @@ Actually, it wasn't just a portion; strictly speaking, it was all of it.
 
 I didn't tell him this directly—not because I was afraid of him getting angry, but because I feared he wouldn't be able to handle it and would reach a level of rage that would cause him to drop dead in the network world, leaving not even a corpse behind.
 
-To keep him alive, I could only try to steer the conversation elsewhere, telling him about the situation of the "Leviamon Subjugation War" [Raid]. First was Yu of the [Vanguard Position]; BanchoStingmon couldn't utilize a vanguard's full potential in the water at all and was badly beaten by the "Demon Lord of Envy," losing half his wings. If not for Lana of the [Support Position] coming to his rescue, he might not have made it back alive. Then there was Mante of the [Defense Position]; the mechanical GrandLocomon had difficulty functioning in the deep sea and could only stay in place and take hits, thus finding it hard to escape the fate of being scrapped. Fortunately, his armor was thick enough that the Digicore wasn't damaged, so he didn't perish under Leviamon's massive jaws.
+To keep him alive, I could only try to steer the conversation elsewhere, telling him about the situation of the "Leviamon Subjugation War" **Raid**. First was Yu of the **Vanguard** position; BanchoStingmon couldn't utilize a vanguard's full potential in the water at all and was badly beaten by the **Demon Lord of Envy**, losing half his wings. If not for Lana of the **Support** position coming to his rescue, he might not have made it back alive. Then there was Mante of the **Defense** position; the mechanical GrandLocomon had difficulty functioning in the deep sea and could only stay in place and take hits, thus finding it hard to escape the fate of being scrapped. Fortunately, his armor was thick enough that the Digicore wasn't damaged, so he didn't perish under Leviamon's massive jaws.
 
-"Stop with the useless talk," Zachary said, his patience always thin. "Tell me about your performance as the [Main Attacker Position], or let's talk about our old friend, that [Substitute Position] who steals the show every time..."
+"Stop with the useless talk," Zachary said, his patience always thin. "Tell me about your performance as the **Main Attacker** position, or let's talk about our old friend, that **Substitute** position who steals the show every time..."
 
-In summary, the [Substitute Position] was still formidable, and the [Main Attacker Position] was still reliable. The former could react in time when the [Vanguard], [Support], and [Defense] were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the "Sword Spirits" (剑灵), then dealing the finishing blow with "Aus Generieren" (辙剑审判).
+In summary, the **Substitute** position was still formidable, and the **Main Attacker** position was still reliable. The former could react in time when the **Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the **Sword Spirits**, then dealing the finishing blow with **Aus Generieren**.
 
-"So, for once in the United Nations Security Council [Raiders], the one in the spotlight wasn't that [Substitute Position], but you, the [Main Attacker]?"
+"So, for once in the United Nations Security Council **Raiders**, the one in the spotlight wasn't that **Substitute** position, but you, the **Main Attacker**?"
 
 Though it sounded harsh, it was the truth.
 
@@ -52,7 +52,7 @@ Though it sounded harsh, it was the truth.
 
 "Yes, indeed quite rare."
 
-As he spoke, he calmed down, paused for two or three seconds, and then told me: "To tell you the truth, calling you to this 'Zero Domain' wasn't just for you to report on your work. It was mainly to see if you could come over, if you were alive, and if you could log out and return to the real world, come to my office, and see the Minister with me. He has business with you."
+As he spoke, he calmed down, paused for two or three seconds, and then told me: "To tell you the truth, calling you to this **Zero Domain** wasn't just for you to report on your work. It was mainly to see if you could come over, if you were alive, and if you could log out and return to the real world, come to my office, and see the Minister with me. He has business with you."
 
 Evidently, I happened to be free.
 
@@ -66,21 +66,21 @@ That was what I really wanted to say. Unfortunately, before I opened my mouth, I
 
 Indeed, I have a master too.
 
-I am also human, with my own passions and what one would call feelings. My time isn't entirely occupied by the [Raiders] and the United States of America; I also have private time for learning and enlightenment.
+I am also human, with my own passions and what one would call feelings. My time isn't entirely occupied by the **Raiders** and the United States of America; I also have private time for learning and enlightenment.
 
 My master is Gankoomon, a fate that was sealed from the moment I initially chose the body of Huckmon.
 
-He came to find me first. At our first meeting, like an old father who had been away for many years, he stood with a stern face and congratulated me on choosing his clumsy disciple's body. I told him then that I wasn't his disciple, but merely a pawn of the US federal government doing their bidding, needing to borrow his disciple's body for a while, and hoped he would be broad-minded and give me this chance. He said it didn't matter; he only recognized the body of Huckmon anyway. As for who was controlling it inside, he didn't care, didn't want to care, and was even less willing to care. His attitude toward this was quite "Obstinate" (顽固), making it impossible to refuse.
+He came to find me first. At our first meeting, like an old father who had been away for many years, he stood with a stern face and congratulated me on choosing his clumsy disciple's body. I told him then that I wasn't his disciple, but merely a pawn of the US federal government doing their bidding, needing to borrow his disciple's body for a while, and hoped he would be broad-minded and give me this chance. He said it didn't matter; he only recognized the body of Huckmon anyway. As for who was controlling it inside, he didn't care, didn't want to care, and was even less willing to care. His attitude toward this was quite **Obstinate**, making it impossible to refuse.
 
-His training was extremely strict, reaching a level of harshness—otherwise, it wouldn't have been possible for me to evolve from a Rookie so quickly and rise all the way to a Mega. For example, he was always followed by a pair of Sistermon sisters, both wearing nun's caps—Sistermon Noir and Sistermon Blanc. They looked like two cute mascots, but both were fierce. They would use me as a target for practice. I could block, dodge, or counter-attack, but everything had to be "stop-at-contact"; I couldn't let my sword tip touch them even an inch, because if it did, they would surely die.
+His training was extremely strict, reaching a level of harshness—otherwise, it wouldn't have been possible for me to evolve from a Rookie so quickly and rise all the way to a Mega. For example, he was always followed by a pair of Sistermon sisters, both wearing nun's caps—Sistermon Noir and Sistermon Blanc. They looked like two cute mascots, but both were fierce. They would use me as a target for practice. I could block, dodge, or counter-attack, but I always had to pull my punches; I couldn't let my sword tip touch them even an inch, because if it did, they would surely die.
 
-With Gankoomon watching, those two sisters were safe. There were several times when it seemed my sword would strike them and I couldn't pull back. Master Gankoomon would appear beneath my sword in an instant, blocking the fatal blow for them, and then he would surely settle the score with me. In the unluckiest cases, I would take a hit from his "Iron Fist Punishment" (铁拳制裁). He called this "Defense Training" for me, intended to hone my resilience. It left me in a pathetic state every time, but fortunately, I persevered tenaciously and didn't get beaten to death.
+With Gankoomon watching, those two sisters were safe. There were several times when it seemed my sword would strike them and I couldn't pull back. Master Gankoomon would appear beneath my sword in an instant, blocking the fatal blow for them, and then he would surely settle the score with me. In the unluckiest cases, I would take a hit from his **Iron Fist Punishment**. He called this **Defense Training** for me, intended to hone my resilience. It left me in a pathetic state every time, but fortunately, I persevered tenaciously and didn't get beaten to death.
 
 Occasionally, he would go out with me to complete free-exploration missions sent by higher-ups. We treated these as combat trials and developed a very strong rapport—a master-disciple duo, invincible.
 
-He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and LordKnightmon. I could have guessed the first and third—they were Dragon, the Chinese [Raiders] representative, and Owl (He), the leader of the [Holy Knight Regiment] (神圣骑士团). Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
+He rarely acknowledged the strong, because in his eyes, there were probably only a few in the entire Digital World who could be called "Strong." Some were human, some were Digimon. Those who earned his recognition naturally became people I couldn't easily provoke. According to the order he gave... there were actually only three: DoruGoramon, HerculesKabuterimon, and Dynasmon. I could have guessed the first and third—they were Dragon, the Chinese **Raiders** representative, and the Guild Master of the **Order of Holy Knights**. Both were indeed very strong, without question. But that the second would be a bar owner was truly unexpected.
 
-According to Master, the owner, Adam, was the one person who shouldn't be underestimated. His strength was extraordinarily great; he could effortlessly catch the "Iron Fist Punishment" thrown by Master. In contrast, even for me, I had never caught that move even once, getting sent flying by the same technique every time. This made me feel a loss of face and even a bit discouraged.
+According to Master, the owner, Adam, was the one person who shouldn't be underestimated. His strength was extraordinarily great; he could effortlessly catch the **Iron Fist Punishment** thrown by Master. In contrast, even for me, I had never caught that move even once, getting sent flying by the same technique every time. This made me feel a loss of face and even a bit discouraged.
 
 "Don't lose heart!" he rarely encouraged me. "He is an outlier. A standard species of HerculesKabuterimon would be completely incapable of doing what he does—at least not catching my iron fist so casually..."
 
@@ -88,7 +88,7 @@ Every time I met Adam, it was at the bar, so I never had the chance to see his D
 
 "The result?"
 
-"One was stomped to death, one had its body crushed, and the other was blasted by his 'Giga Blaster' until not a trace remained. I was watching from the side, and the impact was extraordinarily strong—the scene was quite a shock."
+"One was stomped to death, one had its body crushed, and the other was blasted by his **Giga Blaster** until not a trace remained. I was watching from the side, and the impact was extraordinarily strong—the scene was quite a shock."
 
 "If it were you in the same battle..."
 
@@ -132,7 +132,7 @@ The federal government didn't know I had such a master, or rather, in their eyes
 
 "Where did he die?"
 
-"An old server," the Secretary of Defense said first. The detailed address was left to Zachary: "You log in from the Atrium, follow the Network Sea, head straight ahead, pass through a Data Forest and a Data Desert, reach the edge of the desert, find a Scumon, and tell it you are going to the 'Ruins' (废墟). It will guide you there. After entering, head directly to the lower space, 'Coulomb.' Find a way to locate his residual data and bring it back."
+"An old server," the Secretary of Defense said first. The detailed address was left to Zachary: "You log in from the Atrium, follow the Network Sea, head straight ahead, pass through a Data Forest and a Data Desert, reach the edge of the desert, find a Scumon, and tell it you are going to the **Ruins**. It will guide you there. After entering, head directly to the lower space, **Coulomb**. Find a way to locate his residual data and bring it back."
 
 This mission sounded easy.
 
@@ -175,10 +175,10 @@ The login point was established in a bar in Clarendon named "A Bar." Find the ba
 *I hope so.*
 
 **User ID: NO.00003**
-**Holder: Zero (零)**
+**Holder: Zero**
 **Gender: Male**
 **Age: 30**
-**User Persona: Zero (零)**
+**User Persona: Zero**
 **Digimon: Jesmon**
 **Guild: None**
 
@@ -208,7 +208,7 @@ Her words left me speechless, making me quite embarrassed. Although I was reluct
 
 She was truly self-righteous.
 
-Wandering alone in the data labyrinth, no living thing could escape my keen eyes. When I say living things, I don't mean living things in the true sense, but a group of Ebemon (机械脑魔). It was just one or two at first. I used my five Digimental Inscription Swords to execute them quickly. Later, the deeper I went, the more I discovered. When hundreds of Ebemon swarmed toward me, I realized I had fallen into their ambush.
+Wandering alone in the data labyrinth, no living thing could escape my keen eyes. When I say living things, I don't mean living things in the true sense, but a group of Ebemon. It was just one or two at first. I used my five Digimental Inscription Swords to execute them quickly. Later, the deeper I went, the more I discovered. When hundreds of Ebemon swarmed toward me, I realized I had fallen into their ambush.
 
 The hunter had become the hunted, and the scene suddenly became lively. Weaving through beams of light and rays, I turned on my communication device to call Judy, but under the influence of those fellows, I couldn't establish contact with her. If she were in the same situation as me, she might already be in dire straits.
 
@@ -218,15 +218,15 @@ After feeling sorry for her for two seconds, I began to handle these mechanical 
 
 Zachary had once mentioned in front of me the Digimon experiments conducted in Area 51, saying the US federal government had captured a group of Vademon from the Digital World for research. Later, the entire facility's system was infected by an unknown virus. They couldn't stop the virus from spreading and didn't want it invading the mainstream network, so they had to cut their losses and seal them away. Who would have thought those viruses would invade the then-popular EDEN electronic space in a way humans couldn't imagine, causing the entire Coulomb region to fall. It wouldn't be an exaggeration to say humans brought it on themselves.
 
-These Ebemon were quite dangerous—at least, so the data said. Their left hands would release "Brain Rupture" (脑裂), launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, "Planet Destroyer" (行星毁灭者), would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
+These Ebemon were quite dangerous—at least, so the data said. Their left hands would release **Brain Rupture**, launching a cracking program from the left muzzle toward the opponent's brain to suck out brain data and perform internal analysis, formulating collective combat strategies or even predicting the opponent's next move. Their right hands, **Planet Destroyer**, would release massive energy—supposedly enough to destroy a planet instantly, though I doubted if that was true.
 
 I estimated that Master Gankoomon had been besieged by them, outnumbered and unfamiliar with their combat style, leading to his failure and demise. Now it was my turn; I couldn't make the same mistake he did. I had to annihilate them in one go before they gathered more companions.
 
 "Master, watch carefully!"
 
-With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within—"All For One" (我为人人).
+With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within—**All For One**.
 
-Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash "All For One" and clear out this rabble.
+Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash **All For One** and clear out this rabble.
 
 But I didn't expect an outsider to intervene and interrupt my charging. That outsider was none other than LordKnightmon Judy, who had come here with me. She actually stood on the side of the Ebemon, silently appearing behind me and joining them and the seemingly endless army of Knightmon under her command to launch a dead-end siege against me. The combination of long-range and close-range combat was very comprehensive. I could handle ten or twenty, but if hundreds or thousands came, I would truly find it hard to cope. Experiencing dual pressure from both physical and psychological levels simultaneously, I was momentarily unable to attend to everything. At this rate, I would sooner or later be forced into a corner.
 
@@ -274,17 +274,17 @@ The Secretary of Defense said with a dark face: "You're late, Judy."
 
 I had to admit, Zachary was always shrewd and considered problems comprehensively; he was a natural "Strategist." It wouldn't be easy to escape from under his nose, even if the current me wasn't the me of before—dealing with the three of them plus a group of Knightmon would be a hard battle.
 
-While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one "Sword Spirits" merged with Master's "Hinokamuy" (火神威), forming a brand-new spiritual armament attached to my back.
+While fleeing in Coulomb, I unexpectedly obtained my master's Digicore. It was like a spirit wandering in space, looking for its master—me. It proactively approached the wounded me, entered my body, and merged with me. Subsequently, my body underwent a very noticeable change: the red and white across my entire body were swapped, and the three-in-one **Sword Spirits** merged with Master's **Hinokamuy**, forming a brand-new spiritual armament attached to my back.
 
 **Jesmon, Evolve! —— Jesmon GX!**
 
 Master's voice echoed in my ears, and I suddenly felt filled with power. Using this momentum, I immediately retaliated against these people who dared think they could take my life.
 
-I utilized my main weapon, the "Endless Gauntlet" (无尽手套), switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing "God Breath" (神之庇佑), using the magic shield "Avalon" to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing "Aussterben" (毁天灭地) and "Urgent Fear" (急迫恐惧) respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
+I utilized my main weapon, the **Endless Gauntlet**, switching it into forms like sword, fist, and shield to target the three of them. The Secretary of Defense, Craniummon, was old and experienced, immediately unleashing **God Breath**, using the magic shield **Avalon** to make my attacks ineffective for a short period. Seizing this chance, Zachary and Judy attacked from front and back, unleashing **Aussterben** and **Urgent Fear** respectively. The intense beams of light and the close-range shockwaves left me with only a choice between two sides for protection; no matter which I blocked, the other would hit. In that case, I might as well abandon defense and put all my energy into the subsequent counter-attack.
 
 "Lend me your strength, Master!"
 
-Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master—"Seiken Metsuha" (圣拳灭破). A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
+Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master—**Seiken Metsuha**. A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
 
 "Father—!"
 
@@ -294,15 +294,15 @@ Her full name was Judith Lopez. Currently, she stood woodenly in place, unmoving
 
 Looking at her, my sword hesitated. If killing a beast was for self-preservation, then killing the beast's daughter would surely be worse than a beast.
 
-After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, "End Waltz" (终结华尔兹). I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
+After only three seconds, Secretary Craniummon seized the opportunity. He lunged behind me, spinning his magic spear at high speed and unleashing his prized technique, **End Waltz**. I intended to pull away quickly to dodge the massive shockwave, but a turn found me facing Judy; though I couldn't read the expression on LordKnightmon's face, I could still sense her pain and resentment through her trembling breath.
 
 "Give me your life, you executioner!"
 
-She coordinated with Secretary Craniummon, releasing four ribbon blades from her armor and unleashing "Spiral Masquerade" (回旋华舞) for my reception.
+She coordinated with Secretary Craniummon, releasing four ribbon blades from her armor and unleashing **Spiral Masquerade** for my reception.
 
 The situation was the same as before; I didn't dodge, instead taking these two sustained damage sources head-on, showing my most resilient side to explain to Judy: "I didn't want to do this. Your father... Zachary forced me."
 
-She couldn't hear my words, still using the "Pile Bunker" (冲击锥) on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
+She couldn't hear my words, still using the **Pile Bunker** on her right wrist to hammer my hard body over and over. For the current me, it was like scratching an itch, unable to cause any damage. Even if she sent more Knightmon to help, they would be cleared with a single slash. She knew this, yet maintained her persistence, swearing to avenge her father—it was clear how deep the feelings were between father and daughter.
 
 To get rid of her, I had to be rough with her one more time. I swung my sword, sending her back into the embrace of the Knightmon army, then quickly turned, catching the Secretary's magic spear with my left hand and pointing the blade in my right hand toward him.
 
@@ -378,13 +378,13 @@ Our way of getting along was also very friendly.
 
 "I don't pick up trash. It was Mante."
 
-Subsequently, he explained the situation to me one by one. To summarize simply: he and Mante had gone together to execute a [Raid] mission, defeated the domain ruler Daemon (究极魔兽), liberated a new Digital region, and returned in triumph. While passing through the desert, they found I was blocking their way.
+Subsequently, he explained the situation to me one by one. To summarize simply: he and Mante had gone together to execute a **Raid** mission, defeated the domain ruler Daemon, liberated a new Digital region, and returned in triumph. While passing through the desert, they found I was blocking their way.
 
 "Stop being so sentimental," he interrupted. "We have eyes—we'd actively avoid trash."
 
 The last battle with Leviamon had severely damaged Mante's GrandLocomon; after repairs proved fruitless, he had to announce its retirement and would no longer provide carrying services.
 
-"I heard from the Russian guy at 'Mousse Mine' that the higher-ups are building a brand-new version of the database for him. It's a massive project and will take a long time. So, he has temporarily changed his form to HiAndromon. Where he got it, I'm not clear—you can go ask the leader of the [Steel Legions] (钢铁雄兵) guild if he's willing to tell you."
+"I heard from the Russian guy at **Mousse Mine** that the higher-ups are building a brand-new version of the database for him. It's a massive project and will take a long time. So, he has temporarily changed his form to HiAndromon. Where he got it, I'm not clear—you can go ask the leader of the **Steel Legions** guild if he's willing to tell you."
 
 "Where is he?"
 
@@ -396,7 +396,7 @@ Afterward, Dragon told me: "I've swapped positions with him."
 
 "Why?" I was very puzzled.
 
-"Asking the obvious—what kind of defense could a HiAndromon provide? Until his next version is developed, I'll be [Defense] and he'll be [Substitute]. Your rear will be guarded by me."
+"Asking the obvious—what kind of defense could a HiAndromon provide? Until his next version is developed, I'll be **Defense** and he'll be **Substitute**. Your rear will be guarded by me."
 
 That last sentence made me break into a cold sweat; I could only say it was the result of a conditioned reflex.
 
@@ -404,7 +404,7 @@ That last sentence made me break into a cold sweat; I could only say it was the 
 
 "What?"
 
-"The era of the five is over, Dragon." I couldn't help but sigh and confessed to him: "From now on, the UNSC [Raiders] only has four. Good luck, continue to explore, continue to be loyal to your countries, and perform your duties as tools. You are burdened with unlimited expectations—don't disappoint the people above, don't disappoint the people of your nations, and don't... disappoint me."
+"The era of the five is over, Dragon." I couldn't help but sigh and confessed to him: "From now on, the UNSC **Raiders** only has four. Good luck, continue to explore, continue to be loyal to your countries, and perform your duties as tools. You are burdened with unlimited expectations—don't disappoint the people above, don't disappoint the people of your nations, and don't... disappoint me."
 
 He snapped his fingers in front of me, interrupting. "Do you know what you're saying?"
 
@@ -420,9 +420,9 @@ I didn't expect him to be even harder to break than me—hearing him say "thank 
 
 "The Five... the Five are indispensable."
 
-According to him, as long as I was still an American, the [Raiders] would still recognize my identity. With the backing of multiple other nations, there was no fear of threats from the US government.
+According to him, as long as I was still an American, the **Raiders** would still recognize my identity. With the backing of multiple other nations, there was no fear of threats from the US government.
 
-"What if the [Raiders] face retaliation?"
+"What if the **Raiders** face retaliation?"
 
 "I will step in."
 
@@ -436,7 +436,7 @@ I didn't know how to thank him, so I could only make a promise: in the future, I
 
 "I don't need that last one... but the first one, you can keep appropriately."
 
-His meaning was to have me take care of his pet for him. It just so happened that it wasn't convenient for me to show my face outside for the time being, and I couldn't participate in the [Raiders] side either—to be frank, I hadn't yet emerged from the shadow of being betrayed by my nation. And the so-called "taking care of" was nothing more than feeding fish and keeping watch to prevent others from plotting against his pet. Think about it carefully, and it wasn't a bad job.
+His meaning was to have me take care of his pet for him. It just so happened that it wasn't convenient for me to show my face outside for the time being, and I couldn't participate in the **Raiders** side either—to be frank, I hadn't yet emerged from the shadow of being betrayed by my nation. And the so-called "taking care of" was nothing more than feeding fish and keeping watch to prevent others from plotting against his pet. Think about it carefully, and it wasn't a bad job.
 
 "You don't plan to change her residence?"
 
@@ -480,13 +480,13 @@ In the previous confrontation, I didn't remember the Secretary of Defense or Zac
 
 Mousse Mine was originally an independent server used to reform network prisoners, which humans found very difficult to enter without external connections. The Digimon inside were just like me—all modified, and each one was fierce, terrifying, and a genuine monster.
 
-My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of Deathmon (死亡兽). They gave Master a lot of trouble—clashing with them, Master gained no advantage. "Iron Fist Punishment" was easily neutralized, "Quaking Table" was pinned back to the ground, and finally, after using all his strength, he unleashed the move "Gijin! Shinkou! Shinkaku! Oyaji!" (地神！神鸣！神驰！亲父！) to bring down "Hinokamuy" for heavenly retribution.
+My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of **Deathmon**. They gave Master a lot of trouble—clashing with them, Master gained no advantage. **Iron Fist Punishment** was easily neutralized, **Quaking Table** was pinned back to the ground, and finally, after using all his strength, he unleashed the move **Gijin! Shinkou! Shinkaku! Oyaji!** to bring down **Hinokamuy** for heavenly retribution.
 
 Afterward, Master, dragging his weary body, successfully rescued his friend. Unfortunately, on the way back, they were discovered by three giant GranKuwagamon on patrol and had their path blocked. Fortunately, it wasn't just them who were blocked; Adam, who had also come to rescue his fellow citizens and was also stopped by them, was there too. To protect the Imperialdramon behind him, Adam finally defeated them three-to-one. At the same time, Master realized that even among humans, there existed strong ones who could rival him.
 
 I suddenly asked Dragon: "Who is the 'Russian guy at Mousse Mine' you mentioned?"
 
-"Just a Russian guy, a proxy for the [Steel Legions] (钢铁雄兵) guild—not anyone major. Why? Do you have business with him? Don't tell me you want to go rescue those 'Sistermon sisters' you just mentioned."
+"Just a Russian guy, a proxy for the **Steel Legions** guild—not anyone major. Why? Do you have business with him? Don't tell me you want to go rescue those 'Sistermon sisters' you just mentioned."
 
 "They are my family."
 
@@ -502,11 +502,11 @@ I explained the situation to him. After hearing it, he nodded slightly in recogn
 
 "How can you tell?"
 
-Dragon told me that the sisters had once suffered severe brain damage in a car accident and had become persistent vegetative states. Their father was a well-known Chinese Digimon scholar who didn't want his daughters to leave him, so according to their brainwave frequencies, he wrote a new set of Digital algorithms to allow his daughters to be reborn in the Digital World. One could tentatively understand them as people who had no 'User Identification Medal' but wouldn't be recognized as BUGs by the Atrium system.
+Dragon told me that the sisters had once suffered severe brain damage in a car accident and had become persistent vegetative states. Their father was a well-known Chinese Digimon scholar who didn't want his daughters to leave him, so according to their brainwave frequencies, he wrote a new set of Digital algorithms to allow his daughters to be reborn in the Digital World. One could tentatively understand them as people who had no **User Identification Medal** but wouldn't be recognized as BUGs by the Atrium system.
 
 I asked him again: "How do you know all this?"
 
-"It so happens," he admitted proactively, "the director of that hospital is actually my distant cousin—the one you all know as the leader of the [Imperial Dragon's Nest] (御龙巢穴) guild..."
+"It so happens," he admitted proactively, "the director of that hospital is actually my distant cousin—the one you all know as the leader of the **Imperial Dragon's Nest** guild..."
 
 *ShineGreymon: Burst Mode (BM).*
 

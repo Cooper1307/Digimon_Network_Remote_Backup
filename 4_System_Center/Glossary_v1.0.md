@@ -217,3 +217,12 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **调停组织** | **Mediation Organization** | Organization | The original law-enforcement body of Midgard. |
 | **数据清除流** | **Data Deletion Style** | Lore | The swordsmanship lineage shared by Owl and Jupitermon. |
 | **黑色混沌** | **Black Chaos** | Lore | A god-tier anomaly discovered by Plutomon in the outer Digital World. |
+
+### Ch13 New Terms (2026-03-22)
+
+#### Ch13 Lore & Entities
+
+| Source (CN) | English | Type | Notes |
+| :--- | :--- | :--- | :--- |
+| **体验勋章** | **User Identification Medal** | Entity | Biological sync device for controlling avatars. |
+| **地下交易网** | **Underground Trafficking Network** | Lore | Operated by the Nether Club. |

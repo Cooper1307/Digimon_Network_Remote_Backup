@@ -43,11 +43,11 @@
 - **Vikemon (维京兽)**: Substitute. Stoic and heavy-hitting. Has a habit of eating chocolate under pressure.
 - **Imperialdramon: Fighter Mode (Freyr/弗雷尔/帝皇龙甲兽：战士形态)**: Main Attacker. Missing from combat due to a catastrophic lack of toilet paper.
 
-### Underworld Club (幽冥俱乐部)
+### Nether Club (幽冥俱乐部)
 
-- **Plutomon (Jack/普路托兽)**: [NEW] The true mastermind behind the bird-beast conflict. Evolved directly from Cerberumon (沙路比兽). Possesses the invincible "Black Chaos" anomaly.
+- **Jack (Knave/杰克)**: [NEW] Guild Master of the Nether Club. Orchestrated the real-world assassination of Wind (Aurora) to catalyze the conflict.
+- **Plutomon (普路托兽)**: [UPDATED] The true mastermind behind the conflict. An unnamed former Cambridge student driven by 15 years of jealousy over Aegiochusmon and Angewomon. Evolved directly from Cerberumon (沙路比兽).
 - **VoltoBautamon (幽灵面具兽)**: Mysterious and dangerous leader. Executed Plutomon with "Courtly Waltz."
-- **Plutomon (普路托兽)**: [NEW] The antagonist of the "Triangular Conflict." Driven by obsession and jealousy.
 - **X (エックス)**: [NEW] The top talent of Nether Club. Known for his scary demeanor but has a psychological shadow involving Master Muca.
 
 ### Other Raiders & NPCs
@@ -76,6 +76,7 @@
 - **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca" (幕疤/Ba-ye).
 - **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Kikurin". Known for his strict discipline.
 - **Mediation Organization (调停组织)**: The original law-enforcement body of the Atrium.
+- **User Identification Medal (体验勋章)**: [NEW] A specialized device embedded in a user's core, enabling them to pilot a Digimon avatar. Destruction forcefully reverts the avatar to a mindless, native Digimon.
 
 ## 3. Technology & Terms
 

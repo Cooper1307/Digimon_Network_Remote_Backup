@@ -20,3 +20,4 @@ Sourced from `Glossary_v1.0.md` §4. For incremental additions, update this file
 - **Mediation Organization (调停组织)**: The original law-enforcement body of Midgard.
 - **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca."
 - **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Owl" and "Vulture."
+- **User Identification Medal (体验勋章)**: A specialized data device enabling human users to biologically sync with and control a Digimon avatar. Destruction reverts the avatar to a native state.
