@@ -32,6 +32,7 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **奥蕾莉 · 勒夫费尔** | **Aurélie Lefebvre** | Character | Jade's true name. |
 | **老板 / 会长** | **The Boss / Guild Master** | Title | Adam's dual role. Use **"the Boss"** for the persona/address and **"Owner/Proprietor"** for formal role description. |
 | **幕疤** | **Master Muca** | Character | Also known as "Ba-ye." The legendary master blacksmith and mentor of Owl and Jupitermon. |
+| **漆黑勇者** | **Jet-Black Hero** | Title | Owl's legendary epithet/title. |
 
 ## 2. Digimon & Level Audit
 
@@ -72,8 +73,10 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **沙路比兽** | Cerberumon | **Cerberumon** | Official. Plutomon's prior form. |
 | **瓦尔基里兽** | Valkyrimon | **Valkyrimon** | Official. Agnes' form. |
 | **斯雷普兽** | Sleipmon | **Sleipmon** | Official. Finn's form. |
-| **奥列格兽** | Olegmon | **Olegmon** | Official. Nordic Defense Position. |
-| **维京兽** | Vikemon | **Vikemon** | Official. Nordic Substitute Position. |
+| **奥列格兽** | Olegmon | **Olegmon** | Official. |
+| **维京兽** | Vikemon | **Vikemon** | Official. |
+| **幽灵面具兽** | Voltobautamon | **Voltobautamon** | Official Fusion of Piedmon and Myotismon. |
+| **胜利暴龙兽** | VictoryGreymon | **VictoryGreymon** | Official. Owl's evolved form. |
 
 ## 3. Skill & Gear Audit
 
@@ -107,6 +110,14 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **皇家枪击** | Royal Saber | **Royal Saber** | **Royal Saber** | Dukemon's skill. |
 | **极乐净土** | Final Elysion | **Final Elysion** | **Final Elysion** | Dukemon's skill. |
 | **黑暗绝望** | Black Despair | **Dark Despair** | **Dark Despair** | Mastemon's skill. |
+| **战争爆破** | War Blaster | **War Blaster** | BlackWarGreymon's skill. | Official. |
+| **审判锤** | Judgment Hammer | **Judgment Hammers** | Jupitermon's weapon. | Official. |
+| **龙兽破碎者** | Dramon Breaker | **Dramon Breaker** | VictoryGreymon's weapon. | Official. |
+| **胜利冲击** | Victory Charge | **Victory Charge** | VictoryGreymon's skill. | Official. |
+| **三叉戟盖亚** | Trident Gaia | **Trident Gaia** | VictoryGreymon's ultimate. | Official. |
+| **落枭归鹫斩** | Rakukyoukijuzan | **Rakukyoukijuzan** | Data Deletion Style final technique. | Novel-original. |
+| **宫殿华尔兹** | Palazzi Valzer | **Pernicious Waltz** | Voltobautamon signature move. | Official. |
+| **菊燐** | Kikurin | **Kikurin** | Legendary sword forged by Muca. | Lore / NPC Gear. |
 
 ## 4. Lore & World-Building
 
@@ -209,6 +220,18 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **虹桥烈矢** | Bifröst | **Bifröst** | Sleipmon's attack. |
 | **尼福尔海姆** | Niflheim | **Niflheim** | Sleipmon's holy shield. |
 | **奥丁的气息** | Odin's Breath | **Odin's Breath** | Sleipmon's ultimate. |
+| **闪光番长拳** | Flash Bancho Punch | **Flash Bancho Punch** | BanchoLeomon's counterattack skill. |
+| **蔷薇丝绒** | Rosy Velvet | **Rosy Velvet** | Rosemon's ground-restriction skill. |
+| **黑暗战斗龙卷风** | Dark Combat Tornado | **Black Tornado** | Official Bandai. Same as 黑旋风 for BWG. |
+
+#### Ch12 Gear
+
+| Source (CN) | Official | Project Decision | Notes |
+| :--- | :--- | :--- | :--- |
+| **制裁之爪** | — | **Claws of Sanction** | Metaphor for Olympos XII's collective attack. |
+| **奥林匹亚** | Olympia | **Olympia** | Minervamon's greatsword. |
+| **奥林匹亚改** | Olympia Kai | **Olympia Kai** | Mervamon's evolved greatsword. |
+| **美杜利亚** | Medullia | **Medullia** | Mervamon's snake-head weapon on left arm. |
 
 #### Ch12 Lore & Organizations
 

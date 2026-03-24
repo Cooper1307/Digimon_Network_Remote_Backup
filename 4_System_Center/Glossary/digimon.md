@@ -50,6 +50,8 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 斯雷普兽 | Sleipmon | **Sleipmon** | Official. Finn's form. |
 | 奥列格兽 | Olegmon | **Olegmon** | Official. Nordic Defense Position. |
 | 维京兽 | Vikemon | **Vikemon** | Official. Nordic Substitute Position. |
+| 幽灵面具兽 | Voltobautamon | **Voltobautamon** | Official Fusion. |
+| 胜利暴龙兽 | VictoryGreymon | **VictoryGreymon** | Official subspecies. |
 | 拉贵尔兽 | Raguelmon | **Raguelmon** | Official. Extreme-level beast angel. |
 | 斩龙兽 | Slayerdramon | **Slayerdramon** | Official. Siegfried's form. |
 | 座天使兽：堕落形态 | Ophanimon: Falldown Mode | **Ophanimon: Falldown Mode** | Official. Phase 3 Fusion Core. |

@@ -36,3 +36,6 @@ Sourced from `Glossary_v1.0.md` §1. For incremental additions, update this file
 | 古代人鱼兽 | AncientMermaimon | Character | Guardian of the Network Sea. Alias: Lana. |
 | 小勇 | Xiao Yong | Alias | Rasenmon's alias. |
 | 幕疤 | Master Muca | Alias | Also known as "Ba-ye." The legendary master blacksmith and mentor. |
+| 漆黑勇者 | Jet-Black Hero | Title | Owl's legendary epithet. |
+| 幽灵面具兽 | Voltobautamon | Digimon | Final boss of the Chapter 14 backstory. |
+| 胜利暴龙兽 | VictoryGreymon | Digimon | Owl's evolved form in Chapter 14. |

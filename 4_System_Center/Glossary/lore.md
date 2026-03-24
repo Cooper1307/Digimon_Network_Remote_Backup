@@ -21,3 +21,5 @@ Sourced from `Glossary_v1.0.md` §4. For incremental additions, update this file
 - **Data Deletion Style (数据清除流)**: The swordsmanship lineage shared by Owl and Jupitermon, taught by Master "Muca."
 - **Master Muca (幕疤/Ba-ye)**: The legendary blacksmith and teacher who forged "Owl" and "Vulture."
 - **User Identification Medal (体验勋章)**: A specialized data device enabling human users to biologically sync with and control a Digimon avatar. Destruction reverts the avatar to a native state.
+- **Kikurin (菊燐)**: A legendary sword forged by Master Muca, referenced as the standard of excellence for his later masterpieces, "Owl" and "Vulture."
+- **Rakukyoukijuzan (落枭归鹫斩)**: The ultimate secret technique of the Data Deletion Style, requiring dual-wielded blades. The name encodes the fates of Owl and Vulture.

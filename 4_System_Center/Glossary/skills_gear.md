@@ -79,3 +79,17 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 脑裂 | Brain Split | Brain Rupture | **Brain Rupture** | Ebemon's skill. |
 | 行星毁灭者 | Planet Destroyer | Planet Destroyer | **Planet Destroyer** | Ebemon's skill. |
 | 铁拳制裁 | Iron Fist Sanction | Tekken Seisai / Iron Fist Punishment | **Iron Fist Punishment** | Gankoomon's skill. Project standard. |
+| 闪光番长拳 | Flash Bancho Punch | Flash Bancho Punch | **Flash Bancho Punch** | BanchoLeomon's counterattack. |
+| 蔷薇丝绒 | Rosy Velvet | Rosy Velvet | **Rosy Velvet** | Rosemon's ground-restriction skill. |
+| 黑暗战斗龙卷风 | Dark Combat Tornado | Black Tornado | **Black Tornado** | Same as 黑旋风 for BWG. |
+| 制裁之爪 | Claws of Sanction | — | **Claws of Sanction** | Metaphor for Olympos XII attack. |
+| 奥林匹亚 | Olympia | Olympia | **Olympia** | Minervamon's greatsword. |
+| 奥林匹亚改 | Olympia Kai | Olympia Kai | **Olympia Kai** | Mervamon's evolved greatsword. |
+| 美杜利亚 | Medullia | Medullia | **Medullia** | Mervamon's snake-head weapon. |
+| 战争爆破 | War Blaster | War Blaster | **War Blaster** | BlackWarGreymon's skill. |
+| 审判锤 | Judgment Hammer | Judgment Hammers | **Judgment Hammers** | Jupitermon's weapon. |
+| 龙兽破碎者 | Dramon Breaker | Dramon Breaker | **Dramon Breaker** | VictoryGreymon's weapon. |
+| 胜利冲击 | Victory Charge | Victory Charge | **Victory Charge** | VictoryGreymon's skill. |
+| 三叉戟盖亚 | Trident Gaia | Trident Gaia | **Trident Gaia** | VictoryGreymon's ultimate. |
+| 落枭归鹫斩 | Rakukyoukijuzan | Rakukyoukijuzan | **Rakukyoukijuzan** | Data Deletion Style final. |
+| 宫殿华尔兹 | Palazzi Valzer | Pernicious Waltz | **Pernicious Waltz** | Voltobautamon skill. |
