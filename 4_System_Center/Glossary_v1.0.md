@@ -226,3 +226,39 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | :--- | :--- | :--- | :--- |
 | **体验勋章** | **User Identification Medal** | Entity | Biological sync device for controlling avatars. |
 | **地下交易网** | **Underground Trafficking Network** | Lore | Operated by the Nether Club. |
+
+## 8. Gaiden 3 New Terms (2026-03-23)
+
+### Gaiden 3 Digimon
+
+| Source (CN) | Official | Project Standard | Notes |
+| :--- | :--- | :--- | :--- |
+| **杰斯兽 GX** | Jesmon GX | **Jesmon GX** | Official. Zero's evolved form. |
+| **芳香兽** | Duftmon | **Duftmon** | Official. |
+| **豹式形态** | Leopard Mode | **Leopard Mode** | Official. Duftmon's alternate form. |
+| **颅骨兽** | Craniummon | **Craniummon** | Official. |
+| **剑皇兽** | LordKnightmon | **LordKnightmon** | Official. |
+| **顽固兽** | Gankoomon | **Gankoomon** | Official. |
+| **机械脑魔** | Ebemon | **Ebemon** | Official. |
+| **修女兽·漆黑** | Sistermon Noir | **Sistermon Noir** | Official. |
+| **修女兽·雪白** | Sistermon Blanc | **Sistermon Blanc** | Official. |
+
+### Gaiden 3 Skills & Gear
+
+| Source (CN) | Official | Project Decision | Notes |
+| :--- | :--- | :--- | :--- |
+| **辙剑审判** | Judgement of the Blade | **Judgement of the Blade** | Jesmon's skill. |
+| **我为人人** | Un Pour Tous | **Un Pour Tous** | Jesmon's skill. |
+| **圣拳灭破** | Seiken Meppa | **Seiken Meppa** | Jesmon GX's skill. |
+| **火神威** | Hinukamuy | **Hinukamuy** | Gankoomon's spirit. |
+| **无尽手套** | — | **Endless Gauntlet** | Novel-original. Jesmon GX's gear. |
+| **终结华尔兹** | End Waltz | **End Waltz** | Craniummon's skill. |
+| **急迫恐惧** | Urgent Fear | **Urgent Fear** | LordKnightmon's skill. |
+| **回旋华舞** | Spiral Masquerade | **Spiral Masquerade** | LordKnightmon's skill. |
+| **冲击锥** | Pile Bunker | **Pile Bunker** | LordKnightmon's weapon. |
+| **毁天灭地** | Aussterben | **Aussterben** | Duftmon's skill. |
+| **神之庇佑** | God Breath | **God Breath** | Craniummon's skill. |
+| **掀饭桌** | Table Flip | **Table Flip** | Gankoomon's skill. |
+| **脑裂** | Brain Rupture | **Brain Rupture** | Ebemon's skill. |
+| **行星毁灭者** | Planet Destroyer | **Planet Destroyer** | Ebemon's skill. |
+| **铁拳制裁** | Iron Fist Punishment | **Iron Fist Punishment** | Gankoomon's skill. Project standard. |

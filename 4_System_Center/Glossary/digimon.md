@@ -71,3 +71,12 @@ Sourced from `Glossary_v1.0.md` §2. For incremental additions, update this file
 | 究极 V 龙兽 | UlforceV-dramon | **UlforceV-dramon** | Official. Blue's Mega form. |
 | 公爵兽 | Dukemon | **Dukemon** | Official. Red's Mega form. |
 | 大王猿猴兽 | MetalEtemon | **MetalEtemon** | Official. Pervert Party Leader. |
+| 杰斯兽 GX | Jesmon GX | **Jesmon GX** | Official. Zero's evolved form. |
+| 芳香兽 | Duftmon | **Duftmon** | Official. |
+| 豹式形态 | Leopard Mode | **Leopard Mode** | Official. Duftmon's alternate form. |
+| 颅骨兽 | Craniummon | **Craniummon** | Official. |
+| 剑皇兽 | LordKnightmon | **LordKnightmon** | Official. |
+| 顽固兽 | Gankoomon | **Gankoomon** | Official. |
+| 机械脑魔 | Ebemon | **Ebemon** | Official. |
+| 修女兽·漆黑 | Sistermon Noir | **Sistermon Noir** | Official. |
+| 修女兽·雪白 | Sistermon Blanc | **Sistermon Blanc** | Official. |

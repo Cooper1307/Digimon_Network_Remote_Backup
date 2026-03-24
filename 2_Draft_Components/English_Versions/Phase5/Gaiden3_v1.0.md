@@ -16,7 +16,7 @@ From that day on, I followed my new superior—Zachary Lopez, a man with a disti
 
 "Correct, sir."
 
-During this past period, to prevent me from privately contacting her pet and harming or disadvantaging her, Dragon had specially created a security measure—moving her pet to a new residence, a natural volcanic lake. The place was remote and unvisited, indeed suitable for concealment. However, her pet didn't like it much there, feeling the water was too hot and uncomfortable, and the terrain was high. Every time she couldn't see Dragon going out on missions with us, her overwhelming longing drove her to sneak back to her original residence behind Dragon's back.
+During this past period, to prevent me from privately contacting her pet and harming her, which would be disadvantageous to him, Dragon had specially created a security measure—moving her pet to a new residence, a natural volcanic lake. The place was remote and unvisited, indeed suitable for concealment. However, her pet didn't like it much there, feeling the water was too hot and uncomfortable, and the terrain was high. Every time she couldn't see Dragon going out on missions with us, her overwhelming longing drove her to sneak back to her original residence behind Dragon's back.
 
 "If I remember correctly, that lake is a dead-water pool without a single fish left. Recently, her master has been busy **Raiding** in the depths. Don't tell me... you've been feeding her?"
 
@@ -42,7 +42,7 @@ To keep him alive, I could only try to steer the conversation elsewhere, telling
 
 "Stop with the useless talk," Zachary said, his patience always thin. "Tell me about your performance as the **Main Attacker** position, or let's talk about our old friend, that **Substitute** position who steals the show every time..."
 
-In summary, the **Substitute** position was still formidable, and the **Main Attacker** position was still reliable. The former could react in time when the **Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the **Sword Spirits**, then dealing the finishing blow with **Aus Generieren**.
+In summary, the **Substitute** position was still formidable, and the **Main Attacker** position was still reliable. The former could react in time when the **Vanguard**, **Support**, and **Defense** were all offline, stepping forward to control the situation—grabbing Leviamon's jaw, curbing its struggles again and again, dragging it out of the water, and sending it into the sky. The latter could make clear judgments, ensuring the former had enough ability to send the target into a position advantageous for his finishing move, emerging from the sea surface ahead of time to make full preparations—first applying all-around suppression with the **Sword Spirits**, then dealing the finishing blow with **Judgement of the Blade**.
 
 "So, for once in the United Nations Security Council **Raiders**, the one in the spotlight wasn't that **Substitute** position, but you, the **Main Attacker**?"
 
@@ -72,7 +72,7 @@ My master is Gankoomon, a fate that was sealed from the moment I initially chose
 
 He came to find me first. At our first meeting, like an old father who had been away for many years, he stood with a stern face and congratulated me on choosing his clumsy disciple's body. I told him then that I wasn't his disciple, but merely a pawn of the US federal government doing their bidding, needing to borrow his disciple's body for a while, and hoped he would be broad-minded and give me this chance. He said it didn't matter; he only recognized the body of Huckmon anyway. As for who was controlling it inside, he didn't care, didn't want to care, and was even less willing to care. His attitude toward this was quite **Obstinate**, making it impossible to refuse.
 
-His training was extremely strict, reaching a level of harshness—otherwise, it wouldn't have been possible for me to evolve from a Rookie so quickly and rise all the way to a Mega. For example, he was always followed by a pair of Sistermon sisters, both wearing nun's caps—Sistermon Noir and Sistermon Blanc. They looked like two cute mascots, but both were fierce. They would use me as a target for practice. I could block, dodge, or counter-attack, but I always had to pull my punches; I couldn't let my sword tip touch them even an inch, because if it did, they would surely die.
+His training was extremely strict, reaching a level of harshness—otherwise, it wouldn't have been possible for me to evolve from a Rookie so quickly and rise all the way to a Mega. For example, he was always followed by a pair of Sistermon sisters, both wearing nun's caps—the elder, **Noir**, with a black cat's cap, and the younger, **Blanc**, with a pink bunny's cap. They looked like two cute mascots, but both were fierce. They would use me as a target for practice. I could block, dodge, or counter-attack, but I always had to pull my punches; I couldn't let my sword tip touch them even an inch, because if it did, they would surely die.
 
 With Gankoomon watching, those two sisters were safe. There were several times when it seemed my sword would strike them and I couldn't pull back. Master Gankoomon would appear beneath my sword in an instant, blocking the fatal blow for them, and then he would surely settle the score with me. In the unluckiest cases, I would take a hit from his **Iron Fist Punishment**. He called this **Defense Training** for me, intended to hone my resilience. It left me in a pathetic state every time, but fortunately, I persevered tenaciously and didn't get beaten to death.
 
@@ -224,9 +224,9 @@ I estimated that Master Gankoomon had been besieged by them, outnumbered and unf
 
 "Master, watch carefully!"
 
-With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within—**All For One**.
+With the power of the three "Sword Spirits," I collectively formed a large green triangular prism in front of me. Then, I injected my own power into it, and the four of us combined to release a powerful green shockwave from within—**Un Pour Tous**.
 
-Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash **All For One** and clear out this rabble.
+Those Ebemon weren't to be trifled with either. Although they hadn't analyzed my internal data, they had gained experience from previous battles and knew I could easily slash them, so none dared get too close. This resulted in the shockwave's energy accumulation being interrupted by the enemy's joint efforts. To prevent this, I specially pulled up the red cape behind me; it could help me resist for a while, allowing me to unleash **Un Pour Tous** and clear out this rabble.
 
 But I didn't expect an outsider to intervene and interrupt my charging. That outsider was none other than LordKnightmon Judy, who had come here with me. She actually stood on the side of the Ebemon, silently appearing behind me and joining them and the seemingly endless army of Knightmon under her command to launch a dead-end siege against me. The combination of long-range and close-range combat was very comprehensive. I could handle ten or twenty, but if hundreds or thousands came, I would truly find it hard to cope. Experiencing dual pressure from both physical and psychological levels simultaneously, I was momentarily unable to attend to everything. At this rate, I would sooner or later be forced into a corner.
 
@@ -284,7 +284,7 @@ I utilized my main weapon, the **Endless Gauntlet**, switching it into forms lik
 
 "Lend me your strength, Master!"
 
-Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master—**Seiken Metsuha**. A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
+Focusing my gaze on my direct superior, Zachary, I drove the brand-new tactical armament, concentrating energy at a single point to unleash the ultimate technique inherited from Master—**Seiken Meppa**. A series of sub-light-speed strikes, swift and graceful, allowed Zachary in the form of Duftmon to feel the full weight of his subordinate's resentment, leaving him no room to escape and personally burying him in this data desert to be carried away by the wind and sand.
 
 "Father—!"
 
@@ -480,9 +480,9 @@ In the previous confrontation, I didn't remember the Secretary of Defense or Zac
 
 Mousse Mine was originally an independent server used to reform network prisoners, which humans found very difficult to enter without external connections. The Digimon inside were just like me—all modified, and each one was fierce, terrifying, and a genuine monster.
 
-My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of **Deathmon**. They gave Master a lot of trouble—clashing with them, Master gained no advantage. **Iron Fist Punishment** was easily neutralized, **Quaking Table** was pinned back to the ground, and finally, after using all his strength, he unleashed the move **Gijin! Shinkou! Shinkaku! Oyaji!** to bring down **Hinokamuy** for heavenly retribution.
+My master Gankoomon had once had the fortune to go there, back then to save a friend of his. Those in charge of the guard work were a group of **Deathmon**. They gave Master a lot of trouble—clashing with them, Master gained no advantage. **Iron Fist Punishment** was easily neutralized, **Table Flip** was pinned back to the ground, and finally, after using all his strength, he unleashed the move **Quake! Blast! Fire! Father!** to bring down **Hinukamuy** for heavenly retribution.
 
-Afterward, Master, dragging his weary body, successfully rescued his friend. Unfortunately, on the way back, they were discovered by three giant GranKuwagamon on patrol and had their path blocked. Fortunately, it wasn't just them who were blocked; Adam, who had also come to rescue his fellow citizens and was also stopped by them, was there too. To protect the Imperialdramon behind him, Adam finally defeated them three-to-one. At the same time, Master realized that even among humans, there existed strong ones who could rival him.
+Afterward, Master, dragging his weary body, successfully rescued his friend. Unfortunately, on the way back, they were discovered by three giant GranKuwagamon on patrol and had their path blocked. Fortunately, it wasn't just them who were blocked; Adam, who had also come to rescue his fellow citizens and was also stopped by them, was there too. To protect the Imperialdramon behind him, Adam single-handedly defeated all three. At the same time, Master realized that even among humans, there existed strong ones who could rival him.
 
 I suddenly asked Dragon: "Who is the 'Russian guy at Mousse Mine' you mentioned?"
 
@@ -508,7 +508,7 @@ I asked him again: "How do you know all this?"
 
 "It so happens," he admitted proactively, "the director of that hospital is actually my distant cousin—the one you all know as the leader of the **Imperial Dragon's Nest** guild..."
 
-*ShineGreymon: Burst Mode (BM).*
+*ShineGreymon: Burst Mode.*
 
 I hadn't expected such a relationship existed between them.
 

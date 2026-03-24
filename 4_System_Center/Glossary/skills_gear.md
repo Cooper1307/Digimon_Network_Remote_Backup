@@ -64,3 +64,18 @@ Sourced from `Glossary_v1.0.md` §3. For incremental additions, update this file
 | 虹桥烈矢 | Bifröst | Bifröst | **Bifröst** | Sleipmon's attack. |
 | 尼福尔海姆 | Niflheim | Niflheim | **Niflheim** | Sleipmon's holy shield. |
 | 奥丁的气息 | Odin's Breath | Odin's Breath | **Odin's Breath** | Sleipmon's ultimate. |
+| 辙剑审判 | Judgement of the Blade | Judgement of the Blade | **Judgement of the Blade** | Jesmon's skill. |
+| 我为人人 | I for everyone | Un Pour Tous | **Un Pour Tous** | Jesmon's skill. |
+| 圣拳灭破 | Sacred Fist Destroyer | Seiken Meppa | **Seiken Meppa** | Jesmon GX's skill. |
+| 火神威 | Hinokamuy | Hinukamuy | **Hinukamuy** | Gankoomon's spirit. |
+| 无尽手套 | Endless Gauntlet | — | **Endless Gauntlet** | Novel-original. Jesmon GX's gear. |
+| 终结华尔兹 | End Waltz | End Waltz | **End Waltz** | Craniummon's skill. |
+| 急迫恐惧 | Urgent Fear | Urgent Fear | **Urgent Fear** | LordKnightmon's skill. |
+| 回旋华舞 | Spiral Masquerade | Spiral Masquerade | **Spiral Masquerade** | LordKnightmon's skill. |
+| 冲击锥 | Pile Bunker | Pile Bunker | **Pile Bunker** | LordKnightmon's weapon. |
+| 毁天灭地 | Destroy Heaven and Earth | Aussterben | **Aussterben** | Duftmon's skill. |
+| 神之庇佑 | God's Protection | God Breath | **God Breath** | Craniummon's skill. |
+| 掀饭桌 | Flip the Table | Table Flip | **Table Flip** | Gankoomon's skill. |
+| 脑裂 | Brain Split | Brain Rupture | **Brain Rupture** | Ebemon's skill. |
+| 行星毁灭者 | Planet Destroyer | Planet Destroyer | **Planet Destroyer** | Ebemon's skill. |
+| 铁拳制裁 | Iron Fist Sanction | Tekken Seisai / Iron Fist Punishment | **Iron Fist Punishment** | Gankoomon's skill. Project standard. |
