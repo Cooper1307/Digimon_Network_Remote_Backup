@@ -50,10 +50,14 @@
 - **VoltoBautamon (幽灵面具兽)**: Mysterious and dangerous leader. Executed Plutomon with "Courtly Waltz."
 - **X (エックス)**: [NEW] The top talent of Nether Club. Known for his scary demeanor but has a psychological shadow involving Master Muca.
 
-### Other Raiders & NPCs
+### UN P5 Raiders (联合国五常攻略组) & Others
 
 - **Hana (华纳/华)**: [NEW] Survivor and successor of the Windrunner Brigade after Wind's sacrifice.
-- **Aurelie Lefebvre (奥蕾莉·勒费弗尔)**: [NEW] French representative, mentioned in the late-phase conferences.
+- **Aurelie Lefebvre (Jade/玉/奥蕾莉·勒费弗尔)**: [UPDATED] French representative. Acting as five people due to absence of others.
+- **Dragon (龙)**: [NEW] Member of UN P5 Raiders. Missing in action.
+- **Zero (零)**: [NEW] Member of UN P5 Raiders. Missing in action.
+- **Lana (拉娜)**: [NEW] Member of UN P5 Raiders. Accompanies her family's Poseidon.
+- **Mante (曼特)**: [NEW] Member of UN P5 Raiders. Busy with reports.
 - **Solomon (Solomon/所罗门)**: [NEW] A newcomer (Psychemon) who acted as a pawn to trigger the "Bird-Beast Conflict."
 
 ### The Free Birds (自由鸟) - Phase 5 Evolutions

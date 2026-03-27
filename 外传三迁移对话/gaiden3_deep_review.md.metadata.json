@@ -1,5 +1,0 @@
-{
-  "artifactType": "ARTIFACT_TYPE_OTHER",
-  "summary": "Deep review report for Gaiden 3 (外传三 深险之局) translation. Identifies 22 issues across 6 categories: 4 critical mistranslations (pronoun confusion, wrong skill name 'Quaking Table', reversed combat ratio, wrong romanization), 2 over-translations (Sistermon nicknames lost, unsupported BM abbreviation), 3 terminology non-compliance issues (Aus Generieren, All For One, Table Flip), 16 glossary gaps for new Gaiden 3 skills/gear, and minor style/formatting issues. Pre-fix LQA score estimated at 91/100.",
-  "updatedAt": "2026-03-23T14:02:58.396319300Z"
-}

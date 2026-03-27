@@ -1,63 +1,3 @@
-# Chapter 15: Beautiful Ending (第十五章 美丽的终结)
-
-The matter reached a perfect resolution.
-
-After returning, we cross-checked information with Boss Adam's sister, Jade, and the members of the **Nordic Five Raiders**. We roughly understood the cause and effect of this "Beast-Bird Struggle."
-
-"Although there's still a part of the content we haven't figured out what's going on, it's not important."
-
-These words were problematic, sounding as if those people died in vain. As for how to let their souls find peace, Miss Agnes probably never thought about it.
-
-A group of people sat in the bar around two tables and began to speculate about the motive of the mastermind Plutomon. No need to worry about leaking the news; the arrival of the mediation organization had already caused a significant loss of customers for the bar. It was fortunate that Guild Master Adam was an exception among Guild Masters; since **The 'Drink' Bar** was established, he had always maintained a neutral state with other guilds and clearly marked his relationships, so he didn't have to face the mediation organization and cross swords with them.
-
-At this point, Owl pulled me aside and asked about my previous situation. I knew he was worried about me, and at the same time, I clearly knew that the situation at that time—even thinking about it now afterward—would still cause me deep fear.
-
-At that time, Mervamon's great sword was about to hit my head. In a moment of desperation, I fell back onto the grass. Before her **Final Strike Roll** could reach me, I swallowed the gift Boss Adam gave me—a **Seed of Promotion**. Subsequently, the red on my body gradually turned to white, and the cloak on my back was dyed with a touch of pink, adding a bit of girlishness to the original "Queen of Flowers and Grass," thus breaking through my limits.
-
-**Rosemon** — **Burst Evolution** — **Rosemon: Burst Mode**.
-
-The Burst Evolution at the critical moment was something I'll never forget in my life.
-
-"And then?"
-"Then I discovered a brand-new operation mode."
-
-I said before that Bandai Sakura has never liked fighting or killing. Thus, the network data fulfilled her wish, weakening a part of her combat ability and thereby deepening her charm attribute. For example, giving the opponent a sudden kiss, making them confused and even a bit shy; while she was stunned, amplifying the aura of the cloak, wrapping her in gently, making her fall into a deep sleep.
-
-"So you didn't destroy her?"
-"Right."
-I didn't deny it.
-
-"Then... where is she?"
-"Still in the old place," I explained to Owl. "She was sleeping too soundly, and I couldn't drag her. To be honest, I didn't expect the 'Charm' effect to be so strong. I'll tell you secretly, don't tell the others—I slapped her twice, quite hard, and even that didn't wake her up."
-
-After hearing this, Owl shrugged helplessly and stated: "Well, as long as she's alive."
-
-I didn't know which of us two he was talking about.
-
-Through this battle, the mediation organization successively lost four major generals: Junomon, Ceresmon, Apollomon, and Dianamon. Guild Master Wind of **Wind-Chasing Brigade** and Wing of **Rainbow Starlight** also died honorably. Now **Wind-Chasing Brigade** is taken over by the surviving Plume. Xiao Yong barely defeated the holding-back Master Changsun, and the battle between Guild Master Ultra and Marsmon also ended in a draw, so it can be considered they didn't hold back our "Complete Victory Team."
-
-By contrast, the situation on the **Free Birds** side was a bit tragic. Crane was beaten to pieces, her armor and feathers damaged to various degrees, requiring a long time to recover. Dove and Falcon, naturally, didn't need much explanation; both were defeated by their respective opponents and lost convincingly.
-
-"Truly? I don't believe it."
-"Believe it or not, it's a fact." Owl told me. "They are all our own people. Usually leave them some face, and don't mention this again in front of them—people need space to grow."
-
-I strongly agreed with his last sentence; I think so too.
-
-"So, this matter is just over like this?"
-"Of course not." Owl was very sure about this. "It can only be considered a comma at most; there are still too many things waiting for us to discover and understand. No matter who the ultimate beneficiary is, we at least need to know the reason why they did it."
-
-"Is pure revenge a possibility?"
-"Until the truth is clear, everything is possible."
-
-Thus, this mission drew to a rounded comma. From everyone's contemplative posture, it was as if there was still something on the table that we had ignored, or rather, had never noticed, thinking its existence was reasonable.
-
-"Um, let me ask a meddling question." One of the responsibilities of the [Support Position] is to remind. "Does anyone know anything about the newcomer who came to us with the request at the very beginning?"
-
-Everyone present shook their heads—no one knew that newcomer. At the same time, Owl stood up, slapped his forehead, and hit upon a sudden realization: "Right, we haven't determined his identity yet... we all fell into a misunderstanding before, thinking the culprit was Plutomon, but what if he wasn't?"
-
-"Besides, we still don't know what his Digimon image is," I continued to add from the side.
-
-As a representative of **Beast King's Fangs**, Xiao Yong, after hearing our introduction, roughly had an idea in his mind and could basically determine the identity of that candidate. He then introduced him to us: "That guy is indeed a newcomer, named Solomon. His digital image is a **Psychemon**. He's one of the newcomers who is relatively close to the Master, often running errands for him. He has good popularity in the guild, and we all like him."
 
 "That explains it," Owl said, snapping his fingers to indicate. "A subspecies of Gabumon; there's no part of his body that needs metal filling except for the horn on his head. Let's make a hypothesis: supposing he's just an ordinary newcomer with decent popularity in the guild. Even if his horn broke one day, he wouldn't immediately rush to find us and entrust us to take him to the Hephaestus Workshop to find Master Changsun. He could ask anyone in the guild and know where it is..."
 
@@ -109,13 +49,13 @@ Boss Adam suggested that if we still wanted to know the truth behind the matter,
 
 Agnes had some concerns about this: "I've heard people talk about that guy... his temper isn't too great, and his face looks quite scary. Going to him and beating around the bush might not be that easy."
 
-"No need to be afraid." Boss Adam gave us more advice. "His weakness is known by all of us Guild Masters. Back in the day, Master Muca taught every junior who offended him upon their first meeting by always pulling his punches. However, X was an exception. He was dealt with so miserably that it left him with deep psychological trauma, which he couldn't forget for years. So, if you feel his attitude towards you isn't particularly friendly during your interaction with him, you can try using the 'Ba-ye' name to intimidate him."
+"No need to be afraid." Boss Adam gave us more advice. "His weakness is known by all of us Guild Masters. Back in the day, Master Muca taught every junior who offended him upon their first meeting with restraint, only stopping when necessary. However, X was an exception. He was dealt with so miserably that it left him with deep psychological trauma, which he couldn't forget for years. So, if you feel his attitude towards you isn't particularly friendly during your interaction with him, you can try using the 'Ba-ye' name to intimidate him."
 
 "But Brother, didn't Master Muca pass away long ago?"
 
 "Yes, but that guy still feels that 'Ba-ye' lives on in his heart, always ready to whip him."
 
-After everyone's deliberation, we unanimously decided that the follow-up part of this matter would continue to be handed over to Miss Agnes, who volunteered, along with the **Nordic Five Raiders** she led, for an in-depth investigation. Miss Jade originally wanted to join in too. First, she was stopped by her older brother, Boss Adam. Second, she also had to busy herself with the affairs of the **UN P5 Raiders**. According to her description, among the five of them, she was the only one who had any free time.
+After everyone's deliberation, we unanimously decided that the follow-up part of this matter would continue to be handed over to Miss Agnes, who volunteered, along with the **Nordic 5** she led, for an in-depth investigation. Miss Jade originally wanted to join in too. First, she was stopped by her older brother, Boss Adam. Second, she also had to busy herself with the affairs of the **UN P5 Raiders**. According to her description, among the five of them, she was the only one who had any free time.
 
 "What about the other four?"
 

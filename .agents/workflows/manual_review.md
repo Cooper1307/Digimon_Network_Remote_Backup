@@ -9,6 +9,7 @@ Use this workflow to review a chapter that was translated manually by the user, 
 ## Steps
 
 // turbo-all
+
 1. **Source Verification** (Skill: `source_verification`)
    - Compare the user's English translation against the Chinese source in `1_Source_Material/`.
    - Verify translation completeness (no omissions, no unsupported additions).
@@ -31,4 +32,4 @@ Use this workflow to review a chapter that was translated manually by the user, 
    - Confirm proper saving to `English_Versions/[Current_Phase]/` and `2_Draft_Components/MTPE/[Current_Phase]/`.
 
 5. **Log Entry**
-   - Record the review session in `AIE_Project_Edit_Log_v2.0.md`, including the final LQA score.
+   - Record the review session in `AIE_Project_Edit_Log_v4.0.md`, including the final LQA score.

@@ -18,18 +18,19 @@ Use this workflow when LQA issues are discovered after a chapter has been sealed
 
 // turbo
 3. **Apply Fixes**
-   - Address issues in priority order: Critical → Major → Minor.
-   - For terminology fixes: update all instances across the file consistently.
-   - For omission fixes: restore content from `1_Source_Material/` source.
-   - For tone fixes: rewrite affected passages following "Mature/Dark Fantasy" tone.
 
-4. **Re-Score**
+- Address issues in priority order: Critical → Major → Minor.
+- For terminology fixes: update all instances across the file consistently.
+- For omission fixes: restore content from `1_Source_Material/` source.
+- For tone fixes: rewrite affected passages following "Mature/Dark Fantasy" tone.
+
+1. **Re-Score**
    - Run the `lqa_review` skill on the modified file.
    - Confirm score ≥ 95/100.
 
-5. **Sync Dual-Save**
+2. **Sync Dual-Save**
    - Ensure both `English_Versions/[Current_Phase]/` and `2_Draft_Components/MTPE/[Current_Phase]/` are updated.
 
-6. **Log Entry**
-   - Record the fix session in `AIE_Project_Edit_Log_v2.0.md` with:
+3. **Log Entry**
+   - Record the fix session in `AIE_Project_Edit_Log_v4.0.md` with:
      - Issue description, fix applied, before/after score.

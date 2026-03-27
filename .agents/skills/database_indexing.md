@@ -52,4 +52,4 @@ For each new entity, fill in the template:
 
 ### Step 5: Log
 
-1. Record the addition in `AIE_Project_Edit_Log_v2.0.md`.
+1. Record the addition in `AIE_Project_Edit_Log_v4.0.md`.

@@ -65,4 +65,4 @@ Generate a verification report:
 1. For source typos: note them in the report but translate the intended meaning.
 2. For omissions: restore missing content in the translation.
 3. For terminology issues: escalate via `glossary_update` workflow if needed.
-4. Record in `AIE_Project_Edit_Log_v2.0.md`.
+4. Record in `AIE_Project_Edit_Log_v4.0.md`.

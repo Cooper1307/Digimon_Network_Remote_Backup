@@ -74,12 +74,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Source_Material/原文拆分版本/1.目录.md",
+                "file": "2_Draft_Components/English_Versions/Phase5/Ch14_v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.目录"
+              "title": "Ch14_v1.0"
             }
           }
         ]
@@ -246,6 +246,9 @@
   },
   "active": "3a232363214b78fc",
   "lastOpenFiles": [
+    "2_Draft_Components/English_Versions/Phase5/Gaiden4_v1.0.md",
+    "归档/Phase5/Ch13_v1.0.md",
+    "归档/Phase5/Ch12_v1.0.md",
     "temp.txt",
     "fix_gaiden3.py",
     "归档/原文拆分版本/17.第十二章 鏖战.md",
@@ -253,7 +256,6 @@
     "AIE_Project_Edit_Log_v4.0.md",
     "1_Source_Material/原文拆分版本/13.外传三 深险之局.md",
     "2_Draft_Components/English_Versions/Phase5/Ch11_v1.0.md",
-    "归档/Phase5/Ch12_v1.0.md",
     "归档/Phase5/Ch11_v1.0.md",
     "归档/Phase5/Ch10_v1.0.md",
     "归档/Phase5/Ch9_v1.0.md",
@@ -261,13 +263,11 @@
     "归档/Phase5/Gaiden3_v1.0.md",
     "归档/Phase5/Ch15_v1.0.md",
     "归档/Phase5/Ch14_v1.0.md",
-    "归档/Phase5/Ch13_v1.0.md",
     "归档/Phase5",
     "2_Draft_Components/English_Versions/Phase5/Ch10_v1.0.md",
     "2_Draft_Components/English_Versions/Phase5/Ch12_v1.0.md",
     "2_Draft_Components/English_Versions/Phase5/Ch13_v1.0.md",
     "2_Draft_Components/English_Versions/Phase5/Gaiden3_v1.0.md",
-    "2_Draft_Components/English_Versions/Phase5/Gaiden4_v1.0.md",
     "2_Draft_Components/English_Versions/Phase5/Ch14_v1.0.md",
     "归档/原文拆分版本/9.第六章 会长的请求.md",
     "归档/原文拆分版本/8.第五章 惊天动地的实战对决.md",
@@ -280,7 +280,6 @@
     "1_Source_Material/原文拆分版本/7.第五章",
     "English_Versions/Phase2",
     "归档/English_Versions",
-    "7_Archives/WPS查看版与最终提交版",
-    "7_Archives/联网核查"
+    "7_Archives/WPS查看版与最终提交版"
   ]
 }

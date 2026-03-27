@@ -21,7 +21,7 @@
   - `English_Versions/` — Clean, client-ready English exports (root-level canonical directory).
 - **Omission Audit:** Mandatory check for missing information after each major task.
 - **Consolidation Cycle:** Every chapter concludes with a "Milestone Export"—a single, cohesive file combining all parts after final LQA.
-- **Edit Log Accuracy:** All changes must be recorded in `AIE_Project_Edit_Log_v3.0.md` with accurate timestamps. Historical logs (`v1.0`, `v2.0`) are SEALED and read-only.
+- **Edit Log Accuracy:** All changes must be recorded in `AIE_Project_Edit_Log_v4.0.md` with accurate timestamps. Historical logs (`v1.0`, `v2.0`) are SEALED and read-only.
 
 ## 4. Module Requirements (Refined)
 
@@ -54,8 +54,8 @@
   - `1_Source_Material/` — Chinese source texts.
   - `2_Draft_Components/MTPE/` — Deep analysis bibles (by Phase).
   - `English_Versions/` — Final clean exports (by Phase, root-level canonical directory).
-  - `AIE_Project_Edit_Log_v2.0.md` — Maintenance phase log (SEALED).
-  - `AIE_Project_Edit_Log_v3.0.md` — Phase 5 & Global Refinement log (ACTIVE).
+  - `AIE_Project_Edit_Log_v4.0.md` — Maintenance phase log (SEALED).
+  - `AIE_Project_Edit_Log_v4.0.md` — Phase 5 & Global Refinement log (ACTIVE).
   - `归档/` — Archived materials.
 
 ## 7. Migration & Handover Protocol
@@ -63,7 +63,7 @@
 When starting a new translation phase or conversation:
 
 1. **Context Load:** Read `system_context.md` (this file, v4.0).
-2. **Status Sync:** Review `AIE_Project_Edit_Log_v3.0.md` for latest progress.
+2. **Status Sync:** Review `AIE_Project_Edit_Log_v4.0.md` for latest progress.
 3. **Lore Load:** Load relevant entities from `4_System_Center/Database/`.
 4. **Glossary Lock:** Load `4_System_Center/Glossary_v1.0.md` to inherit all locked terms.
 5. **Resumption:** Start the new chapter/task with a fresh Lore-Scan, inheriting all established standards.

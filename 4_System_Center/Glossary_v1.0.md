@@ -285,3 +285,48 @@ This document standardizes the terminology for the **Digimon Network** series, f
 | **脑裂** | Brain Rupture | **Brain Rupture** | Ebemon's skill. |
 | **行星毁灭者** | Planet Destroyer | **Planet Destroyer** | Ebemon's skill. |
 | **铁拳制裁** | Iron Fist Punishment | **Iron Fist Punishment** | Gankoomon's skill. Project standard. |
+
+## 9. Ch15 New Terms (2026-03-24)
+
+### Gaiden/Ch15 Characters & Entities
+
+| Source (CN) | English | Type | Notes |
+| :--- | :--- | :--- | :--- |
+| **埃克斯(X)** | **X** | Character | The Nether Club's omniscient prodigy. |
+| **联合国五常攻略组** | **UN P5 Raiders** | Organization | Jade's organization. |
+| **龙** | **Dragon** | Character | Member of UN P5 Raiders. |
+| **零** | **Zero** | Character | Member of UN P5 Raiders. |
+| **拉娜** | **Lana** | Character | Member of UN P5 Raiders. |
+| **曼特** | **Mante** | Character | Member of UN P5 Raiders. |
+| **波塞冬** | **Poseidon** | Digimon | Lana's partner. |
+| **所罗门** | **Solomon** | Character | Novice member of Beast King's Fangs. |
+| **彩虹星光** | **Rainbow Starlight** | Guild | Wing's guild. |
+| **北欧五国攻略组** | **Nordic Five Raiders** | Organization | Agnes's organization. |
+
+### Ch15 Digimon
+
+| Source (CN) | Official | Project Standard | Notes |
+| :--- | :--- | :--- | :--- |
+| **迷幻兽** | Psychemon | **Psychemon** | Official. Subspecies of Gabumon. |
+
+## 9. Ch14 & Gaiden 4 New Terms (2026-03-24)
+
+### Ch14 & Gaiden 4 Digimon
+
+| Source (CN) | Official | Project Standard | Notes |
+| :--- | :--- | :--- | :--- |
+| **普路托兽** | Plutomon | **Plutomon** | Official. Villain of Gaiden 4. |
+| **帝皇龙甲兽：龙形态** | Imperialdramon: Dragon Mode | **Imperialdramon: Dragon Mode** | Official. Freyr's form. |
+| **帝皇龙甲兽：战士形态** | Imperialdramon: Fighter Mode | **Imperialdramon: Fighter Mode** | Official. Freyr's evolved form. |
+| **朱庇特兽：愤怒形态** | Jupitermon: Wrath Mode | **Jupitermon: Wrath Mode** | Official. Vulture's evolved form. |
+
+### Ch14 & Gaiden 4 Skills & Gear
+
+| Source (CN) | Official | Project Decision | Notes |
+| :--- | :--- | :--- | :--- |
+| **千兆死亡** | Giga Death | **Giga Death** | Imperialdramon FM's ultimate attack. |
+| **正电子激光** | Positron Laser | **Positron Laser** | Imperialdramon's attack. |
+| **超级正电子激光** | Super Positron Laser | **Super Positron Laser** | Imperialdramon FM's attack. |
+| **光彩之刃** | Splendor Blade | **Splendor Blade** | Imperialdramon's attack. |
+| **混沌爆弹** | Chaos Bombs | **Chaos Bombs** | Plutomon's attack. |
+

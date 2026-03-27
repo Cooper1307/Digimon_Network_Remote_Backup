@@ -59,7 +59,7 @@ Classify each issue by severity:
 1. Generate an LQA report summarizing findings and score.
 2. If score ≥ 95: Approve for final export.
 3. If score < 95: List required fixes and iterate.
-4. Record the review in `AIE_Project_Edit_Log_v2.0.md`.
+4. Record the review in `AIE_Project_Edit_Log_v4.0.md`.
 
 ### Step 6: Delta Review Mode
 

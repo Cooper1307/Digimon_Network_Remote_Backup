@@ -51,7 +51,7 @@ This skill defines how to perform a comprehensive terminology audit for any chap
 
 1. Add verified new terms to the Glossary with:
    - Chinese source | English translation | Source/authority | Date added
-2. Record any glossary changes in `AIE_Project_Edit_Log_v2.0.md`.
+2. Record any glossary changes in `AIE_Project_Edit_Log_v4.0.md`.
 3. Update `4_System_Center/Database/` if new entities are discovered.
 
 ### Step 6: Batch Audit Mode (Multi-Chapter)

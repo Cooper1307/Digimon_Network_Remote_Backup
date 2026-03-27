@@ -22,7 +22,7 @@ Before proceeding, verify all prerequisites:
 - [ ] `4_System_Center/Glossary_v1.0.md` is loaded.
 - [ ] Previous chapter/section is SEALED (no open dependencies).
 - [ ] Relevant `4_System_Center/Database/` files are loaded.
-- [ ] `AIE_Project_Edit_Log_v2.0.md` has been reviewed for latest status.
+- [ ] `AIE_Project_Edit_Log_v4.0.md` has been reviewed for latest status.
 
 If any item fails, resolve it before continuing.
 
@@ -63,5 +63,5 @@ If any item fails, resolve it before continuing.
 ### Step 6: Final Export
 
 1. Generate the clean English export to `2_Draft_Components/English_Versions/`.
-2. Update `AIE_Project_Edit_Log_v1.0.md` with second-accurate timestamps.
+2. Update `AIE_Project_Edit_Log_v4.0.md` with second-accurate timestamps.
 3. If this is the last part of a chapter, perform a **Milestone Export** (consolidated file).

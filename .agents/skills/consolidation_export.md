@@ -50,4 +50,4 @@ This skill defines the procedure for merging individual chapter exports into a s
 ### Step 6: Export & Log
 
 1. Save the consolidated file.
-2. Record in `AIE_Project_Edit_Log_v2.0.md` with SEAL marker.
+2. Record in `AIE_Project_Edit_Log_v4.0.md` with SEAL marker.
